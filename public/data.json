@@ -1,0 +1,74 @@
+[
+    {
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "desc": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "stars": "2,638 stars today"
+    },
+    {
+      "name": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "desc": "Skills Catalog for Codex",
+      "stars": "746 stars today"
+    },
+    {
+      "name": "disler/claude-code-hooks-mastery",
+      "url": "https://github.com/disler/claude-code-hooks-mastery",
+      "desc": "Master Claude Code Hooks",
+      "stars": "47 stars today"
+    },
+    {
+      "name": "OpenBMB/ChatDev",
+      "url": "https://github.com/OpenBMB/ChatDev",
+      "desc": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+      "stars": "227 stars today"
+    },
+    {
+      "name": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "desc": "Anki is a smart spaced repetition flashcard program",
+      "stars": "28 stars today"
+    },
+    {
+      "name": "open-telemetry/opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "desc": "Contrib repository for the OpenTelemetry Collector",
+      "stars": "3 stars today"
+    },
+    {
+      "name": "Canner/WrenAI",
+      "url": "https://github.com/Canner/WrenAI",
+      "desc": "⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.",
+      "stars": "89 stars today"
+    },
+    {
+      "name": "pedramamini/Maestro",
+      "url": "https://github.com/pedramamini/Maestro",
+      "desc": "Agent Orchestration Command Center",
+      "stars": "187 stars today"
+    },
+    {
+      "name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "stars": "35 stars today"
+    },
+    {
+      "name": "microsoft/qlib",
+      "url": "https://github.com/microsoft/qlib",
+      "desc": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.",
+      "stars": "83 stars today"
+    },
+    {
+      "name": "LadybirdBrowser/ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "desc": "Truly independent web browser",
+      "stars": "68 stars today"
+    },
+    {
+      "name": "likec4/likec4",
+      "url": "https://github.com/likec4/likec4",
+      "desc": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+      "stars": "29 stars today"
+    }
+]

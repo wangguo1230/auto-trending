@@ -1,68 +1,64 @@
 [
   {
+    "name": "KeygraphHQ/shannon",
+    "url": "https://github.com/KeygraphHQ/shannon",
+    "desc": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+    "lang": "TypeScript",
+    "stars": "9795 stars",
+    "topics": [
+      "penetration-testing",
+      "pentesting",
+      "security-audit",
+      "security-automation",
+      "security-tools"
+    ]
+  },
+  {
     "name": "openai/skills",
     "url": "https://github.com/openai/skills",
     "desc": "Skills Catalog for Codex",
     "lang": "Python",
-    "stars": "4833 stars",
+    "stars": "5931 stars",
     "topics": []
   },
   {
-    "name": "bytedance/UI-TARS-desktop",
-    "url": "https://github.com/bytedance/UI-TARS-desktop",
-    "desc": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-    "lang": "TypeScript",
-    "stars": "27098 stars",
+    "name": "microsoft/litebox",
+    "url": "https://github.com/microsoft/litebox",
+    "desc": "A security-focused library OS supporting kernel- and user-mode execution",
+    "lang": "Rust",
+    "stars": "1115 stars",
+    "topics": []
+  },
+  {
+    "name": "p-e-w/heretic",
+    "url": "https://github.com/p-e-w/heretic",
+    "desc": "Fully automatic censorship removal for language models",
+    "lang": "Python",
+    "stars": "4711 stars",
     "topics": [
-      "agent",
-      "agent-tars",
-      "browser-use",
-      "computer-use",
-      "cowork",
-      "gui-agent",
-      "gui-operator",
-      "mcp",
-      "mcp-server",
-      "multimodal",
-      "tars",
-      "ui-tars",
-      "vision",
-      "vlm"
+      "abliteration",
+      "llm",
+      "transformer"
     ]
   },
   {
-    "name": "nvm-sh/nvm",
-    "url": "https://github.com/nvm-sh/nvm",
-    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
     "lang": "Shell",
-    "stars": "91496 stars",
-    "topics": [
-      "bash",
-      "install",
-      "lts",
-      "node",
-      "node-js",
-      "nodejs",
-      "nvm",
-      "nvmrc",
-      "posix",
-      "posix-compliant",
-      "shell",
-      "version-manager",
-      "zsh"
-    ]
+    "stars": "46915 stars",
+    "topics": []
   },
   {
-    "name": "likec4/likec4",
-    "url": "https://github.com/likec4/likec4",
-    "desc": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-    "lang": "TypeScript",
-    "stars": "1798 stars",
+    "name": "OpenBMB/MiniCPM-o",
+    "url": "https://github.com/OpenBMB/MiniCPM-o",
+    "desc": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
+    "lang": "Python",
+    "stars": "23147 stars",
     "topics": [
-      "architecture",
-      "architecture-as-code",
-      "c4",
-      "diagrams"
+      "minicpm",
+      "minicpm-v",
+      "multi-modal"
     ]
   },
   {
@@ -70,7 +66,7 @@
     "url": "https://github.com/aquasecurity/trivy",
     "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
     "lang": "Go",
-    "stars": "31533 stars",
+    "stars": "31676 stars",
     "topics": [
       "containers",
       "devsecops",
@@ -90,37 +86,95 @@
     ]
   },
   {
-    "name": "ZeroTworu/anet",
-    "url": "https://github.com/ZeroTworu/anet",
-    "desc": "Simple Rust VPN Client / Server",
-    "lang": "Rust",
-    "stars": "522 stars",
+    "name": "wavetermdev/waveterm",
+    "url": "https://github.com/wavetermdev/waveterm",
+    "desc": "An open-source, cross-platform terminal for seamless workflows",
+    "lang": "Go",
+    "stars": "17132 stars",
     "topics": [
-      "rust",
-      "vpn"
+      "command-line",
+      "developer-tools",
+      "linux",
+      "macos",
+      "productivity",
+      "terminal",
+      "terminal-emulators",
+      "windows"
     ]
   },
   {
-    "name": "Flowseal/zapret-discord-youtube",
-    "url": "https://github.com/Flowseal/zapret-discord-youtube",
-    "desc": "<div align=\"center\"> Альтернатива https://github.com/bol-van/zapret-win-bundle",
-    "lang": "Batchfile",
-    "stars": "21967 stars",
-    "topics": []
+    "name": "viarotel-org/escrcpy",
+    "url": "https://github.com/viarotel-org/escrcpy",
+    "desc": "📱 Display and control your Android device graphically with scrcpy.",
+    "lang": "JavaScript",
+    "stars": "7822 stars",
+    "topics": [
+      "android",
+      "genymobile",
+      "gnirehtet",
+      "gui",
+      "hacktoberfest",
+      "hacktoberfest2025",
+      "hacktoberfest2026",
+      "linux",
+      "macos",
+      "mirroring",
+      "recording",
+      "scrcpy",
+      "scrcpy-engine",
+      "scrcpy-gui",
+      "screensharing",
+      "screenshots",
+      "windows"
+    ]
   },
   {
-    "name": "DataExpert-io/data-engineer-handbook",
-    "url": "https://github.com/DataExpert-io/data-engineer-handbook",
-    "desc": "This is a repo with links to everything you'd ever want to learn about data engineering",
-    "lang": "Jupyter Notebook",
-    "stars": "39852 stars",
+    "name": "ComposioHQ/awesome-claude-skills",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "lang": "Python",
+    "stars": "31946 stars",
     "topics": [
-      "apachespark",
-      "awesome",
-      "bigdata",
-      "data",
-      "dataengineering",
-      "sql"
+      "agent-skills",
+      "ai-agents",
+      "antigravity",
+      "automation",
+      "claude",
+      "claude-code",
+      "codex",
+      "composio",
+      "cursor",
+      "gemini-cli",
+      "mcp",
+      "rube",
+      "saas",
+      "skill",
+      "workflow-automation"
+    ]
+  },
+  {
+    "name": "likec4/likec4",
+    "url": "https://github.com/likec4/likec4",
+    "desc": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+    "lang": "TypeScript",
+    "stars": "2054 stars",
+    "topics": [
+      "architecture",
+      "architecture-as-code",
+      "c4",
+      "diagrams"
+    ]
+  },
+  {
+    "name": "gitbutlerapp/gitbutler",
+    "url": "https://github.com/gitbutlerapp/gitbutler",
+    "desc": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+    "lang": "Rust",
+    "stars": "17957 stars",
+    "topics": [
+      "git",
+      "github",
+      "tauri"
     ]
   }
 ]

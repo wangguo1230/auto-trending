@@ -4,7 +4,7 @@
     "url": "https://github.com/KeygraphHQ/shannon",
     "desc": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
     "lang": "TypeScript",
-    "stars": "9795 stars",
+    "stars": "13011 stars",
     "topics": [
       "penetration-testing",
       "pentesting",
@@ -14,11 +14,27 @@
     ]
   },
   {
+    "name": "pydantic/monty",
+    "url": "https://github.com/pydantic/monty",
+    "desc": "A minimal, secure Python interpreter written in Rust for use by AI",
+    "lang": "Rust",
+    "stars": "2685 stars",
+    "topics": []
+  },
+  {
     "name": "openai/skills",
     "url": "https://github.com/openai/skills",
     "desc": "Skills Catalog for Codex",
     "lang": "Python",
-    "stars": "5931 stars",
+    "stars": "6940 stars",
+    "topics": []
+  },
+  {
+    "name": "virattt/dexter",
+    "url": "https://github.com/virattt/dexter",
+    "desc": "An autonomous agent for deep financial research",
+    "lang": "TypeScript",
+    "stars": "12593 stars",
     "topics": []
   },
   {
@@ -26,19 +42,27 @@
     "url": "https://github.com/microsoft/litebox",
     "desc": "A security-focused library OS supporting kernel- and user-mode execution",
     "lang": "Rust",
-    "stars": "1115 stars",
+    "stars": "1389 stars",
     "topics": []
   },
   {
-    "name": "p-e-w/heretic",
-    "url": "https://github.com/p-e-w/heretic",
-    "desc": "Fully automatic censorship removal for language models",
+    "name": "google/langextract",
+    "url": "https://github.com/google/langextract",
+    "desc": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
     "lang": "Python",
-    "stars": "4711 stars",
+    "stars": "24730 stars",
     "topics": [
-      "abliteration",
+      "gemini",
+      "gemini-ai",
+      "gemini-api",
+      "gemini-flash",
+      "gemini-pro",
+      "information-extration",
+      "large-language-models",
       "llm",
-      "transformer"
+      "nlp",
+      "python",
+      "structured-data"
     ]
   },
   {
@@ -46,7 +70,7 @@
     "url": "https://github.com/obra/superpowers",
     "desc": "An agentic skills framework & software development methodology that works.",
     "lang": "Shell",
-    "stars": "46915 stars",
+    "stars": "47671 stars",
     "topics": []
   },
   {
@@ -54,7 +78,7 @@
     "url": "https://github.com/OpenBMB/MiniCPM-o",
     "desc": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
     "lang": "Python",
-    "stars": "23147 stars",
+    "stars": "23382 stars",
     "topics": [
       "minicpm",
       "minicpm-v",
@@ -62,102 +86,11 @@
     ]
   },
   {
-    "name": "aquasecurity/trivy",
-    "url": "https://github.com/aquasecurity/trivy",
-    "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-    "lang": "Go",
-    "stars": "31676 stars",
-    "topics": [
-      "containers",
-      "devsecops",
-      "docker",
-      "go",
-      "golang",
-      "hacktoberfest",
-      "iac",
-      "infrastructure-as-code",
-      "kubernetes",
-      "misconfiguration",
-      "security",
-      "security-tools",
-      "vulnerability",
-      "vulnerability-detection",
-      "vulnerability-scanners"
-    ]
-  },
-  {
-    "name": "wavetermdev/waveterm",
-    "url": "https://github.com/wavetermdev/waveterm",
-    "desc": "An open-source, cross-platform terminal for seamless workflows",
-    "lang": "Go",
-    "stars": "17132 stars",
-    "topics": [
-      "command-line",
-      "developer-tools",
-      "linux",
-      "macos",
-      "productivity",
-      "terminal",
-      "terminal-emulators",
-      "windows"
-    ]
-  },
-  {
-    "name": "viarotel-org/escrcpy",
-    "url": "https://github.com/viarotel-org/escrcpy",
-    "desc": "📱 Display and control your Android device graphically with scrcpy.",
-    "lang": "JavaScript",
-    "stars": "7822 stars",
-    "topics": [
-      "android",
-      "genymobile",
-      "gnirehtet",
-      "gui",
-      "hacktoberfest",
-      "hacktoberfest2025",
-      "hacktoberfest2026",
-      "linux",
-      "macos",
-      "mirroring",
-      "recording",
-      "scrcpy",
-      "scrcpy-engine",
-      "scrcpy-gui",
-      "screensharing",
-      "screenshots",
-      "windows"
-    ]
-  },
-  {
-    "name": "ComposioHQ/awesome-claude-skills",
-    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-    "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-    "lang": "Python",
-    "stars": "31946 stars",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "antigravity",
-      "automation",
-      "claude",
-      "claude-code",
-      "codex",
-      "composio",
-      "cursor",
-      "gemini-cli",
-      "mcp",
-      "rube",
-      "saas",
-      "skill",
-      "workflow-automation"
-    ]
-  },
-  {
     "name": "likec4/likec4",
     "url": "https://github.com/likec4/likec4",
     "desc": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
     "lang": "TypeScript",
-    "stars": "2054 stars",
+    "stars": "2332 stars",
     "topics": [
       "architecture",
       "architecture-as-code",
@@ -166,11 +99,53 @@
     ]
   },
   {
+    "name": "iOfficeAI/AionUi",
+    "url": "https://github.com/iOfficeAI/AionUi",
+    "desc": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
+    "lang": "TypeScript",
+    "stars": "13137 stars",
+    "topics": [
+      "acp",
+      "ai",
+      "ai-agent",
+      "chat",
+      "chatbot",
+      "claude-code",
+      "clawd",
+      "clawdbot",
+      "codex",
+      "cowork",
+      "gemini",
+      "gemini-cli",
+      "llm",
+      "nano-banana",
+      "office",
+      "openclaw",
+      "opencode",
+      "skills",
+      "webui"
+    ]
+  },
+  {
+    "name": "home-assistant/addons",
+    "url": "https://github.com/home-assistant/addons",
+    "desc": ":heavy_plus_sign: Docker add-ons for Home Assistant",
+    "lang": "Shell",
+    "stars": "1977 stars",
+    "topics": [
+      "automation",
+      "docker",
+      "hacktoberfest",
+      "home",
+      "iot"
+    ]
+  },
+  {
     "name": "gitbutlerapp/gitbutler",
     "url": "https://github.com/gitbutlerapp/gitbutler",
     "desc": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
     "lang": "Rust",
-    "stars": "17957 stars",
+    "stars": "18315 stars",
     "topics": [
       "git",
       "github",

@@ -4,7 +4,7 @@
     "url": "https://github.com/KeygraphHQ/shannon",
     "desc": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
     "lang": "TypeScript",
-    "stars": "13011 stars",
+    "stars": "17134 stars",
     "topics": [
       "penetration-testing",
       "pentesting",
@@ -14,96 +14,35 @@
     ]
   },
   {
-    "name": "pydantic/monty",
-    "url": "https://github.com/pydantic/monty",
-    "desc": "A minimal, secure Python interpreter written in Rust for use by AI",
-    "lang": "Rust",
-    "stars": "2685 stars",
-    "topics": []
-  },
-  {
-    "name": "openai/skills",
-    "url": "https://github.com/openai/skills",
-    "desc": "Skills Catalog for Codex",
-    "lang": "Python",
-    "stars": "6940 stars",
-    "topics": []
-  },
-  {
     "name": "virattt/dexter",
     "url": "https://github.com/virattt/dexter",
     "desc": "An autonomous agent for deep financial research",
     "lang": "TypeScript",
-    "stars": "12593 stars",
+    "stars": "13510 stars",
     "topics": []
   },
   {
-    "name": "microsoft/litebox",
-    "url": "https://github.com/microsoft/litebox",
-    "desc": "A security-focused library OS supporting kernel- and user-mode execution",
+    "name": "pydantic/monty",
+    "url": "https://github.com/pydantic/monty",
+    "desc": "A minimal, secure Python interpreter written in Rust for use by AI",
     "lang": "Rust",
-    "stars": "1389 stars",
+    "stars": "3904 stars",
     "topics": []
   },
   {
-    "name": "google/langextract",
-    "url": "https://github.com/google/langextract",
-    "desc": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+    "name": "hsliuping/TradingAgents-CN",
+    "url": "https://github.com/hsliuping/TradingAgents-CN",
+    "desc": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
     "lang": "Python",
-    "stars": "24730 stars",
-    "topics": [
-      "gemini",
-      "gemini-ai",
-      "gemini-api",
-      "gemini-flash",
-      "gemini-pro",
-      "information-extration",
-      "large-language-models",
-      "llm",
-      "nlp",
-      "python",
-      "structured-data"
-    ]
-  },
-  {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "47671 stars",
+    "stars": "16174 stars",
     "topics": []
-  },
-  {
-    "name": "OpenBMB/MiniCPM-o",
-    "url": "https://github.com/OpenBMB/MiniCPM-o",
-    "desc": "A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone",
-    "lang": "Python",
-    "stars": "23382 stars",
-    "topics": [
-      "minicpm",
-      "minicpm-v",
-      "multi-modal"
-    ]
-  },
-  {
-    "name": "likec4/likec4",
-    "url": "https://github.com/likec4/likec4",
-    "desc": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-    "lang": "TypeScript",
-    "stars": "2332 stars",
-    "topics": [
-      "architecture",
-      "architecture-as-code",
-      "c4",
-      "diagrams"
-    ]
   },
   {
     "name": "iOfficeAI/AionUi",
     "url": "https://github.com/iOfficeAI/AionUi",
     "desc": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
     "lang": "TypeScript",
-    "stars": "13137 stars",
+    "stars": "13775 stars",
     "topics": [
       "acp",
       "ai",
@@ -127,17 +66,55 @@
     ]
   },
   {
-    "name": "home-assistant/addons",
-    "url": "https://github.com/home-assistant/addons",
-    "desc": ":heavy_plus_sign: Docker add-ons for Home Assistant",
-    "lang": "Shell",
-    "stars": "1977 stars",
+    "name": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python",
+    "stars": "397148 stars",
     "topics": [
-      "automation",
-      "docker",
-      "hacktoberfest",
-      "home",
-      "iot"
+      "api",
+      "apis",
+      "dataset",
+      "development",
+      "free",
+      "list",
+      "lists",
+      "open-source",
+      "public",
+      "public-api",
+      "public-apis",
+      "resources",
+      "software"
+    ]
+  },
+  {
+    "name": "github/gh-aw",
+    "url": "https://github.com/github/gh-aw",
+    "desc": "GitHub Agentic Workflows",
+    "lang": "Go",
+    "stars": "879 stars",
+    "topics": [
+      "actions",
+      "cai",
+      "ci",
+      "claude-code",
+      "codex",
+      "copilot",
+      "gh-extension",
+      "github-actions"
+    ]
+  },
+  {
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "desc": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "lang": "Python",
+    "stars": "93122 stars",
+    "topics": [
+      "agents",
+      "llms",
+      "python",
+      "rag"
     ]
   },
   {
@@ -145,11 +122,60 @@
     "url": "https://github.com/gitbutlerapp/gitbutler",
     "desc": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
     "lang": "Rust",
-    "stars": "18315 stars",
+    "stars": "18640 stars",
     "topics": [
       "git",
       "github",
       "tauri"
+    ]
+  },
+  {
+    "name": "microsoft/litebox",
+    "url": "https://github.com/microsoft/litebox",
+    "desc": "A security-focused library OS supporting kernel- and user-mode execution",
+    "lang": "Rust",
+    "stars": "1707 stars",
+    "topics": []
+  },
+  {
+    "name": "openai/skills",
+    "url": "https://github.com/openai/skills",
+    "desc": "Skills Catalog for Codex",
+    "lang": "Python",
+    "stars": "7501 stars",
+    "topics": []
+  },
+  {
+    "name": "EveryInc/compound-engineering-plugin",
+    "url": "https://github.com/EveryInc/compound-engineering-plugin",
+    "desc": "Official Claude Code compound engineering plugin",
+    "lang": "TypeScript",
+    "stars": "7847 stars",
+    "topics": []
+  },
+  {
+    "name": "DrewThomasson/ebook2audiobook",
+    "url": "https://github.com/DrewThomasson/ebook2audiobook",
+    "desc": "Generate audiobooks from e-books, voice cloning & 1158+ languages!",
+    "lang": "Python",
+    "stars": "17813 stars",
+    "topics": [
+      "audiobook",
+      "audiobooks",
+      "chinese",
+      "colab-notebook",
+      "docker",
+      "english",
+      "epub",
+      "gradio",
+      "kaggle",
+      "linux",
+      "mac",
+      "multilingual",
+      "tts",
+      "voice-cloning",
+      "windows",
+      "xtts"
     ]
   }
 ]

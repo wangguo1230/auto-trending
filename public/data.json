@@ -4,7 +4,7 @@
     "url": "https://github.com/google/langextract",
     "desc": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
     "lang": "Python",
-    "stars": "28289 stars",
+    "stars": "30415 stars",
     "topics": [
       "gemini",
       "gemini-ai",
@@ -20,53 +20,11 @@
     ]
   },
   {
-    "name": "iOfficeAI/AionUi",
-    "url": "https://github.com/iOfficeAI/AionUi",
-    "desc": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
-    "lang": "TypeScript",
-    "stars": "14408 stars",
-    "topics": [
-      "acp",
-      "ai",
-      "ai-agent",
-      "chat",
-      "chatbot",
-      "claude-code",
-      "clawd",
-      "clawdbot",
-      "codex",
-      "cowork",
-      "gemini",
-      "gemini-cli",
-      "llm",
-      "nano-banana",
-      "office",
-      "openclaw",
-      "opencode",
-      "skills",
-      "webui"
-    ]
-  },
-  {
-    "name": "KeygraphHQ/shannon",
-    "url": "https://github.com/KeygraphHQ/shannon",
-    "desc": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
-    "lang": "TypeScript",
-    "stars": "19686 stars",
-    "topics": [
-      "penetration-testing",
-      "pentesting",
-      "security-audit",
-      "security-automation",
-      "security-tools"
-    ]
-  },
-  {
     "name": "github/gh-aw",
     "url": "https://github.com/github/gh-aw",
     "desc": "GitHub Agentic Workflows",
     "lang": "Go",
-    "stars": "1317 stars",
+    "stars": "1689 stars",
     "topics": [
       "actions",
       "cai",
@@ -79,94 +37,75 @@
     ]
   },
   {
+    "name": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+    "lang": "C#",
+    "stars": "129378 stars",
+    "topics": [
+      "advanced-paste",
+      "color-picker",
+      "command-palette",
+      "desktop",
+      "fancyzones",
+      "keyboard-manager",
+      "microsoft-powertoys",
+      "powerrename",
+      "powertoys",
+      "windows",
+      "windows-10",
+      "windows-11"
+    ]
+  },
+  {
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "desc": "Chrome DevTools for coding agents",
+    "lang": "TypeScript",
+    "stars": "23950 stars",
+    "topics": [
+      "browser",
+      "chrome",
+      "chrome-devtools",
+      "debugging",
+      "devtools",
+      "mcp",
+      "mcp-server",
+      "puppeteer"
+    ]
+  },
+  {
     "name": "EveryInc/compound-engineering-plugin",
     "url": "https://github.com/EveryInc/compound-engineering-plugin",
     "desc": "Official Claude Code compound engineering plugin",
     "lang": "TypeScript",
-    "stars": "8159 stars",
-    "topics": []
-  },
-  {
-    "name": "hsliuping/TradingAgents-CN",
-    "url": "https://github.com/hsliuping/TradingAgents-CN",
-    "desc": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
-    "lang": "Python",
-    "stars": "16656 stars",
-    "topics": []
-  },
-  {
-    "name": "gitbutlerapp/gitbutler",
-    "url": "https://github.com/gitbutlerapp/gitbutler",
-    "desc": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
-    "lang": "Rust",
-    "stars": "19012 stars",
+    "stars": "8438 stars",
     "topics": [
-      "git",
-      "github",
-      "tauri"
+      "compound",
+      "engineering"
     ]
   },
   {
-    "name": "carlvellotti/claude-code-pm-course",
-    "url": "https://github.com/carlvellotti/claude-code-pm-course",
-    "desc": "Interactive course teaching Product Managers how to use Claude Code effectively",
-    "lang": "MDX",
-    "stars": "792 stars",
-    "topics": []
-  },
-  {
-    "name": "Shubhamsaboo/awesome-llm-apps",
-    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-    "desc": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
-    "lang": "Python",
-    "stars": "93600 stars",
+    "name": "patchy631/ai-engineering-hub",
+    "url": "https://github.com/patchy631/ai-engineering-hub",
+    "desc": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+    "lang": "Jupyter Notebook",
+    "stars": "28587 stars",
     "topics": [
       "agents",
+      "ai",
       "llms",
-      "python",
+      "machine-learning",
+      "mcp",
       "rag"
     ]
-  },
-  {
-    "name": "drawdb-io/drawdb",
-    "url": "https://github.com/drawdb-io/drawdb",
-    "desc": "Free, simple, and intuitive online database diagram editor and SQL generator.",
-    "lang": "JavaScript",
-    "stars": "36288 stars",
-    "topics": [
-      "database-schema",
-      "diagram-editor",
-      "editor",
-      "erd",
-      "erdiagram",
-      "indexeddb",
-      "javascript",
-      "mariadb",
-      "oracle-database",
-      "oracle-db",
-      "postgresql",
-      "react",
-      "sql",
-      "sql-server",
-      "sqlite",
-      "svg",
-      "tailwindcss"
-    ]
-  },
-  {
-    "name": "pydantic/monty",
-    "url": "https://github.com/pydantic/monty",
-    "desc": "A minimal, secure Python interpreter written in Rust for use by AI",
-    "lang": "Rust",
-    "stars": "4524 stars",
-    "topics": []
   },
   {
     "name": "cheahjs/free-llm-api-resources",
     "url": "https://github.com/cheahjs/free-llm-api-resources",
     "desc": "A list of free LLM inference resources accessible via API.",
     "lang": "Python",
-    "stars": "8673 stars",
+    "stars": "9439 stars",
     "topics": [
       "ai",
       "claude",
@@ -175,27 +114,5 @@
       "llm",
       "openai"
     ]
-  },
-  {
-    "name": "Jeffallan/claude-skills",
-    "url": "https://github.com/Jeffallan/claude-skills",
-    "desc": "65 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
-    "lang": "Python",
-    "stars": "740 stars",
-    "topics": [
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "claude-marketplace",
-      "claude-skills"
-    ]
-  },
-  {
-    "name": "virattt/dexter",
-    "url": "https://github.com/virattt/dexter",
-    "desc": "An autonomous agent for deep financial research",
-    "lang": "TypeScript",
-    "stars": "14120 stars",
-    "topics": []
   }
 ]

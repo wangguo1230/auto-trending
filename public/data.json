@@ -1,10 +1,43 @@
 [
   {
+    "name": "tambo-ai/tambo",
+    "url": "https://github.com/tambo-ai/tambo",
+    "desc": "Generative UI SDK for React",
+    "lang": "TypeScript",
+    "stars": "8991 stars",
+    "topics": [
+      "agent",
+      "agents",
+      "ai",
+      "assistant",
+      "assistant-chat-bots",
+      "generative-ui",
+      "js",
+      "react",
+      "reactjs",
+      "ui",
+      "ui-components"
+    ]
+  },
+  {
+    "name": "danielmiessler/Personal_AI_Infrastructure",
+    "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+    "desc": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+    "lang": "TypeScript",
+    "stars": "7475 stars",
+    "topics": [
+      "ai",
+      "augmentation",
+      "humans",
+      "productivity"
+    ]
+  },
+  {
     "name": "google/langextract",
     "url": "https://github.com/google/langextract",
     "desc": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
     "lang": "Python",
-    "stars": "30415 stars",
+    "stars": "31337 stars",
     "topics": [
       "gemini",
       "gemini-ai",
@@ -20,20 +53,20 @@
     ]
   },
   {
-    "name": "github/gh-aw",
-    "url": "https://github.com/github/gh-aw",
-    "desc": "GitHub Agentic Workflows",
-    "lang": "Go",
-    "stars": "1689 stars",
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "desc": "Chrome DevTools for coding agents",
+    "lang": "TypeScript",
+    "stars": "24368 stars",
     "topics": [
-      "actions",
-      "cai",
-      "ci",
-      "claude-code",
-      "codex",
-      "copilot",
-      "gh-extension",
-      "github-actions"
+      "browser",
+      "chrome",
+      "chrome-devtools",
+      "debugging",
+      "devtools",
+      "mcp",
+      "mcp-server",
+      "puppeteer"
     ]
   },
   {
@@ -41,7 +74,7 @@
     "url": "https://github.com/microsoft/PowerToys",
     "desc": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
     "lang": "C#",
-    "stars": "129378 stars",
+    "stars": "129633 stars",
     "topics": [
       "advanced-paste",
       "color-picker",
@@ -58,61 +91,161 @@
     ]
   },
   {
-    "name": "ChromeDevTools/chrome-devtools-mcp",
-    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-    "desc": "Chrome DevTools for coding agents",
+    "name": "iOfficeAI/AionUi",
+    "url": "https://github.com/iOfficeAI/AionUi",
+    "desc": "Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!",
     "lang": "TypeScript",
-    "stars": "23950 stars",
+    "stars": "15327 stars",
     "topics": [
-      "browser",
-      "chrome",
-      "chrome-devtools",
-      "debugging",
-      "devtools",
-      "mcp",
-      "mcp-server",
-      "puppeteer"
+      "acp",
+      "ai",
+      "ai-agent",
+      "chat",
+      "chatbot",
+      "claude-code",
+      "clawd",
+      "clawdbot",
+      "codex",
+      "cowork",
+      "gemini",
+      "gemini-cli",
+      "llm",
+      "nano-banana",
+      "office",
+      "openclaw",
+      "opencode",
+      "skills",
+      "webui"
     ]
   },
   {
-    "name": "EveryInc/compound-engineering-plugin",
-    "url": "https://github.com/EveryInc/compound-engineering-plugin",
-    "desc": "Official Claude Code compound engineering plugin",
-    "lang": "TypeScript",
-    "stars": "8438 stars",
-    "topics": [
-      "compound",
-      "engineering"
-    ]
-  },
-  {
-    "name": "patchy631/ai-engineering-hub",
-    "url": "https://github.com/patchy631/ai-engineering-hub",
-    "desc": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-    "lang": "Jupyter Notebook",
-    "stars": "28587 stars",
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "desc": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "lang": "Python",
+    "stars": "94335 stars",
     "topics": [
       "agents",
-      "ai",
       "llms",
-      "machine-learning",
-      "mcp",
+      "python",
       "rag"
     ]
   },
   {
-    "name": "cheahjs/free-llm-api-resources",
-    "url": "https://github.com/cheahjs/free-llm-api-resources",
-    "desc": "A list of free LLM inference resources accessible via API.",
-    "lang": "Python",
-    "stars": "9439 stars",
+    "name": "rowboatlabs/rowboat",
+    "url": "https://github.com/rowboatlabs/rowboat",
+    "desc": "Open-source AI coworker, with memory",
+    "lang": "TypeScript",
+    "stars": "5131 stars",
     "topics": [
+      "agents",
+      "agents-sdk",
       "ai",
-      "claude",
-      "gemini",
-      "llama",
+      "ai-agents",
+      "ai-agents-automation",
+      "chatgpt",
+      "claude-code",
+      "claude-cowork",
+      "generative-ai",
       "llm",
-      "openai"
+      "multiagent",
+      "opeani",
+      "open-source",
+      "orchestration",
+      "productivity"
+    ]
+  },
+  {
+    "name": "github/gh-aw",
+    "url": "https://github.com/github/gh-aw",
+    "desc": "GitHub Agentic Workflows",
+    "lang": "Go",
+    "stars": "2002 stars",
+    "topics": [
+      "actions",
+      "cai",
+      "ci",
+      "claude-code",
+      "codex",
+      "copilot",
+      "gh-extension",
+      "github-actions"
+    ]
+  },
+  {
+    "name": "unslothai/unsloth",
+    "url": "https://github.com/unslothai/unsloth",
+    "desc": "Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.",
+    "lang": "Python",
+    "stars": "52024 stars",
+    "topics": [
+      "agent",
+      "deepseek",
+      "deepseek-r1",
+      "fine-tuning",
+      "gemma",
+      "gemma3",
+      "gpt-oss",
+      "llama",
+      "llama3",
+      "llm",
+      "llms",
+      "mistral",
+      "openai",
+      "qwen",
+      "qwen3",
+      "reinforcement-learning",
+      "text-to-speech",
+      "tts",
+      "unsloth",
+      "voice-cloning"
+    ]
+  },
+  {
+    "name": "cinnyapp/cinny",
+    "url": "https://github.com/cinnyapp/cinny",
+    "desc": "Yet another matrix client",
+    "lang": "TypeScript",
+    "stars": "2863 stars",
+    "topics": [
+      "cinny",
+      "cinnyapp",
+      "client",
+      "hacktoberfest",
+      "matrix",
+      "matrix-client",
+      "matrix-org",
+      "reactjs"
+    ]
+  },
+  {
+    "name": "Jeffallan/claude-skills",
+    "url": "https://github.com/Jeffallan/claude-skills",
+    "desc": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+    "lang": "Python",
+    "stars": "1625 stars",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-marketplace",
+      "claude-skills"
+    ]
+  },
+  {
+    "name": "HandsOnLLM/Hands-On-Large-Language-Models",
+    "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+    "desc": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+    "lang": "Jupyter Notebook",
+    "stars": "20888 stars",
+    "topics": [
+      "artificial-intelligence",
+      "book",
+      "large-language-models",
+      "llm",
+      "llms",
+      "oreilly",
+      "oreilly-books"
     ]
   }
 ]

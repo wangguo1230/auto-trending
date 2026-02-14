@@ -1,10 +1,30 @@
 [
   {
+    "name": "tambo-ai/tambo",
+    "url": "https://github.com/tambo-ai/tambo",
+    "desc": "Generative UI SDK for React",
+    "lang": "TypeScript",
+    "stars": "9592 stars",
+    "topics": [
+      "agent",
+      "agents",
+      "ai",
+      "assistant",
+      "assistant-chat-bots",
+      "generative-ui",
+      "js",
+      "react",
+      "reactjs",
+      "ui",
+      "ui-components"
+    ]
+  },
+  {
     "name": "SynkraAI/aios-core",
     "url": "https://github.com/SynkraAI/aios-core",
     "desc": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
     "lang": "JavaScript",
-    "stars": "403 stars",
+    "stars": "595 stars",
     "topics": [
       "agents",
       "ai",
@@ -21,11 +41,56 @@
     ]
   },
   {
+    "name": "rowboatlabs/rowboat",
+    "url": "https://github.com/rowboatlabs/rowboat",
+    "desc": "Open-source AI coworker, with memory",
+    "lang": "TypeScript",
+    "stars": "5991 stars",
+    "topics": [
+      "agents",
+      "agents-sdk",
+      "ai",
+      "ai-agents",
+      "ai-agents-automation",
+      "chatgpt",
+      "claude-code",
+      "claude-cowork",
+      "generative-ai",
+      "llm",
+      "multiagent",
+      "opeani",
+      "open-source",
+      "orchestration",
+      "productivity"
+    ]
+  },
+  {
+    "name": "minio/minio",
+    "url": "https://github.com/minio/minio",
+    "desc": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "lang": "Go",
+    "stars": "60270 stars",
+    "topics": [
+      "amazon-s3",
+      "cloud",
+      "cloudnative",
+      "cloudstorage",
+      "go",
+      "k8s",
+      "kubernetes",
+      "multi-cloud",
+      "multi-cloud-kubernetes",
+      "objectstorage",
+      "s3",
+      "storage"
+    ]
+  },
+  {
     "name": "ChromeDevTools/chrome-devtools-mcp",
     "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
     "desc": "Chrome DevTools for coding agents",
     "lang": "TypeScript",
-    "stars": "24701 stars",
+    "stars": "25070 stars",
     "topics": [
       "browser",
       "chrome",
@@ -38,115 +103,79 @@
     ]
   },
   {
-    "name": "danielmiessler/Personal_AI_Infrastructure",
-    "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-    "desc": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+    "name": "alibaba/zvec",
+    "url": "https://github.com/alibaba/zvec",
+    "desc": "A lightweight, lightning-fast, in-process vector database",
+    "lang": "C++",
+    "stars": "1170 stars",
+    "topics": [
+      "ann-search",
+      "embedded-database",
+      "rag",
+      "vector-search",
+      "vectordb"
+    ]
+  },
+  {
+    "name": "ruvnet/wifi-densepose",
+    "url": "https://github.com/ruvnet/wifi-densepose",
+    "desc": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers ",
+    "lang": "Python",
+    "stars": "6142 stars",
+    "topics": []
+  },
+  {
+    "name": "Zipstack/unstract",
+    "url": "https://github.com/Zipstack/unstract",
+    "desc": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+    "lang": "Python",
+    "stars": "6293 stars",
+    "topics": [
+      "etl-pipeline",
+      "llm-platform",
+      "unstructured-data"
+    ]
+  },
+  {
+    "name": "letta-ai/letta-code",
+    "url": "https://github.com/letta-ai/letta-code",
+    "desc": "The memory-first coding agent",
     "lang": "TypeScript",
-    "stars": "8011 stars",
-    "topics": [
-      "ai",
-      "augmentation",
-      "humans",
-      "productivity"
-    ]
-  },
-  {
-    "name": "patchy631/ai-engineering-hub",
-    "url": "https://github.com/patchy631/ai-engineering-hub",
-    "desc": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-    "lang": "Jupyter Notebook",
-    "stars": "29277 stars",
-    "topics": [
-      "agents",
-      "ai",
-      "llms",
-      "machine-learning",
-      "mcp",
-      "rag"
-    ]
-  },
-  {
-    "name": "TelegramMessenger/MTProxy",
-    "url": "https://github.com/TelegramMessenger/MTProxy",
-    "desc": "Simple MT-Proto proxy Install dependencies, you would need common set of tools for building from source, and development packages for `openssl` and `zlib`.",
-    "lang": "C",
-    "stars": "5873 stars",
+    "stars": "1198 stars",
     "topics": []
   },
   {
-    "name": "google-deepmind/superhuman",
-    "url": "https://github.com/google-deepmind/superhuman",
-    "desc": "This repository hosts projects and datasets created by Google DeepMind's Superhuman Reasoning team, led by Thang Luong.",
-    "lang": "TeX",
-    "stars": "361 stars",
-    "topics": []
-  },
-  {
-    "name": "cheahjs/free-llm-api-resources",
-    "url": "https://github.com/cheahjs/free-llm-api-resources",
-    "desc": "A list of free LLM inference resources accessible via API.",
-    "lang": "Python",
-    "stars": "10606 stars",
+    "name": "ruby/ruby",
+    "url": "https://github.com/ruby/ruby",
+    "desc": "The Ruby Programming Language",
+    "lang": "Ruby",
+    "stars": "23365 stars",
     "topics": [
-      "ai",
-      "claude",
-      "gemini",
-      "llama",
-      "llm",
-      "openai"
+      "c",
+      "jit",
+      "language",
+      "object-oriented",
+      "programming-language",
+      "ruby",
+      "ruby-language",
+      "rust"
     ]
   },
   {
-    "name": "HandsOnLLM/Hands-On-Large-Language-Models",
-    "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
-    "desc": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
-    "lang": "Jupyter Notebook",
-    "stars": "21145 stars",
+    "name": "cinnyapp/cinny",
+    "url": "https://github.com/cinnyapp/cinny",
+    "desc": "Yet another matrix client",
+    "lang": "TypeScript",
+    "stars": "3040 stars",
     "topics": [
-      "artificial-intelligence",
-      "book",
-      "large-language-models",
-      "llm",
-      "llms",
-      "oreilly",
-      "oreilly-books"
-    ]
-  },
-  {
-    "name": "THUDM/slime",
-    "url": "https://github.com/THUDM/slime",
-    "desc": "slime is an LLM post-training framework for RL Scaling.",
-    "lang": "Python",
-    "stars": "4069 stars",
-    "topics": []
-  },
-  {
-    "name": "DebugSwift/DebugSwift",
-    "url": "https://github.com/DebugSwift/DebugSwift",
-    "desc": "A toolkit to make debugging iOS applications easier 🚀",
-    "lang": "Swift",
-    "stars": "1415 stars",
-    "topics": [
-      "analysis",
-      "analytics",
-      "cocoapods",
-      "crashlytics",
-      "debug",
-      "debugger",
-      "debugging",
+      "cinny",
+      "cinnyapp",
+      "client",
       "hacktoberfest",
-      "layout-debugger",
-      "leak-detection",
-      "log",
-      "logs-analysis",
-      "networking",
-      "performance-analysis",
-      "sandbox",
-      "swift",
-      "swift6",
-      "ui",
-      "uikit",
-      "view"
+      "matrix",
+      "matrix-client",
+      "matrix-org",
+      "reactjs"
     ]
   }
 ]

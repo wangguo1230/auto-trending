@@ -1,43 +1,38 @@
 [
   {
-    "name": "tambo-ai/tambo",
-    "url": "https://github.com/tambo-ai/tambo",
-    "desc": "Generative UI SDK for React",
-    "lang": "TypeScript",
-    "stars": "9592 stars",
+    "name": "nautechsystems/nautilus_trader",
+    "url": "https://github.com/nautechsystems/nautilus_trader",
+    "desc": "A high-performance algorithmic trading platform and event-driven backtester",
+    "lang": "Rust",
+    "stars": "19276 stars",
     "topics": [
-      "agent",
-      "agents",
-      "ai",
-      "assistant",
-      "assistant-chat-bots",
-      "generative-ui",
-      "js",
-      "react",
-      "reactjs",
-      "ui",
-      "ui-components"
+      "algorithmic-trading-engine",
+      "artificial-intelligence",
+      "crypto-trading",
+      "equity-trading",
+      "forex",
+      "futures-trading",
+      "machine-learning",
+      "options-trading",
+      "python",
+      "rust",
+      "sports-betting",
+      "trading",
+      "trading-platform"
     ]
   },
   {
-    "name": "SynkraAI/aios-core",
-    "url": "https://github.com/SynkraAI/aios-core",
-    "desc": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-    "lang": "JavaScript",
-    "stars": "595 stars",
+    "name": "steipete/gogcli",
+    "url": "https://github.com/steipete/gogcli",
+    "desc": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
+    "lang": "Go",
+    "stars": "2941 stars",
     "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "automation",
-      "claude",
-      "cli",
-      "development",
-      "framework",
-      "fullstack",
-      "nodejs",
-      "orchestration",
-      "typescript"
+      "gcal",
+      "gcontacts",
+      "gdrive",
+      "gmail",
+      "google"
     ]
   },
   {
@@ -45,7 +40,7 @@
     "url": "https://github.com/rowboatlabs/rowboat",
     "desc": "Open-source AI coworker, with memory",
     "lang": "TypeScript",
-    "stars": "5991 stars",
+    "stars": "6772 stars",
     "topics": [
       "agents",
       "agents-sdk",
@@ -65,24 +60,20 @@
     ]
   },
   {
-    "name": "minio/minio",
-    "url": "https://github.com/minio/minio",
-    "desc": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+    "name": "github/gh-aw",
+    "url": "https://github.com/github/gh-aw",
+    "desc": "GitHub Agentic Workflows",
     "lang": "Go",
-    "stars": "60270 stars",
+    "stars": "2683 stars",
     "topics": [
-      "amazon-s3",
-      "cloud",
-      "cloudnative",
-      "cloudstorage",
-      "go",
-      "k8s",
-      "kubernetes",
-      "multi-cloud",
-      "multi-cloud-kubernetes",
-      "objectstorage",
-      "s3",
-      "storage"
+      "actions",
+      "cai",
+      "ci",
+      "claude-code",
+      "codex",
+      "copilot",
+      "gh-extension",
+      "github-actions"
     ]
   },
   {
@@ -90,7 +81,7 @@
     "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
     "desc": "Chrome DevTools for coding agents",
     "lang": "TypeScript",
-    "stars": "25070 stars",
+    "stars": "25397 stars",
     "topics": [
       "browser",
       "chrome",
@@ -107,7 +98,7 @@
     "url": "https://github.com/alibaba/zvec",
     "desc": "A lightweight, lightning-fast, in-process vector database",
     "lang": "C++",
-    "stars": "1170 stars",
+    "stars": "2259 stars",
     "topics": [
       "ann-search",
       "embedded-database",
@@ -117,65 +108,71 @@
     ]
   },
   {
+    "name": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "lang": "TypeScript",
+    "stars": "196990 stars",
+    "topics": [
+      "ai",
+      "assistant",
+      "crustacean",
+      "molty",
+      "openclaw",
+      "own-your-data",
+      "personal"
+    ]
+  },
+  {
+    "name": "moonshine-ai/moonshine",
+    "url": "https://github.com/moonshine-ai/moonshine",
+    "desc": "Fast and accurate automatic speech recognition (ASR) for edge devices",
+    "lang": "C",
+    "stars": "3786 stars",
+    "topics": []
+  },
+  {
+    "name": "brave/brave-browser",
+    "url": "https://github.com/brave/brave-browser",
+    "desc": "Brave browser for Android, iOS, Linux, macOS, Windows.",
+    "lang": "Unknown",
+    "stars": "21530 stars",
+    "topics": [
+      "brave",
+      "browser",
+      "chromium",
+      "linux",
+      "macos",
+      "windows"
+    ]
+  },
+  {
+    "name": "SynkraAI/aios-core",
+    "url": "https://github.com/SynkraAI/aios-core",
+    "desc": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
+    "lang": "JavaScript",
+    "stars": "777 stars",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "automation",
+      "claude",
+      "cli",
+      "development",
+      "framework",
+      "fullstack",
+      "nodejs",
+      "orchestration",
+      "typescript"
+    ]
+  },
+  {
     "name": "ruvnet/wifi-densepose",
     "url": "https://github.com/ruvnet/wifi-densepose",
     "desc": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers ",
     "lang": "Python",
-    "stars": "6142 stars",
+    "stars": "6469 stars",
     "topics": []
-  },
-  {
-    "name": "Zipstack/unstract",
-    "url": "https://github.com/Zipstack/unstract",
-    "desc": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
-    "lang": "Python",
-    "stars": "6293 stars",
-    "topics": [
-      "etl-pipeline",
-      "llm-platform",
-      "unstructured-data"
-    ]
-  },
-  {
-    "name": "letta-ai/letta-code",
-    "url": "https://github.com/letta-ai/letta-code",
-    "desc": "The memory-first coding agent",
-    "lang": "TypeScript",
-    "stars": "1198 stars",
-    "topics": []
-  },
-  {
-    "name": "ruby/ruby",
-    "url": "https://github.com/ruby/ruby",
-    "desc": "The Ruby Programming Language",
-    "lang": "Ruby",
-    "stars": "23365 stars",
-    "topics": [
-      "c",
-      "jit",
-      "language",
-      "object-oriented",
-      "programming-language",
-      "ruby",
-      "ruby-language",
-      "rust"
-    ]
-  },
-  {
-    "name": "cinnyapp/cinny",
-    "url": "https://github.com/cinnyapp/cinny",
-    "desc": "Yet another matrix client",
-    "lang": "TypeScript",
-    "stars": "3040 stars",
-    "topics": [
-      "cinny",
-      "cinnyapp",
-      "client",
-      "hacktoberfest",
-      "matrix",
-      "matrix-client",
-      "matrix-org",
-      "reactjs"
-    ]
   }
 ]

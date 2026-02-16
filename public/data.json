@@ -1,10 +1,24 @@
 [
   {
+    "name": "alibaba/zvec",
+    "url": "https://github.com/alibaba/zvec",
+    "desc": "A lightweight, lightning-fast, in-process vector database",
+    "lang": "C++",
+    "stars": "3544 stars",
+    "topics": [
+      "ann-search",
+      "embedded-database",
+      "rag",
+      "vector-search",
+      "vectordb"
+    ]
+  },
+  {
     "name": "nautechsystems/nautilus_trader",
     "url": "https://github.com/nautechsystems/nautilus_trader",
     "desc": "A high-performance algorithmic trading platform and event-driven backtester",
     "lang": "Rust",
-    "stars": "19276 stars",
+    "stars": "19753 stars",
     "topics": [
       "algorithmic-trading-engine",
       "artificial-intelligence",
@@ -22,25 +36,11 @@
     ]
   },
   {
-    "name": "steipete/gogcli",
-    "url": "https://github.com/steipete/gogcli",
-    "desc": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-    "lang": "Go",
-    "stars": "2941 stars",
-    "topics": [
-      "gcal",
-      "gcontacts",
-      "gdrive",
-      "gmail",
-      "google"
-    ]
-  },
-  {
     "name": "rowboatlabs/rowboat",
     "url": "https://github.com/rowboatlabs/rowboat",
     "desc": "Open-source AI coworker, with memory",
     "lang": "TypeScript",
-    "stars": "6772 stars",
+    "stars": "7301 stars",
     "topics": [
       "agents",
       "agents-sdk",
@@ -60,51 +60,17 @@
     ]
   },
   {
-    "name": "github/gh-aw",
-    "url": "https://github.com/github/gh-aw",
-    "desc": "GitHub Agentic Workflows",
+    "name": "steipete/gogcli",
+    "url": "https://github.com/steipete/gogcli",
+    "desc": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
     "lang": "Go",
-    "stars": "2683 stars",
+    "stars": "3469 stars",
     "topics": [
-      "actions",
-      "cai",
-      "ci",
-      "claude-code",
-      "codex",
-      "copilot",
-      "gh-extension",
-      "github-actions"
-    ]
-  },
-  {
-    "name": "ChromeDevTools/chrome-devtools-mcp",
-    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-    "desc": "Chrome DevTools for coding agents",
-    "lang": "TypeScript",
-    "stars": "25397 stars",
-    "topics": [
-      "browser",
-      "chrome",
-      "chrome-devtools",
-      "debugging",
-      "devtools",
-      "mcp",
-      "mcp-server",
-      "puppeteer"
-    ]
-  },
-  {
-    "name": "alibaba/zvec",
-    "url": "https://github.com/alibaba/zvec",
-    "desc": "A lightweight, lightning-fast, in-process vector database",
-    "lang": "C++",
-    "stars": "2259 stars",
-    "topics": [
-      "ann-search",
-      "embedded-database",
-      "rag",
-      "vector-search",
-      "vectordb"
+      "gcal",
+      "gcontacts",
+      "gdrive",
+      "gmail",
+      "google"
     ]
   },
   {
@@ -112,7 +78,7 @@
     "url": "https://github.com/openclaw/openclaw",
     "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "lang": "TypeScript",
-    "stars": "196990 stars",
+    "stars": "201480 stars",
     "topics": [
       "ai",
       "assistant",
@@ -124,34 +90,11 @@
     ]
   },
   {
-    "name": "moonshine-ai/moonshine",
-    "url": "https://github.com/moonshine-ai/moonshine",
-    "desc": "Fast and accurate automatic speech recognition (ASR) for edge devices",
-    "lang": "C",
-    "stars": "3786 stars",
-    "topics": []
-  },
-  {
-    "name": "brave/brave-browser",
-    "url": "https://github.com/brave/brave-browser",
-    "desc": "Brave browser for Android, iOS, Linux, macOS, Windows.",
-    "lang": "Unknown",
-    "stars": "21530 stars",
-    "topics": [
-      "brave",
-      "browser",
-      "chromium",
-      "linux",
-      "macos",
-      "windows"
-    ]
-  },
-  {
     "name": "SynkraAI/aios-core",
     "url": "https://github.com/SynkraAI/aios-core",
     "desc": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
     "lang": "JavaScript",
-    "stars": "777 stars",
+    "stars": "977 stars",
     "topics": [
       "agents",
       "ai",
@@ -168,11 +111,63 @@
     ]
   },
   {
+    "name": "letta-ai/letta-code",
+    "url": "https://github.com/letta-ai/letta-code",
+    "desc": "The memory-first coding agent",
+    "lang": "TypeScript",
+    "stars": "1438 stars",
+    "topics": []
+  },
+  {
     "name": "ruvnet/wifi-densepose",
     "url": "https://github.com/ruvnet/wifi-densepose",
     "desc": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers ",
     "lang": "Python",
-    "stars": "6469 stars",
+    "stars": "6786 stars",
     "topics": []
+  },
+  {
+    "name": "seerr-team/seerr",
+    "url": "https://github.com/seerr-team/seerr",
+    "desc": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
+    "lang": "TypeScript",
+    "stars": "9049 stars",
+    "topics": [
+      "docker",
+      "emby",
+      "jellyfin",
+      "movie",
+      "notifications",
+      "nzb",
+      "plex",
+      "radarr",
+      "sonarr",
+      "tv"
+    ]
+  },
+  {
+    "name": "hummingbot/hummingbot",
+    "url": "https://github.com/hummingbot/hummingbot",
+    "desc": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+    "lang": "Python",
+    "stars": "16520 stars",
+    "topics": [
+      "algotrading",
+      "arbitrage",
+      "backtesting",
+      "bitcoin",
+      "bot",
+      "crypto",
+      "cryptocurrency",
+      "cython",
+      "dex",
+      "docker",
+      "ethereum",
+      "hft",
+      "marketmaking",
+      "orderbook",
+      "python",
+      "trading"
+    ]
   }
 ]

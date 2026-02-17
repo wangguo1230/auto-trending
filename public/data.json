@@ -1,70 +1,49 @@
 [
   {
-    "name": "alibaba/zvec",
-    "url": "https://github.com/alibaba/zvec",
-    "desc": "A lightweight, lightning-fast, in-process vector database",
-    "lang": "C++",
-    "stars": "3544 stars",
+    "name": "p-e-w/heretic",
+    "url": "https://github.com/p-e-w/heretic",
+    "desc": "Fully automatic censorship removal for language models",
+    "lang": "Python",
+    "stars": "7158 stars",
     "topics": [
-      "ann-search",
-      "embedded-database",
-      "rag",
-      "vector-search",
-      "vectordb"
-    ]
-  },
-  {
-    "name": "nautechsystems/nautilus_trader",
-    "url": "https://github.com/nautechsystems/nautilus_trader",
-    "desc": "A high-performance algorithmic trading platform and event-driven backtester",
-    "lang": "Rust",
-    "stars": "19753 stars",
-    "topics": [
-      "algorithmic-trading-engine",
-      "artificial-intelligence",
-      "crypto-trading",
-      "equity-trading",
-      "forex",
-      "futures-trading",
-      "machine-learning",
-      "options-trading",
-      "python",
-      "rust",
-      "sports-betting",
-      "trading",
-      "trading-platform"
-    ]
-  },
-  {
-    "name": "rowboatlabs/rowboat",
-    "url": "https://github.com/rowboatlabs/rowboat",
-    "desc": "Open-source AI coworker, with memory",
-    "lang": "TypeScript",
-    "stars": "7301 stars",
-    "topics": [
-      "agents",
-      "agents-sdk",
-      "ai",
-      "ai-agents",
-      "ai-agents-automation",
-      "chatgpt",
-      "claude-code",
-      "claude-cowork",
-      "generative-ai",
+      "abliteration",
       "llm",
-      "multiagent",
-      "opeani",
-      "open-source",
-      "orchestration",
-      "productivity"
+      "transformer"
     ]
+  },
+  {
+    "name": "seerr-team/seerr",
+    "url": "https://github.com/seerr-team/seerr",
+    "desc": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
+    "lang": "TypeScript",
+    "stars": "9313 stars",
+    "topics": [
+      "docker",
+      "emby",
+      "jellyfin",
+      "movie",
+      "notifications",
+      "nzb",
+      "plex",
+      "radarr",
+      "sonarr",
+      "tv"
+    ]
+  },
+  {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "53564 stars",
+    "topics": []
   },
   {
     "name": "steipete/gogcli",
     "url": "https://github.com/steipete/gogcli",
     "desc": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
     "lang": "Go",
-    "stars": "3469 stars",
+    "stars": "3849 stars",
     "topics": [
       "gcal",
       "gcontacts",
@@ -74,11 +53,25 @@
     ]
   },
   {
+    "name": "alibaba/zvec",
+    "url": "https://github.com/alibaba/zvec",
+    "desc": "A lightweight, lightning-fast, in-process vector database",
+    "lang": "C++",
+    "stars": "4463 stars",
+    "topics": [
+      "ann-search",
+      "embedded-database",
+      "rag",
+      "vector-search",
+      "vectordb"
+    ]
+  },
+  {
     "name": "openclaw/openclaw",
     "url": "https://github.com/openclaw/openclaw",
     "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "lang": "TypeScript",
-    "stars": "201480 stars",
+    "stars": "205188 stars",
     "topics": [
       "ai",
       "assistant",
@@ -94,7 +87,7 @@
     "url": "https://github.com/SynkraAI/aios-core",
     "desc": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
     "lang": "JavaScript",
-    "stars": "977 stars",
+    "stars": "1184 stars",
     "topics": [
       "agents",
       "ai",
@@ -111,38 +104,35 @@
     ]
   },
   {
-    "name": "letta-ai/letta-code",
-    "url": "https://github.com/letta-ai/letta-code",
-    "desc": "The memory-first coding agent",
-    "lang": "TypeScript",
-    "stars": "1438 stars",
-    "topics": []
-  },
-  {
-    "name": "ruvnet/wifi-densepose",
-    "url": "https://github.com/ruvnet/wifi-densepose",
-    "desc": "Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers ",
-    "lang": "Python",
-    "stars": "6786 stars",
-    "topics": []
-  },
-  {
-    "name": "seerr-team/seerr",
-    "url": "https://github.com/seerr-team/seerr",
-    "desc": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-    "lang": "TypeScript",
-    "stars": "9049 stars",
+    "name": "ashishps1/awesome-system-design-resources",
+    "url": "https://github.com/ashishps1/awesome-system-design-resources",
+    "desc": "Learn System Design concepts and prepare for interviews using free resources.",
+    "lang": "Java",
+    "stars": "32784 stars",
     "topics": [
-      "docker",
-      "emby",
-      "jellyfin",
-      "movie",
-      "notifications",
-      "nzb",
-      "plex",
-      "radarr",
-      "sonarr",
-      "tv"
+      "awesome",
+      "backend",
+      "computer-science",
+      "distributed-systems",
+      "high-level-design",
+      "hld",
+      "interview",
+      "interview-questions",
+      "scalability",
+      "system-design"
+    ]
+  },
+  {
+    "name": "steipete/summarize",
+    "url": "https://github.com/steipete/summarize",
+    "desc": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
+    "lang": "TypeScript",
+    "stars": "3418 stars",
+    "topics": [
+      "ai",
+      "cli",
+      "summarize",
+      "typescript"
     ]
   },
   {
@@ -150,7 +140,7 @@
     "url": "https://github.com/hummingbot/hummingbot",
     "desc": "Open source software that helps you create and deploy high-frequency crypto trading bots",
     "lang": "Python",
-    "stars": "16520 stars",
+    "stars": "17012 stars",
     "topics": [
       "algotrading",
       "arbitrage",
@@ -168,6 +158,43 @@
       "orderbook",
       "python",
       "trading"
+    ]
+  },
+  {
+    "name": "anthropics/claude-quickstarts",
+    "url": "https://github.com/anthropics/claude-quickstarts",
+    "desc": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+    "lang": "Python",
+    "stars": "14454 stars",
+    "topics": []
+  },
+  {
+    "name": "davila7/claude-code-templates",
+    "url": "https://github.com/davila7/claude-code-templates",
+    "desc": "CLI tool for configuring and monitoring Claude Code",
+    "lang": "Python",
+    "stars": "20706 stars",
+    "topics": [
+      "anthropic",
+      "anthropic-claude",
+      "claude",
+      "claude-code"
+    ]
+  },
+  {
+    "name": "OpenCTI-Platform/opencti",
+    "url": "https://github.com/OpenCTI-Platform/opencti",
+    "desc": "Open Cyber Threat Intelligence Platform",
+    "lang": "TypeScript",
+    "stars": "8391 stars",
+    "topics": [
+      "cti",
+      "cyber",
+      "cybersecurity",
+      "intelligence",
+      "osint",
+      "security",
+      "threat-intelligence"
     ]
   }
 ]

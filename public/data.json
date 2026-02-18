@@ -1,63 +1,10 @@
 [
   {
-    "name": "p-e-w/heretic",
-    "url": "https://github.com/p-e-w/heretic",
-    "desc": "Fully automatic censorship removal for language models",
-    "lang": "Python",
-    "stars": "7158 stars",
-    "topics": [
-      "abliteration",
-      "llm",
-      "transformer"
-    ]
-  },
-  {
-    "name": "seerr-team/seerr",
-    "url": "https://github.com/seerr-team/seerr",
-    "desc": "Open-source media request and discovery manager for Jellyfin, Plex, and Emby.",
-    "lang": "TypeScript",
-    "stars": "9313 stars",
-    "topics": [
-      "docker",
-      "emby",
-      "jellyfin",
-      "movie",
-      "notifications",
-      "nzb",
-      "plex",
-      "radarr",
-      "sonarr",
-      "tv"
-    ]
-  },
-  {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "53564 stars",
-    "topics": []
-  },
-  {
-    "name": "steipete/gogcli",
-    "url": "https://github.com/steipete/gogcli",
-    "desc": "Google Suite CLI: Gmail, GCal, GDrive, GContacts.",
-    "lang": "Go",
-    "stars": "3849 stars",
-    "topics": [
-      "gcal",
-      "gcontacts",
-      "gdrive",
-      "gmail",
-      "google"
-    ]
-  },
-  {
     "name": "alibaba/zvec",
     "url": "https://github.com/alibaba/zvec",
     "desc": "A lightweight, lightning-fast, in-process vector database",
     "lang": "C++",
-    "stars": "4463 stars",
+    "stars": "4886 stars",
     "topics": [
       "ann-search",
       "embedded-database",
@@ -67,118 +14,15 @@
     ]
   },
   {
-    "name": "openclaw/openclaw",
-    "url": "https://github.com/openclaw/openclaw",
-    "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-    "lang": "TypeScript",
-    "stars": "205188 stars",
-    "topics": [
-      "ai",
-      "assistant",
-      "crustacean",
-      "molty",
-      "openclaw",
-      "own-your-data",
-      "personal"
-    ]
-  },
-  {
-    "name": "SynkraAI/aios-core",
-    "url": "https://github.com/SynkraAI/aios-core",
-    "desc": "Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0",
-    "lang": "JavaScript",
-    "stars": "1184 stars",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "automation",
-      "claude",
-      "cli",
-      "development",
-      "framework",
-      "fullstack",
-      "nodejs",
-      "orchestration",
-      "typescript"
-    ]
-  },
-  {
-    "name": "ashishps1/awesome-system-design-resources",
-    "url": "https://github.com/ashishps1/awesome-system-design-resources",
-    "desc": "Learn System Design concepts and prepare for interviews using free resources.",
-    "lang": "Java",
-    "stars": "32784 stars",
-    "topics": [
-      "awesome",
-      "backend",
-      "computer-science",
-      "distributed-systems",
-      "high-level-design",
-      "hld",
-      "interview",
-      "interview-questions",
-      "scalability",
-      "system-design"
-    ]
-  },
-  {
-    "name": "steipete/summarize",
-    "url": "https://github.com/steipete/summarize",
-    "desc": "Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
-    "lang": "TypeScript",
-    "stars": "3418 stars",
-    "topics": [
-      "ai",
-      "cli",
-      "summarize",
-      "typescript"
-    ]
-  },
-  {
-    "name": "hummingbot/hummingbot",
-    "url": "https://github.com/hummingbot/hummingbot",
-    "desc": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+    "name": "p-e-w/heretic",
+    "url": "https://github.com/p-e-w/heretic",
+    "desc": "Fully automatic censorship removal for language models",
     "lang": "Python",
-    "stars": "17012 stars",
+    "stars": "7991 stars",
     "topics": [
-      "algotrading",
-      "arbitrage",
-      "backtesting",
-      "bitcoin",
-      "bot",
-      "crypto",
-      "cryptocurrency",
-      "cython",
-      "dex",
-      "docker",
-      "ethereum",
-      "hft",
-      "marketmaking",
-      "orderbook",
-      "python",
-      "trading"
-    ]
-  },
-  {
-    "name": "anthropics/claude-quickstarts",
-    "url": "https://github.com/anthropics/claude-quickstarts",
-    "desc": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-    "lang": "Python",
-    "stars": "14454 stars",
-    "topics": []
-  },
-  {
-    "name": "davila7/claude-code-templates",
-    "url": "https://github.com/davila7/claude-code-templates",
-    "desc": "CLI tool for configuring and monitoring Claude Code",
-    "lang": "Python",
-    "stars": "20706 stars",
-    "topics": [
-      "anthropic",
-      "anthropic-claude",
-      "claude",
-      "claude-code"
+      "abliteration",
+      "llm",
+      "transformer"
     ]
   },
   {
@@ -186,7 +30,7 @@
     "url": "https://github.com/OpenCTI-Platform/opencti",
     "desc": "Open Cyber Threat Intelligence Platform",
     "lang": "TypeScript",
-    "stars": "8391 stars",
+    "stars": "8676 stars",
     "topics": [
       "cti",
       "cyber",
@@ -195,6 +39,119 @@
       "osint",
       "security",
       "threat-intelligence"
+    ]
+  },
+  {
+    "name": "QwenLM/qwen-code",
+    "url": "https://github.com/QwenLM/qwen-code",
+    "desc": "An open-source AI agent that lives in your terminal.",
+    "lang": "TypeScript",
+    "stars": "18811 stars",
+    "topics": []
+  },
+  {
+    "name": "NirDiamant/RAG_Techniques",
+    "url": "https://github.com/NirDiamant/RAG_Techniques",
+    "desc": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
+    "lang": "Jupyter Notebook",
+    "stars": "25220 stars",
+    "topics": [
+      "ai",
+      "langchain",
+      "llama-index",
+      "llm",
+      "llms",
+      "opeani",
+      "python",
+      "rag",
+      "tutorials"
+    ]
+  },
+  {
+    "name": "harvard-edge/cs249r_book",
+    "url": "https://github.com/harvard-edge/cs249r_book",
+    "desc": "Introduction to Machine Learning Systems",
+    "lang": "JavaScript",
+    "stars": "19631 stars",
+    "topics": [
+      "artificial-intelligence",
+      "cloud-ml",
+      "computer-systems",
+      "courseware",
+      "deep-learning",
+      "edge-machine-learning",
+      "embedded-ml",
+      "machine-learning",
+      "machine-learning-systems",
+      "mobile-ml",
+      "textbook",
+      "tinyml"
+    ]
+  },
+  {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "54426 stars",
+    "topics": []
+  },
+  {
+    "name": "HailToDodongo/pyrite64",
+    "url": "https://github.com/HailToDodongo/pyrite64",
+    "desc": "N64 Game-Engine and Editor using libdragon & tiny3d",
+    "lang": "C++",
+    "stars": "1241 stars",
+    "topics": []
+  },
+  {
+    "name": "ComposioHQ/composio",
+    "url": "https://github.com/ComposioHQ/composio",
+    "desc": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+    "lang": "TypeScript",
+    "stars": "26743 stars",
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "aiagents",
+      "developer-tools",
+      "function-calling",
+      "gpt-4",
+      "javascript",
+      "js",
+      "llm",
+      "llmops",
+      "mcp",
+      "python",
+      "remote-mcp-server",
+      "sse",
+      "typescript"
+    ]
+  },
+  {
+    "name": "p2r3/convert",
+    "url": "https://github.com/p2r3/convert",
+    "desc": "Truly universal online file converter",
+    "lang": "TypeScript",
+    "stars": "1401 stars",
+    "topics": []
+  },
+  {
+    "name": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "lang": "TypeScript",
+    "stars": "208672 stars",
+    "topics": [
+      "ai",
+      "assistant",
+      "crustacean",
+      "molty",
+      "openclaw",
+      "own-your-data",
+      "personal"
     ]
   }
 ]

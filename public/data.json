@@ -1,70 +1,31 @@
 [
   {
-    "name": "alibaba/zvec",
-    "url": "https://github.com/alibaba/zvec",
-    "desc": "A lightweight, lightning-fast, in-process vector database",
-    "lang": "C++",
-    "stars": "4886 stars",
-    "topics": [
-      "ann-search",
-      "embedded-database",
-      "rag",
-      "vector-search",
-      "vectordb"
-    ]
-  },
-  {
-    "name": "p-e-w/heretic",
-    "url": "https://github.com/p-e-w/heretic",
-    "desc": "Fully automatic censorship removal for language models",
-    "lang": "Python",
-    "stars": "7991 stars",
-    "topics": [
-      "abliteration",
-      "llm",
-      "transformer"
-    ]
-  },
-  {
-    "name": "OpenCTI-Platform/opencti",
-    "url": "https://github.com/OpenCTI-Platform/opencti",
-    "desc": "Open Cyber Threat Intelligence Platform",
-    "lang": "TypeScript",
-    "stars": "8676 stars",
-    "topics": [
-      "cti",
-      "cyber",
-      "cybersecurity",
-      "intelligence",
-      "osint",
-      "security",
-      "threat-intelligence"
-    ]
-  },
-  {
-    "name": "QwenLM/qwen-code",
-    "url": "https://github.com/QwenLM/qwen-code",
-    "desc": "An open-source AI agent that lives in your terminal.",
-    "lang": "TypeScript",
-    "stars": "18811 stars",
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "55337 stars",
     "topics": []
   },
   {
-    "name": "NirDiamant/RAG_Techniques",
-    "url": "https://github.com/NirDiamant/RAG_Techniques",
-    "desc": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.",
-    "lang": "Jupyter Notebook",
-    "stars": "25220 stars",
+    "name": "RichardAtCT/claude-code-telegram",
+    "url": "https://github.com/RichardAtCT/claude-code-telegram",
+    "desc": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
+    "lang": "Python",
+    "stars": "923 stars",
+    "topics": []
+  },
+  {
+    "name": "open-mercato/open-mercato",
+    "url": "https://github.com/open-mercato/open-mercato",
+    "desc": " AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!",
+    "lang": "TypeScript",
+    "stars": "690 stars",
     "topics": [
-      "ai",
-      "langchain",
-      "llama-index",
-      "llm",
-      "llms",
-      "opeani",
-      "python",
-      "rag",
-      "tutorials"
+      "crm",
+      "crm-platform",
+      "erp",
+      "typescript"
     ]
   },
   {
@@ -72,7 +33,7 @@
     "url": "https://github.com/harvard-edge/cs249r_book",
     "desc": "Introduction to Machine Learning Systems",
     "lang": "JavaScript",
-    "stars": "19631 stars",
+    "stars": "20173 stars",
     "topics": [
       "artificial-intelligence",
       "cloud-ml",
@@ -89,53 +50,11 @@
     ]
   },
   {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "54426 stars",
-    "topics": []
-  },
-  {
     "name": "HailToDodongo/pyrite64",
     "url": "https://github.com/HailToDodongo/pyrite64",
     "desc": "N64 Game-Engine and Editor using libdragon & tiny3d",
     "lang": "C++",
-    "stars": "1241 stars",
-    "topics": []
-  },
-  {
-    "name": "ComposioHQ/composio",
-    "url": "https://github.com/ComposioHQ/composio",
-    "desc": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
-    "lang": "TypeScript",
-    "stars": "26743 stars",
-    "topics": [
-      "agentic-ai",
-      "agents",
-      "ai",
-      "ai-agents",
-      "aiagents",
-      "developer-tools",
-      "function-calling",
-      "gpt-4",
-      "javascript",
-      "js",
-      "llm",
-      "llmops",
-      "mcp",
-      "python",
-      "remote-mcp-server",
-      "sse",
-      "typescript"
-    ]
-  },
-  {
-    "name": "p2r3/convert",
-    "url": "https://github.com/p2r3/convert",
-    "desc": "Truly universal online file converter",
-    "lang": "TypeScript",
-    "stars": "1401 stars",
+    "stars": "1722 stars",
     "topics": []
   },
   {
@@ -143,7 +62,7 @@
     "url": "https://github.com/openclaw/openclaw",
     "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "lang": "TypeScript",
-    "stars": "208672 stars",
+    "stars": "211773 stars",
     "topics": [
       "ai",
       "assistant",
@@ -152,6 +71,26 @@
       "openclaw",
       "own-your-data",
       "personal"
+    ]
+  },
+  {
+    "name": "freemocap/freemocap",
+    "url": "https://github.com/freemocap/freemocap",
+    "desc": "Free Motion Capture for Everyone 💀✨",
+    "lang": "Python",
+    "stars": "5186 stars",
+    "topics": []
+  },
+  {
+    "name": "p-e-w/heretic",
+    "url": "https://github.com/p-e-w/heretic",
+    "desc": "Fully automatic censorship removal for language models",
+    "lang": "Python",
+    "stars": "8474 stars",
+    "topics": [
+      "abliteration",
+      "llm",
+      "transformer"
     ]
   }
 ]

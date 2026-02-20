@@ -1,76 +1,178 @@
 [
   {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "55337 stars",
-    "topics": []
-  },
-  {
-    "name": "RichardAtCT/claude-code-telegram",
-    "url": "https://github.com/RichardAtCT/claude-code-telegram",
-    "desc": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
-    "lang": "Python",
-    "stars": "923 stars",
-    "topics": []
-  },
-  {
-    "name": "open-mercato/open-mercato",
-    "url": "https://github.com/open-mercato/open-mercato",
-    "desc": " AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!",
-    "lang": "TypeScript",
-    "stars": "690 stars",
+    "name": "vxcontrol/pentagi",
+    "url": "https://github.com/vxcontrol/pentagi",
+    "desc": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+    "lang": "Go",
+    "stars": "3789 stars",
     "topics": [
-      "crm",
-      "crm-platform",
-      "erp",
-      "typescript"
+      "ai-agents",
+      "ai-security-tool",
+      "anthropic",
+      "autonomous-agents",
+      "golang",
+      "gpt",
+      "graphql",
+      "multi-agent-system",
+      "offensive-security",
+      "open-source",
+      "openai",
+      "penetration-testing",
+      "penetration-testing-tools",
+      "react",
+      "security-automation",
+      "security-testing",
+      "security-tools",
+      "self-hosted"
     ]
   },
   {
-    "name": "harvard-edge/cs249r_book",
-    "url": "https://github.com/harvard-edge/cs249r_book",
-    "desc": "Introduction to Machine Learning Systems",
-    "lang": "JavaScript",
-    "stars": "20173 stars",
-    "topics": [
-      "artificial-intelligence",
-      "cloud-ml",
-      "computer-systems",
-      "courseware",
-      "deep-learning",
-      "edge-machine-learning",
-      "embedded-ml",
-      "machine-learning",
-      "machine-learning-systems",
-      "mobile-ml",
-      "textbook",
-      "tinyml"
-    ]
+    "name": "blackboardsh/electrobun",
+    "url": "https://github.com/blackboardsh/electrobun",
+    "desc": "Build ultra fast, tiny, and cross-platform desktop apps with Typescript.",
+    "lang": "C++",
+    "stars": "6003 stars",
+    "topics": []
   },
   {
     "name": "HailToDodongo/pyrite64",
     "url": "https://github.com/HailToDodongo/pyrite64",
     "desc": "N64 Game-Engine and Editor using libdragon & tiny3d",
     "lang": "C++",
-    "stars": "1722 stars",
+    "stars": "2112 stars",
     "topics": []
   },
   {
-    "name": "openclaw/openclaw",
-    "url": "https://github.com/openclaw/openclaw",
-    "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-    "lang": "TypeScript",
-    "stars": "211773 stars",
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "56207 stars",
+    "topics": []
+  },
+  {
+    "name": "aquasecurity/trivy",
+    "url": "https://github.com/aquasecurity/trivy",
+    "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "lang": "Go",
+    "stars": "32091 stars",
     "topics": [
-      "ai",
-      "assistant",
-      "crustacean",
-      "molty",
-      "openclaw",
-      "own-your-data",
-      "personal"
+      "containers",
+      "devsecops",
+      "docker",
+      "go",
+      "golang",
+      "hacktoberfest",
+      "iac",
+      "infrastructure-as-code",
+      "kubernetes",
+      "misconfiguration",
+      "security",
+      "security-tools",
+      "vulnerability",
+      "vulnerability-detection",
+      "vulnerability-scanners"
+    ]
+  },
+  {
+    "name": "PostHog/posthog",
+    "url": "https://github.com/PostHog/posthog",
+    "desc": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+    "lang": "Python",
+    "stars": "31535 stars",
+    "topics": [
+      "ab-testing",
+      "ai-analytics",
+      "analytics",
+      "cdp",
+      "data-warehouse",
+      "experiments",
+      "feature-flags",
+      "javascript",
+      "product-analytics",
+      "python",
+      "react",
+      "session-replay",
+      "surveys",
+      "typescript",
+      "web-analytics"
+    ]
+  },
+  {
+    "name": "eslint/eslint",
+    "url": "https://github.com/eslint/eslint",
+    "desc": "Find and fix problems in your JavaScript code.",
+    "lang": "JavaScript",
+    "stars": "27057 stars",
+    "topics": [
+      "ecmascript",
+      "eslint",
+      "javascript",
+      "linter",
+      "static-code-analysis"
+    ]
+  },
+  {
+    "name": "anthropics/claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "lang": "Python",
+    "stars": "7855 stars",
+    "topics": [
+      "claude-code",
+      "mcp",
+      "skills"
+    ]
+  },
+  {
+    "name": "Effect-TS/effect-smol",
+    "url": "https://github.com/Effect-TS/effect-smol",
+    "desc": "Core libraries and experimental work for Effect v4",
+    "lang": "TypeScript",
+    "stars": "372 stars",
+    "topics": []
+  },
+  {
+    "name": "google-research/timesfm",
+    "url": "https://github.com/google-research/timesfm",
+    "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "lang": "Python",
+    "stars": "8834 stars",
+    "topics": []
+  },
+  {
+    "name": "roboflow/trackers",
+    "url": "https://github.com/roboflow/trackers",
+    "desc": "Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already use.",
+    "lang": "Python",
+    "stars": "2715 stars",
+    "topics": [
+      "bytetrack",
+      "multi-object-tracking",
+      "oc-sort",
+      "sort"
+    ]
+  },
+  {
+    "name": "huggingface/skills",
+    "url": "https://github.com/huggingface/skills",
+    "desc": "Hugging Face Skills are definitions for AI/ML tasks like dataset creation, model training, and evaluation. They are interoperable with all major coding agent tools like OpenAI Codex, Anthropic's Claud",
+    "lang": "Python",
+    "stars": "1411 stars",
+    "topics": []
+  },
+  {
+    "name": "databricks-solutions/ai-dev-kit",
+    "url": "https://github.com/databricks-solutions/ai-dev-kit",
+    "desc": "Databricks Toolkit for Coding Agents provided by Field Engineering",
+    "lang": "Python",
+    "stars": "535 stars",
+    "topics": [
+      "agents",
+      "claude",
+      "cursor",
+      "databricks",
+      "vibecoding"
     ]
   },
   {
@@ -78,19 +180,33 @@
     "url": "https://github.com/freemocap/freemocap",
     "desc": "Free Motion Capture for Everyone 💀✨",
     "lang": "Python",
-    "stars": "5186 stars",
+    "stars": "5551 stars",
     "topics": []
   },
   {
-    "name": "p-e-w/heretic",
-    "url": "https://github.com/p-e-w/heretic",
-    "desc": "Fully automatic censorship removal for language models",
-    "lang": "Python",
-    "stars": "8474 stars",
+    "name": "ComposioHQ/composio",
+    "url": "https://github.com/ComposioHQ/composio",
+    "desc": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+    "lang": "TypeScript",
+    "stars": "27007 stars",
     "topics": [
-      "abliteration",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "aiagents",
+      "developer-tools",
+      "function-calling",
+      "gpt-4",
+      "javascript",
+      "js",
       "llm",
-      "transformer"
+      "llmops",
+      "mcp",
+      "python",
+      "remote-mcp-server",
+      "sse",
+      "typescript"
     ]
   }
 ]

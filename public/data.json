@@ -4,7 +4,7 @@
     "url": "https://github.com/vxcontrol/pentagi",
     "desc": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
     "lang": "Go",
-    "stars": "3789 stars",
+    "stars": "5485 stars",
     "topics": [
       "ai-agents",
       "ai-security-tool",
@@ -27,19 +27,11 @@
     ]
   },
   {
-    "name": "blackboardsh/electrobun",
-    "url": "https://github.com/blackboardsh/electrobun",
-    "desc": "Build ultra fast, tiny, and cross-platform desktop apps with Typescript.",
-    "lang": "C++",
-    "stars": "6003 stars",
-    "topics": []
-  },
-  {
-    "name": "HailToDodongo/pyrite64",
-    "url": "https://github.com/HailToDodongo/pyrite64",
-    "desc": "N64 Game-Engine and Editor using libdragon & tiny3d",
-    "lang": "C++",
-    "stars": "2112 stars",
+    "name": "abhigyanpatwari/GitNexus",
+    "url": "https://github.com/abhigyanpatwari/GitNexus",
+    "desc": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+    "lang": "TypeScript",
+    "stars": "1023 stars",
     "topics": []
   },
   {
@@ -47,166 +39,141 @@
     "url": "https://github.com/obra/superpowers",
     "desc": "An agentic skills framework & software development methodology that works.",
     "lang": "Shell",
-    "stars": "56207 stars",
+    "stars": "56968 stars",
     "topics": []
-  },
-  {
-    "name": "aquasecurity/trivy",
-    "url": "https://github.com/aquasecurity/trivy",
-    "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-    "lang": "Go",
-    "stars": "32091 stars",
-    "topics": [
-      "containers",
-      "devsecops",
-      "docker",
-      "go",
-      "golang",
-      "hacktoberfest",
-      "iac",
-      "infrastructure-as-code",
-      "kubernetes",
-      "misconfiguration",
-      "security",
-      "security-tools",
-      "vulnerability",
-      "vulnerability-detection",
-      "vulnerability-scanners"
-    ]
-  },
-  {
-    "name": "PostHog/posthog",
-    "url": "https://github.com/PostHog/posthog",
-    "desc": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
-    "lang": "Python",
-    "stars": "31535 stars",
-    "topics": [
-      "ab-testing",
-      "ai-analytics",
-      "analytics",
-      "cdp",
-      "data-warehouse",
-      "experiments",
-      "feature-flags",
-      "javascript",
-      "product-analytics",
-      "python",
-      "react",
-      "session-replay",
-      "surveys",
-      "typescript",
-      "web-analytics"
-    ]
-  },
-  {
-    "name": "eslint/eslint",
-    "url": "https://github.com/eslint/eslint",
-    "desc": "Find and fix problems in your JavaScript code.",
-    "lang": "JavaScript",
-    "stars": "27057 stars",
-    "topics": [
-      "ecmascript",
-      "eslint",
-      "javascript",
-      "linter",
-      "static-code-analysis"
-    ]
-  },
-  {
-    "name": "anthropics/claude-plugins-official",
-    "url": "https://github.com/anthropics/claude-plugins-official",
-    "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "lang": "Python",
-    "stars": "7855 stars",
-    "topics": [
-      "claude-code",
-      "mcp",
-      "skills"
-    ]
-  },
-  {
-    "name": "Effect-TS/effect-smol",
-    "url": "https://github.com/Effect-TS/effect-smol",
-    "desc": "Core libraries and experimental work for Effect v4",
-    "lang": "TypeScript",
-    "stars": "372 stars",
-    "topics": []
-  },
-  {
-    "name": "google-research/timesfm",
-    "url": "https://github.com/google-research/timesfm",
-    "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-    "lang": "Python",
-    "stars": "8834 stars",
-    "topics": []
-  },
-  {
-    "name": "roboflow/trackers",
-    "url": "https://github.com/roboflow/trackers",
-    "desc": "Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already use.",
-    "lang": "Python",
-    "stars": "2715 stars",
-    "topics": [
-      "bytetrack",
-      "multi-object-tracking",
-      "oc-sort",
-      "sort"
-    ]
   },
   {
     "name": "huggingface/skills",
     "url": "https://github.com/huggingface/skills",
     "desc": "Hugging Face Skills are definitions for AI/ML tasks like dataset creation, model training, and evaluation. They are interoperable with all major coding agent tools like OpenAI Codex, Anthropic's Claud",
     "lang": "Python",
-    "stars": "1411 stars",
+    "stars": "1665 stars",
     "topics": []
   },
   {
-    "name": "databricks-solutions/ai-dev-kit",
-    "url": "https://github.com/databricks-solutions/ai-dev-kit",
-    "desc": "Databricks Toolkit for Coding Agents provided by Field Engineering",
-    "lang": "Python",
-    "stars": "535 stars",
+    "name": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#",
+    "stars": "51534 stars",
     "topics": [
-      "agents",
-      "claude",
-      "cursor",
-      "databricks",
-      "vibecoding"
+      "command-line",
+      "hacktoberfest",
+      "linux",
+      "macos",
+      "netcore",
+      "powershell",
+      "shell",
+      "windows"
     ]
   },
   {
-    "name": "freemocap/freemocap",
-    "url": "https://github.com/freemocap/freemocap",
-    "desc": "Free Motion Capture for Everyone 💀✨",
-    "lang": "Python",
-    "stars": "5551 stars",
+    "name": "anthropics/claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "lang": "Shell",
+    "stars": "68386 stars",
     "topics": []
   },
   {
-    "name": "ComposioHQ/composio",
-    "url": "https://github.com/ComposioHQ/composio",
-    "desc": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+    "name": "stan-smith/FossFLOW",
+    "url": "https://github.com/stan-smith/FossFLOW",
+    "desc": "Make beautiful isometric infrastructure diagrams",
     "lang": "TypeScript",
-    "stars": "27007 stars",
+    "stars": "17759 stars",
     "topics": [
-      "agentic-ai",
+      "devops",
+      "infra",
+      "infrastructure"
+    ]
+  },
+  {
+    "name": "ggml-org/ggml",
+    "url": "https://github.com/ggml-org/ggml",
+    "desc": "Tensor library for machine learning",
+    "lang": "C++",
+    "stars": "14056 stars",
+    "topics": [
+      "automatic-differentiation",
+      "large-language-models",
+      "machine-learning",
+      "tensor-algebra"
+    ]
+  },
+  {
+    "name": "Stremio/stremio-web",
+    "url": "https://github.com/Stremio/stremio-web",
+    "desc": "Stremio - Freedom to Stream",
+    "lang": "JavaScript",
+    "stars": "9441 stars",
+    "topics": [
+      "hacktoberfest",
+      "stremio"
+    ]
+  },
+  {
+    "name": "HandsOnLLM/Hands-On-Large-Language-Models",
+    "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+    "desc": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+    "lang": "Jupyter Notebook",
+    "stars": "22539 stars",
+    "topics": [
+      "artificial-intelligence",
+      "book",
+      "large-language-models",
+      "llm",
+      "llms",
+      "oreilly",
+      "oreilly-books"
+    ]
+  },
+  {
+    "name": "RichardAtCT/claude-code-telegram",
+    "url": "https://github.com/RichardAtCT/claude-code-telegram",
+    "desc": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
+    "lang": "Python",
+    "stars": "1375 stars",
+    "topics": []
+  },
+  {
+    "name": "cloudflare/agents",
+    "url": "https://github.com/cloudflare/agents",
+    "desc": "Build and deploy AI Agents on Cloudflare ",
+    "lang": "TypeScript",
+    "stars": "3420 stars",
+    "topics": [
       "agents",
       "ai",
-      "ai-agents",
-      "aiagents",
-      "developer-tools",
-      "function-calling",
-      "gpt-4",
-      "javascript",
-      "js",
-      "llm",
-      "llmops",
-      "mcp",
-      "python",
-      "remote-mcp-server",
-      "sse",
-      "typescript"
+      "cloudflare",
+      "durable-objects",
+      "workflows"
+    ]
+  },
+  {
+    "name": "hiddify/hiddify-app",
+    "url": "https://github.com/hiddify/hiddify-app",
+    "desc": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
+    "lang": "Dart",
+    "stars": "26383 stars",
+    "topics": [
+      "clash",
+      "clashmeta",
+      "ech",
+      "hysteria",
+      "hysteria2",
+      "proxy",
+      "reality",
+      "shadowsocks",
+      "shadowtls",
+      "sing-box",
+      "singbox",
+      "ssh",
+      "tuic",
+      "v2ray",
+      "vless",
+      "vmess",
+      "wireguard",
+      "xray"
     ]
   }
 ]

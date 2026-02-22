@@ -1,10 +1,18 @@
 [
   {
+    "name": "huggingface/skills",
+    "url": "https://github.com/huggingface/skills",
+    "desc": "Hugging Face Skills are definitions for AI/ML tasks like dataset creation, model training, and evaluation. They are interoperable with all major coding agent tools like OpenAI Codex, Anthropic's Claud",
+    "lang": "Python",
+    "stars": "2530 stars",
+    "topics": []
+  },
+  {
     "name": "vxcontrol/pentagi",
     "url": "https://github.com/vxcontrol/pentagi",
     "desc": "✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
     "lang": "Go",
-    "stars": "5485 stars",
+    "stars": "6913 stars",
     "topics": [
       "ai-agents",
       "ai-security-tool",
@@ -27,77 +35,40 @@
     ]
   },
   {
-    "name": "abhigyanpatwari/GitNexus",
-    "url": "https://github.com/abhigyanpatwari/GitNexus",
-    "desc": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-    "lang": "TypeScript",
-    "stars": "1023 stars",
-    "topics": []
-  },
-  {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "56968 stars",
-    "topics": []
-  },
-  {
-    "name": "huggingface/skills",
-    "url": "https://github.com/huggingface/skills",
-    "desc": "Hugging Face Skills are definitions for AI/ML tasks like dataset creation, model training, and evaluation. They are interoperable with all major coding agent tools like OpenAI Codex, Anthropic's Claud",
-    "lang": "Python",
-    "stars": "1665 stars",
-    "topics": []
-  },
-  {
-    "name": "PowerShell/PowerShell",
-    "url": "https://github.com/PowerShell/PowerShell",
-    "desc": "PowerShell for every system!",
-    "lang": "C#",
-    "stars": "51534 stars",
-    "topics": [
-      "command-line",
-      "hacktoberfest",
-      "linux",
-      "macos",
-      "netcore",
-      "powershell",
-      "shell",
-      "windows"
-    ]
-  },
-  {
     "name": "anthropics/claude-code",
     "url": "https://github.com/anthropics/claude-code",
     "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
     "lang": "Shell",
-    "stars": "68386 stars",
+    "stars": "68930 stars",
     "topics": []
   },
   {
-    "name": "stan-smith/FossFLOW",
-    "url": "https://github.com/stan-smith/FossFLOW",
-    "desc": "Make beautiful isometric infrastructure diagrams",
-    "lang": "TypeScript",
-    "stars": "17759 stars",
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "desc": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+    "lang": "Unknown",
+    "stars": "117660 stars",
     "topics": [
-      "devops",
-      "infra",
-      "infrastructure"
-    ]
-  },
-  {
-    "name": "ggml-org/ggml",
-    "url": "https://github.com/ggml-org/ggml",
-    "desc": "Tensor library for machine learning",
-    "lang": "C++",
-    "stars": "14056 stars",
-    "topics": [
-      "automatic-differentiation",
-      "large-language-models",
-      "machine-learning",
-      "tensor-algebra"
+      "ai",
+      "bolt",
+      "cluely",
+      "copilot",
+      "cursor",
+      "cursorai",
+      "devin",
+      "github-copilot",
+      "lovable",
+      "open-source",
+      "perplexity",
+      "replit",
+      "system-prompts",
+      "trae",
+      "trae-ai",
+      "trae-ide",
+      "v0",
+      "vscode",
+      "windsurf",
+      "windsurf-ai"
     ]
   },
   {
@@ -105,42 +76,40 @@
     "url": "https://github.com/Stremio/stremio-web",
     "desc": "Stremio - Freedom to Stream",
     "lang": "JavaScript",
-    "stars": "9441 stars",
+    "stars": "9690 stars",
     "topics": [
       "hacktoberfest",
       "stremio"
     ]
   },
   {
-    "name": "HandsOnLLM/Hands-On-Large-Language-Models",
-    "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
-    "desc": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
-    "lang": "Jupyter Notebook",
-    "stars": "22539 stars",
-    "topics": [
-      "artificial-intelligence",
-      "book",
-      "large-language-models",
-      "llm",
-      "llms",
-      "oreilly",
-      "oreilly-books"
-    ]
-  },
-  {
-    "name": "RichardAtCT/claude-code-telegram",
-    "url": "https://github.com/RichardAtCT/claude-code-telegram",
-    "desc": "A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.",
+    "name": "OpenBB-finance/OpenBB",
+    "url": "https://github.com/OpenBB-finance/OpenBB",
+    "desc": "Financial data platform for analysts, quants and AI agents.",
     "lang": "Python",
-    "stars": "1375 stars",
-    "topics": []
+    "stars": "60967 stars",
+    "topics": [
+      "ai",
+      "crypto",
+      "derivatives",
+      "economics",
+      "equity",
+      "finance",
+      "fixed-income",
+      "machine-learning",
+      "openbb",
+      "options",
+      "python",
+      "quantitative-finance",
+      "stocks"
+    ]
   },
   {
     "name": "cloudflare/agents",
     "url": "https://github.com/cloudflare/agents",
     "desc": "Build and deploy AI Agents on Cloudflare ",
     "lang": "TypeScript",
-    "stars": "3420 stars",
+    "stars": "3711 stars",
     "topics": [
       "agents",
       "ai",
@@ -150,30 +119,23 @@
     ]
   },
   {
-    "name": "hiddify/hiddify-app",
-    "url": "https://github.com/hiddify/hiddify-app",
-    "desc": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
-    "lang": "Dart",
-    "stars": "26383 stars",
+    "name": "abhigyanpatwari/GitNexus",
+    "url": "https://github.com/abhigyanpatwari/GitNexus",
+    "desc": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+    "lang": "TypeScript",
+    "stars": "1470 stars",
+    "topics": []
+  },
+  {
+    "name": "stan-smith/FossFLOW",
+    "url": "https://github.com/stan-smith/FossFLOW",
+    "desc": "Make beautiful isometric infrastructure diagrams",
+    "lang": "TypeScript",
+    "stars": "18138 stars",
     "topics": [
-      "clash",
-      "clashmeta",
-      "ech",
-      "hysteria",
-      "hysteria2",
-      "proxy",
-      "reality",
-      "shadowsocks",
-      "shadowtls",
-      "sing-box",
-      "singbox",
-      "ssh",
-      "tuic",
-      "v2ray",
-      "vless",
-      "vmess",
-      "wireguard",
-      "xray"
+      "devops",
+      "infra",
+      "infrastructure"
     ]
   }
 ]

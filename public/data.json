@@ -1,10 +1,26 @@
 [
   {
+    "name": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "lang": "Unknown",
+    "stars": "7268 stars",
+    "topics": []
+  },
+  {
+    "name": "TheCraigHewitt/seomachine",
+    "url": "https://github.com/TheCraigHewitt/seomachine",
+    "desc": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+    "lang": "Python",
+    "stars": "1598 stars",
+    "topics": []
+  },
+  {
     "name": "KeygraphHQ/shannon",
     "url": "https://github.com/KeygraphHQ/shannon",
-    "desc": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.",
+    "desc": "Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.",
     "lang": "TypeScript",
-    "stars": "30215 stars",
+    "stars": "31786 stars",
     "topics": [
       "penetration-testing",
       "pentesting",
@@ -14,19 +30,11 @@
     ]
   },
   {
-    "name": "msitarzewski/agency-agents",
-    "url": "https://github.com/msitarzewski/agency-agents",
-    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "lang": "Unknown",
-    "stars": "5384 stars",
-    "topics": []
-  },
-  {
     "name": "aquasecurity/trivy",
     "url": "https://github.com/aquasecurity/trivy",
     "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
     "lang": "Go",
-    "stars": "842 stars",
+    "stars": "32878 stars",
     "topics": [
       "containers",
       "devsecops",
@@ -46,131 +54,11 @@
     ]
   },
   {
-    "name": "K-Dense-AI/claude-scientific-skills",
-    "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
-    "desc": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
-    "lang": "Python",
-    "stars": "12690 stars",
-    "topics": [
-      "agent-skills",
-      "ai-scientist",
-      "bioinformatics",
-      "chemoinformatics",
-      "claude",
-      "claude-skills",
-      "claudecode",
-      "clinical-research",
-      "computational-biology",
-      "data-analysis",
-      "drug-discovery",
-      "genomics",
-      "materials-science",
-      "metabolomics",
-      "proteomics",
-      "scientific-computing",
-      "scientific-visualization"
-    ]
-  },
-  {
-    "name": "CodebuffAI/codebuff",
-    "url": "https://github.com/CodebuffAI/codebuff",
-    "desc": "Generate code from the terminal!",
-    "lang": "TypeScript",
-    "stars": "3557 stars",
-    "topics": []
-  },
-  {
-    "name": "agentscope-ai/ReMe",
-    "url": "https://github.com/agentscope-ai/ReMe",
-    "desc": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
-    "lang": "Python",
-    "stars": "1606 stars",
-    "topics": [
-      "agent",
-      "ai-agents",
-      "memory",
-      "memoryscope",
-      "rag",
-      "reme"
-    ]
-  },
-  {
-    "name": "alibaba/OpenSandbox",
-    "url": "https://github.com/alibaba/OpenSandbox",
-    "desc": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
-    "lang": "Python",
-    "stars": "5948 stars",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-infra",
-      "kubernetes",
-      "sandbox"
-    ]
-  },
-  {
-    "name": "FujiwaraChoki/MoneyPrinterV2",
-    "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
-    "desc": "Automate the process of making money online.",
-    "lang": "Python",
-    "stars": "14171 stars",
-    "topics": [
-      "automation",
-      "cli",
-      "json",
-      "money",
-      "outreach",
-      "python",
-      "twitter",
-      "youtube"
-    ]
-  },
-  {
-    "name": "ItzCrazyKns/Perplexica",
-    "url": "https://github.com/ItzCrazyKns/Perplexica",
-    "desc": "Perplexica is an AI-powered answering engine.",
-    "lang": "TypeScript",
-    "stars": "30816 stars",
-    "topics": [
-      "ai-agents",
-      "ai-search-engine",
-      "answering-engine",
-      "artificial-intelligence",
-      "llm",
-      "machine-learning",
-      "open-source-ai-search-engine",
-      "perplexica",
-      "rag",
-      "search-engine",
-      "searxng",
-      "searxng-copilot",
-      "self-hosted-ai"
-    ]
-  },
-  {
-    "name": "agentscope-ai/agentscope",
-    "url": "https://github.com/agentscope-ai/agentscope",
-    "desc": "Build and run agents you can see, understand and trust.",
-    "lang": "Python",
-    "stars": "17364 stars",
-    "topics": [
-      "agent",
-      "chatbot",
-      "large-language-models",
-      "llm",
-      "llm-agent",
-      "mcp",
-      "multi-agent",
-      "multi-modal",
-      "react-agent"
-    ]
-  },
-  {
     "name": "moeru-ai/airi",
     "url": "https://github.com/moeru-ai/airi",
     "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
     "lang": "TypeScript",
-    "stars": "24595 stars",
+    "stars": "27310 stars",
     "topics": [
       "ai-companion",
       "ai-vtuber",
@@ -186,51 +74,91 @@
     ]
   },
   {
-    "name": "nautechsystems/nautilus_trader",
-    "url": "https://github.com/nautechsystems/nautilus_trader",
-    "desc": "A high-performance algorithmic trading platform and event-driven backtester",
-    "lang": "Rust",
-    "stars": "20712 stars",
+    "name": "inclusionAI/AReaL",
+    "url": "https://github.com/inclusionAI/AReaL",
+    "desc": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
+    "lang": "Python",
+    "stars": "4066 stars",
     "topics": [
-      "algorithmic-trading-engine",
-      "artificial-intelligence",
-      "crypto-trading",
-      "equity-trading",
-      "forex",
-      "futures-trading",
-      "machine-learning",
-      "options-trading",
-      "python",
-      "rust",
-      "sports-betting",
-      "trading",
-      "trading-platform"
+      "agent",
+      "llm",
+      "llm-agent",
+      "llm-reasoning",
+      "machine-learning-systems",
+      "mlsys",
+      "reinforcement-learning",
+      "rl"
     ]
   },
   {
-    "name": "FlowiseAI/Flowise",
-    "url": "https://github.com/FlowiseAI/Flowise",
-    "desc": "Build AI Agents, Visually",
-    "lang": "TypeScript",
-    "stars": "50045 stars",
+    "name": "microsoft/mcp-for-beginners",
+    "url": "https://github.com/microsoft/mcp-for-beginners",
+    "desc": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
+    "lang": "Jupyter Notebook",
+    "stars": "14882 stars",
     "topics": [
-      "agentic-ai",
-      "agentic-workflow",
-      "agents",
-      "artificial-intelligence",
-      "chatbot",
-      "chatgpt",
+      "csharp",
+      "java",
       "javascript",
-      "langchain",
-      "large-language-models",
-      "low-code",
-      "multiagent-systems",
-      "no-code",
-      "openai",
-      "rag",
-      "react",
-      "typescript",
-      "workflow-automation"
+      "javascript-applications",
+      "mcp",
+      "mcp-client",
+      "mcp-security",
+      "mcp-server",
+      "model",
+      "model-context-protocol",
+      "modelcontextprotocol",
+      "python",
+      "rust",
+      "typescript"
     ]
+  },
+  {
+    "name": "CodebuffAI/codebuff",
+    "url": "https://github.com/CodebuffAI/codebuff",
+    "desc": "Generate code from the terminal!",
+    "lang": "TypeScript",
+    "stars": "3849 stars",
+    "topics": []
+  },
+  {
+    "name": "FujiwaraChoki/MoneyPrinterV2",
+    "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+    "desc": "Automate the process of making money online.",
+    "lang": "Python",
+    "stars": "14676 stars",
+    "topics": [
+      "automation",
+      "cli",
+      "json",
+      "money",
+      "outreach",
+      "python",
+      "twitter",
+      "youtube"
+    ]
+  },
+  {
+    "name": "agentscope-ai/ReMe",
+    "url": "https://github.com/agentscope-ai/ReMe",
+    "desc": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+    "lang": "Python",
+    "stars": "1799 stars",
+    "topics": [
+      "agent",
+      "ai-agents",
+      "memory",
+      "memoryscope",
+      "rag",
+      "reme"
+    ]
+  },
+  {
+    "name": "microsoft/hve-core",
+    "url": "https://github.com/microsoft/hve-core",
+    "desc": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
+    "lang": "PowerShell",
+    "stars": "287 stars",
+    "topics": []
   }
 ]

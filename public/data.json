@@ -1,64 +1,10 @@
 [
   {
-    "name": "msitarzewski/agency-agents",
-    "url": "https://github.com/msitarzewski/agency-agents",
-    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "lang": "Unknown",
-    "stars": "7268 stars",
-    "topics": []
-  },
-  {
-    "name": "TheCraigHewitt/seomachine",
-    "url": "https://github.com/TheCraigHewitt/seomachine",
-    "desc": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
-    "lang": "Python",
-    "stars": "1598 stars",
-    "topics": []
-  },
-  {
-    "name": "KeygraphHQ/shannon",
-    "url": "https://github.com/KeygraphHQ/shannon",
-    "desc": "Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.",
-    "lang": "TypeScript",
-    "stars": "31786 stars",
-    "topics": [
-      "penetration-testing",
-      "pentesting",
-      "security-audit",
-      "security-automation",
-      "security-tools"
-    ]
-  },
-  {
-    "name": "aquasecurity/trivy",
-    "url": "https://github.com/aquasecurity/trivy",
-    "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-    "lang": "Go",
-    "stars": "32878 stars",
-    "topics": [
-      "containers",
-      "devsecops",
-      "docker",
-      "go",
-      "golang",
-      "hacktoberfest",
-      "iac",
-      "infrastructure-as-code",
-      "kubernetes",
-      "misconfiguration",
-      "security",
-      "security-tools",
-      "vulnerability",
-      "vulnerability-detection",
-      "vulnerability-scanners"
-    ]
-  },
-  {
     "name": "moeru-ai/airi",
     "url": "https://github.com/moeru-ai/airi",
     "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
     "lang": "TypeScript",
-    "stars": "27310 stars",
+    "stars": "29472 stars",
     "topics": [
       "ai-companion",
       "ai-vtuber",
@@ -74,11 +20,45 @@
     ]
   },
   {
+    "name": "QwenLM/Qwen-Agent",
+    "url": "https://github.com/QwenLM/Qwen-Agent",
+    "desc": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
+    "lang": "Python",
+    "stars": "14603 stars",
+    "topics": []
+  },
+  {
+    "name": "microsoft/hve-core",
+    "url": "https://github.com/microsoft/hve-core",
+    "desc": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
+    "lang": "PowerShell",
+    "stars": "541 stars",
+    "topics": []
+  },
+  {
+    "name": "Ed1s0nZ/CyberStrikeAI",
+    "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+    "desc": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
+    "lang": "Go",
+    "stars": "1591 stars",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-cybersecurity",
+      "ai-hacking",
+      "ai-penetration-testing",
+      "ai-security-tool",
+      "ctf-tools",
+      "mcp",
+      "pentesting-tools"
+    ]
+  },
+  {
     "name": "inclusionAI/AReaL",
     "url": "https://github.com/inclusionAI/AReaL",
     "desc": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
     "lang": "Python",
-    "stars": "4066 stars",
+    "stars": "4386 stars",
     "topics": [
       "agent",
       "llm",
@@ -91,74 +71,56 @@
     ]
   },
   {
-    "name": "microsoft/mcp-for-beginners",
-    "url": "https://github.com/microsoft/mcp-for-beginners",
-    "desc": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
-    "lang": "Jupyter Notebook",
-    "stars": "14882 stars",
-    "topics": [
-      "csharp",
-      "java",
-      "javascript",
-      "javascript-applications",
-      "mcp",
-      "mcp-client",
-      "mcp-security",
-      "mcp-server",
-      "model",
-      "model-context-protocol",
-      "modelcontextprotocol",
-      "python",
-      "rust",
-      "typescript"
-    ]
-  },
-  {
-    "name": "CodebuffAI/codebuff",
-    "url": "https://github.com/CodebuffAI/codebuff",
-    "desc": "Generate code from the terminal!",
-    "lang": "TypeScript",
-    "stars": "3849 stars",
+    "name": "lingfengQAQ/webnovel-writer",
+    "url": "https://github.com/lingfengQAQ/webnovel-writer",
+    "desc": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。",
+    "lang": "Python",
+    "stars": "762 stars",
     "topics": []
   },
   {
-    "name": "FujiwaraChoki/MoneyPrinterV2",
-    "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
-    "desc": "Automate the process of making money online.",
+    "name": "openai/skills",
+    "url": "https://github.com/openai/skills",
+    "desc": "Skills Catalog for Codex",
     "lang": "Python",
-    "stars": "14676 stars",
+    "stars": "11930 stars",
+    "topics": []
+  },
+  {
+    "name": "TheCraigHewitt/seomachine",
+    "url": "https://github.com/TheCraigHewitt/seomachine",
+    "desc": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+    "lang": "Python",
+    "stars": "2124 stars",
+    "topics": []
+  },
+  {
+    "name": "virattt/ai-hedge-fund",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "desc": "An AI Hedge Fund Team",
+    "lang": "Python",
+    "stars": "46320 stars",
+    "topics": []
+  },
+  {
+    "name": "aidenybai/react-grab",
+    "url": "https://github.com/aidenybai/react-grab",
+    "desc": "Select context for coding agents directly from your website",
+    "lang": "TypeScript",
+    "stars": "5983 stars",
     "topics": [
-      "automation",
-      "cli",
-      "json",
-      "money",
-      "outreach",
-      "python",
-      "twitter",
-      "youtube"
+      "ai",
+      "coding",
+      "react",
+      "react-grab"
     ]
   },
   {
-    "name": "agentscope-ai/ReMe",
-    "url": "https://github.com/agentscope-ai/ReMe",
-    "desc": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
-    "lang": "Python",
-    "stars": "1799 stars",
-    "topics": [
-      "agent",
-      "ai-agents",
-      "memory",
-      "memoryscope",
-      "rag",
-      "reme"
-    ]
-  },
-  {
-    "name": "microsoft/hve-core",
-    "url": "https://github.com/microsoft/hve-core",
-    "desc": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
-    "lang": "PowerShell",
-    "stars": "287 stars",
+    "name": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "lang": "Unknown",
+    "stars": "9772 stars",
     "topics": []
   }
 ]

@@ -1,22 +1,78 @@
 [
   {
-    "name": "moeru-ai/airi",
-    "url": "https://github.com/moeru-ai/airi",
-    "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-    "lang": "TypeScript",
-    "stars": "29472 stars",
+    "name": "666ghj/MiroFish",
+    "url": "https://github.com/666ghj/MiroFish",
+    "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "lang": "Python",
+    "stars": "5607 stars",
     "topics": [
-      "ai-companion",
-      "ai-vtuber",
-      "clawdbot",
-      "digital-life",
-      "grok-companion",
-      "live2d",
-      "moltbot",
-      "neuro-sama",
-      "neurosama",
-      "vrm",
-      "vtuber"
+      "agent-memory",
+      "financial-forecasting",
+      "future-prediction",
+      "knowledge-graph",
+      "llms",
+      "multi-agent-simulation",
+      "public-opinion-analysis",
+      "python3",
+      "social-prediction",
+      "swarm-intelligence"
+    ]
+  },
+  {
+    "name": "openai/skills",
+    "url": "https://github.com/openai/skills",
+    "desc": "Skills Catalog for Codex",
+    "lang": "Python",
+    "stars": "12681 stars",
+    "topics": []
+  },
+  {
+    "name": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "lang": "Shell",
+    "stars": "10732 stars",
+    "topics": []
+  },
+  {
+    "name": "GoogleCloudPlatform/generative-ai",
+    "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+    "desc": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+    "lang": "Jupyter Notebook",
+    "stars": "13499 stars",
+    "topics": [
+      "agents",
+      "gcp",
+      "gemini",
+      "gemini-api",
+      "gen-ai",
+      "generative-ai",
+      "google",
+      "google-cloud",
+      "google-gemini",
+      "langchain",
+      "large-language-models",
+      "llm",
+      "vertex-ai",
+      "vertex-ai-gemini-api",
+      "vertexai"
+    ]
+  },
+  {
+    "name": "agentjido/jido",
+    "url": "https://github.com/agentjido/jido",
+    "desc": "🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",
+    "lang": "Elixir",
+    "stars": "1413 stars",
+    "topics": [
+      "agent",
+      "ai",
+      "artificial-intelligence",
+      "elixir",
+      "event-driven-architecture",
+      "functional-programming",
+      "orchestration",
+      "workflow"
     ]
   },
   {
@@ -24,74 +80,7 @@
     "url": "https://github.com/QwenLM/Qwen-Agent",
     "desc": "Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.",
     "lang": "Python",
-    "stars": "14603 stars",
-    "topics": []
-  },
-  {
-    "name": "microsoft/hve-core",
-    "url": "https://github.com/microsoft/hve-core",
-    "desc": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
-    "lang": "PowerShell",
-    "stars": "541 stars",
-    "topics": []
-  },
-  {
-    "name": "Ed1s0nZ/CyberStrikeAI",
-    "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-    "desc": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
-    "lang": "Go",
-    "stars": "1591 stars",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-cybersecurity",
-      "ai-hacking",
-      "ai-penetration-testing",
-      "ai-security-tool",
-      "ctf-tools",
-      "mcp",
-      "pentesting-tools"
-    ]
-  },
-  {
-    "name": "inclusionAI/AReaL",
-    "url": "https://github.com/inclusionAI/AReaL",
-    "desc": "Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.",
-    "lang": "Python",
-    "stars": "4386 stars",
-    "topics": [
-      "agent",
-      "llm",
-      "llm-agent",
-      "llm-reasoning",
-      "machine-learning-systems",
-      "mlsys",
-      "reinforcement-learning",
-      "rl"
-    ]
-  },
-  {
-    "name": "lingfengQAQ/webnovel-writer",
-    "url": "https://github.com/lingfengQAQ/webnovel-writer",
-    "desc": "基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。",
-    "lang": "Python",
-    "stars": "762 stars",
-    "topics": []
-  },
-  {
-    "name": "openai/skills",
-    "url": "https://github.com/openai/skills",
-    "desc": "Skills Catalog for Codex",
-    "lang": "Python",
-    "stars": "11930 stars",
-    "topics": []
-  },
-  {
-    "name": "TheCraigHewitt/seomachine",
-    "url": "https://github.com/TheCraigHewitt/seomachine",
-    "desc": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
-    "lang": "Python",
-    "stars": "2124 stars",
+    "stars": "15001 stars",
     "topics": []
   },
   {
@@ -99,28 +88,76 @@
     "url": "https://github.com/virattt/ai-hedge-fund",
     "desc": "An AI Hedge Fund Team",
     "lang": "Python",
-    "stars": "46320 stars",
+    "stars": "46562 stars",
     "topics": []
   },
   {
-    "name": "aidenybai/react-grab",
-    "url": "https://github.com/aidenybai/react-grab",
-    "desc": "Select context for coding agents directly from your website",
+    "name": "microsoft/hve-core",
+    "url": "https://github.com/microsoft/hve-core",
+    "desc": "A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all Copilots",
+    "lang": "PowerShell",
+    "stars": "742 stars",
+    "topics": []
+  },
+  {
+    "name": "toeverything/AFFiNE",
+    "url": "https://github.com/toeverything/AFFiNE",
+    "desc": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
     "lang": "TypeScript",
-    "stars": "5983 stars",
+    "stars": "64663 stars",
     "topics": [
-      "ai",
-      "coding",
-      "react",
-      "react-grab"
+      "app",
+      "crdt",
+      "editor",
+      "electron",
+      "knowledge-base",
+      "markdown",
+      "miro",
+      "notes",
+      "notion",
+      "notion-alternative",
+      "rust",
+      "rust-lang",
+      "rust-language",
+      "table",
+      "tableview",
+      "whiteboard",
+      "wiki",
+      "workspace"
     ]
   },
   {
-    "name": "msitarzewski/agency-agents",
-    "url": "https://github.com/msitarzewski/agency-agents",
-    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "lang": "Unknown",
-    "stars": "9772 stars",
-    "topics": []
+    "name": "shadcn-ui/ui",
+    "url": "https://github.com/shadcn-ui/ui",
+    "desc": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+    "lang": "TypeScript",
+    "stars": "108150 stars",
+    "topics": [
+      "base-ui",
+      "components",
+      "nextjs",
+      "radix-ui",
+      "react",
+      "shadcn",
+      "tailwindcss",
+      "ui"
+    ]
+  },
+  {
+    "name": "alibaba/page-agent",
+    "url": "https://github.com/alibaba/page-agent",
+    "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "lang": "TypeScript",
+    "stars": "1320 stars",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "browser-automation",
+      "javascript",
+      "typescript",
+      "ui-automation",
+      "web"
+    ]
   }
 ]

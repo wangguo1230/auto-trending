@@ -4,7 +4,7 @@
     "url": "https://github.com/GoogleCloudPlatform/generative-ai",
     "desc": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
     "lang": "Jupyter Notebook",
-    "stars": "14316 stars",
+    "stars": "15251 stars",
     "topics": [
       "agents",
       "gcp",
@@ -24,11 +24,27 @@
     ]
   },
   {
+    "name": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "lang": "TypeScript",
+    "stars": "289726 stars",
+    "topics": [
+      "ai",
+      "assistant",
+      "crustacean",
+      "molty",
+      "openclaw",
+      "own-your-data",
+      "personal"
+    ]
+  },
+  {
     "name": "666ghj/MiroFish",
     "url": "https://github.com/666ghj/MiroFish",
     "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
     "lang": "Python",
-    "stars": "6887 stars",
+    "stars": "10678 stars",
     "topics": [
       "agent-memory",
       "financial-forecasting",
@@ -43,173 +59,149 @@
     ]
   },
   {
-    "name": "shadcn-ui/ui",
-    "url": "https://github.com/shadcn-ui/ui",
-    "desc": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
-    "lang": "TypeScript",
-    "stars": "108647 stars",
-    "topics": [
-      "base-ui",
-      "components",
-      "nextjs",
-      "radix-ui",
-      "react",
-      "shadcn",
-      "tailwindcss",
-      "ui"
-    ]
-  },
-  {
-    "name": "openclaw/openclaw",
-    "url": "https://github.com/openclaw/openclaw",
-    "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-    "lang": "TypeScript",
-    "stars": "280268 stars",
-    "topics": [
-      "ai",
-      "assistant",
-      "crustacean",
-      "molty",
-      "openclaw",
-      "own-your-data",
-      "personal"
-    ]
-  },
-  {
-    "name": "toeverything/AFFiNE",
-    "url": "https://github.com/toeverything/AFFiNE",
-    "desc": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
-    "lang": "TypeScript",
-    "stars": "65199 stars",
-    "topics": [
-      "app",
-      "crdt",
-      "editor",
-      "electron",
-      "knowledge-base",
-      "markdown",
-      "miro",
-      "notes",
-      "notion",
-      "notion-alternative",
-      "rust",
-      "rust-lang",
-      "rust-language",
-      "table",
-      "tableview",
-      "whiteboard",
-      "wiki",
-      "workspace"
-    ]
-  },
-  {
-    "name": "Ed1s0nZ/CyberStrikeAI",
-    "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-    "desc": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
-    "lang": "Go",
-    "stars": "2236 stars",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-cybersecurity",
-      "ai-hacking",
-      "ai-penetration-testing",
-      "ai-security-tool",
-      "ctf-tools",
-      "mcp",
-      "pentesting-tools"
-    ]
-  },
-  {
-    "name": "shareAI-lab/learn-claude-code",
-    "url": "https://github.com/shareAI-lab/learn-claude-code",
-    "desc": "Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1",
-    "lang": "TypeScript",
-    "stars": "23827 stars",
-    "topics": [
-      "agent",
-      "agent-development",
-      "ai-agent",
-      "claude",
-      "claude-code",
-      "educational",
-      "llm",
-      "python",
-      "teaching",
-      "tutorial"
-    ]
-  },
-  {
-    "name": "openai/skills",
-    "url": "https://github.com/openai/skills",
-    "desc": "Skills Catalog for Codex",
+    "name": "karpathy/nanochat",
+    "url": "https://github.com/karpathy/nanochat",
+    "desc": "The best ChatGPT that $100 can buy.",
     "lang": "Python",
-    "stars": "13195 stars",
+    "stars": "45464 stars",
     "topics": []
   },
   {
-    "name": "virattt/ai-hedge-fund",
-    "url": "https://github.com/virattt/ai-hedge-fund",
-    "desc": "An AI Hedge Fund Team",
+    "name": "666ghj/BettaFish",
+    "url": "https://github.com/666ghj/BettaFish",
+    "desc": "微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。",
     "lang": "Python",
-    "stars": "46815 stars",
+    "stars": "37310 stars",
+    "topics": [
+      "agent-framework",
+      "data-analysis",
+      "deep-research",
+      "deep-search",
+      "llms",
+      "multi-agent-system",
+      "nlp",
+      "public-opinion-analysis",
+      "python3",
+      "sentiment-analysis"
+    ]
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "desc": "The agent that grows with you",
+    "lang": "Python",
+    "stars": "2933 stars",
     "topics": []
-  },
-  {
-    "name": "is-a-dev/register",
-    "url": "https://github.com/is-a-dev/register",
-    "desc": "Grab your own sweet-looking '.is-a.dev' subdomain.",
-    "lang": "JavaScript",
-    "stars": "9774 stars",
-    "topics": [
-      "cloudflare",
-      "dev",
-      "developer",
-      "dns",
-      "domain",
-      "foss",
-      "free",
-      "free-domain",
-      "free-for-dev",
-      "free-for-developers",
-      "github-pages",
-      "oss",
-      "subdomain",
-      "website"
-    ]
-  },
-  {
-    "name": "teng-lin/notebooklm-py",
-    "url": "https://github.com/teng-lin/notebooklm-py",
-    "desc": "Unofficial Python API for Google NotebookLM",
-    "lang": "Python",
-    "stars": "3705 stars",
-    "topics": [
-      "ai-automation",
-      "api",
-      "audio-overview",
-      "claude",
-      "cli-tool",
-      "flashcards",
-      "google-notebooklm",
-      "notebooklm",
-      "notebooklm-api",
-      "notebookln",
-      "podcast-generator",
-      "python",
-      "python-api",
-      "quiz-generator",
-      "sdk",
-      "skills",
-      "study-tools"
-    ]
   },
   {
     "name": "pbakaus/impeccable",
     "url": "https://github.com/pbakaus/impeccable",
     "desc": "The design language that makes your AI harness better at design.",
     "lang": "JavaScript",
-    "stars": "1703 stars",
+    "stars": "2916 stars",
     "topics": []
+  },
+  {
+    "name": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "lang": "Shell",
+    "stars": "18903 stars",
+    "topics": []
+  },
+  {
+    "name": "alibaba/page-agent",
+    "url": "https://github.com/alibaba/page-agent",
+    "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "lang": "TypeScript",
+    "stars": "2525 stars",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "browser-automation",
+      "javascript",
+      "typescript",
+      "ui-automation",
+      "web"
+    ]
+  },
+  {
+    "name": "alirezarezvani/claude-skills",
+    "url": "https://github.com/alirezarezvani/claude-skills",
+    "desc": "169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.",
+    "lang": "Python",
+    "stars": "3300 stars",
+    "topics": [
+      "agentic-ai",
+      "agentic-coding",
+      "ai-coding-agent",
+      "ai-plugins",
+      "anthropic-claude",
+      "claude-ai",
+      "claude-ai-skills",
+      "claude-code",
+      "claude-code-plugins",
+      "claude-code-skills",
+      "claude-skills",
+      "claudecode-subagents",
+      "developer-tools",
+      "devtools",
+      "mcp-tools",
+      "openai-codex",
+      "prompt-engineering"
+    ]
+  },
+  {
+    "name": "Raphire/Win11Debloat",
+    "url": "https://github.com/Raphire/Win11Debloat",
+    "desc": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+    "lang": "PowerShell",
+    "stars": "41178 stars",
+    "topics": [
+      "automated",
+      "bloatware",
+      "bloatware-removal",
+      "cleanup",
+      "cli",
+      "debloat",
+      "debloater",
+      "interactive",
+      "optimize",
+      "powershell",
+      "powershell-script",
+      "privacy",
+      "ps1",
+      "registry-tweaks",
+      "tweaks",
+      "windows",
+      "windows-10",
+      "windows-11",
+      "windows10",
+      "windows11"
+    ]
+  },
+  {
+    "name": "teng-lin/notebooklm-py",
+    "url": "https://github.com/teng-lin/notebooklm-py",
+    "desc": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+    "lang": "Python",
+    "stars": "4205 stars",
+    "topics": [
+      "agentic-skill",
+      "api",
+      "claude",
+      "claude-skills",
+      "google-notebooklm",
+      "notebooklm",
+      "notebooklm-api",
+      "notebooklm-skill",
+      "openclaw-skills",
+      "podcast-generator",
+      "python",
+      "python-api",
+      "sdk",
+      "skills"
+    ]
   }
 ]

@@ -4,7 +4,7 @@
     "url": "https://github.com/msitarzewski/agency-agents",
     "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
     "lang": "Shell",
-    "stars": "25060 stars",
+    "stars": "29890 stars",
     "topics": []
   },
   {
@@ -12,7 +12,7 @@
     "url": "https://github.com/666ghj/MiroFish",
     "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
     "lang": "Python",
-    "stars": "14024 stars",
+    "stars": "16690 stars",
     "topics": [
       "agent-memory",
       "financial-forecasting",
@@ -27,19 +27,11 @@
     ]
   },
   {
-    "name": "NousResearch/hermes-agent",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "desc": "The agent that grows with you",
-    "lang": "Python",
-    "stars": "3710 stars",
-    "topics": []
-  },
-  {
     "name": "promptfoo/promptfoo",
     "url": "https://github.com/promptfoo/promptfoo",
-    "desc": "Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+    "desc": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
     "lang": "TypeScript",
-    "stars": "11911 stars",
+    "stars": "12529 stars",
     "topics": [
       "ci",
       "ci-cd",
@@ -62,27 +54,27 @@
     ]
   },
   {
-    "name": "GoogleCloudPlatform/generative-ai",
-    "url": "https://github.com/GoogleCloudPlatform/generative-ai",
-    "desc": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
-    "lang": "Jupyter Notebook",
-    "stars": "15705 stars",
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "77997 stars",
+    "topics": []
+  },
+  {
+    "name": "fishaudio/fish-speech",
+    "url": "https://github.com/fishaudio/fish-speech",
+    "desc": "SOTA Open Source TTS",
+    "lang": "Python",
+    "stars": "25746 stars",
     "topics": [
-      "agents",
-      "gcp",
-      "gemini",
-      "gemini-api",
-      "gen-ai",
-      "generative-ai",
-      "google",
-      "google-cloud",
-      "google-gemini",
-      "langchain",
-      "large-language-models",
-      "llm",
-      "vertex-ai",
-      "vertex-ai-gemini-api",
-      "vertexai"
+      "llama",
+      "transformer",
+      "tts",
+      "valle",
+      "vits",
+      "vqgan",
+      "vqvae"
     ]
   },
   {
@@ -90,23 +82,7 @@
     "url": "https://github.com/virattt/ai-hedge-fund",
     "desc": "An AI Hedge Fund Team",
     "lang": "Python",
-    "stars": "47535 stars",
-    "topics": []
-  },
-  {
-    "name": "karpathy/nanochat",
-    "url": "https://github.com/karpathy/nanochat",
-    "desc": "The best ChatGPT that $100 can buy.",
-    "lang": "Python",
-    "stars": "46202 stars",
-    "topics": []
-  },
-  {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "76503 stars",
+    "stars": "48122 stars",
     "topics": []
   },
   {
@@ -114,7 +90,7 @@
     "url": "https://github.com/alibaba/page-agent",
     "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
     "lang": "TypeScript",
-    "stars": "3548 stars",
+    "stars": "4680 stars",
     "topics": [
       "agent",
       "ai",
@@ -127,67 +103,36 @@
     ]
   },
   {
-    "name": "sepinf-inc/IPED",
-    "url": "https://github.com/sepinf-inc/IPED",
-    "desc": "IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.",
-    "lang": "Java",
-    "stars": "2192 stars",
-    "topics": [
-      "digital-forensics",
-      "forensic",
-      "recovery"
-    ]
-  },
-  {
-    "name": "openclaw/openclaw",
-    "url": "https://github.com/openclaw/openclaw",
-    "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-    "lang": "TypeScript",
-    "stars": "298119 stars",
-    "topics": [
-      "ai",
-      "assistant",
-      "crustacean",
-      "molty",
-      "openclaw",
-      "own-your-data",
-      "personal"
-    ]
-  },
-  {
-    "name": "pbakaus/impeccable",
-    "url": "https://github.com/pbakaus/impeccable",
-    "desc": "The design language that makes your AI harness better at design.",
-    "lang": "JavaScript",
-    "stars": "3629 stars",
+    "name": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "desc": "The agent that grows with you",
+    "lang": "Python",
+    "stars": "5170 stars",
     "topics": []
   },
   {
-    "name": "bytedance/deer-flow",
-    "url": "https://github.com/bytedance/deer-flow",
-    "desc": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+    "name": "AstrBotDevs/AstrBot",
+    "url": "https://github.com/AstrBotDevs/AstrBot",
+    "desc": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
     "lang": "Python",
-    "stars": "28496 stars",
+    "stars": "21022 stars",
     "topics": [
       "agent",
-      "agentic",
-      "agentic-framework",
-      "agentic-workflow",
       "ai",
-      "ai-agents",
-      "bytedance",
-      "deep-research",
-      "harness",
-      "langchain",
-      "langgraph",
-      "langmanus",
+      "chatbot",
+      "chatgpt",
+      "discord",
+      "docker",
+      "gemini",
+      "gpt",
+      "llama",
       "llm",
-      "multi-agent",
-      "nodejs",
-      "podcast",
+      "mcp",
+      "openai",
       "python",
-      "superagent",
-      "typescript"
+      "qq",
+      "qqbot",
+      "telegram"
     ]
   }
 ]

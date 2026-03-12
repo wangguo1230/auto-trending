@@ -1,18 +1,126 @@
 [
   {
-    "name": "msitarzewski/agency-agents",
-    "url": "https://github.com/msitarzewski/agency-agents",
-    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "lang": "Shell",
-    "stars": "29890 stars",
+    "name": "microsoft/BitNet",
+    "url": "https://github.com/microsoft/BitNet",
+    "desc": "Official inference framework for 1-bit LLMs",
+    "lang": "Python",
+    "stars": "32242 stars",
     "topics": []
+  },
+  {
+    "name": "fishaudio/fish-speech",
+    "url": "https://github.com/fishaudio/fish-speech",
+    "desc": "SOTA Open Source TTS",
+    "lang": "Python",
+    "stars": "26329 stars",
+    "topics": [
+      "llama",
+      "transformer",
+      "tts",
+      "valle",
+      "vits",
+      "vqgan",
+      "vqvae"
+    ]
+  },
+  {
+    "name": "langflow-ai/openrag",
+    "url": "https://github.com/langflow-ai/openrag",
+    "desc": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch. ",
+    "lang": "Python",
+    "stars": "1489 stars",
+    "topics": []
+  },
+  {
+    "name": "InsForge/InsForge",
+    "url": "https://github.com/InsForge/InsForge",
+    "desc": "Give agents everything they need to ship fullstack apps. The backend built for agentic development. ",
+    "lang": "TypeScript",
+    "stars": "3070 stars",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "coding",
+      "deno",
+      "embeddings",
+      "insforge",
+      "nextjs",
+      "oauth2",
+      "pgvector",
+      "postgresql",
+      "realtime",
+      "vectors",
+      "websockets"
+    ]
+  },
+  {
+    "name": "vectorize-io/hindsight",
+    "url": "https://github.com/vectorize-io/hindsight",
+    "desc": "Hindsight: Agent Memory That  Learns",
+    "lang": "Python",
+    "stars": "3050 stars",
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "memory"
+    ]
+  },
+  {
+    "name": "alibaba/page-agent",
+    "url": "https://github.com/alibaba/page-agent",
+    "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "lang": "TypeScript",
+    "stars": "5870 stars",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "browser-automation",
+      "javascript",
+      "typescript",
+      "ui-automation",
+      "web"
+    ]
+  },
+  {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "79856 stars",
+    "topics": []
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "desc": "The agent that grows with you",
+    "lang": "Python",
+    "stars": "6112 stars",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "clawdbot",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "moltbot",
+      "nous-research",
+      "openai",
+      "openclaw"
+    ]
   },
   {
     "name": "666ghj/MiroFish",
     "url": "https://github.com/666ghj/MiroFish",
     "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
     "lang": "Python",
-    "stars": "16690 stars",
+    "stars": "19021 stars",
     "topics": [
       "agent-memory",
       "financial-forecasting",
@@ -27,112 +135,39 @@
     ]
   },
   {
-    "name": "promptfoo/promptfoo",
-    "url": "https://github.com/promptfoo/promptfoo",
-    "desc": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
-    "lang": "TypeScript",
-    "stars": "12529 stars",
-    "topics": [
-      "ci",
-      "ci-cd",
-      "cicd",
-      "evaluation",
-      "evaluation-framework",
-      "llm",
-      "llm-eval",
-      "llm-evaluation",
-      "llm-evaluation-framework",
-      "llmops",
-      "pentesting",
-      "prompt-engineering",
-      "prompt-testing",
-      "prompts",
-      "rag",
-      "red-teaming",
-      "testing",
-      "vulnerability-scanners"
-    ]
+    "name": "google-ai-edge/LiteRT",
+    "url": "https://github.com/google-ai-edge/LiteRT",
+    "desc": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
+    "lang": "C++",
+    "stars": "1654 stars",
+    "topics": []
   },
   {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
+    "name": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
     "lang": "Shell",
-    "stars": "77997 stars",
+    "stars": "34606 stars",
     "topics": []
   },
   {
-    "name": "fishaudio/fish-speech",
-    "url": "https://github.com/fishaudio/fish-speech",
-    "desc": "SOTA Open Source TTS",
-    "lang": "Python",
-    "stars": "25746 stars",
-    "topics": [
-      "llama",
-      "transformer",
-      "tts",
-      "valle",
-      "vits",
-      "vqgan",
-      "vqvae"
-    ]
-  },
-  {
-    "name": "virattt/ai-hedge-fund",
-    "url": "https://github.com/virattt/ai-hedge-fund",
-    "desc": "An AI Hedge Fund Team",
-    "lang": "Python",
-    "stars": "48122 stars",
-    "topics": []
-  },
-  {
-    "name": "alibaba/page-agent",
-    "url": "https://github.com/alibaba/page-agent",
-    "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "name": "google/A2UI",
+    "url": "https://github.com/google/A2UI",
+    "desc": "A2UI is an open-source project, complete with a format optimized for representing updatable agent-generated",
     "lang": "TypeScript",
-    "stars": "4680 stars",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "browser-automation",
-      "javascript",
-      "typescript",
-      "ui-automation",
-      "web"
-    ]
-  },
-  {
-    "name": "NousResearch/hermes-agent",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "desc": "The agent that grows with you",
-    "lang": "Python",
-    "stars": "5170 stars",
+    "stars": "12568 stars",
     "topics": []
   },
   {
-    "name": "AstrBotDevs/AstrBot",
-    "url": "https://github.com/AstrBotDevs/AstrBot",
-    "desc": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+    "name": "anthropics/claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
     "lang": "Python",
-    "stars": "21022 stars",
+    "stars": "10221 stars",
     "topics": [
-      "agent",
-      "ai",
-      "chatbot",
-      "chatgpt",
-      "discord",
-      "docker",
-      "gemini",
-      "gpt",
-      "llama",
-      "llm",
+      "claude-code",
       "mcp",
-      "openai",
-      "python",
-      "qq",
-      "qqbot",
-      "telegram"
+      "skills"
     ]
   }
 ]

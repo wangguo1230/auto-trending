@@ -1,18 +1,64 @@
 [
   {
-    "name": "microsoft/BitNet",
-    "url": "https://github.com/microsoft/BitNet",
-    "desc": "Official inference framework for 1-bit LLMs",
+    "name": "volcengine/OpenViking",
+    "url": "https://github.com/volcengine/OpenViking",
+    "desc": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
     "lang": "Python",
-    "stars": "33910 stars",
+    "stars": "10469 stars",
+    "topics": [
+      "agent",
+      "agentic-rag",
+      "ai-agents",
+      "clawbot",
+      "context-database",
+      "context-engineering",
+      "filesystem",
+      "llm",
+      "memory",
+      "openclaw",
+      "opencode",
+      "rag",
+      "skill"
+    ]
+  },
+  {
+    "name": "anthropics/claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "lang": "Python",
+    "stars": "11262 stars",
+    "topics": [
+      "claude-code",
+      "mcp",
+      "skills"
+    ]
+  },
+  {
+    "name": "dimensionalOS/dimos",
+    "url": "https://github.com/dimensionalOS/dimos",
+    "desc": "The Dimensional Framework",
+    "lang": "Python",
+    "stars": "841 stars",
     "topics": []
+  },
+  {
+    "name": "p-e-w/heretic",
+    "url": "https://github.com/p-e-w/heretic",
+    "desc": "Fully automatic censorship removal for language models",
+    "lang": "Python",
+    "stars": "13695 stars",
+    "topics": [
+      "abliteration",
+      "llm",
+      "transformer"
+    ]
   },
   {
     "name": "langflow-ai/openrag",
     "url": "https://github.com/langflow-ai/openrag",
     "desc": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch. ",
     "lang": "Python",
-    "stars": "2223 stars",
+    "stars": "2692 stars",
     "topics": []
   },
   {
@@ -20,7 +66,7 @@
     "url": "https://github.com/lightpanda-io/browser",
     "desc": "Lightpanda: the headless browser designed for AI and automation",
     "lang": "Zig",
-    "stars": "15338 stars",
+    "stars": "17039 stars",
     "topics": [
       "browser",
       "browser-automation",
@@ -32,105 +78,11 @@
     ]
   },
   {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "81853 stars",
-    "topics": []
-  },
-  {
-    "name": "public-apis/public-apis",
-    "url": "https://github.com/public-apis/public-apis",
-    "desc": "A collective list of free APIs",
-    "lang": "Python",
-    "stars": "409393 stars",
-    "topics": [
-      "api",
-      "apis",
-      "dataset",
-      "development",
-      "free",
-      "list",
-      "lists",
-      "open-source",
-      "public",
-      "public-api",
-      "public-apis",
-      "resources",
-      "software"
-    ]
-  },
-  {
-    "name": "promptfoo/promptfoo",
-    "url": "https://github.com/promptfoo/promptfoo",
-    "desc": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
-    "lang": "TypeScript",
-    "stars": "15221 stars",
-    "topics": [
-      "ci",
-      "ci-cd",
-      "cicd",
-      "evaluation",
-      "evaluation-framework",
-      "llm",
-      "llm-eval",
-      "llm-evaluation",
-      "llm-evaluation-framework",
-      "llmops",
-      "pentesting",
-      "prompt-engineering",
-      "prompt-testing",
-      "prompts",
-      "rag",
-      "red-teaming",
-      "testing",
-      "vulnerability-scanners"
-    ]
-  },
-  {
     "name": "msitarzewski/agency-agents",
     "url": "https://github.com/msitarzewski/agency-agents",
     "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
     "lang": "Shell",
-    "stars": "39865 stars",
-    "topics": []
-  },
-  {
-    "name": "dolthub/dolt",
-    "url": "https://github.com/dolthub/dolt",
-    "desc": "Dolt – Git for Data",
-    "lang": "Go",
-    "stars": "21054 stars",
-    "topics": [
-      "agent-memory",
-      "agent-memory-server",
-      "ai-agents",
-      "ai-database",
-      "data-version-control",
-      "data-versioning",
-      "database",
-      "database-version-control",
-      "database-versioning",
-      "decentralized-database",
-      "git",
-      "git-database",
-      "git-for-data",
-      "git-for-databases",
-      "git-sql",
-      "immutable-database",
-      "mariadb",
-      "mysql",
-      "sql",
-      "version-controlled-database"
-    ]
-  },
-  {
-    "name": "google/A2UI",
-    "url": "https://github.com/google/A2UI",
-    "desc": "A2UI is an open-source project, complete with a format optimized for representing updatable agent-generated",
-    "lang": "TypeScript",
-    "stars": "13031 stars",
+    "stars": "43601 stars",
     "topics": []
   },
   {
@@ -138,7 +90,7 @@
     "url": "https://github.com/fishaudio/fish-speech",
     "desc": "SOTA Open Source TTS",
     "lang": "Python",
-    "stars": "26843 stars",
+    "stars": "27203 stars",
     "topics": [
       "llama",
       "transformer",
@@ -150,77 +102,11 @@
     ]
   },
   {
-    "name": "alibaba/page-agent",
-    "url": "https://github.com/alibaba/page-agent",
-    "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-    "lang": "TypeScript",
-    "stars": "7446 stars",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "browser-automation",
-      "javascript",
-      "typescript",
-      "ui-automation",
-      "web"
-    ]
-  },
-  {
-    "name": "anthropics/claude-plugins-official",
-    "url": "https://github.com/anthropics/claude-plugins-official",
-    "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "lang": "Python",
-    "stars": "10761 stars",
-    "topics": [
-      "claude-code",
-      "mcp",
-      "skills"
-    ]
-  },
-  {
-    "name": "AstrBotDevs/AstrBot",
-    "url": "https://github.com/AstrBotDevs/AstrBot",
-    "desc": "Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-    "lang": "Python",
-    "stars": "23784 stars",
-    "topics": [
-      "agent",
-      "ai",
-      "chatbot",
-      "chatgpt",
-      "discord",
-      "docker",
-      "gemini",
-      "gpt",
-      "llama",
-      "llm",
-      "mcp",
-      "openai",
-      "python",
-      "qq",
-      "qqbot",
-      "telegram"
-    ]
-  },
-  {
-    "name": "vectorize-io/hindsight",
-    "url": "https://github.com/vectorize-io/hindsight",
-    "desc": "Hindsight: Agent Memory That  Learns",
-    "lang": "Python",
-    "stars": "3601 stars",
-    "topics": [
-      "agentic-ai",
-      "agents",
-      "memory"
-    ]
-  },
-  {
     "name": "InsForge/InsForge",
     "url": "https://github.com/InsForge/InsForge",
     "desc": "Give agents everything they need to ship fullstack apps. The backend built for agentic development. ",
     "lang": "TypeScript",
-    "stars": "3623 stars",
+    "stars": "4136 stars",
     "topics": [
       "ai",
       "ai-agents",
@@ -238,11 +124,11 @@
     ]
   },
   {
-    "name": "google-ai-edge/LiteRT",
-    "url": "https://github.com/google-ai-edge/LiteRT",
-    "desc": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
-    "lang": "C++",
-    "stars": "1852 stars",
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "83366 stars",
     "topics": []
   }
 ]

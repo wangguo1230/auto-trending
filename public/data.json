@@ -1,10 +1,34 @@
 [
   {
+    "name": "lightpanda-io/browser",
+    "url": "https://github.com/lightpanda-io/browser",
+    "desc": "Lightpanda: the headless browser designed for AI and automation",
+    "lang": "Zig",
+    "stars": "18445 stars",
+    "topics": [
+      "browser",
+      "browser-automation",
+      "cdp",
+      "headless",
+      "playwright",
+      "puppeteer",
+      "zig"
+    ]
+  },
+  {
+    "name": "Crosstalk-Solutions/project-nomad",
+    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+    "lang": "TypeScript",
+    "stars": "1057 stars",
+    "topics": []
+  },
+  {
     "name": "volcengine/OpenViking",
     "url": "https://github.com/volcengine/OpenViking",
     "desc": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
     "lang": "Python",
-    "stars": "10469 stars",
+    "stars": "12269 stars",
     "topics": [
       "agent",
       "agentic-rag",
@@ -22,23 +46,44 @@
     ]
   },
   {
-    "name": "anthropics/claude-plugins-official",
-    "url": "https://github.com/anthropics/claude-plugins-official",
-    "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "lang": "Python",
-    "stars": "11262 stars",
+    "name": "shareAI-lab/learn-claude-code",
+    "url": "https://github.com/shareAI-lab/learn-claude-code",
+    "desc": "Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1",
+    "lang": "TypeScript",
+    "stars": "27841 stars",
     "topics": [
+      "agent",
+      "agent-development",
+      "ai-agent",
+      "claude",
       "claude-code",
-      "mcp",
-      "skills"
+      "educational",
+      "llm",
+      "python",
+      "teaching",
+      "tutorial"
     ]
   },
   {
-    "name": "dimensionalOS/dimos",
-    "url": "https://github.com/dimensionalOS/dimos",
-    "desc": "The Dimensional Framework",
-    "lang": "Python",
-    "stars": "841 stars",
+    "name": "shanraisshan/claude-code-best-practice",
+    "url": "https://github.com/shanraisshan/claude-code-best-practice",
+    "desc": "practice made claude perfect",
+    "lang": "HTML",
+    "stars": "16909 stars",
+    "topics": [
+      "agentic-engineering",
+      "best-practices",
+      "claude-ai",
+      "claude-code",
+      "vibe-coding"
+    ]
+  },
+  {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "85688 stars",
     "topics": []
   },
   {
@@ -46,7 +91,7 @@
     "url": "https://github.com/p-e-w/heretic",
     "desc": "Fully automatic censorship removal for language models",
     "lang": "Python",
-    "stars": "13695 stars",
+    "stars": "14649 stars",
     "topics": [
       "abliteration",
       "llm",
@@ -54,51 +99,59 @@
     ]
   },
   {
-    "name": "langflow-ai/openrag",
-    "url": "https://github.com/langflow-ai/openrag",
-    "desc": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch. ",
+    "name": "666ghj/MiroFish",
+    "url": "https://github.com/666ghj/MiroFish",
+    "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
     "lang": "Python",
-    "stars": "2692 stars",
-    "topics": []
-  },
-  {
-    "name": "lightpanda-io/browser",
-    "url": "https://github.com/lightpanda-io/browser",
-    "desc": "Lightpanda: the headless browser designed for AI and automation",
-    "lang": "Zig",
-    "stars": "17039 stars",
+    "stars": "27025 stars",
     "topics": [
-      "browser",
-      "browser-automation",
-      "cdp",
-      "headless",
-      "playwright",
-      "puppeteer",
-      "zig"
+      "agent-memory",
+      "financial-forecasting",
+      "future-prediction",
+      "knowledge-graph",
+      "llms",
+      "multi-agent-simulation",
+      "public-opinion-analysis",
+      "python3",
+      "social-prediction",
+      "swarm-intelligence"
     ]
   },
   {
-    "name": "msitarzewski/agency-agents",
-    "url": "https://github.com/msitarzewski/agency-agents",
-    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "lang": "Shell",
-    "stars": "43601 stars",
+    "name": "abhigyanpatwari/GitNexus",
+    "url": "https://github.com/abhigyanpatwari/GitNexus",
+    "desc": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+    "lang": "TypeScript",
+    "stars": "14187 stars",
     "topics": []
   },
   {
-    "name": "fishaudio/fish-speech",
-    "url": "https://github.com/fishaudio/fish-speech",
-    "desc": "SOTA Open Source TTS",
+    "name": "topoteretes/cognee",
+    "url": "https://github.com/topoteretes/cognee",
+    "desc": "Knowledge Engine for AI Agent Memory in 6 lines of code",
     "lang": "Python",
-    "stars": "27203 stars",
+    "stars": "13874 stars",
     "topics": [
-      "llama",
-      "transformer",
-      "tts",
-      "valle",
-      "vits",
-      "vqgan",
-      "vqvae"
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "cognitive-architecture",
+      "cognitive-memory",
+      "context-engineering",
+      "contributions-welcome",
+      "good-first-issue",
+      "good-first-pr",
+      "graph-database",
+      "graph-rag",
+      "graphrag",
+      "help-wanted",
+      "knowledge",
+      "knowledge-graph",
+      "neo4j",
+      "open-source",
+      "openai",
+      "rag",
+      "vector-database"
     ]
   },
   {
@@ -106,7 +159,7 @@
     "url": "https://github.com/InsForge/InsForge",
     "desc": "Give agents everything they need to ship fullstack apps. The backend built for agentic development. ",
     "lang": "TypeScript",
-    "stars": "4136 stars",
+    "stars": "4563 stars",
     "topics": [
       "ai",
       "ai-agents",
@@ -124,11 +177,23 @@
     ]
   },
   {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "83366 stars",
+    "name": "voidzero-dev/vite-plus",
+    "url": "https://github.com/voidzero-dev/vite-plus",
+    "desc": "Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.",
+    "lang": "Rust",
+    "stars": "1662 stars",
     "topics": []
+  },
+  {
+    "name": "anthropics/claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "lang": "Python",
+    "stars": "11886 stars",
+    "topics": [
+      "claude-code",
+      "mcp",
+      "skills"
+    ]
   }
 ]

@@ -1,10 +1,82 @@
 [
   {
+    "name": "666ghj/MiroFish",
+    "url": "https://github.com/666ghj/MiroFish",
+    "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "lang": "Python",
+    "stars": "29880 stars",
+    "topics": [
+      "agent-memory",
+      "financial-forecasting",
+      "future-prediction",
+      "knowledge-graph",
+      "llms",
+      "multi-agent-simulation",
+      "public-opinion-analysis",
+      "python3",
+      "social-prediction",
+      "swarm-intelligence"
+    ]
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "desc": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "lang": "TypeScript",
+    "stars": "36730 stars",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "anthropic",
+      "artificial-intelligence",
+      "chromadb",
+      "claude",
+      "claude-agent-sdk",
+      "claude-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "embeddings",
+      "long-term-memory",
+      "mem0",
+      "memory-engine",
+      "openmemory",
+      "rag",
+      "sqlite",
+      "supermemory"
+    ]
+  },
+  {
+    "name": "Crosstalk-Solutions/project-nomad",
+    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+    "lang": "TypeScript",
+    "stars": "1784 stars",
+    "topics": []
+  },
+  {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "88479 stars",
+    "topics": []
+  },
+  {
+    "name": "abhigyanpatwari/GitNexus",
+    "url": "https://github.com/abhigyanpatwari/GitNexus",
+    "desc": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+    "lang": "TypeScript",
+    "stars": "15556 stars",
+    "topics": []
+  },
+  {
     "name": "lightpanda-io/browser",
     "url": "https://github.com/lightpanda-io/browser",
     "desc": "Lightpanda: the headless browser designed for AI and automation",
     "lang": "Zig",
-    "stars": "18445 stars",
+    "stars": "20173 stars",
     "topics": [
       "browser",
       "browser-automation",
@@ -16,19 +88,11 @@
     ]
   },
   {
-    "name": "Crosstalk-Solutions/project-nomad",
-    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-    "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-    "lang": "TypeScript",
-    "stars": "1057 stars",
-    "topics": []
-  },
-  {
     "name": "volcengine/OpenViking",
     "url": "https://github.com/volcengine/OpenViking",
     "desc": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
     "lang": "Python",
-    "stars": "12269 stars",
+    "stars": "14079 stars",
     "topics": [
       "agent",
       "agentic-rag",
@@ -50,7 +114,7 @@
     "url": "https://github.com/shareAI-lab/learn-claude-code",
     "desc": "Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1",
     "lang": "TypeScript",
-    "stars": "27841 stars",
+    "stars": "29260 stars",
     "topics": [
       "agent",
       "agent-development",
@@ -65,33 +129,11 @@
     ]
   },
   {
-    "name": "shanraisshan/claude-code-best-practice",
-    "url": "https://github.com/shanraisshan/claude-code-best-practice",
-    "desc": "practice made claude perfect",
-    "lang": "HTML",
-    "stars": "16909 stars",
-    "topics": [
-      "agentic-engineering",
-      "best-practices",
-      "claude-ai",
-      "claude-code",
-      "vibe-coding"
-    ]
-  },
-  {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "85688 stars",
-    "topics": []
-  },
-  {
     "name": "p-e-w/heretic",
     "url": "https://github.com/p-e-w/heretic",
     "desc": "Fully automatic censorship removal for language models",
     "lang": "Python",
-    "stars": "14649 stars",
+    "stars": "15262 stars",
     "topics": [
       "abliteration",
       "llm",
@@ -99,81 +141,30 @@
     ]
   },
   {
-    "name": "666ghj/MiroFish",
-    "url": "https://github.com/666ghj/MiroFish",
-    "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "name": "langchain-ai/deepagents",
+    "url": "https://github.com/langchain-ai/deepagents",
+    "desc": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
     "lang": "Python",
-    "stars": "27025 stars",
+    "stars": "12843 stars",
     "topics": [
-      "agent-memory",
-      "financial-forecasting",
-      "future-prediction",
-      "knowledge-graph",
-      "llms",
-      "multi-agent-simulation",
-      "public-opinion-analysis",
-      "python3",
-      "social-prediction",
-      "swarm-intelligence"
+      "ai",
+      "deepagents",
+      "langchain",
+      "langgraph"
     ]
   },
   {
-    "name": "abhigyanpatwari/GitNexus",
-    "url": "https://github.com/abhigyanpatwari/GitNexus",
-    "desc": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+    "name": "YishenTu/claudian",
+    "url": "https://github.com/YishenTu/claudian",
+    "desc": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
     "lang": "TypeScript",
-    "stars": "14187 stars",
-    "topics": []
-  },
-  {
-    "name": "topoteretes/cognee",
-    "url": "https://github.com/topoteretes/cognee",
-    "desc": "Knowledge Engine for AI Agent Memory in 6 lines of code",
-    "lang": "Python",
-    "stars": "13874 stars",
+    "stars": "4136 stars",
     "topics": [
-      "ai",
-      "ai-agents",
-      "ai-memory",
-      "cognitive-architecture",
-      "cognitive-memory",
-      "context-engineering",
-      "contributions-welcome",
-      "good-first-issue",
-      "good-first-pr",
-      "graph-database",
-      "graph-rag",
-      "graphrag",
-      "help-wanted",
-      "knowledge",
-      "knowledge-graph",
-      "neo4j",
-      "open-source",
-      "openai",
-      "rag",
-      "vector-database"
-    ]
-  },
-  {
-    "name": "InsForge/InsForge",
-    "url": "https://github.com/InsForge/InsForge",
-    "desc": "Give agents everything they need to ship fullstack apps. The backend built for agentic development. ",
-    "lang": "TypeScript",
-    "stars": "4563 stars",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "coding",
-      "deno",
-      "embeddings",
-      "insforge",
-      "nextjs",
-      "oauth2",
-      "pgvector",
-      "postgresql",
-      "realtime",
-      "vectors",
-      "websockets"
+      "claude-code",
+      "ide",
+      "obsidian",
+      "obsidian-plugin",
+      "productivity"
     ]
   },
   {
@@ -181,19 +172,7 @@
     "url": "https://github.com/voidzero-dev/vite-plus",
     "desc": "Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.",
     "lang": "Rust",
-    "stars": "1662 stars",
+    "stars": "2220 stars",
     "topics": []
-  },
-  {
-    "name": "anthropics/claude-plugins-official",
-    "url": "https://github.com/anthropics/claude-plugins-official",
-    "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "lang": "Python",
-    "stars": "11886 stars",
-    "topics": [
-      "claude-code",
-      "mcp",
-      "skills"
-    ]
   }
 ]

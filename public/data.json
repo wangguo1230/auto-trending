@@ -1,10 +1,64 @@
 [
   {
+    "name": "opendataloader-project/opendataloader-pdf",
+    "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+    "desc": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+    "lang": "Java",
+    "stars": "5512 stars",
+    "topics": [
+      "a11y",
+      "accessibility",
+      "ai",
+      "bounding-box",
+      "document-parsing",
+      "eaa",
+      "html",
+      "json",
+      "markdown",
+      "ocr",
+      "ocr-recognition",
+      "pdf",
+      "pdf-accessibility",
+      "pdf-converter",
+      "pdf-extraction",
+      "pdf-parser",
+      "pdf-ua",
+      "rag",
+      "tables",
+      "tagged-pdf"
+    ]
+  },
+  {
+    "name": "langchain-ai/open-swe",
+    "url": "https://github.com/langchain-ai/open-swe",
+    "desc": "An Open-Source Asynchronous Coding Agent",
+    "lang": "Python",
+    "stars": "6996 stars",
+    "topics": [
+      "agent",
+      "agents",
+      "ai",
+      "anthropic",
+      "claudecode",
+      "llm",
+      "llms",
+      "openai"
+    ]
+  },
+  {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "99081 stars",
+    "topics": []
+  },
+  {
     "name": "jarrodwatts/claude-hud",
     "url": "https://github.com/jarrodwatts/claude-hud",
     "desc": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
     "lang": "JavaScript",
-    "stars": "6864 stars",
+    "stars": "8467 stars",
     "topics": [
       "anthropic",
       "claude",
@@ -16,19 +70,11 @@
     ]
   },
   {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "96045 stars",
-    "topics": []
-  },
-  {
     "name": "unslothai/unsloth",
     "url": "https://github.com/unslothai/unsloth",
     "desc": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
     "lang": "Python",
-    "stars": "55761 stars",
+    "stars": "56670 stars",
     "topics": [
       "agent",
       "deepseek",
@@ -53,11 +99,24 @@
     ]
   },
   {
+    "name": "mobile-dev-inc/Maestro",
+    "url": "https://github.com/mobile-dev-inc/Maestro",
+    "desc": "Painless E2E Automation for Mobile and Web",
+    "lang": "Kotlin",
+    "stars": "12411 stars",
+    "topics": [
+      "android",
+      "blackbox-testing",
+      "ios",
+      "ui-automation"
+    ]
+  },
+  {
     "name": "newton-physics/newton",
     "url": "https://github.com/newton-physics/newton",
     "desc": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
     "lang": "Python",
-    "stars": "2901 stars",
+    "stars": "3212 stars",
     "topics": [
       "newton-physics",
       "nvidia-warp",
@@ -66,41 +125,68 @@
     ]
   },
   {
-    "name": "shadps4-emu/shadPS4",
-    "url": "https://github.com/shadps4-emu/shadPS4",
-    "desc": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
-    "lang": "C++",
-    "stars": "29838 stars",
+    "name": "louis-e/arnis",
+    "url": "https://github.com/louis-e/arnis",
+    "desc": "Generate any location from the real world in Minecraft with a high level of detail.",
+    "lang": "Rust",
+    "stars": "10708 stars",
     "topics": [
-      "cpp",
-      "cpp20",
-      "emulation",
-      "emulator",
-      "imgui",
-      "linux",
-      "macos",
-      "playstation4",
-      "ps4",
-      "sdl3",
-      "vulkan",
-      "windows"
+      "maps",
+      "minecraft",
+      "openstreetmap",
+      "osm",
+      "overpass-api",
+      "rust",
+      "tauri"
     ]
   },
   {
-    "name": "langchain-ai/open-swe",
-    "url": "https://github.com/langchain-ai/open-swe",
-    "desc": "An Open-Source Asynchronous Coding Agent",
+    "name": "FujiwaraChoki/MoneyPrinterV2",
+    "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+    "desc": "Automate the process of making money online.",
     "lang": "Python",
-    "stars": "6290 stars",
+    "stars": "16030 stars",
+    "topics": [
+      "automation",
+      "cli",
+      "json",
+      "money",
+      "outreach",
+      "python",
+      "twitter",
+      "youtube"
+    ]
+  },
+  {
+    "name": "gsd-build/get-shit-done",
+    "url": "https://github.com/gsd-build/get-shit-done",
+    "desc": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
+    "lang": "JavaScript",
+    "stars": "36034 stars",
+    "topics": [
+      "claude-code",
+      "context-engineering",
+      "meta-prompting",
+      "spec-driven-development"
+    ]
+  },
+  {
+    "name": "shareAI-lab/learn-claude-code",
+    "url": "https://github.com/shareAI-lab/learn-claude-code",
+    "desc": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
+    "lang": "TypeScript",
+    "stars": "33565 stars",
     "topics": [
       "agent",
-      "agents",
-      "ai",
-      "anthropic",
-      "claudecode",
+      "agent-development",
+      "ai-agent",
+      "claude",
+      "claude-code",
+      "educational",
       "llm",
-      "llms",
-      "openai"
+      "python",
+      "teaching",
+      "tutorial"
     ]
   }
 ]

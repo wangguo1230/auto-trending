@@ -1,10 +1,51 @@
 [
   {
+    "name": "jarrodwatts/claude-hud",
+    "url": "https://github.com/jarrodwatts/claude-hud",
+    "desc": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+    "lang": "JavaScript",
+    "stars": "9498 stars",
+    "topics": [
+      "anthropic",
+      "claude",
+      "claude-code",
+      "cli",
+      "plugin",
+      "statusline",
+      "typescript"
+    ]
+  },
+  {
+    "name": "langchain-ai/open-swe",
+    "url": "https://github.com/langchain-ai/open-swe",
+    "desc": "An Open-Source Asynchronous Coding Agent",
+    "lang": "Python",
+    "stars": "7614 stars",
+    "topics": [
+      "agent",
+      "agents",
+      "ai",
+      "anthropic",
+      "claudecode",
+      "llm",
+      "llms",
+      "openai"
+    ]
+  },
+  {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "101458 stars",
+    "topics": []
+  },
+  {
     "name": "opendataloader-project/opendataloader-pdf",
     "url": "https://github.com/opendataloader-project/opendataloader-pdf",
     "desc": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
     "lang": "Java",
-    "stars": "5512 stars",
+    "stars": "6999 stars",
     "topics": [
       "a11y",
       "accessibility",
@@ -29,107 +70,11 @@
     ]
   },
   {
-    "name": "langchain-ai/open-swe",
-    "url": "https://github.com/langchain-ai/open-swe",
-    "desc": "An Open-Source Asynchronous Coding Agent",
-    "lang": "Python",
-    "stars": "6996 stars",
-    "topics": [
-      "agent",
-      "agents",
-      "ai",
-      "anthropic",
-      "claudecode",
-      "llm",
-      "llms",
-      "openai"
-    ]
-  },
-  {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "99081 stars",
-    "topics": []
-  },
-  {
-    "name": "jarrodwatts/claude-hud",
-    "url": "https://github.com/jarrodwatts/claude-hud",
-    "desc": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
-    "lang": "JavaScript",
-    "stars": "8467 stars",
-    "topics": [
-      "anthropic",
-      "claude",
-      "claude-code",
-      "cli",
-      "plugin",
-      "statusline",
-      "typescript"
-    ]
-  },
-  {
-    "name": "unslothai/unsloth",
-    "url": "https://github.com/unslothai/unsloth",
-    "desc": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
-    "lang": "Python",
-    "stars": "56670 stars",
-    "topics": [
-      "agent",
-      "deepseek",
-      "deepseek-r1",
-      "fine-tuning",
-      "gemma",
-      "gemma3",
-      "gpt-oss",
-      "llama",
-      "llama3",
-      "llm",
-      "llms",
-      "mistral",
-      "openai",
-      "qwen",
-      "qwen3",
-      "reinforcement-learning",
-      "text-to-speech",
-      "tts",
-      "unsloth",
-      "voice-cloning"
-    ]
-  },
-  {
-    "name": "mobile-dev-inc/Maestro",
-    "url": "https://github.com/mobile-dev-inc/Maestro",
-    "desc": "Painless E2E Automation for Mobile and Web",
-    "lang": "Kotlin",
-    "stars": "12411 stars",
-    "topics": [
-      "android",
-      "blackbox-testing",
-      "ios",
-      "ui-automation"
-    ]
-  },
-  {
-    "name": "newton-physics/newton",
-    "url": "https://github.com/newton-physics/newton",
-    "desc": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
-    "lang": "Python",
-    "stars": "3212 stars",
-    "topics": [
-      "newton-physics",
-      "nvidia-warp",
-      "physics-simulation",
-      "robotics"
-    ]
-  },
-  {
     "name": "louis-e/arnis",
     "url": "https://github.com/louis-e/arnis",
     "desc": "Generate any location from the real world in Minecraft with a high level of detail.",
     "lang": "Rust",
-    "stars": "10708 stars",
+    "stars": "11554 stars",
     "topics": [
       "maps",
       "minecraft",
@@ -141,52 +86,66 @@
     ]
   },
   {
-    "name": "FujiwaraChoki/MoneyPrinterV2",
-    "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
-    "desc": "Automate the process of making money online.",
+    "name": "newton-physics/newton",
+    "url": "https://github.com/newton-physics/newton",
+    "desc": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
     "lang": "Python",
-    "stars": "16030 stars",
+    "stars": "3456 stars",
     "topics": [
-      "automation",
-      "cli",
-      "json",
-      "money",
-      "outreach",
-      "python",
-      "twitter",
-      "youtube"
+      "newton-physics",
+      "nvidia-warp",
+      "physics-simulation",
+      "robotics"
     ]
   },
   {
-    "name": "gsd-build/get-shit-done",
-    "url": "https://github.com/gsd-build/get-shit-done",
-    "desc": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
-    "lang": "JavaScript",
-    "stars": "36034 stars",
-    "topics": [
-      "claude-code",
-      "context-engineering",
-      "meta-prompting",
-      "spec-driven-development"
-    ]
-  },
-  {
-    "name": "shareAI-lab/learn-claude-code",
-    "url": "https://github.com/shareAI-lab/learn-claude-code",
-    "desc": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
+    "name": "vas3k/TaxHacker",
+    "url": "https://github.com/vas3k/TaxHacker",
+    "desc": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
     "lang": "TypeScript",
-    "stars": "33565 stars",
+    "stars": "1899 stars",
+    "topics": [
+      "accounting",
+      "ai-analysis",
+      "currency-exchange",
+      "expenses",
+      "invoices",
+      "llm",
+      "llm-apps",
+      "self-hosted",
+      "taxes"
+    ]
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "lang": "Python",
+    "stars": "34044 stars",
     "topics": [
       "agent",
-      "agent-development",
-      "ai-agent",
-      "claude",
-      "claude-code",
-      "educational",
+      "finance",
       "llm",
-      "python",
-      "teaching",
-      "tutorial"
+      "multiagent",
+      "trading"
+    ]
+  },
+  {
+    "name": "openrocket/openrocket",
+    "url": "https://github.com/openrocket/openrocket",
+    "desc": "Model-rocketry aerodynamics and trajectory simulation software",
+    "lang": "Java",
+    "stars": "2194 stars",
+    "topics": [
+      "aerospace",
+      "flight-simulator",
+      "java",
+      "modeling",
+      "optimization",
+      "rocket",
+      "rocketry",
+      "simulation",
+      "trajectory"
     ]
   }
 ]

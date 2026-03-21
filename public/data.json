@@ -1,43 +1,66 @@
 [
   {
-    "name": "jarrodwatts/claude-hud",
-    "url": "https://github.com/jarrodwatts/claude-hud",
-    "desc": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
-    "lang": "JavaScript",
-    "stars": "9498 stars",
-    "topics": [
-      "anthropic",
-      "claude",
-      "claude-code",
-      "cli",
-      "plugin",
-      "statusline",
-      "typescript"
-    ]
-  },
-  {
-    "name": "langchain-ai/open-swe",
-    "url": "https://github.com/langchain-ai/open-swe",
-    "desc": "An Open-Source Asynchronous Coding Agent",
+    "name": "FujiwaraChoki/MoneyPrinterV2",
+    "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+    "desc": "Automate the process of making money online.",
     "lang": "Python",
-    "stars": "7614 stars",
+    "stars": "17688 stars",
     "topics": [
-      "agent",
-      "agents",
-      "ai",
-      "anthropic",
-      "claudecode",
-      "llm",
-      "llms",
-      "openai"
+      "automation",
+      "cli",
+      "json",
+      "money",
+      "outreach",
+      "python",
+      "twitter",
+      "youtube"
     ]
   },
   {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "101458 stars",
+    "name": "systemd/systemd",
+    "url": "https://github.com/systemd/systemd",
+    "desc": "The systemd System and Service Manager ",
+    "lang": "C",
+    "stars": "15715 stars",
+    "topics": [
+      "c",
+      "init",
+      "linux",
+      "services",
+      "system",
+      "systemd"
+    ]
+  },
+  {
+    "name": "aquasecurity/trivy",
+    "url": "https://github.com/aquasecurity/trivy",
+    "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "lang": "Go",
+    "stars": "33362 stars",
+    "topics": [
+      "containers",
+      "devsecops",
+      "docker",
+      "go",
+      "golang",
+      "hacktoberfest",
+      "iac",
+      "infrastructure-as-code",
+      "kubernetes",
+      "misconfiguration",
+      "security",
+      "security-tools",
+      "vulnerability",
+      "vulnerability-detection",
+      "vulnerability-scanners"
+    ]
+  },
+  {
+    "name": "Crosstalk-Solutions/project-nomad",
+    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+    "lang": "TypeScript",
+    "stars": "6484 stars",
     "topics": []
   },
   {
@@ -45,7 +68,7 @@
     "url": "https://github.com/opendataloader-project/opendataloader-pdf",
     "desc": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
     "lang": "Java",
-    "stars": "6999 stars",
+    "stars": "7850 stars",
     "topics": [
       "a11y",
       "accessibility",
@@ -70,11 +93,62 @@
     ]
   },
   {
+    "name": "jarrodwatts/claude-hud",
+    "url": "https://github.com/jarrodwatts/claude-hud",
+    "desc": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+    "lang": "JavaScript",
+    "stars": "10396 stars",
+    "topics": [
+      "anthropic",
+      "claude",
+      "claude-code",
+      "cli",
+      "plugin",
+      "statusline",
+      "typescript"
+    ]
+  },
+  {
+    "name": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++",
+    "stars": "70942 stars",
+    "topics": [
+      "marshalling",
+      "protobuf",
+      "protobuf-runtime",
+      "protoc",
+      "protocol-buffers",
+      "protocol-compiler",
+      "rpc",
+      "serialization"
+    ]
+  },
+  {
+    "name": "vllm-project/vllm-omni",
+    "url": "https://github.com/vllm-project/vllm-omni",
+    "desc": "A framework for efficient model inference with omni-modality models",
+    "lang": "Python",
+    "stars": "3497 stars",
+    "topics": [
+      "audio-generation",
+      "diffusion",
+      "image-generation",
+      "inference",
+      "model-serving",
+      "multimodal",
+      "pytorch",
+      "transformer",
+      "video-generation"
+    ]
+  },
+  {
     "name": "louis-e/arnis",
     "url": "https://github.com/louis-e/arnis",
     "desc": "Generate any location from the real world in Minecraft with a high level of detail.",
     "lang": "Rust",
-    "stars": "11554 stars",
+    "stars": "12192 stars",
     "topics": [
       "maps",
       "minecraft",
@@ -83,69 +157,6 @@
       "overpass-api",
       "rust",
       "tauri"
-    ]
-  },
-  {
-    "name": "newton-physics/newton",
-    "url": "https://github.com/newton-physics/newton",
-    "desc": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
-    "lang": "Python",
-    "stars": "3456 stars",
-    "topics": [
-      "newton-physics",
-      "nvidia-warp",
-      "physics-simulation",
-      "robotics"
-    ]
-  },
-  {
-    "name": "vas3k/TaxHacker",
-    "url": "https://github.com/vas3k/TaxHacker",
-    "desc": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
-    "lang": "TypeScript",
-    "stars": "1899 stars",
-    "topics": [
-      "accounting",
-      "ai-analysis",
-      "currency-exchange",
-      "expenses",
-      "invoices",
-      "llm",
-      "llm-apps",
-      "self-hosted",
-      "taxes"
-    ]
-  },
-  {
-    "name": "TauricResearch/TradingAgents",
-    "url": "https://github.com/TauricResearch/TradingAgents",
-    "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-    "lang": "Python",
-    "stars": "34044 stars",
-    "topics": [
-      "agent",
-      "finance",
-      "llm",
-      "multiagent",
-      "trading"
-    ]
-  },
-  {
-    "name": "openrocket/openrocket",
-    "url": "https://github.com/openrocket/openrocket",
-    "desc": "Model-rocketry aerodynamics and trajectory simulation software",
-    "lang": "Java",
-    "stars": "2194 stars",
-    "topics": [
-      "aerospace",
-      "flight-simulator",
-      "java",
-      "modeling",
-      "optimization",
-      "rocket",
-      "rocketry",
-      "simulation",
-      "trajectory"
     ]
   }
 ]

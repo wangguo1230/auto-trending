@@ -4,7 +4,7 @@
     "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
     "desc": "Automate the process of making money online.",
     "lang": "Python",
-    "stars": "19613 stars",
+    "stars": "22807 stars",
     "topics": [
       "automation",
       "cli",
@@ -17,198 +17,11 @@
     ]
   },
   {
-    "name": "TauricResearch/TradingAgents",
-    "url": "https://github.com/TauricResearch/TradingAgents",
-    "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-    "lang": "Python",
-    "stars": "37041 stars",
-    "topics": [
-      "agent",
-      "finance",
-      "llm",
-      "multiagent",
-      "trading"
-    ]
-  },
-  {
-    "name": "vxcontrol/pentagi",
-    "url": "https://github.com/vxcontrol/pentagi",
-    "desc": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-    "lang": "Go",
-    "stars": "11933 stars",
-    "topics": [
-      "ai-agents",
-      "ai-security-tool",
-      "anthropic",
-      "autonomous-agents",
-      "golang",
-      "gpt",
-      "graphql",
-      "multi-agent-system",
-      "offensive-security",
-      "open-source",
-      "openai",
-      "penetration-testing",
-      "penetration-testing-tools",
-      "react",
-      "security-automation",
-      "security-testing",
-      "security-tools",
-      "self-hosted"
-    ]
-  },
-  {
-    "name": "jamwithai/production-agentic-rag-course",
-    "url": "https://github.com/jamwithai/production-agentic-rag-course",
-    "desc": "<div align=\"center\"> <h3>A Learner-Focused Journey into Production RAG Systems</h3>",
-    "lang": "Python",
-    "stars": "4722 stars",
-    "topics": []
-  },
-  {
-    "name": "affaan-m/everything-claude-code",
-    "url": "https://github.com/affaan-m/everything-claude-code",
-    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "lang": "JavaScript",
-    "stars": "97835 stars",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "developer-tools",
-      "llm",
-      "mcp",
-      "productivity"
-    ]
-  },
-  {
-    "name": "jarrodwatts/claude-hud",
-    "url": "https://github.com/jarrodwatts/claude-hud",
-    "desc": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
-    "lang": "JavaScript",
-    "stars": "11139 stars",
-    "topics": [
-      "anthropic",
-      "claude",
-      "claude-code",
-      "cli",
-      "plugin",
-      "statusline",
-      "typescript"
-    ]
-  },
-  {
-    "name": "Crosstalk-Solutions/project-nomad",
-    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-    "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-    "lang": "TypeScript",
-    "stars": "9783 stars",
-    "topics": []
-  },
-  {
-    "name": "systemd/systemd",
-    "url": "https://github.com/systemd/systemd",
-    "desc": "The systemd System and Service Manager ",
-    "lang": "C",
-    "stars": "15983 stars",
-    "topics": [
-      "c",
-      "init",
-      "linux",
-      "services",
-      "system",
-      "systemd"
-    ]
-  },
-  {
-    "name": "browser-use/browser-use",
-    "url": "https://github.com/browser-use/browser-use",
-    "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-    "lang": "Python",
-    "stars": "82506 stars",
-    "topics": [
-      "ai-agents",
-      "ai-tools",
-      "browser-automation",
-      "browser-use",
-      "llm",
-      "playwright",
-      "python"
-    ]
-  },
-  {
-    "name": "HKUDS/LightRAG",
-    "url": "https://github.com/HKUDS/LightRAG",
-    "desc": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
-    "lang": "Python",
-    "stars": "30021 stars",
-    "topics": [
-      "genai",
-      "gpt",
-      "gpt-4",
-      "graphrag",
-      "knowledge-graph",
-      "large-language-models",
-      "llm",
-      "rag",
-      "retrieval-augmented-generation"
-    ]
-  },
-  {
-    "name": "hsliuping/TradingAgents-CN",
-    "url": "https://github.com/hsliuping/TradingAgents-CN",
-    "desc": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
-    "lang": "Python",
-    "stars": "19732 stars",
-    "topics": []
-  },
-  {
-    "name": "louis-e/arnis",
-    "url": "https://github.com/louis-e/arnis",
-    "desc": "Generate any location from the real world in Minecraft with a high level of detail.",
-    "lang": "Rust",
-    "stars": "12698 stars",
-    "topics": [
-      "maps",
-      "minecraft",
-      "openstreetmap",
-      "osm",
-      "overpass-api",
-      "rust",
-      "tauri"
-    ]
-  },
-  {
-    "name": "aquasecurity/trivy",
-    "url": "https://github.com/aquasecurity/trivy",
-    "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-    "lang": "Go",
-    "stars": "33642 stars",
-    "topics": [
-      "containers",
-      "devsecops",
-      "docker",
-      "go",
-      "golang",
-      "hacktoberfest",
-      "iac",
-      "infrastructure-as-code",
-      "kubernetes",
-      "misconfiguration",
-      "security",
-      "security-tools",
-      "vulnerability",
-      "vulnerability-detection",
-      "vulnerability-scanners"
-    ]
-  },
-  {
     "name": "bytedance/deer-flow",
     "url": "https://github.com/bytedance/deer-flow",
-    "desc": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.",
+    "desc": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
     "lang": "Python",
-    "stars": "35170 stars",
+    "stars": "39150 stars",
     "topics": [
       "agent",
       "agentic",
@@ -232,19 +45,209 @@
     ]
   },
   {
-    "name": "harry0703/MoneyPrinterTurbo",
-    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-    "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "name": "Crosstalk-Solutions/project-nomad",
+    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+    "lang": "TypeScript",
+    "stars": "13307 stars",
+    "topics": []
+  },
+  {
+    "name": "vxcontrol/pentagi",
+    "url": "https://github.com/vxcontrol/pentagi",
+    "desc": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+    "lang": "Go",
+    "stars": "12965 stars",
+    "topics": [
+      "ai-agents",
+      "ai-security-tool",
+      "anthropic",
+      "autonomous-agents",
+      "golang",
+      "gpt",
+      "graphql",
+      "multi-agent-system",
+      "offensive-security",
+      "open-source",
+      "openai",
+      "penetration-testing",
+      "penetration-testing-tools",
+      "react",
+      "security-automation",
+      "security-testing",
+      "security-tools",
+      "self-hosted"
+    ]
+  },
+  {
+    "name": "browser-use/browser-use",
+    "url": "https://github.com/browser-use/browser-use",
+    "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
     "lang": "Python",
-    "stars": "50899 stars",
+    "stars": "83586 stars",
+    "topics": [
+      "ai-agents",
+      "ai-tools",
+      "browser-automation",
+      "browser-use",
+      "llm",
+      "playwright",
+      "python"
+    ]
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "lang": "Python",
+    "stars": "39217 stars",
+    "topics": [
+      "agent",
+      "finance",
+      "llm",
+      "multiagent",
+      "trading"
+    ]
+  },
+  {
+    "name": "tinygrad/tinygrad",
+    "url": "https://github.com/tinygrad/tinygrad",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️ ",
+    "lang": "Python",
+    "stars": "31874 stars",
+    "topics": []
+  },
+  {
+    "name": "affaan-m/everything-claude-code",
+    "url": "https://github.com/affaan-m/everything-claude-code",
+    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "lang": "JavaScript",
+    "stars": "101815 stars",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ]
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "desc": "The agent that grows with you",
+    "lang": "Python",
+    "stars": "11503 stars",
     "topics": [
       "ai",
-      "automation",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
       "chatgpt",
-      "moviepy",
-      "python",
-      "shortvideo",
-      "tiktok"
+      "claude",
+      "claude-code",
+      "clawdbot",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "moltbot",
+      "nous-research",
+      "openai",
+      "openclaw"
+    ]
+  },
+  {
+    "name": "jingyaogong/minimind",
+    "url": "https://github.com/jingyaogong/minimind",
+    "desc": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+    "lang": "Python",
+    "stars": "42539 stars",
+    "topics": [
+      "artificial-intelligence",
+      "large-language-model"
+    ]
+  },
+  {
+    "name": "hsliuping/TradingAgents-CN",
+    "url": "https://github.com/hsliuping/TradingAgents-CN",
+    "desc": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+    "lang": "Python",
+    "stars": "20291 stars",
+    "topics": []
+  },
+  {
+    "name": "kepano/obsidian-skills",
+    "url": "https://github.com/kepano/obsidian-skills",
+    "desc": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
+    "lang": "Unknown",
+    "stars": "16306 stars",
+    "topics": [
+      "claude",
+      "clawdbot",
+      "cli",
+      "codex",
+      "defuddle",
+      "obsidian",
+      "openclaw",
+      "opencode",
+      "skills"
+    ]
+  },
+  {
+    "name": "czlonkowski/n8n-mcp",
+    "url": "https://github.com/czlonkowski/n8n-mcp",
+    "desc": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you ",
+    "lang": "TypeScript",
+    "stars": "16027 stars",
+    "topics": [
+      "mcp",
+      "mcp-server",
+      "n8n",
+      "workflows"
+    ]
+  },
+  {
+    "name": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of publicly available IPTV channels from all over the world",
+    "lang": "TypeScript",
+    "stars": "113560 stars",
+    "topics": [
+      "iptv",
+      "m3u",
+      "playlist",
+      "streams",
+      "tv"
+    ]
+  },
+  {
+    "name": "hesreallyhim/awesome-claude-code",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code",
+    "desc": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
+    "lang": "Python",
+    "stars": "30897 stars",
+    "topics": [
+      "agent-skills",
+      "agentic-code",
+      "agentic-coding",
+      "ai-workflow-optimization",
+      "ai-workflows",
+      "anthropic",
+      "anthropic-claude",
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "awesome-resources",
+      "claude",
+      "claude-code",
+      "coding-agent",
+      "coding-agents",
+      "coding-assistant",
+      "coding-assistants",
+      "llm"
     ]
   }
 ]

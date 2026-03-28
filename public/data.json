@@ -1,39 +1,10 @@
 [
   {
-    "name": "mvanhorn/last30days-skill",
-    "url": "https://github.com/mvanhorn/last30days-skill",
-    "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-    "lang": "Python",
-    "stars": "12543 stars",
-    "topics": [
-      "ai-prompts",
-      "ai-skill",
-      "bluesky",
-      "claude",
-      "claude-code",
-      "clawhub",
-      "deep-research",
-      "hackernews",
-      "instagram",
-      "openclaw",
-      "polymarket",
-      "recency",
-      "reddit",
-      "research",
-      "social-media",
-      "tiktok",
-      "trends",
-      "twitter",
-      "web-search",
-      "youtube"
-    ]
-  },
-  {
     "name": "hacksider/Deep-Live-Cam",
     "url": "https://github.com/hacksider/Deep-Live-Cam",
     "desc": "real time face swap and one-click video deepfake with only a single image",
     "lang": "Python",
-    "stars": "82979 stars",
+    "stars": "84279 stars",
     "topics": [
       "ai",
       "ai-deep-fake",
@@ -56,19 +27,27 @@
     ]
   },
   {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "120671 stars",
+    "topics": []
+  },
+  {
     "name": "SakanaAI/AI-Scientist-v2",
     "url": "https://github.com/SakanaAI/AI-Scientist-v2",
     "desc": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
     "lang": "Python",
-    "stars": "2836 stars",
+    "stars": "3421 stars",
     "topics": []
   },
   {
-    "name": "microsoft/VibeVoice",
-    "url": "https://github.com/microsoft/VibeVoice",
-    "desc": "Open-Source Frontier Voice AI",
-    "lang": "Python",
-    "stars": "24665 stars",
+    "name": "virattt/dexter",
+    "url": "https://github.com/virattt/dexter",
+    "desc": "An autonomous agent for deep financial research",
+    "lang": "TypeScript",
+    "stars": "20169 stars",
     "topics": []
   },
   {
@@ -76,7 +55,7 @@
     "url": "https://github.com/twentyhq/twenty",
     "desc": "Building a modern alternative to Salesforce, powered by the community.",
     "lang": "TypeScript",
-    "stars": "41988 stars",
+    "stars": "42409 stars",
     "topics": [
       "crm",
       "crm-system",
@@ -98,88 +77,11 @@
     ]
   },
   {
-    "name": "datalab-to/chandra",
-    "url": "https://github.com/datalab-to/chandra",
-    "desc": "OCR model that handles complex tables, forms, handwriting with full layout.",
-    "lang": "Python",
-    "stars": "6988 stars",
-    "topics": [
-      "ai",
-      "ocr"
-    ]
-  },
-  {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "118434 stars",
-    "topics": []
-  },
-  {
-    "name": "virattt/dexter",
-    "url": "https://github.com/virattt/dexter",
-    "desc": "An autonomous agent for deep financial research",
-    "lang": "TypeScript",
-    "stars": "19653 stars",
-    "topics": []
-  },
-  {
-    "name": "Yeachan-Heo/oh-my-claudecode",
-    "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-    "desc": "Teams-first Multi-agent orchestration for Claude Code",
-    "lang": "TypeScript",
-    "stars": "13911 stars",
-    "topics": [
-      "agentic-coding",
-      "ai-agents",
-      "automation",
-      "claude",
-      "claude-code",
-      "multi-agent-systems",
-      "oh-my-opencode",
-      "opencode",
-      "parallel-execution",
-      "vibe-coding"
-    ]
-  },
-  {
-    "name": "FreeCAD/FreeCAD",
-    "url": "https://github.com/FreeCAD/FreeCAD",
-    "desc": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
-    "lang": "C++",
-    "stars": "29636 stars",
-    "topics": [
-      "3d",
-      "3d-printing",
-      "architecture",
-      "bim",
-      "cad",
-      "cam",
-      "coin",
-      "engineering",
-      "fem",
-      "freecad",
-      "linux",
-      "macos",
-      "opencascade",
-      "windows"
-    ]
-  },
-  {
-    "name": "Vaibhavs10/insanely-fast-whisper",
-    "url": "https://github.com/Vaibhavs10/insanely-fast-whisper",
-    "desc": "An opinionated CLI to transcribe Audio files w/ Whisper on-device! Powered by 🤗 *Transformers*, *Optimum* & *flash-attn* **TL;DR** - Transcribe **150** minutes (2.5 hours) of audio in less than **98*",
-    "lang": "Jupyter Notebook",
-    "stars": "11850 stars",
-    "topics": []
-  },
-  {
     "name": "onyx-dot-app/onyx",
     "url": "https://github.com/onyx-dot-app/onyx",
     "desc": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
     "lang": "Python",
-    "stars": "19101 stars",
+    "stars": "19729 stars",
     "topics": [
       "ai",
       "ai-chat",
@@ -195,6 +97,62 @@
       "rag",
       "self-hosted",
       "vector-search"
+    ]
+  },
+  {
+    "name": "datalab-to/chandra",
+    "url": "https://github.com/datalab-to/chandra",
+    "desc": "OCR model that handles complex tables, forms, handwriting with full layout.",
+    "lang": "Python",
+    "stars": "7568 stars",
+    "topics": [
+      "ai",
+      "ocr"
+    ]
+  },
+  {
+    "name": "agentscope-ai/agentscope",
+    "url": "https://github.com/agentscope-ai/agentscope",
+    "desc": "Build and run agents you can see, understand and trust.",
+    "lang": "Python",
+    "stars": "21590 stars",
+    "topics": [
+      "agent",
+      "chatbot",
+      "large-language-models",
+      "llm",
+      "llm-agent",
+      "mcp",
+      "multi-agent",
+      "multi-modal",
+      "react-agent"
+    ]
+  },
+  {
+    "name": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "lang": "TypeScript",
+    "stars": "71444 stars",
+    "topics": [
+      "analytics",
+      "apache",
+      "apache-superset",
+      "asf",
+      "bi",
+      "business-analytics",
+      "business-intelligence",
+      "data-analysis",
+      "data-analytics",
+      "data-engineering",
+      "data-science",
+      "data-visualization",
+      "data-viz",
+      "flask",
+      "python",
+      "react",
+      "sql-editor",
+      "superset"
     ]
   }
 ]

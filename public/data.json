@@ -1,10 +1,114 @@
 [
   {
+    "name": "luongnv89/claude-howto",
+    "url": "https://github.com/luongnv89/claude-howto",
+    "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+    "lang": "Python",
+    "stars": "6476 stars",
+    "topics": [
+      "claude-code",
+      "guide",
+      "tutorial"
+    ]
+  },
+  {
+    "name": "microsoft/VibeVoice",
+    "url": "https://github.com/microsoft/VibeVoice",
+    "desc": "Open-Source Frontier Voice AI",
+    "lang": "Python",
+    "stars": "27108 stars",
+    "topics": []
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "desc": "The agent that grows with you",
+    "lang": "Python",
+    "stars": "16646 stars",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "clawdbot",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "moltbot",
+      "nous-research",
+      "openai",
+      "openclaw"
+    ]
+  },
+  {
+    "name": "OpenBB-finance/OpenBB",
+    "url": "https://github.com/OpenBB-finance/OpenBB",
+    "desc": "Financial data platform for analysts, quants and AI agents.",
+    "lang": "Python",
+    "stars": "63993 stars",
+    "topics": [
+      "ai",
+      "crypto",
+      "derivatives",
+      "economics",
+      "equity",
+      "finance",
+      "fixed-income",
+      "machine-learning",
+      "openbb",
+      "options",
+      "python",
+      "quantitative-finance",
+      "stocks"
+    ]
+  },
+  {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "122798 stars",
+    "topics": []
+  },
+  {
+    "name": "thedotmack/claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "desc": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "lang": "TypeScript",
+    "stars": "42542 stars",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "anthropic",
+      "artificial-intelligence",
+      "chromadb",
+      "claude",
+      "claude-agent-sdk",
+      "claude-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "embeddings",
+      "long-term-memory",
+      "mem0",
+      "memory-engine",
+      "openmemory",
+      "rag",
+      "sqlite",
+      "supermemory"
+    ]
+  },
+  {
     "name": "hacksider/Deep-Live-Cam",
     "url": "https://github.com/hacksider/Deep-Live-Cam",
     "desc": "real time face swap and one-click video deepfake with only a single image",
     "lang": "Python",
-    "stars": "84279 stars",
+    "stars": "85222 stars",
     "topics": [
       "ai",
       "ai-deep-fake",
@@ -27,35 +131,97 @@
     ]
   },
   {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "120671 stars",
-    "topics": []
-  },
-  {
-    "name": "SakanaAI/AI-Scientist-v2",
-    "url": "https://github.com/SakanaAI/AI-Scientist-v2",
-    "desc": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+    "name": "mvanhorn/last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
     "lang": "Python",
-    "stars": "3421 stars",
-    "topics": []
+    "stars": "15260 stars",
+    "topics": [
+      "ai-prompts",
+      "ai-skill",
+      "bluesky",
+      "claude",
+      "claude-code",
+      "clawhub",
+      "deep-research",
+      "hackernews",
+      "instagram",
+      "openclaw",
+      "polymarket",
+      "recency",
+      "reddit",
+      "research",
+      "social-media",
+      "tiktok",
+      "trends",
+      "twitter",
+      "web-search",
+      "youtube"
+    ]
   },
   {
-    "name": "virattt/dexter",
-    "url": "https://github.com/virattt/dexter",
-    "desc": "An autonomous agent for deep financial research",
+    "name": "shareAI-lab/learn-claude-code",
+    "url": "https://github.com/shareAI-lab/learn-claude-code",
+    "desc": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
     "lang": "TypeScript",
-    "stars": "20169 stars",
-    "topics": []
+    "stars": "42630 stars",
+    "topics": [
+      "agent",
+      "agent-development",
+      "ai-agent",
+      "claude",
+      "claude-code",
+      "educational",
+      "llm",
+      "python",
+      "teaching",
+      "tutorial"
+    ]
+  },
+  {
+    "name": "fastfetch-cli/fastfetch",
+    "url": "https://github.com/fastfetch-cli/fastfetch",
+    "desc": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+    "lang": "C",
+    "stars": "21131 stars",
+    "topics": [
+      "bsdfetch",
+      "command-line",
+      "fastfetch",
+      "fetch",
+      "flashfetch",
+      "hacktoberfest",
+      "macfetch",
+      "neofetch",
+      "terminal",
+      "winfetch"
+    ]
+  },
+  {
+    "name": "moeru-ai/airi",
+    "url": "https://github.com/moeru-ai/airi",
+    "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "lang": "TypeScript",
+    "stars": "36326 stars",
+    "topics": [
+      "ai-companion",
+      "ai-vtuber",
+      "digital-life",
+      "grok-companion",
+      "live2d",
+      "neuro-sama",
+      "neurosama",
+      "openclaw",
+      "vrm",
+      "vtuber"
+    ]
   },
   {
     "name": "twentyhq/twenty",
     "url": "https://github.com/twentyhq/twenty",
     "desc": "Building a modern alternative to Salesforce, powered by the community.",
     "lang": "TypeScript",
-    "stars": "42409 stars",
+    "stars": "42908 stars",
     "topics": [
       "crm",
       "crm-system",
@@ -74,85 +240,6 @@
       "sales",
       "typescript",
       "web"
-    ]
-  },
-  {
-    "name": "onyx-dot-app/onyx",
-    "url": "https://github.com/onyx-dot-app/onyx",
-    "desc": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-    "lang": "Python",
-    "stars": "19729 stars",
-    "topics": [
-      "ai",
-      "ai-chat",
-      "chatgpt",
-      "chatui",
-      "enterprise-search",
-      "gen-ai",
-      "information-retrieval",
-      "llm",
-      "llm-ui",
-      "nextjs",
-      "python",
-      "rag",
-      "self-hosted",
-      "vector-search"
-    ]
-  },
-  {
-    "name": "datalab-to/chandra",
-    "url": "https://github.com/datalab-to/chandra",
-    "desc": "OCR model that handles complex tables, forms, handwriting with full layout.",
-    "lang": "Python",
-    "stars": "7568 stars",
-    "topics": [
-      "ai",
-      "ocr"
-    ]
-  },
-  {
-    "name": "agentscope-ai/agentscope",
-    "url": "https://github.com/agentscope-ai/agentscope",
-    "desc": "Build and run agents you can see, understand and trust.",
-    "lang": "Python",
-    "stars": "21590 stars",
-    "topics": [
-      "agent",
-      "chatbot",
-      "large-language-models",
-      "llm",
-      "llm-agent",
-      "mcp",
-      "multi-agent",
-      "multi-modal",
-      "react-agent"
-    ]
-  },
-  {
-    "name": "apache/superset",
-    "url": "https://github.com/apache/superset",
-    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
-    "lang": "TypeScript",
-    "stars": "71444 stars",
-    "topics": [
-      "analytics",
-      "apache",
-      "apache-superset",
-      "asf",
-      "bi",
-      "business-analytics",
-      "business-intelligence",
-      "data-analysis",
-      "data-analytics",
-      "data-engineering",
-      "data-science",
-      "data-visualization",
-      "data-viz",
-      "flask",
-      "python",
-      "react",
-      "sql-editor",
-      "superset"
     ]
   }
 ]

@@ -1,10 +1,34 @@
 [
   {
+    "name": "anthropics/claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "lang": "Shell",
+    "stars": "100464 stars",
+    "topics": []
+  },
+  {
+    "name": "microsoft/VibeVoice",
+    "url": "https://github.com/microsoft/VibeVoice",
+    "desc": "Open-Source Frontier Voice AI",
+    "lang": "Python",
+    "stars": "34377 stars",
+    "topics": []
+  },
+  {
+    "name": "google-research/timesfm",
+    "url": "https://github.com/google-research/timesfm",
+    "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "lang": "Python",
+    "stars": "12037 stars",
+    "topics": []
+  },
+  {
     "name": "luongnv89/claude-howto",
     "url": "https://github.com/luongnv89/claude-howto",
     "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
     "lang": "Python",
-    "stars": "12847 stars",
+    "stars": "15504 stars",
     "topics": [
       "claude-code",
       "guide",
@@ -12,209 +36,52 @@
     ]
   },
   {
-    "name": "microsoft/VibeVoice",
-    "url": "https://github.com/microsoft/VibeVoice",
-    "desc": "Open-Source Frontier Voice AI",
-    "lang": "Python",
-    "stars": "33056 stars",
+    "name": "axios/axios",
+    "url": "https://github.com/axios/axios",
+    "desc": "Promise based HTTP client for the browser and node.js",
+    "lang": "JavaScript",
+    "stars": "108856 stars",
+    "topics": [
+      "hacktoberfest",
+      "http-client",
+      "javascript",
+      "nodejs",
+      "promise"
+    ]
+  },
+  {
+    "name": "openai/codex",
+    "url": "https://github.com/openai/codex",
+    "desc": "Lightweight coding agent that runs in your terminal",
+    "lang": "Rust",
+    "stars": "71651 stars",
     "topics": []
   },
   {
-    "name": "Yeachan-Heo/oh-my-claudecode",
-    "url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
-    "desc": "Teams-first Multi-agent orchestration for Claude Code",
-    "lang": "TypeScript",
-    "stars": "18930 stars",
-    "topics": [
-      "agentic-coding",
-      "ai-agents",
-      "automation",
-      "claude",
-      "claude-code",
-      "multi-agent-systems",
-      "oh-my-opencode",
-      "opencode",
-      "parallel-execution",
-      "vibe-coding"
-    ]
-  },
-  {
-    "name": "shanraisshan/claude-code-best-practice",
-    "url": "https://github.com/shanraisshan/claude-code-best-practice",
-    "desc": "practice made claude perfect",
+    "name": "f/prompts.chat",
+    "url": "https://github.com/f/prompts.chat",
+    "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
     "lang": "HTML",
-    "stars": "28499 stars",
-    "topics": [
-      "agentic-engineering",
-      "best-practices",
-      "claude-ai",
-      "claude-code",
-      "vibe-coding"
-    ]
-  },
-  {
-    "name": "NousResearch/hermes-agent",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "desc": "The agent that grows with you",
-    "lang": "Python",
-    "stars": "20276 stars",
+    "stars": "155972 stars",
     "topics": [
       "ai",
-      "ai-agent",
-      "ai-agents",
-      "anthropic",
+      "artificial-intelligence",
+      "awesome-list",
       "chatgpt",
+      "chatgpt-prompts",
       "claude",
-      "claude-code",
-      "clawdbot",
-      "codex",
-      "hermes",
-      "hermes-agent",
+      "gemini",
+      "gpt",
+      "gpt-4",
       "llm",
-      "moltbot",
-      "nous-research",
+      "machine-learning",
+      "nextjs",
+      "open-source",
       "openai",
-      "openclaw"
-    ]
-  },
-  {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "128075 stars",
-    "topics": []
-  },
-  {
-    "name": "microsoft/agent-lightning",
-    "url": "https://github.com/microsoft/agent-lightning",
-    "desc": "The absolute trainer to light up AI agents.",
-    "lang": "Python",
-    "stars": "16201 stars",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "llm",
-      "mlops",
-      "reinforcement-learning"
-    ]
-  },
-  {
-    "name": "PaddlePaddle/PaddleOCR",
-    "url": "https://github.com/PaddlePaddle/PaddleOCR",
-    "desc": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-    "lang": "Python",
-    "stars": "74138 stars",
-    "topics": [
-      "ai4science",
-      "chineseocr",
-      "document-parsing",
-      "document-translation",
-      "kie",
-      "ocr",
-      "paddleocr-vl",
-      "pdf-extractor-rag",
-      "pdf-parser",
-      "pdf2markdown",
-      "pp-ocr",
-      "pp-structure",
-      "rag"
-    ]
-  },
-  {
-    "name": "Dimillian/Skills",
-    "url": "https://github.com/Dimillian/Skills",
-    "desc": "My Codex Skills",
-    "lang": "Shell",
-    "stars": "2829 stars",
-    "topics": []
-  },
-  {
-    "name": "sherlock-project/sherlock",
-    "url": "https://github.com/sherlock-project/sherlock",
-    "desc": "Hunt down social media accounts by username across social networks",
-    "lang": "Python",
-    "stars": "75485 stars",
-    "topics": [
-      "cli",
-      "cti",
-      "cybersecurity",
-      "forensics",
-      "hacktoberfest",
-      "information-gathering",
-      "infosec",
-      "linux",
-      "osint",
-      "pentesting",
-      "python",
-      "python3",
-      "reconnaissance",
-      "redteam",
-      "sherlock",
-      "tools"
-    ]
-  },
-  {
-    "name": "neovim/neovim",
-    "url": "https://github.com/neovim/neovim",
-    "desc": "Vim-fork focused on extensibility and usability",
-    "lang": "Vim Script",
-    "stars": "97921 stars",
-    "topics": [
-      "api",
-      "c",
-      "lua",
-      "neovim",
-      "nvim",
-      "text-editor",
-      "vim"
-    ]
-  },
-  {
-    "name": "vas3k/TaxHacker",
-    "url": "https://github.com/vas3k/TaxHacker",
-    "desc": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
-    "lang": "TypeScript",
-    "stars": "3708 stars",
-    "topics": [
-      "accounting",
-      "ai-analysis",
-      "currency-exchange",
-      "expenses",
-      "invoices",
-      "llm",
-      "llm-apps",
-      "self-hosted",
-      "taxes"
-    ]
-  },
-  {
-    "name": "OpenBMB/ChatDev",
-    "url": "https://github.com/OpenBMB/ChatDev",
-    "desc": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
-    "lang": "Python",
-    "stars": "32397 stars",
-    "topics": []
-  },
-  {
-    "name": "jwasham/coding-interview-university",
-    "url": "https://github.com/jwasham/coding-interview-university",
-    "desc": "A complete computer science study plan to become a software engineer.",
-    "lang": "Unknown",
-    "stars": "339601 stars",
-    "topics": [
-      "algorithm",
-      "algorithms",
-      "coding-interview",
-      "coding-interviews",
-      "computer-science",
-      "data-structures",
-      "interview",
-      "interview-prep",
-      "interview-preparation",
-      "programming-interviews",
-      "software-engineering",
-      "study-plan"
+      "prompt-engineering",
+      "prompts",
+      "prompts-chat",
+      "typescript"
     ]
   }
 ]

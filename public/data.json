@@ -1,10 +1,18 @@
 [
   {
+    "name": "google-ai-edge/gallery",
+    "url": "https://github.com/google-ai-edge/gallery",
+    "desc": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+    "lang": "Kotlin",
+    "stars": "16882 stars",
+    "topics": []
+  },
+  {
     "name": "Blaizzy/mlx-vlm",
     "url": "https://github.com/Blaizzy/mlx-vlm",
     "desc": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
     "lang": "Python",
-    "stars": "3587 stars",
+    "stars": "3907 stars",
     "topics": [
       "apple-silicon",
       "florence2",
@@ -22,11 +30,35 @@
     ]
   },
   {
+    "name": "siddharthvaddem/openscreen",
+    "url": "https://github.com/siddharthvaddem/openscreen",
+    "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. ",
+    "lang": "TypeScript",
+    "stars": "22464 stars",
+    "topics": [
+      "electron",
+      "open-source",
+      "pixijs",
+      "screen-capture",
+      "screen-recorder"
+    ]
+  },
+  {
+    "name": "block/goose",
+    "url": "https://github.com/block/goose",
+    "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "lang": "Rust",
+    "stars": "36952 stars",
+    "topics": [
+      "mcp"
+    ]
+  },
+  {
     "name": "onyx-dot-app/onyx",
     "url": "https://github.com/onyx-dot-app/onyx",
     "desc": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
     "lang": "Python",
-    "stars": "24198 stars",
+    "stars": "24990 stars",
     "topics": [
       "ai",
       "ai-chat",
@@ -45,33 +77,41 @@
     ]
   },
   {
-    "name": "Yeachan-Heo/oh-my-codex",
-    "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-    "desc": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+    "name": "badlogic/pi-mono",
+    "url": "https://github.com/badlogic/pi-mono",
+    "desc": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
     "lang": "TypeScript",
-    "stars": "15583 stars",
+    "stars": "31899 stars",
     "topics": []
   },
   {
-    "name": "siddharthvaddem/openscreen",
-    "url": "https://github.com/siddharthvaddem/openscreen",
-    "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. ",
-    "lang": "TypeScript",
-    "stars": "19640 stars",
+    "name": "dmtrKovalenko/fff.nvim",
+    "url": "https://github.com/dmtrKovalenko/fff.nvim",
+    "desc": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+    "lang": "Rust",
+    "stars": "3679 stars",
     "topics": [
-      "electron",
-      "open-source",
-      "pixijs",
-      "screen-capture",
-      "screen-recorder"
+      "filesearch",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "rust"
     ]
+  },
+  {
+    "name": "google-ai-edge/LiteRT-LM",
+    "url": "https://github.com/google-ai-edge/LiteRT-LM",
+    "desc": "LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.",
+    "lang": "C++",
+    "stars": "1538 stars",
+    "topics": []
   },
   {
     "name": "telegramdesktop/tdesktop",
     "url": "https://github.com/telegramdesktop/tdesktop",
     "desc": "Telegram Desktop messaging app",
     "lang": "C++",
-    "stars": "30825 stars",
+    "stars": "31060 stars",
     "topics": [
       "messenger",
       "multi-platform",
@@ -81,57 +121,27 @@
     ]
   },
   {
-    "name": "block/goose",
-    "url": "https://github.com/block/goose",
-    "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-    "lang": "Rust",
-    "stars": "35658 stars",
+    "name": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+    "lang": "TypeScript",
+    "stars": "441481 stars",
     "topics": [
-      "mcp"
-    ]
-  },
-  {
-    "name": "microsoft/agent-framework",
-    "url": "https://github.com/microsoft/agent-framework",
-    "desc": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
-    "lang": "Python",
-    "stars": "8689 stars",
-    "topics": [
-      "agent-framework",
-      "agentic-ai",
-      "agents",
-      "ai",
-      "dotnet",
-      "multi-agent",
-      "orchestration",
-      "python",
-      "sdk",
-      "workflows"
-    ]
-  },
-  {
-    "name": "sherlock-project/sherlock",
-    "url": "https://github.com/sherlock-project/sherlock",
-    "desc": "Hunt down social media accounts by username across social networks",
-    "lang": "Python",
-    "stars": "79330 stars",
-    "topics": [
-      "cli",
-      "cti",
-      "cybersecurity",
-      "forensics",
-      "hacktoberfest",
-      "information-gathering",
-      "infosec",
-      "linux",
-      "osint",
-      "pentesting",
-      "python",
-      "python3",
-      "reconnaissance",
-      "redteam",
-      "sherlock",
-      "tools"
+      "careers",
+      "certification",
+      "community",
+      "curriculum",
+      "d3",
+      "education",
+      "freecodecamp",
+      "javascript",
+      "learn-to-code",
+      "math",
+      "nodejs",
+      "nonprofits",
+      "programming",
+      "react",
+      "teachers"
     ]
   }
 ]

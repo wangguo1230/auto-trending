@@ -1,32 +1,168 @@
 [
   {
+    "name": "abhigyanpatwari/GitNexus",
+    "url": "https://github.com/abhigyanpatwari/GitNexus",
+    "desc": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+    "lang": "TypeScript",
+    "stars": "23393 stars",
+    "topics": []
+  },
+  {
     "name": "google-ai-edge/gallery",
     "url": "https://github.com/google-ai-edge/gallery",
     "desc": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
     "lang": "Kotlin",
-    "stars": "16882 stars",
+    "stars": "17837 stars",
     "topics": []
   },
   {
-    "name": "Blaizzy/mlx-vlm",
-    "url": "https://github.com/Blaizzy/mlx-vlm",
-    "desc": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
-    "lang": "Python",
-    "stars": "3907 stars",
+    "name": "block/goose",
+    "url": "https://github.com/block/goose",
+    "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "lang": "Rust",
+    "stars": "38084 stars",
     "topics": [
-      "apple-silicon",
-      "florence2",
-      "idefics",
-      "llava",
+      "mcp"
+    ]
+  },
+  {
+    "name": "google-ai-edge/LiteRT-LM",
+    "url": "https://github.com/google-ai-edge/LiteRT-LM",
+    "desc": "LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.",
+    "lang": "C++",
+    "stars": "1991 stars",
+    "topics": []
+  },
+  {
+    "name": "immich-app/immich",
+    "url": "https://github.com/immich-app/immich",
+    "desc": "High performance self-hosted photo and video management solution.",
+    "lang": "TypeScript",
+    "stars": "96823 stars",
+    "topics": [
+      "backup-tool",
+      "flutter",
+      "google-photos",
+      "google-photos-alternative",
+      "javascript",
+      "mobile-app",
+      "nestjs",
+      "nodejs",
+      "photo-gallery",
+      "photos",
+      "photos-management",
+      "self-hosted",
+      "svelte",
+      "sveltekit",
+      "typescript",
+      "videos"
+    ]
+  },
+  {
+    "name": "KeygraphHQ/shannon",
+    "url": "https://github.com/KeygraphHQ/shannon",
+    "desc": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+    "lang": "TypeScript",
+    "stars": "36465 stars",
+    "topics": [
+      "penetration-testing",
+      "pentesting",
+      "security-audit",
+      "security-automation",
+      "security-tools"
+    ]
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "desc": "The agent that grows with you",
+    "lang": "Python",
+    "stars": "28008 stars",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "clawdbot",
+      "codex",
+      "hermes",
+      "hermes-agent",
       "llm",
-      "local-ai",
-      "mlx",
-      "molmo",
-      "paligemma",
-      "pixtral",
-      "vision-framework",
-      "vision-language-model",
-      "vision-transformer"
+      "moltbot",
+      "nous-research",
+      "openai",
+      "openclaw"
+    ]
+  },
+  {
+    "name": "tobi/qmd",
+    "url": "https://github.com/tobi/qmd",
+    "desc": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+    "lang": "TypeScript",
+    "stars": "18703 stars",
+    "topics": []
+  },
+  {
+    "name": "TelegramMessenger/Telegram-iOS",
+    "url": "https://github.com/TelegramMessenger/Telegram-iOS",
+    "desc": "Telegram-iOS",
+    "lang": "Swift",
+    "stars": "8308 stars",
+    "topics": []
+  },
+  {
+    "name": "kepano/obsidian-skills",
+    "url": "https://github.com/kepano/obsidian-skills",
+    "desc": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
+    "lang": "Unknown",
+    "stars": "20477 stars",
+    "topics": [
+      "claude",
+      "clawdbot",
+      "cli",
+      "codex",
+      "defuddle",
+      "obsidian",
+      "openclaw",
+      "opencode",
+      "skills"
+    ]
+  },
+  {
+    "name": "ollama/ollama",
+    "url": "https://github.com/ollama/ollama",
+    "desc": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+    "lang": "Go",
+    "stars": "167667 stars",
+    "topics": [
+      "deepseek",
+      "gemma",
+      "gemma3",
+      "glm",
+      "go",
+      "golang",
+      "gpt-oss",
+      "llama",
+      "llama3",
+      "llm",
+      "llms",
+      "minimax",
+      "mistral",
+      "ollama",
+      "qwen"
+    ]
+  },
+  {
+    "name": "ggml-org/llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "desc": "LLM inference in C/C++",
+    "lang": "C++",
+    "stars": "102008 stars",
+    "topics": [
+      "ggml"
     ]
   },
   {
@@ -34,7 +170,7 @@
     "url": "https://github.com/siddharthvaddem/openscreen",
     "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. ",
     "lang": "TypeScript",
-    "stars": "22464 stars",
+    "stars": "23927 stars",
     "topics": [
       "electron",
       "open-source",
@@ -44,104 +180,11 @@
     ]
   },
   {
-    "name": "block/goose",
-    "url": "https://github.com/block/goose",
-    "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-    "lang": "Rust",
-    "stars": "36952 stars",
-    "topics": [
-      "mcp"
-    ]
-  },
-  {
-    "name": "onyx-dot-app/onyx",
-    "url": "https://github.com/onyx-dot-app/onyx",
-    "desc": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "name": "NVIDIA/personaplex",
+    "url": "https://github.com/NVIDIA/personaplex",
+    "desc": "PersonaPlex code.",
     "lang": "Python",
-    "stars": "24990 stars",
-    "topics": [
-      "ai",
-      "ai-chat",
-      "chatgpt",
-      "chatui",
-      "enterprise-search",
-      "gen-ai",
-      "information-retrieval",
-      "llm",
-      "llm-ui",
-      "nextjs",
-      "python",
-      "rag",
-      "self-hosted",
-      "vector-search"
-    ]
-  },
-  {
-    "name": "badlogic/pi-mono",
-    "url": "https://github.com/badlogic/pi-mono",
-    "desc": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
-    "lang": "TypeScript",
-    "stars": "31899 stars",
+    "stars": "7322 stars",
     "topics": []
-  },
-  {
-    "name": "dmtrKovalenko/fff.nvim",
-    "url": "https://github.com/dmtrKovalenko/fff.nvim",
-    "desc": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-    "lang": "Rust",
-    "stars": "3679 stars",
-    "topics": [
-      "filesearch",
-      "lua",
-      "neovim",
-      "neovim-plugin",
-      "rust"
-    ]
-  },
-  {
-    "name": "google-ai-edge/LiteRT-LM",
-    "url": "https://github.com/google-ai-edge/LiteRT-LM",
-    "desc": "LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.",
-    "lang": "C++",
-    "stars": "1538 stars",
-    "topics": []
-  },
-  {
-    "name": "telegramdesktop/tdesktop",
-    "url": "https://github.com/telegramdesktop/tdesktop",
-    "desc": "Telegram Desktop messaging app",
-    "lang": "C++",
-    "stars": "31060 stars",
-    "topics": [
-      "messenger",
-      "multi-platform",
-      "telegram",
-      "telegram-desktop",
-      "telegram-solution"
-    ]
-  },
-  {
-    "name": "freeCodeCamp/freeCodeCamp",
-    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-    "lang": "TypeScript",
-    "stars": "441481 stars",
-    "topics": [
-      "careers",
-      "certification",
-      "community",
-      "curriculum",
-      "d3",
-      "education",
-      "freecodecamp",
-      "javascript",
-      "learn-to-code",
-      "math",
-      "nodejs",
-      "nonprofits",
-      "programming",
-      "react",
-      "teachers"
-    ]
   }
 ]

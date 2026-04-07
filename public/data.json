@@ -1,190 +1,84 @@
 [
   {
-    "name": "abhigyanpatwari/GitNexus",
-    "url": "https://github.com/abhigyanpatwari/GitNexus",
-    "desc": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-    "lang": "TypeScript",
-    "stars": "23393 stars",
-    "topics": []
-  },
-  {
     "name": "google-ai-edge/gallery",
     "url": "https://github.com/google-ai-edge/gallery",
     "desc": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
     "lang": "Kotlin",
-    "stars": "17837 stars",
+    "stars": "18722 stars",
     "topics": []
-  },
-  {
-    "name": "block/goose",
-    "url": "https://github.com/block/goose",
-    "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-    "lang": "Rust",
-    "stars": "38084 stars",
-    "topics": [
-      "mcp"
-    ]
   },
   {
     "name": "google-ai-edge/LiteRT-LM",
     "url": "https://github.com/google-ai-edge/LiteRT-LM",
     "desc": "LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.",
     "lang": "C++",
-    "stars": "1991 stars",
+    "stars": "2514 stars",
     "topics": []
-  },
-  {
-    "name": "immich-app/immich",
-    "url": "https://github.com/immich-app/immich",
-    "desc": "High performance self-hosted photo and video management solution.",
-    "lang": "TypeScript",
-    "stars": "96823 stars",
-    "topics": [
-      "backup-tool",
-      "flutter",
-      "google-photos",
-      "google-photos-alternative",
-      "javascript",
-      "mobile-app",
-      "nestjs",
-      "nodejs",
-      "photo-gallery",
-      "photos",
-      "photos-management",
-      "self-hosted",
-      "svelte",
-      "sveltekit",
-      "typescript",
-      "videos"
-    ]
-  },
-  {
-    "name": "KeygraphHQ/shannon",
-    "url": "https://github.com/KeygraphHQ/shannon",
-    "desc": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
-    "lang": "TypeScript",
-    "stars": "36465 stars",
-    "topics": [
-      "penetration-testing",
-      "pentesting",
-      "security-audit",
-      "security-automation",
-      "security-tools"
-    ]
-  },
-  {
-    "name": "NousResearch/hermes-agent",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "desc": "The agent that grows with you",
-    "lang": "Python",
-    "stars": "28008 stars",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "anthropic",
-      "chatgpt",
-      "claude",
-      "claude-code",
-      "clawdbot",
-      "codex",
-      "hermes",
-      "hermes-agent",
-      "llm",
-      "moltbot",
-      "nous-research",
-      "openai",
-      "openclaw"
-    ]
-  },
-  {
-    "name": "tobi/qmd",
-    "url": "https://github.com/tobi/qmd",
-    "desc": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
-    "lang": "TypeScript",
-    "stars": "18703 stars",
-    "topics": []
-  },
-  {
-    "name": "TelegramMessenger/Telegram-iOS",
-    "url": "https://github.com/TelegramMessenger/Telegram-iOS",
-    "desc": "Telegram-iOS",
-    "lang": "Swift",
-    "stars": "8308 stars",
-    "topics": []
-  },
-  {
-    "name": "kepano/obsidian-skills",
-    "url": "https://github.com/kepano/obsidian-skills",
-    "desc": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
-    "lang": "Unknown",
-    "stars": "20477 stars",
-    "topics": [
-      "claude",
-      "clawdbot",
-      "cli",
-      "codex",
-      "defuddle",
-      "obsidian",
-      "openclaw",
-      "opencode",
-      "skills"
-    ]
-  },
-  {
-    "name": "ollama/ollama",
-    "url": "https://github.com/ollama/ollama",
-    "desc": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-    "lang": "Go",
-    "stars": "167667 stars",
-    "topics": [
-      "deepseek",
-      "gemma",
-      "gemma3",
-      "glm",
-      "go",
-      "golang",
-      "gpt-oss",
-      "llama",
-      "llama3",
-      "llm",
-      "llms",
-      "minimax",
-      "mistral",
-      "ollama",
-      "qwen"
-    ]
-  },
-  {
-    "name": "ggml-org/llama.cpp",
-    "url": "https://github.com/ggml-org/llama.cpp",
-    "desc": "LLM inference in C/C++",
-    "lang": "C++",
-    "stars": "102008 stars",
-    "topics": [
-      "ggml"
-    ]
-  },
-  {
-    "name": "siddharthvaddem/openscreen",
-    "url": "https://github.com/siddharthvaddem/openscreen",
-    "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. ",
-    "lang": "TypeScript",
-    "stars": "23927 stars",
-    "topics": [
-      "electron",
-      "open-source",
-      "pixijs",
-      "screen-capture",
-      "screen-recorder"
-    ]
   },
   {
     "name": "NVIDIA/personaplex",
     "url": "https://github.com/NVIDIA/personaplex",
     "desc": "PersonaPlex code.",
     "lang": "Python",
-    "stars": "7322 stars",
+    "stars": "7921 stars",
+    "topics": []
+  },
+  {
+    "name": "abhigyanpatwari/GitNexus",
+    "url": "https://github.com/abhigyanpatwari/GitNexus",
+    "desc": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+    "lang": "TypeScript",
+    "stars": "24452 stars",
+    "topics": []
+  },
+  {
+    "name": "tobi/qmd",
+    "url": "https://github.com/tobi/qmd",
+    "desc": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+    "lang": "TypeScript",
+    "stars": "19515 stars",
+    "topics": []
+  },
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "desc": "A single `CLAUDE.md` file to improve Claude Code behavior, derived from [Andrej Karpathy's observations](https://x.com/karpathy/status/2015883857489522876) on LLM coding pitfalls. From Andrej's post:",
+    "lang": "Unknown",
+    "stars": "8013 stars",
+    "topics": []
+  },
+  {
+    "name": "elebumm/RedditVideoMakerBot",
+    "url": "https://github.com/elebumm/RedditVideoMakerBot",
+    "desc": "Create Reddit Videos with just✨ one command ✨",
+    "lang": "Python",
+    "stars": "10010 stars",
+    "topics": []
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "desc": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+    "lang": "Python",
+    "stars": "12113 stars",
+    "topics": [
+      "ai-agents",
+      "ai-tutor",
+      "clawdbot",
+      "cli-tool",
+      "deepresearch",
+      "interactive-learning",
+      "large-language-models",
+      "multi-agent-systems",
+      "rag"
+    ]
+  },
+  {
+    "name": "TheCraigHewitt/seomachine",
+    "url": "https://github.com/TheCraigHewitt/seomachine",
+    "desc": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+    "lang": "Python",
+    "stars": "3848 stars",
     "topics": []
   }
 ]

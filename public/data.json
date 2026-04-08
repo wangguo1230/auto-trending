@@ -1,18 +1,26 @@
 [
   {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "desc": "A single `CLAUDE.md` file to improve Claude Code behavior, derived from [Andrej Karpathy's observations](https://x.com/karpathy/status/2015883857489522876) on LLM coding pitfalls. From Andrej's post:",
+    "lang": "Unknown",
+    "stars": "8937 stars",
+    "topics": []
+  },
+  {
+    "name": "TheCraigHewitt/seomachine",
+    "url": "https://github.com/TheCraigHewitt/seomachine",
+    "desc": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+    "lang": "Python",
+    "stars": "4550 stars",
+    "topics": []
+  },
+  {
     "name": "google-ai-edge/gallery",
     "url": "https://github.com/google-ai-edge/gallery",
     "desc": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
     "lang": "Kotlin",
-    "stars": "18722 stars",
-    "topics": []
-  },
-  {
-    "name": "google-ai-edge/LiteRT-LM",
-    "url": "https://github.com/google-ai-edge/LiteRT-LM",
-    "desc": "LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.",
-    "lang": "C++",
-    "stars": "2514 stars",
+    "stars": "19482 stars",
     "topics": []
   },
   {
@@ -20,31 +28,15 @@
     "url": "https://github.com/NVIDIA/personaplex",
     "desc": "PersonaPlex code.",
     "lang": "Python",
-    "stars": "7921 stars",
+    "stars": "8393 stars",
     "topics": []
   },
   {
-    "name": "abhigyanpatwari/GitNexus",
-    "url": "https://github.com/abhigyanpatwari/GitNexus",
-    "desc": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
-    "lang": "TypeScript",
-    "stars": "24452 stars",
-    "topics": []
-  },
-  {
-    "name": "tobi/qmd",
-    "url": "https://github.com/tobi/qmd",
-    "desc": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
-    "lang": "TypeScript",
-    "stars": "19515 stars",
-    "topics": []
-  },
-  {
-    "name": "forrestchang/andrej-karpathy-skills",
-    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-    "desc": "A single `CLAUDE.md` file to improve Claude Code behavior, derived from [Andrej Karpathy's observations](https://x.com/karpathy/status/2015883857489522876) on LLM coding pitfalls. From Andrej's post:",
-    "lang": "Unknown",
-    "stars": "8013 stars",
+    "name": "google-ai-edge/LiteRT-LM",
+    "url": "https://github.com/google-ai-edge/LiteRT-LM",
+    "desc": "LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.",
+    "lang": "C++",
+    "stars": "2968 stars",
     "topics": []
   },
   {
@@ -52,33 +44,65 @@
     "url": "https://github.com/elebumm/RedditVideoMakerBot",
     "desc": "Create Reddit Videos with just✨ one command ✨",
     "lang": "Python",
-    "stars": "10010 stars",
+    "stars": "10462 stars",
     "topics": []
   },
   {
-    "name": "HKUDS/DeepTutor",
-    "url": "https://github.com/HKUDS/DeepTutor",
-    "desc": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "141445 stars",
+    "topics": []
+  },
+  {
+    "name": "newton-physics/newton",
+    "url": "https://github.com/newton-physics/newton",
+    "desc": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
     "lang": "Python",
-    "stars": "12113 stars",
+    "stars": "4074 stars",
     "topics": [
-      "ai-agents",
-      "ai-tutor",
-      "clawdbot",
-      "cli-tool",
-      "deepresearch",
-      "interactive-learning",
-      "large-language-models",
-      "multi-agent-systems",
-      "rag"
+      "newton-physics",
+      "nvidia-warp",
+      "physics-simulation",
+      "robotics"
     ]
   },
   {
-    "name": "TheCraigHewitt/seomachine",
-    "url": "https://github.com/TheCraigHewitt/seomachine",
-    "desc": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
-    "lang": "Python",
-    "stars": "3848 stars",
+    "name": "abhigyanpatwari/GitNexus",
+    "url": "https://github.com/abhigyanpatwari/GitNexus",
+    "desc": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+    "lang": "TypeScript",
+    "stars": "25270 stars",
     "topics": []
+  },
+  {
+    "name": "virattt/ai-hedge-fund",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "desc": "An AI Hedge Fund Team",
+    "lang": "Python",
+    "stars": "50659 stars",
+    "topics": []
+  },
+  {
+    "name": "goharbor/harbor",
+    "url": "https://github.com/goharbor/harbor",
+    "desc": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+    "lang": "Go",
+    "stars": "28102 stars",
+    "topics": [
+      "cloud-native",
+      "cncf",
+      "cncf-project",
+      "container",
+      "container-management",
+      "container-registry",
+      "containers",
+      "docker",
+      "hacktoberfest",
+      "helm",
+      "kubernetes",
+      "registry"
+    ]
   }
 ]

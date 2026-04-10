@@ -1,10 +1,45 @@
 [
   {
+    "name": "microsoft/markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "desc": "Python tool for converting files and office documents to Markdown.",
+    "lang": "Python",
+    "stars": "99583 stars",
+    "topics": [
+      "autogen",
+      "autogen-extension",
+      "langchain",
+      "markdown",
+      "microsoft-office",
+      "openai",
+      "pdf"
+    ]
+  },
+  {
+    "name": "coleam00/Archon",
+    "url": "https://github.com/coleam00/Archon",
+    "desc": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+    "lang": "TypeScript",
+    "stars": "15563 stars",
+    "topics": [
+      "ai",
+      "automation",
+      "bun",
+      "claude",
+      "cli",
+      "coding-assistant",
+      "developer-tools",
+      "typescript",
+      "workflow-engine",
+      "yaml"
+    ]
+  },
+  {
     "name": "NousResearch/hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
     "desc": "The agent that grows with you",
     "lang": "Python",
-    "stars": "44097 stars",
+    "stars": "51745 stars",
     "topics": [
       "ai",
       "ai-agent",
@@ -25,11 +60,51 @@
     ]
   },
   {
+    "name": "rowboatlabs/rowboat",
+    "url": "https://github.com/rowboatlabs/rowboat",
+    "desc": "Open-source AI coworker, with memory",
+    "lang": "TypeScript",
+    "stars": "11708 stars",
+    "topics": [
+      "agents",
+      "agents-sdk",
+      "ai",
+      "ai-agents",
+      "ai-agents-automation",
+      "chatgpt",
+      "claude-code",
+      "claude-cowork",
+      "generative-ai",
+      "llm",
+      "multiagent",
+      "opeani",
+      "open-source",
+      "orchestration",
+      "productivity"
+    ]
+  },
+  {
+    "name": "multica-ai/multica",
+    "url": "https://github.com/multica-ai/multica",
+    "desc": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "lang": "TypeScript",
+    "stars": "6007 stars",
+    "topics": []
+  },
+  {
     "name": "forrestchang/andrej-karpathy-skills",
     "url": "https://github.com/forrestchang/andrej-karpathy-skills",
     "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
     "lang": "Unknown",
-    "stars": "10387 stars",
+    "stars": "11685 stars",
+    "topics": []
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "lang": "Python",
+    "stars": "12697 stars",
     "topics": []
   },
   {
@@ -37,7 +112,7 @@
     "url": "https://github.com/HKUDS/DeepTutor",
     "desc": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
     "lang": "Python",
-    "stars": "14783 stars",
+    "stars": "15937 stars",
     "topics": [
       "ai-agents",
       "ai-tutor",
@@ -51,34 +126,11 @@
     ]
   },
   {
-    "name": "OpenBMB/VoxCPM",
-    "url": "https://github.com/OpenBMB/VoxCPM",
-    "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-    "lang": "Python",
-    "stars": "7609 stars",
-    "topics": [
-      "audio",
-      "deeplearning",
-      "minicpm",
-      "multilingual",
-      "python",
-      "pytorch",
-      "speech",
-      "speech-synthesis",
-      "text-to-speech",
-      "tts",
-      "tts-model",
-      "voice-cloning",
-      "voice-design",
-      "voxcpm"
-    ]
-  },
-  {
     "name": "opendataloader-project/opendataloader-pdf",
     "url": "https://github.com/opendataloader-project/opendataloader-pdf",
     "desc": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
     "lang": "Java",
-    "stars": "13725 stars",
+    "stars": "14763 stars",
     "topics": [
       "a11y",
       "accessibility",
@@ -107,56 +159,39 @@
     "url": "https://github.com/obra/superpowers",
     "desc": "An agentic skills framework & software development methodology that works.",
     "lang": "Shell",
-    "stars": "143671 stars",
+    "stars": "145686 stars",
     "topics": []
   },
   {
-    "name": "TheCraigHewitt/seomachine",
-    "url": "https://github.com/TheCraigHewitt/seomachine",
-    "desc": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
-    "lang": "Python",
-    "stars": "5174 stars",
-    "topics": []
-  },
-  {
-    "name": "coleam00/Archon",
-    "url": "https://github.com/coleam00/Archon",
-    "desc": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
-    "lang": "TypeScript",
-    "stars": "14383 stars",
+    "name": "jqlang/jq",
+    "url": "https://github.com/jqlang/jq",
+    "desc": "Command-line JSON processor",
+    "lang": "C",
+    "stars": "34278 stars",
     "topics": [
-      "ai",
-      "automation",
-      "bun",
-      "claude",
-      "cli",
-      "coding-assistant",
-      "developer-tools",
-      "typescript",
-      "workflow-engine",
-      "yaml"
+      "jq"
     ]
   },
   {
-    "name": "shiyu-coder/Kronos",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "lang": "Python",
-    "stars": "12151 stars",
-    "topics": []
-  },
-  {
-    "name": "YishenTu/claudian",
-    "url": "https://github.com/YishenTu/claudian",
-    "desc": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
-    "lang": "TypeScript",
-    "stars": "6787 stars",
+    "name": "shanraisshan/claude-code-best-practice",
+    "url": "https://github.com/shanraisshan/claude-code-best-practice",
+    "desc": "practice made claude perfect",
+    "lang": "HTML",
+    "stars": "35693 stars",
     "topics": [
+      "agentic-engineering",
+      "anthropic",
+      "best-practices",
+      "boris",
+      "boris-cherny",
+      "claude",
+      "claude-ai",
       "claude-code",
-      "ide",
-      "obsidian",
-      "obsidian-plugin",
-      "productivity"
+      "claude-code-agents",
+      "claude-code-best-practices",
+      "claude-code-commands",
+      "claude-code-skills",
+      "vibe-coding"
     ]
   }
 ]

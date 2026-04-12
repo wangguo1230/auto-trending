@@ -4,7 +4,7 @@
     "url": "https://github.com/NousResearch/hermes-agent",
     "desc": "The agent that grows with you",
     "lang": "Python",
-    "stars": "58660 stars",
+    "stars": "66042 stars",
     "topics": [
       "ai",
       "ai-agent",
@@ -25,11 +25,27 @@
     ]
   },
   {
+    "name": "shiyu-coder/Kronos",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "lang": "Python",
+    "stars": "15717 stars",
+    "topics": []
+  },
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "lang": "Unknown",
+    "stars": "16602 stars",
+    "topics": []
+  },
+  {
     "name": "microsoft/markitdown",
     "url": "https://github.com/microsoft/markitdown",
     "desc": "Python tool for converting files and office documents to Markdown.",
     "lang": "Python",
-    "stars": "102077 stars",
+    "stars": "104539 stars",
     "topics": [
       "autogen",
       "autogen-extension",
@@ -41,11 +57,19 @@
     ]
   },
   {
+    "name": "multica-ai/multica",
+    "url": "https://github.com/multica-ai/multica",
+    "desc": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "lang": "TypeScript",
+    "stars": "9314 stars",
+    "topics": []
+  },
+  {
     "name": "coleam00/Archon",
     "url": "https://github.com/coleam00/Archon",
     "desc": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
     "lang": "TypeScript",
-    "stars": "16445 stars",
+    "stars": "17012 stars",
     "topics": [
       "ai",
       "automation",
@@ -60,27 +84,11 @@
     ]
   },
   {
-    "name": "forrestchang/andrej-karpathy-skills",
-    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-    "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-    "lang": "Unknown",
-    "stars": "13501 stars",
-    "topics": []
-  },
-  {
-    "name": "multica-ai/multica",
-    "url": "https://github.com/multica-ai/multica",
-    "desc": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-    "lang": "TypeScript",
-    "stars": "7845 stars",
-    "topics": []
-  },
-  {
     "name": "shanraisshan/claude-code-best-practice",
     "url": "https://github.com/shanraisshan/claude-code-best-practice",
     "desc": "practice made claude perfect",
     "lang": "HTML",
-    "stars": "37020 stars",
+    "stars": "38919 stars",
     "topics": [
       "agentic-engineering",
       "anthropic",
@@ -98,19 +106,11 @@
     ]
   },
   {
-    "name": "TapXWorld/ChinaTextbook",
-    "url": "https://github.com/TapXWorld/ChinaTextbook",
-    "desc": "所有小初高、大学PDF教材。",
-    "lang": "Roff",
-    "stars": "67770 stars",
-    "topics": []
-  },
-  {
     "name": "OpenBMB/VoxCPM",
     "url": "https://github.com/OpenBMB/VoxCPM",
     "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
     "lang": "Python",
-    "stars": "9857 stars",
+    "stars": "11237 stars",
     "topics": [
       "audio",
       "deeplearning",
@@ -129,81 +129,85 @@
     ]
   },
   {
-    "name": "shiyu-coder/Kronos",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "lang": "Python",
-    "stars": "14179 stars",
-    "topics": []
-  },
-  {
-    "name": "opendataloader-project/opendataloader-pdf",
-    "url": "https://github.com/opendataloader-project/opendataloader-pdf",
-    "desc": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-    "lang": "Java",
-    "stars": "15591 stars",
+    "name": "thedotmack/claude-mem",
+    "url": "https://github.com/thedotmack/claude-mem",
+    "desc": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "lang": "TypeScript",
+    "stars": "49859 stars",
     "topics": [
-      "a11y",
-      "accessibility",
       "ai",
-      "bounding-box",
-      "document-parsing",
-      "eaa",
-      "html",
-      "json",
-      "markdown",
-      "ocr",
-      "ocr-recognition",
-      "pdf",
-      "pdf-accessibility",
-      "pdf-converter",
-      "pdf-extraction",
-      "pdf-parser",
-      "pdf-ua",
-      "rag",
-      "tables",
-      "tagged-pdf"
-    ]
-  },
-  {
-    "name": "HKUDS/DeepTutor",
-    "url": "https://github.com/HKUDS/DeepTutor",
-    "desc": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
-    "lang": "Python",
-    "stars": "16726 stars",
-    "topics": [
       "ai-agents",
-      "ai-tutor",
-      "clawdbot",
-      "cli-tool",
-      "deepresearch",
-      "interactive-learning",
-      "large-language-models",
-      "multi-agent-systems",
-      "rag"
+      "ai-memory",
+      "anthropic",
+      "artificial-intelligence",
+      "chromadb",
+      "claude",
+      "claude-agent-sdk",
+      "claude-agents",
+      "claude-code",
+      "claude-code-plugin",
+      "claude-skills",
+      "embeddings",
+      "long-term-memory",
+      "mem0",
+      "memory-engine",
+      "openmemory",
+      "rag",
+      "sqlite",
+      "supermemory"
     ]
   },
   {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "147113 stars",
+    "name": "ahujasid/blender-mcp",
+    "url": "https://github.com/ahujasid/blender-mcp",
+    "desc": "BlenderMCP connects Blender to Claude AI through the Model Context Protocol (MCP), allowing Claude to directly interact with and control Blender. This integration enables prompt assisted 3D modeling, ",
+    "lang": "Python",
+    "stars": "19127 stars",
     "topics": []
   },
   {
-    "name": "alexpate/awesome-design-systems",
-    "url": "https://github.com/alexpate/awesome-design-systems",
-    "desc": "💅🏻 ⚒ A collection of awesome design systems",
-    "lang": "Unknown",
-    "stars": "22281 stars",
+    "name": "rustfs/rustfs",
+    "url": "https://github.com/rustfs/rustfs",
+    "desc": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+    "lang": "Rust",
+    "stars": "25180 stars",
     "topics": [
-      "awesome",
-      "awesome-list",
-      "design-systems",
-      "hacktoberfest",
-      "pattern-library",
-      "ui-library"
+      "ai-native",
+      "ai-storage",
+      "amazon-s3",
+      "bigdata",
+      "cloud-native",
+      "filesystem",
+      "minio",
+      "multi-cloud",
+      "object-storage",
+      "objectstorage",
+      "rust",
+      "s3"
     ]
+  },
+  {
+    "name": "virattt/ai-hedge-fund",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "desc": "An AI Hedge Fund Team",
+    "lang": "Python",
+    "stars": "52157 stars",
+    "topics": []
+  },
+  {
+    "name": "snarktank/ralph",
+    "url": "https://github.com/snarktank/ralph",
+    "desc": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. ",
+    "lang": "TypeScript",
+    "stars": "15898 stars",
+    "topics": []
+  },
+  {
+    "name": "TapXWorld/ChinaTextbook",
+    "url": "https://github.com/TapXWorld/ChinaTextbook",
+    "desc": "所有小初高、大学PDF教材。",
+    "lang": "Roff",
+    "stars": "68196 stars",
+    "topics": []
   }
 ]

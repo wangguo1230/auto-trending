@@ -4,7 +4,15 @@
     "url": "https://github.com/forrestchang/andrej-karpathy-skills",
     "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
     "lang": "Unknown",
-    "stars": "33384 stars",
+    "stars": "42720 stars",
+    "topics": []
+  },
+  {
+    "name": "pascalorg/editor",
+    "url": "https://github.com/pascalorg/editor",
+    "desc": "Create and share 3D architectural projects.",
+    "lang": "TypeScript",
+    "stars": "12606 stars",
     "topics": []
   },
   {
@@ -12,7 +20,7 @@
     "url": "https://github.com/thedotmack/claude-mem",
     "desc": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
     "lang": "TypeScript",
-    "stars": "55675 stars",
+    "stars": "57752 stars",
     "topics": [
       "ai",
       "ai-agents",
@@ -37,11 +45,48 @@
     ]
   },
   {
+    "name": "Lordog/dive-into-llms",
+    "url": "https://github.com/Lordog/dive-into-llms",
+    "desc": "《动手学大模型Dive into LLMs》系列编程实践教程",
+    "lang": "Jupyter Notebook",
+    "stars": "29364 stars",
+    "topics": []
+  },
+  {
+    "name": "virattt/ai-hedge-fund",
+    "url": "https://github.com/virattt/ai-hedge-fund",
+    "desc": "An AI Hedge Fund Team",
+    "lang": "Python",
+    "stars": "55027 stars",
+    "topics": []
+  },
+  {
+    "name": "chrislgarry/Apollo-11",
+    "url": "https://github.com/chrislgarry/Apollo-11",
+    "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "lang": "Assembly",
+    "stars": "66779 stars",
+    "topics": [
+      "agc",
+      "apollo",
+      "hacktoberfest",
+      "nasa"
+    ]
+  },
+  {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "154209 stars",
+    "topics": []
+  },
+  {
     "name": "jamiepine/voicebox",
     "url": "https://github.com/jamiepine/voicebox",
     "desc": "The open-source voice synthesis studio",
     "lang": "TypeScript",
-    "stars": "17291 stars",
+    "stars": "18229 stars",
     "topics": [
       "ai",
       "cuda",
@@ -54,143 +99,99 @@
     ]
   },
   {
-    "name": "pascalorg/editor",
-    "url": "https://github.com/pascalorg/editor",
-    "desc": "Create and share 3D architectural projects.",
+    "name": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python",
+    "stars": "423274 stars",
+    "topics": [
+      "api",
+      "apis",
+      "dataset",
+      "development",
+      "free",
+      "list",
+      "lists",
+      "open-source",
+      "public",
+      "public-api",
+      "public-apis",
+      "resources",
+      "software"
+    ]
+  },
+  {
+    "name": "vercel-labs/open-agents",
+    "url": "https://github.com/vercel-labs/open-agents",
+    "desc": "An open source template for building cloud agents.",
     "lang": "TypeScript",
-    "stars": "11580 stars",
-    "topics": []
-  },
-  {
-    "name": "microsoft/markitdown",
-    "url": "https://github.com/microsoft/markitdown",
-    "desc": "Python tool for converting files and office documents to Markdown.",
-    "lang": "Python",
-    "stars": "108388 stars",
+    "stars": "2603 stars",
     "topics": [
-      "autogen",
-      "autogen-extension",
-      "langchain",
-      "markdown",
-      "microsoft-office",
-      "openai",
-      "pdf"
+      "agent",
+      "agents",
+      "ai",
+      "background-agents"
     ]
   },
   {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "152209 stars",
-    "topics": []
-  },
-  {
-    "name": "chrislgarry/Apollo-11",
-    "url": "https://github.com/chrislgarry/Apollo-11",
-    "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-    "lang": "Assembly",
-    "stars": "66337 stars",
+    "name": "lsdefine/GenericAgent",
+    "url": "https://github.com/lsdefine/GenericAgent",
+    "desc": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "lang": "Python",
+    "stars": "1900 stars",
     "topics": [
-      "agc",
-      "apollo",
-      "hacktoberfest",
-      "nasa"
+      "ai-agent",
+      "automation",
+      "autonomous-agent",
+      "browser-automation",
+      "claude",
+      "computer-control",
+      "desktop-automation",
+      "gemini",
+      "lightweight",
+      "llm-agent",
+      "memory-system",
+      "python",
+      "self-evolving",
+      "skill-tree",
+      "task-automation"
     ]
   },
   {
-    "name": "virattt/ai-hedge-fund",
-    "url": "https://github.com/virattt/ai-hedge-fund",
-    "desc": "An AI Hedge Fund Team",
+    "name": "google/magika",
+    "url": "https://github.com/google/magika",
+    "desc": "Fast and accurate AI powered file content types detection ",
     "lang": "Python",
-    "stars": "54098 stars",
-    "topics": []
-  },
-  {
-    "name": "shiyu-coder/Kronos",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "lang": "Python",
-    "stars": "17773 stars",
-    "topics": []
-  },
-  {
-    "name": "NousResearch/hermes-agent",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "desc": "The agent that grows with you",
-    "lang": "Python",
-    "stars": "84112 stars",
+    "stars": "13745 stars",
     "topics": [
       "ai",
-      "ai-agent",
-      "ai-agents",
-      "anthropic",
-      "chatgpt",
-      "claude",
-      "claude-code",
-      "clawdbot",
-      "codex",
-      "hermes",
-      "hermes-agent",
-      "llm",
-      "moltbot",
-      "nous-research",
-      "openai",
-      "openclaw"
+      "deep-learning",
+      "filetype",
+      "keras-classification-models",
+      "keras-models",
+      "mime-types",
+      "onnx"
     ]
   },
   {
-    "name": "anthropics/claude-cookbooks",
-    "url": "https://github.com/anthropics/claude-cookbooks",
-    "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-    "lang": "Jupyter Notebook",
-    "stars": "40215 stars",
-    "topics": []
-  },
-  {
-    "name": "tw93/Mole",
-    "url": "https://github.com/tw93/Mole",
-    "desc": "🐹 Deep clean and optimize your Mac.",
+    "name": "Donchitos/Claude-Code-Game-Studios",
+    "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+    "desc": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
     "lang": "Shell",
-    "stars": "47086 stars",
+    "stars": "10377 stars",
     "topics": [
-      "analyzer",
-      "appcleaner",
-      "clean",
-      "cleaner",
-      "cleaner-cli",
-      "cleaner-script",
-      "command-line",
-      "daisydisk",
-      "istat",
-      "mac",
-      "macos",
-      "optimize",
-      "sensei",
-      "shell",
-      "uninstall"
-    ]
-  },
-  {
-    "name": "shanraisshan/claude-code-best-practice",
-    "url": "https://github.com/shanraisshan/claude-code-best-practice",
-    "desc": "from vibe coding to agentic engineering - practice makes claude perfect",
-    "lang": "HTML",
-    "stars": "43690 stars",
-    "topics": [
-      "agentic-engineering",
+      "ai-agents",
+      "ai-assisted-development",
       "anthropic",
-      "best-practices",
-      "boris",
-      "boris-cherny",
       "claude",
-      "claude-ai",
       "claude-code",
-      "claude-code-agents",
-      "claude-code-best-practices",
-      "claude-code-commands",
-      "claude-code-skills",
-      "vibe-coding"
+      "game-design",
+      "game-development",
+      "gamedev",
+      "godot",
+      "indie-game-dev",
+      "unity",
+      "unreal-engine"
     ]
   }
 ]

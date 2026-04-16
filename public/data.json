@@ -4,15 +4,7 @@
     "url": "https://github.com/forrestchang/andrej-karpathy-skills",
     "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
     "lang": "Unknown",
-    "stars": "42720 stars",
-    "topics": []
-  },
-  {
-    "name": "pascalorg/editor",
-    "url": "https://github.com/pascalorg/editor",
-    "desc": "Create and share 3D architectural projects.",
-    "lang": "TypeScript",
-    "stars": "12606 stars",
+    "stars": "49626 stars",
     "topics": []
   },
   {
@@ -20,7 +12,7 @@
     "url": "https://github.com/thedotmack/claude-mem",
     "desc": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
     "lang": "TypeScript",
-    "stars": "57752 stars",
+    "stars": "59635 stars",
     "topics": [
       "ai",
       "ai-agents",
@@ -45,100 +37,11 @@
     ]
   },
   {
-    "name": "Lordog/dive-into-llms",
-    "url": "https://github.com/Lordog/dive-into-llms",
-    "desc": "《动手学大模型Dive into LLMs》系列编程实践教程",
-    "lang": "Jupyter Notebook",
-    "stars": "29364 stars",
-    "topics": []
-  },
-  {
-    "name": "virattt/ai-hedge-fund",
-    "url": "https://github.com/virattt/ai-hedge-fund",
-    "desc": "An AI Hedge Fund Team",
-    "lang": "Python",
-    "stars": "55027 stars",
-    "topics": []
-  },
-  {
-    "name": "chrislgarry/Apollo-11",
-    "url": "https://github.com/chrislgarry/Apollo-11",
-    "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-    "lang": "Assembly",
-    "stars": "66779 stars",
-    "topics": [
-      "agc",
-      "apollo",
-      "hacktoberfest",
-      "nasa"
-    ]
-  },
-  {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "154209 stars",
-    "topics": []
-  },
-  {
-    "name": "jamiepine/voicebox",
-    "url": "https://github.com/jamiepine/voicebox",
-    "desc": "The open-source voice synthesis studio",
-    "lang": "TypeScript",
-    "stars": "18229 stars",
-    "topics": [
-      "ai",
-      "cuda",
-      "mlx",
-      "qwen3-tts",
-      "qwen3-tts-ui",
-      "voice-ai",
-      "voice-clone",
-      "whisper"
-    ]
-  },
-  {
-    "name": "public-apis/public-apis",
-    "url": "https://github.com/public-apis/public-apis",
-    "desc": "A collective list of free APIs",
-    "lang": "Python",
-    "stars": "423274 stars",
-    "topics": [
-      "api",
-      "apis",
-      "dataset",
-      "development",
-      "free",
-      "list",
-      "lists",
-      "open-source",
-      "public",
-      "public-api",
-      "public-apis",
-      "resources",
-      "software"
-    ]
-  },
-  {
-    "name": "vercel-labs/open-agents",
-    "url": "https://github.com/vercel-labs/open-agents",
-    "desc": "An open source template for building cloud agents.",
-    "lang": "TypeScript",
-    "stars": "2603 stars",
-    "topics": [
-      "agent",
-      "agents",
-      "ai",
-      "background-agents"
-    ]
-  },
-  {
     "name": "lsdefine/GenericAgent",
     "url": "https://github.com/lsdefine/GenericAgent",
     "desc": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
     "lang": "Python",
-    "stars": "1900 stars",
+    "stars": "2737 stars",
     "topics": [
       "ai-agent",
       "automation",
@@ -158,11 +61,41 @@
     ]
   },
   {
+    "name": "jamiepine/voicebox",
+    "url": "https://github.com/jamiepine/voicebox",
+    "desc": "The open-source voice synthesis studio",
+    "lang": "TypeScript",
+    "stars": "19041 stars",
+    "topics": [
+      "ai",
+      "cuda",
+      "mlx",
+      "qwen3-tts",
+      "qwen3-tts-ui",
+      "voice-ai",
+      "voice-clone",
+      "whisper"
+    ]
+  },
+  {
+    "name": "vercel-labs/open-agents",
+    "url": "https://github.com/vercel-labs/open-agents",
+    "desc": "An open source template for building cloud agents.",
+    "lang": "TypeScript",
+    "stars": "3175 stars",
+    "topics": [
+      "agent",
+      "agents",
+      "ai",
+      "background-agents"
+    ]
+  },
+  {
     "name": "google/magika",
     "url": "https://github.com/google/magika",
     "desc": "Fast and accurate AI powered file content types detection ",
     "lang": "Python",
-    "stars": "13745 stars",
+    "stars": "14711 stars",
     "topics": [
       "ai",
       "deep-learning",
@@ -174,24 +107,116 @@
     ]
   },
   {
-    "name": "Donchitos/Claude-Code-Game-Studios",
-    "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-    "desc": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-    "lang": "Shell",
-    "stars": "10377 stars",
+    "name": "steipete/wacli",
+    "url": "https://github.com/steipete/wacli",
+    "desc": "WhatsApp CLI",
+    "lang": "Go",
+    "stars": "1670 stars",
     "topics": [
+      "cli",
+      "go",
+      "whatsapp"
+    ]
+  },
+  {
+    "name": "topoteretes/cognee",
+    "url": "https://github.com/topoteretes/cognee",
+    "desc": "Knowledge Engine for AI Agent Memory in 6 lines of code",
+    "lang": "Python",
+    "stars": "15779 stars",
+    "topics": [
+      "ai",
       "ai-agents",
-      "ai-assisted-development",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "game-design",
-      "game-development",
-      "gamedev",
-      "godot",
-      "indie-game-dev",
-      "unity",
-      "unreal-engine"
+      "ai-memory",
+      "cognitive-architecture",
+      "cognitive-memory",
+      "context-engineering",
+      "contributions-welcome",
+      "good-first-issue",
+      "good-first-pr",
+      "graph-database",
+      "graph-rag",
+      "graphrag",
+      "help-wanted",
+      "knowledge",
+      "knowledge-graph",
+      "neo4j",
+      "open-source",
+      "openai",
+      "rag",
+      "vector-database"
+    ]
+  },
+  {
+    "name": "z-lab/dflash",
+    "url": "https://github.com/z-lab/dflash",
+    "desc": "DFlash: Block Diffusion for Flash Speculative Decoding",
+    "lang": "Python",
+    "stars": "1588 stars",
+    "topics": []
+  },
+  {
+    "name": "Lordog/dive-into-llms",
+    "url": "https://github.com/Lordog/dive-into-llms",
+    "desc": "《动手学大模型Dive into LLMs》系列编程实践教程",
+    "lang": "Jupyter Notebook",
+    "stars": "30635 stars",
+    "topics": []
+  },
+  {
+    "name": "openai/openai-agents-python",
+    "url": "https://github.com/openai/openai-agents-python",
+    "desc": "A lightweight, powerful framework for multi-agent workflows",
+    "lang": "Python",
+    "stars": "21206 stars",
+    "topics": [
+      "agents",
+      "ai",
+      "framework",
+      "llm",
+      "openai",
+      "python"
+    ]
+  },
+  {
+    "name": "EvoMap/evolver",
+    "url": "https://github.com/EvoMap/evolver",
+    "desc": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+    "lang": "JavaScript",
+    "stars": "3134 stars",
+    "topics": []
+  },
+  {
+    "name": "SimoneAvogadro/android-reverse-engineering-skill",
+    "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+    "desc": "Claude Code skill to support Android app's reverse engineering",
+    "lang": "Shell",
+    "stars": "2203 stars",
+    "topics": []
+  },
+  {
+    "name": "BasedHardware/omi",
+    "url": "https://github.com/BasedHardware/omi",
+    "desc": "AI that sees your screen, listens to your conversations and tells you what to do",
+    "lang": "Dart",
+    "stars": "9066 stars",
+    "topics": [
+      "ai",
+      "app",
+      "bci",
+      "c",
+      "flutter",
+      "friend",
+      "mobile",
+      "necklace",
+      "nextjs",
+      "omi",
+      "personas",
+      "python",
+      "smartglasses",
+      "summary",
+      "transcription",
+      "wearable"
     ]
   }
 ]

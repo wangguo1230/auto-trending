@@ -1,10 +1,35 @@
 [
   {
+    "name": "Fincept-Corporation/FinceptTerminal",
+    "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+    "desc": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+    "lang": "Python",
+    "stars": "6441 stars",
+    "topics": [
+      "bloomberg-terminal",
+      "contributions-welcome",
+      "finance",
+      "financial-markets",
+      "foss",
+      "good-first-issue",
+      "help-wanted",
+      "investing",
+      "investment",
+      "investment-research",
+      "machine-learning",
+      "opensource",
+      "python",
+      "quantitative-finance",
+      "stock-market",
+      "stocks"
+    ]
+  },
+  {
     "name": "thunderbird/thunderbolt",
     "url": "https://github.com/thunderbird/thunderbolt",
     "desc": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
     "lang": "TypeScript",
-    "stars": "1536 stars",
+    "stars": "2192 stars",
     "topics": [
       "ai",
       "ai-agents",
@@ -13,11 +38,93 @@
     ]
   },
   {
+    "name": "tractorjuice/arc-kit",
+    "url": "https://github.com/tractorjuice/arc-kit",
+    "desc": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
+    "lang": "HTML",
+    "stars": "982 stars",
+    "topics": []
+  },
+  {
+    "name": "openai/openai-agents-python",
+    "url": "https://github.com/openai/openai-agents-python",
+    "desc": "A lightweight, powerful framework for multi-agent workflows",
+    "lang": "Python",
+    "stars": "23133 stars",
+    "topics": [
+      "agents",
+      "ai",
+      "framework",
+      "llm",
+      "openai",
+      "python"
+    ]
+  },
+  {
+    "name": "pingdotgg/t3code",
+    "url": "https://github.com/pingdotgg/t3code",
+    "desc": "T3 Code is a minimal web GUI for coding agents (currently Codex and Claude, more coming soon). > [!WARNING]",
+    "lang": "TypeScript",
+    "stars": "9863 stars",
+    "topics": []
+  },
+  {
+    "name": "paperless-ngx/paperless-ngx",
+    "url": "https://github.com/paperless-ngx/paperless-ngx",
+    "desc": "A community-supported supercharged document management system: scan, index and archive all your documents",
+    "lang": "Python",
+    "stars": "38842 stars",
+    "topics": [
+      "angular",
+      "archiving",
+      "django",
+      "dms",
+      "document-management",
+      "document-management-system",
+      "hacktoberfest",
+      "machine-learning",
+      "ocr",
+      "optical-character-recognition",
+      "pdf"
+    ]
+  },
+  {
+    "name": "ruvnet/RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "desc": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. ",
+    "lang": "Rust",
+    "stars": "47480 stars",
+    "topics": [
+      "agentic-ai",
+      "densepose",
+      "esp32",
+      "firmware",
+      "mcu",
+      "mincut",
+      "monitoring",
+      "pose-estimation",
+      "rf",
+      "self",
+      "self-learning",
+      "wifi",
+      "wifi-hacking",
+      "wifi-security"
+    ]
+  },
+  {
+    "name": "EvoMap/evolver",
+    "url": "https://github.com/EvoMap/evolver",
+    "desc": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+    "lang": "JavaScript",
+    "stars": "5493 stars",
+    "topics": []
+  },
+  {
     "name": "BasedHardware/omi",
     "url": "https://github.com/BasedHardware/omi",
     "desc": "AI that sees your screen, listens to your conversations and tells you what to do",
     "lang": "Dart",
-    "stars": "10413 stars",
+    "stars": "11123 stars",
     "topics": [
       "ai",
       "app",
@@ -38,94 +145,24 @@
     ]
   },
   {
-    "name": "openai/openai-agents-python",
-    "url": "https://github.com/openai/openai-agents-python",
-    "desc": "A lightweight, powerful framework for multi-agent workflows",
-    "lang": "Python",
-    "stars": "22294 stars",
-    "topics": [
-      "agents",
-      "ai",
-      "framework",
-      "llm",
-      "openai",
-      "python"
-    ]
-  },
-  {
-    "name": "EvoMap/evolver",
-    "url": "https://github.com/EvoMap/evolver",
-    "desc": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
-    "lang": "JavaScript",
-    "stars": "4983 stars",
-    "topics": []
-  },
-  {
-    "name": "deepseek-ai/DeepGEMM",
-    "url": "https://github.com/deepseek-ai/DeepGEMM",
-    "desc": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
-    "lang": "Cuda",
-    "stars": "6526 stars",
-    "topics": []
-  },
-  {
-    "name": "Lordog/dive-into-llms",
-    "url": "https://github.com/Lordog/dive-into-llms",
-    "desc": "《动手学大模型Dive into LLMs》系列编程实践教程",
-    "lang": "Jupyter Notebook",
-    "stars": "32002 stars",
-    "topics": []
-  },
-  {
-    "name": "aaddrick/claude-desktop-debian",
-    "url": "https://github.com/aaddrick/claude-desktop-debian",
-    "desc": "Claude Desktop for Debian-based Linux distributions",
+    "name": "Donchitos/Claude-Code-Game-Studios",
+    "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+    "desc": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
     "lang": "Shell",
-    "stars": "3460 stars",
-    "topics": []
-  },
-  {
-    "name": "rustdesk/rustdesk",
-    "url": "https://github.com/rustdesk/rustdesk",
-    "desc": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-    "lang": "Rust",
-    "stars": "112066 stars",
+    "stars": "13381 stars",
     "topics": [
-      "android",
-      "anydesk",
-      "dart",
-      "flatpak",
-      "flutter",
-      "flutter-apps",
-      "ios",
-      "linux",
-      "macos",
-      "p2p",
-      "rdp",
-      "remote-control",
-      "remote-desktop",
-      "rust",
-      "rust-lang",
-      "teamviewer",
-      "vnc",
-      "wayland",
-      "windows"
+      "ai-agents",
+      "ai-assisted-development",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "game-design",
+      "game-development",
+      "gamedev",
+      "godot",
+      "indie-game-dev",
+      "unity",
+      "unreal-engine"
     ]
-  },
-  {
-    "name": "SimoneAvogadro/android-reverse-engineering-skill",
-    "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
-    "desc": "Claude Code skill to support Android app's reverse engineering",
-    "lang": "Shell",
-    "stars": "3109 stars",
-    "topics": []
-  },
-  {
-    "name": "tractorjuice/arc-kit",
-    "url": "https://github.com/tractorjuice/arc-kit",
-    "desc": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
-    "lang": "HTML",
-    "stars": "722 stars",
-    "topics": []
   }
 ]

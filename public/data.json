@@ -4,7 +4,7 @@
     "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
     "desc": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
     "lang": "Python",
-    "stars": "9454 stars",
+    "stars": "11536 stars",
     "topics": [
       "bloomberg-terminal",
       "contributions-welcome",
@@ -25,11 +25,53 @@
     ]
   },
   {
+    "name": "thunderbird/thunderbolt",
+    "url": "https://github.com/thunderbird/thunderbolt",
+    "desc": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
+    "lang": "TypeScript",
+    "stars": "3441 stars",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "llms",
+      "on-device-ai"
+    ]
+  },
+  {
+    "name": "zilliztech/claude-context",
+    "url": "https://github.com/zilliztech/claude-context",
+    "desc": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+    "lang": "TypeScript",
+    "stars": "6566 stars",
+    "topics": [
+      "agent",
+      "agentic-rag",
+      "ai-coding",
+      "claude-code",
+      "code-generation",
+      "code-search",
+      "cursor",
+      "embedding",
+      "gemini-cli",
+      "mcp",
+      "merkle-tree",
+      "nodejs",
+      "openai",
+      "rag",
+      "semantic-search",
+      "typescript",
+      "vector-database",
+      "vibe-coding",
+      "voyage-ai",
+      "vscode-extension"
+    ]
+  },
+  {
     "name": "ruvnet/RuView",
     "url": "https://github.com/ruvnet/RuView",
     "desc": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. ",
     "lang": "Rust",
-    "stars": "48167 stars",
+    "stars": "48863 stars",
     "topics": [
       "agentic-ai",
       "densepose",
@@ -48,134 +90,71 @@
     ]
   },
   {
-    "name": "thunderbird/thunderbolt",
-    "url": "https://github.com/thunderbird/thunderbolt",
-    "desc": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
-    "lang": "TypeScript",
-    "stars": "2794 stars",
+    "name": "microsoft/ai-agents-for-beginners",
+    "url": "https://github.com/microsoft/ai-agents-for-beginners",
+    "desc": "12 Lessons to Get Started Building AI Agents",
+    "lang": "Jupyter Notebook",
+    "stars": "57612 stars",
     "topics": [
-      "ai",
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-rag",
       "ai-agents",
-      "llms",
-      "on-device-ai"
+      "ai-agents-framework",
+      "autogen",
+      "generative-ai",
+      "semantic-kernel"
     ]
   },
   {
-    "name": "paperless-ngx/paperless-ngx",
-    "url": "https://github.com/paperless-ngx/paperless-ngx",
-    "desc": "A community-supported supercharged document management system: scan, index and archive all your documents",
-    "lang": "Python",
-    "stars": "39403 stars",
+    "name": "dayanch96/YTLite",
+    "url": "https://github.com/dayanch96/YTLite",
+    "desc": "A flexible enhancer for YouTube on iOS",
+    "lang": "Logos",
+    "stars": "4815 stars",
     "topics": [
-      "angular",
-      "archiving",
-      "django",
-      "dms",
-      "document-management",
-      "document-management-system",
-      "hacktoberfest",
-      "machine-learning",
-      "ocr",
-      "optical-character-recognition",
-      "pdf"
+      "downloader",
+      "ios",
+      "jailbreak",
+      "sponsorblock",
+      "tweak",
+      "youtube"
     ]
   },
   {
-    "name": "tractorjuice/arc-kit",
-    "url": "https://github.com/tractorjuice/arc-kit",
-    "desc": "Enterprise Architecture Governance & Vendor Procurement Toolkit",
-    "lang": "HTML",
-    "stars": "1324 stars",
-    "topics": []
+    "name": "HKUDS/RAG-Anything",
+    "url": "https://github.com/HKUDS/RAG-Anything",
+    "desc": "\"RAG-Anything: All-in-One RAG Framework\"",
+    "lang": "Python",
+    "stars": "16832 stars",
+    "topics": [
+      "multi-modal-rag",
+      "retrieval-augmented-generation"
+    ]
   },
   {
-    "name": "koala73/worldmonitor",
-    "url": "https://github.com/koala73/worldmonitor",
-    "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-    "lang": "TypeScript",
-    "stars": "50029 stars",
+    "name": "sansan0/TrendRadar",
+    "url": "https://github.com/sansan0/TrendRadar",
+    "desc": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+    "lang": "Python",
+    "stars": "53612 stars",
     "topics": [
       "ai",
-      "dashboard",
-      "geopolitics",
-      "monitoring",
-      "news",
-      "opensource",
-      "osint",
-      "palantir",
-      "situation"
-    ]
-  },
-  {
-    "name": "openai/openai-agents-python",
-    "url": "https://github.com/openai/openai-agents-python",
-    "desc": "A lightweight, powerful framework for multi-agent workflows",
-    "lang": "Python",
-    "stars": "23913 stars",
-    "topics": [
-      "agents",
-      "ai",
-      "framework",
+      "bark",
+      "data-analysis",
+      "docker",
+      "hot-news",
       "llm",
-      "openai",
-      "python"
-    ]
-  },
-  {
-    "name": "deepseek-ai/DeepGEMM",
-    "url": "https://github.com/deepseek-ai/DeepGEMM",
-    "desc": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling",
-    "lang": "Cuda",
-    "stars": "6821 stars",
-    "topics": []
-  },
-  {
-    "name": "pi-hole/pi-hole",
-    "url": "https://github.com/pi-hole/pi-hole",
-    "desc": "A black hole for Internet advertisements",
-    "lang": "Shell",
-    "stars": "57149 stars",
-    "topics": [
-      "ad-blocker",
-      "blocker",
-      "cloud",
-      "dashboard",
-      "dhcp",
-      "dhcp-server",
-      "dns-server",
-      "dnsmasq",
-      "pi-hole",
-      "raspberry-pi",
-      "shell"
-    ]
-  },
-  {
-    "name": "XTLS/Xray-core",
-    "url": "https://github.com/XTLS/Xray-core",
-    "desc": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
-    "lang": "Go",
-    "stars": "37427 stars",
-    "topics": [
-      "anticensorship",
-      "dns",
-      "network",
-      "proxy",
-      "reality",
-      "shadowsocks",
-      "socks5",
-      "tls",
-      "trojan",
-      "tunnel",
-      "utls",
-      "vision",
-      "vless",
-      "vmess",
-      "vpn",
-      "wireguard",
-      "xhttp",
-      "xray",
-      "xtls",
-      "xudp"
+      "mail",
+      "mcp",
+      "mcp-server",
+      "news",
+      "ntfy",
+      "python",
+      "rss",
+      "trending-topics",
+      "wechat",
+      "wework"
     ]
   }
 ]

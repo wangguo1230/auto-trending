@@ -1,48 +1,10 @@
 [
   {
-    "name": "Fincept-Corporation/FinceptTerminal",
-    "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-    "desc": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
-    "lang": "Python",
-    "stars": "11536 stars",
-    "topics": [
-      "bloomberg-terminal",
-      "contributions-welcome",
-      "finance",
-      "financial-markets",
-      "foss",
-      "good-first-issue",
-      "help-wanted",
-      "investing",
-      "investment",
-      "investment-research",
-      "machine-learning",
-      "opensource",
-      "python",
-      "quantitative-finance",
-      "stock-market",
-      "stocks"
-    ]
-  },
-  {
-    "name": "thunderbird/thunderbolt",
-    "url": "https://github.com/thunderbird/thunderbolt",
-    "desc": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.",
-    "lang": "TypeScript",
-    "stars": "3441 stars",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "llms",
-      "on-device-ai"
-    ]
-  },
-  {
     "name": "zilliztech/claude-context",
     "url": "https://github.com/zilliztech/claude-context",
     "desc": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
     "lang": "TypeScript",
-    "stars": "6566 stars",
+    "stars": "7471 stars",
     "topics": [
       "agent",
       "agentic-rag",
@@ -67,11 +29,124 @@
     ]
   },
   {
+    "name": "Fincept-Corporation/FinceptTerminal",
+    "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+    "desc": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+    "lang": "Python",
+    "stars": "13048 stars",
+    "topics": [
+      "bloomberg-terminal",
+      "contributions-welcome",
+      "finance",
+      "financial-markets",
+      "foss",
+      "good-first-issue",
+      "help-wanted",
+      "investing",
+      "investment",
+      "investment-research",
+      "machine-learning",
+      "opensource",
+      "python",
+      "quantitative-finance",
+      "stock-market",
+      "stocks"
+    ]
+  },
+  {
+    "name": "koala73/worldmonitor",
+    "url": "https://github.com/koala73/worldmonitor",
+    "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "lang": "TypeScript",
+    "stars": "51539 stars",
+    "topics": [
+      "ai",
+      "dashboard",
+      "geopolitics",
+      "monitoring",
+      "news",
+      "opensource",
+      "osint",
+      "palantir",
+      "situation"
+    ]
+  },
+  {
+    "name": "langfuse/langfuse",
+    "url": "https://github.com/langfuse/langfuse",
+    "desc": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 ",
+    "lang": "TypeScript",
+    "stars": "25582 stars",
+    "topics": [
+      "analytics",
+      "autogen",
+      "evaluation",
+      "langchain",
+      "large-language-models",
+      "llama-index",
+      "llm",
+      "llm-evaluation",
+      "llm-observability",
+      "llmops",
+      "monitoring",
+      "observability",
+      "open-source",
+      "openai",
+      "playground",
+      "prompt-engineering",
+      "prompt-management",
+      "self-hosted",
+      "ycombinator"
+    ]
+  },
+  {
+    "name": "KeygraphHQ/shannon",
+    "url": "https://github.com/KeygraphHQ/shannon",
+    "desc": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
+    "lang": "TypeScript",
+    "stars": "39551 stars",
+    "topics": [
+      "penetration-testing",
+      "pentesting",
+      "security-audit",
+      "security-automation",
+      "security-tools"
+    ]
+  },
+  {
+    "name": "open-metadata/OpenMetadata",
+    "url": "https://github.com/open-metadata/OpenMetadata",
+    "desc": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
+    "lang": "TypeScript",
+    "stars": "12148 stars",
+    "topics": [
+      "data-catalog",
+      "data-collaboration",
+      "data-contracts",
+      "data-discovery",
+      "data-governance",
+      "data-lineage",
+      "data-observability",
+      "data-profiling",
+      "data-quality",
+      "data-quality-checks",
+      "data-validation",
+      "datadiscovery",
+      "dataengineering",
+      "dataquality",
+      "hacktoberfest",
+      "mcp",
+      "mcp-server",
+      "metadata",
+      "metadata-management"
+    ]
+  },
+  {
     "name": "ruvnet/RuView",
     "url": "https://github.com/ruvnet/RuView",
     "desc": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. ",
     "lang": "Rust",
-    "stars": "48863 stars",
+    "stars": "49367 stars",
     "topics": [
       "agentic-ai",
       "densepose",
@@ -90,43 +165,11 @@
     ]
   },
   {
-    "name": "microsoft/ai-agents-for-beginners",
-    "url": "https://github.com/microsoft/ai-agents-for-beginners",
-    "desc": "12 Lessons to Get Started Building AI Agents",
-    "lang": "Jupyter Notebook",
-    "stars": "57612 stars",
-    "topics": [
-      "agentic-ai",
-      "agentic-framework",
-      "agentic-rag",
-      "ai-agents",
-      "ai-agents-framework",
-      "autogen",
-      "generative-ai",
-      "semantic-kernel"
-    ]
-  },
-  {
-    "name": "dayanch96/YTLite",
-    "url": "https://github.com/dayanch96/YTLite",
-    "desc": "A flexible enhancer for YouTube on iOS",
-    "lang": "Logos",
-    "stars": "4815 stars",
-    "topics": [
-      "downloader",
-      "ios",
-      "jailbreak",
-      "sponsorblock",
-      "tweak",
-      "youtube"
-    ]
-  },
-  {
     "name": "HKUDS/RAG-Anything",
     "url": "https://github.com/HKUDS/RAG-Anything",
     "desc": "\"RAG-Anything: All-in-One RAG Framework\"",
     "lang": "Python",
-    "stars": "16832 stars",
+    "stars": "17512 stars",
     "topics": [
       "multi-modal-rag",
       "retrieval-augmented-generation"
@@ -137,7 +180,7 @@
     "url": "https://github.com/sansan0/TrendRadar",
     "desc": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
     "lang": "Python",
-    "stars": "53612 stars",
+    "stars": "54407 stars",
     "topics": [
       "ai",
       "bark",
@@ -156,5 +199,49 @@
       "wechat",
       "wework"
     ]
+  },
+  {
+    "name": "AIDC-AI/Pixelle-Video",
+    "url": "https://github.com/AIDC-AI/Pixelle-Video",
+    "desc": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+    "lang": "Python",
+    "stars": "5511 stars",
+    "topics": [
+      "aigc",
+      "comfyui",
+      "image-generation",
+      "tts",
+      "video-generation"
+    ]
+  },
+  {
+    "name": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "lang": "Python",
+    "stars": "59612 stars",
+    "topics": [
+      "allinonehackingtool",
+      "besthackingtool",
+      "ctf-tools",
+      "ddos-attack-tool",
+      "hacker",
+      "hacking",
+      "linux",
+      "password-attack",
+      "steganography",
+      "web-attack",
+      "wireless-attack",
+      "xss-attacks",
+      "xss-detection"
+    ]
+  },
+  {
+    "name": "vercel-labs/skills",
+    "url": "https://github.com/vercel-labs/skills",
+    "desc": "The open agent skills tool - npx skills",
+    "lang": "TypeScript",
+    "stars": "15449 stars",
+    "topics": []
   }
 ]

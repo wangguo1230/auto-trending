@@ -4,36 +4,23 @@
     "url": "https://github.com/Alishahryar1/free-claude-code",
     "desc": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
     "lang": "Python",
-    "stars": "8785 stars",
+    "stars": "11435 stars",
     "topics": []
   },
   {
-    "name": "huggingface/ml-intern",
-    "url": "https://github.com/huggingface/ml-intern",
-    "desc": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
-    "lang": "Python",
-    "stars": "5286 stars",
+    "name": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "desc": "My personal directory of skills, straight from my .claude directory.",
+    "lang": "Shell",
+    "stars": "19929 stars",
     "topics": []
-  },
-  {
-    "name": "google/osv-scanner",
-    "url": "https://github.com/google/osv-scanner",
-    "desc": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
-    "lang": "Go",
-    "stars": "9486 stars",
-    "topics": [
-      "scanner",
-      "security-audit",
-      "security-tools",
-      "vulnerability-scanner"
-    ]
   },
   {
     "name": "Z4nzu/hackingtool",
     "url": "https://github.com/Z4nzu/hackingtool",
     "desc": "ALL IN ONE Hacking Tool For Hackers",
     "lang": "Python",
-    "stars": "62310 stars",
+    "stars": "63799 stars",
     "topics": [
       "allinonehackingtool",
       "besthackingtool",
@@ -51,68 +38,11 @@
     ]
   },
   {
-    "name": "zilliztech/claude-context",
-    "url": "https://github.com/zilliztech/claude-context",
-    "desc": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
-    "lang": "TypeScript",
-    "stars": "8987 stars",
-    "topics": [
-      "agent",
-      "agentic-rag",
-      "ai-coding",
-      "claude-code",
-      "code-generation",
-      "code-search",
-      "cursor",
-      "embedding",
-      "gemini-cli",
-      "mcp",
-      "merkle-tree",
-      "nodejs",
-      "openai",
-      "rag",
-      "semantic-search",
-      "typescript",
-      "vector-database",
-      "vibe-coding",
-      "voyage-ai",
-      "vscode-extension"
-    ]
-  },
-  {
-    "name": "open-metadata/OpenMetadata",
-    "url": "https://github.com/open-metadata/OpenMetadata",
-    "desc": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
-    "lang": "TypeScript",
-    "stars": "13342 stars",
-    "topics": [
-      "data-catalog",
-      "data-collaboration",
-      "data-contracts",
-      "data-discovery",
-      "data-governance",
-      "data-lineage",
-      "data-observability",
-      "data-profiling",
-      "data-quality",
-      "data-quality-checks",
-      "data-validation",
-      "datadiscovery",
-      "dataengineering",
-      "dataquality",
-      "hacktoberfest",
-      "mcp",
-      "mcp-server",
-      "metadata",
-      "metadata-management"
-    ]
-  },
-  {
     "name": "PostHog/posthog",
     "url": "https://github.com/PostHog/posthog",
     "desc": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
     "lang": "Python",
-    "stars": "33088 stars",
+    "stars": "33477 stars",
     "topics": [
       "ab-testing",
       "ai-analytics",
@@ -132,55 +62,65 @@
     ]
   },
   {
-    "name": "dani-garcia/vaultwarden",
-    "url": "https://github.com/dani-garcia/vaultwarden",
-    "desc": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-    "lang": "Rust",
-    "stars": "59163 stars",
+    "name": "davila7/claude-code-templates",
+    "url": "https://github.com/davila7/claude-code-templates",
+    "desc": "CLI tool for configuring and monitoring Claude Code",
+    "lang": "Python",
+    "stars": "25330 stars",
     "topics": [
-      "bitwarden",
-      "bitwarden-rs",
-      "docker",
-      "rocket",
-      "rust",
-      "vaultwarden"
+      "anthropic",
+      "anthropic-claude",
+      "claude",
+      "claude-code"
     ]
   },
   {
-    "name": "Anil-matcha/Open-Generative-AI",
-    "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-    "desc": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-    "lang": "JavaScript",
-    "stars": "7657 stars",
+    "name": "deepseek-ai/DeepEP",
+    "url": "https://github.com/deepseek-ai/DeepEP",
+    "desc": "DeepEP: an efficient expert-parallel communication library",
+    "lang": "Cuda",
+    "stars": "9487 stars",
+    "topics": []
+  },
+  {
+    "name": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "desc": "PowerShell for every system!",
+    "lang": "C#",
+    "stars": "53051 stars",
     "topics": [
-      "ai-art-generator",
-      "ai-image-generation",
-      "ai-video-generation",
-      "creative-tools",
-      "flux-1",
-      "generative-ai",
-      "higgsfield",
-      "higgsfield-ai",
-      "higgsfield-alternative",
-      "image-to-video",
-      "javascript",
-      "kling-ai",
-      "midjourney-alternative",
-      "muapi",
-      "open-source",
-      "sora-alternative",
-      "text-to-video",
-      "uncensored",
-      "unrestricted",
-      "wan-video"
+      "command-line",
+      "hacktoberfest",
+      "linux",
+      "macos",
+      "netcore",
+      "powershell",
+      "shell",
+      "windows"
     ]
+  },
+  {
+    "name": "RooCodeInc/Roo-Code",
+    "url": "https://github.com/RooCodeInc/Roo-Code",
+    "desc": "Roo Code gives you a whole dev team of AI agents in your code editor.",
+    "lang": "TypeScript",
+    "stars": "23501 stars",
+    "topics": []
+  },
+  {
+    "name": "huggingface/ml-intern",
+    "url": "https://github.com/huggingface/ml-intern",
+    "desc": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models",
+    "lang": "Python",
+    "stars": "6202 stars",
+    "topics": []
   },
   {
     "name": "codecrafters-io/build-your-own-x",
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "desc": "Master programming by recreating your favorite technologies from scratch.",
     "lang": "Markdown",
-    "stars": "494693 stars",
+    "stars": "495938 stars",
     "topics": [
       "awesome-list",
       "free",
@@ -191,19 +131,55 @@
     ]
   },
   {
-    "name": "deepseek-ai/DeepEP",
-    "url": "https://github.com/deepseek-ai/DeepEP",
-    "desc": "DeepEP: an efficient expert-parallel communication library",
-    "lang": "Cuda",
-    "stars": "9324 stars",
+    "name": "CJackHwang/ds2api",
+    "url": "https://github.com/CJackHwang/ds2api",
+    "desc": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+    "lang": "Go",
+    "stars": "1401 stars",
+    "topics": [
+      "api",
+      "claude-api",
+      "deepseek",
+      "deepseek-api",
+      "docker",
+      "freeapi",
+      "go",
+      "openai-api",
+      "proxy",
+      "proxy-server",
+      "react",
+      "vercel",
+      "vercel-deployment",
+      "zeabur"
+    ]
+  },
+  {
+    "name": "Universal-Commerce-Protocol/ucp",
+    "url": "https://github.com/Universal-Commerce-Protocol/ucp",
+    "desc": "Specification and documentation for the Universal Commerce Protocol (UCP)",
+    "lang": "Python",
+    "stars": "2783 stars",
     "topics": []
   },
   {
-    "name": "microsoft/typescript-go",
-    "url": "https://github.com/microsoft/typescript-go",
-    "desc": "Staging repo for development of native port of TypeScript",
-    "lang": "Go",
-    "stars": "25011 stars",
-    "topics": []
+    "name": "ComposioHQ/awesome-codex-skills",
+    "url": "https://github.com/ComposioHQ/awesome-codex-skills",
+    "desc": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
+    "lang": "Python",
+    "stars": "1455 stars",
+    "topics": [
+      "awesome",
+      "awesome-lists",
+      "awesome-resources",
+      "codex",
+      "codex-cli",
+      "codex-skills",
+      "coding-agent-skills",
+      "coding-agents",
+      "gpt-5-1-codex",
+      "gpt-5-codex",
+      "llm",
+      "skills"
+    ]
   }
 ]

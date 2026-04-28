@@ -4,7 +4,7 @@
     "url": "https://github.com/mattpocock/skills",
     "desc": "Skills for Real Engineers. Straight from my .claude directory.",
     "lang": "Shell",
-    "stars": "30044 stars",
+    "stars": "37147 stars",
     "topics": []
   },
   {
@@ -12,7 +12,7 @@
     "url": "https://github.com/abhigyanpatwari/GitNexus",
     "desc": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
     "lang": "TypeScript",
-    "stars": "31490 stars",
+    "stars": "32606 stars",
     "topics": []
   },
   {
@@ -20,7 +20,7 @@
     "url": "https://github.com/ComposioHQ/awesome-codex-skills",
     "desc": "A curated list of practical Codex skills for automating workflows across the Codex CLI and API.",
     "lang": "Python",
-    "stars": "2759 stars",
+    "stars": "3966 stars",
     "topics": [
       "awesome",
       "awesome-lists",
@@ -37,47 +37,19 @@
     ]
   },
   {
-    "name": "Alishahryar1/free-claude-code",
-    "url": "https://github.com/Alishahryar1/free-claude-code",
-    "desc": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
+    "name": "microsoft/VibeVoice",
+    "url": "https://github.com/microsoft/VibeVoice",
+    "desc": "Open-Source Frontier Voice AI",
     "lang": "Python",
-    "stars": "16031 stars",
+    "stars": "44767 stars",
     "topics": []
-  },
-  {
-    "name": "gastownhall/beads",
-    "url": "https://github.com/gastownhall/beads",
-    "desc": "Beads - A memory upgrade for your coding agent",
-    "lang": "Go",
-    "stars": "22178 stars",
-    "topics": [
-      "agents",
-      "claude-code",
-      "coding"
-    ]
-  },
-  {
-    "name": "penpot/penpot",
-    "url": "https://github.com/penpot/penpot",
-    "desc": "Penpot: The open-source design tool for design and code collaboration",
-    "lang": "Clojure",
-    "stars": "46582 stars",
-    "topics": [
-      "clojure",
-      "clojurescript",
-      "design",
-      "prototyping",
-      "ui",
-      "ux-design",
-      "ux-experience"
-    ]
   },
   {
     "name": "davila7/claude-code-templates",
     "url": "https://github.com/davila7/claude-code-templates",
     "desc": "CLI tool for configuring and monitoring Claude Code",
     "lang": "Python",
-    "stars": "25774 stars",
+    "stars": "26147 stars",
     "topics": [
       "anthropic",
       "anthropic-claude",
@@ -86,47 +58,72 @@
     ]
   },
   {
-    "name": "microsoft/VibeVoice",
-    "url": "https://github.com/microsoft/VibeVoice",
-    "desc": "Open-Source Frontier Voice AI",
+    "name": "HunxByts/GhostTrack",
+    "url": "https://github.com/HunxByts/GhostTrack",
+    "desc": "Useful tool to track location or mobile number",
     "lang": "Python",
-    "stars": "43059 stars",
-    "topics": []
-  },
-  {
-    "name": "Z4nzu/hackingtool",
-    "url": "https://github.com/Z4nzu/hackingtool",
-    "desc": "ALL IN ONE Hacking Tool For Hackers",
-    "lang": "Python",
-    "stars": "67055 stars",
+    "stars": "10588 stars",
     "topics": [
-      "allinonehackingtool",
-      "besthackingtool",
-      "ctf-tools",
-      "ddos-attack-tool",
-      "hacker",
+      "cybersecurity",
+      "fyp",
       "hacking",
+      "hacking-tool",
+      "indonesia",
+      "information",
+      "information-gathering",
+      "ip-geolocation",
       "linux",
-      "password-attack",
-      "steganography",
-      "web-attack",
-      "wireless-attack",
-      "xss-attacks",
-      "xss-detection"
+      "osint",
+      "osint-python",
+      "osint-tool",
+      "pentesting",
+      "phone-number",
+      "python",
+      "python-hacking",
+      "termux",
+      "termux-hacks",
+      "termux-tool"
     ]
   },
   {
-    "name": "TauricResearch/TradingAgents",
-    "url": "https://github.com/TauricResearch/TradingAgents",
-    "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-    "lang": "Python",
-    "stars": "53749 stars",
+    "name": "fspecii/ace-step-ui",
+    "url": "https://github.com/fspecii/ace-step-ui",
+    "desc": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+    "lang": "JavaScript",
+    "stars": "1655 stars",
     "topics": [
-      "agent",
-      "finance",
-      "llm",
-      "multiagent",
-      "trading"
+      "ace-step",
+      "ai",
+      "ai-music",
+      "local-first",
+      "music",
+      "music-generation",
+      "open-source",
+      "react",
+      "suno-alternative",
+      "typescript"
+    ]
+  },
+  {
+    "name": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
+    "lang": "Python",
+    "stars": "428115 stars",
+    "topics": [
+      "api",
+      "apis",
+      "dataset",
+      "development",
+      "free",
+      "list",
+      "lists",
+      "open-source",
+      "public",
+      "public-api",
+      "public-apis",
+      "resources",
+      "software"
     ]
   },
   {
@@ -134,7 +131,7 @@
     "url": "https://github.com/CJackHwang/ds2api",
     "desc": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
     "lang": "Go",
-    "stars": "1824 stars",
+    "stars": "2312 stars",
     "topics": [
       "api",
       "claude-api",
@@ -153,11 +150,11 @@
     ]
   },
   {
-    "name": "deepseek-ai/DeepSeek-V3",
-    "url": "https://github.com/deepseek-ai/DeepSeek-V3",
-    "desc": "<!-- markdownlint-disable first-line-h1 --> <!-- markdownlint-disable html -->",
+    "name": "Alishahryar1/free-claude-code",
+    "url": "https://github.com/Alishahryar1/free-claude-code",
+    "desc": "Use claude-code for free in the terminal, VSCode extension or via discord like openclaw",
     "lang": "Python",
-    "stars": "103088 stars",
+    "stars": "17478 stars",
     "topics": []
   },
   {
@@ -165,7 +162,7 @@
     "url": "https://github.com/donnemartin/system-design-primer",
     "desc": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
     "lang": "Python",
-    "stars": "345136 stars",
+    "stars": "345831 stars",
     "topics": [
       "design",
       "design-patterns",
@@ -180,6 +177,44 @@
       "web",
       "web-application",
       "webapp"
+    ]
+  },
+  {
+    "name": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": ":books: Freely available programming books",
+    "lang": "Python",
+    "stars": "386611 stars",
+    "topics": [
+      "books",
+      "education",
+      "hacktoberfest",
+      "list",
+      "resource"
+    ]
+  },
+  {
+    "name": "iamgio/quarkdown",
+    "url": "https://github.com/iamgio/quarkdown",
+    "desc": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
+    "lang": "Kotlin",
+    "stars": "11980 stars",
+    "topics": [
+      "compiler",
+      "documentation",
+      "knowledge-management",
+      "markdown",
+      "markup",
+      "markup-language",
+      "paper",
+      "pdf",
+      "presentations",
+      "scripting-language",
+      "slides",
+      "static-site-generator",
+      "typesetting",
+      "typesetting-system",
+      "wiki"
     ]
   }
 ]

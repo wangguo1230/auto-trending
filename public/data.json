@@ -1,27 +1,10 @@
 [
   {
-    "name": "warpdotdev/warp",
-    "url": "https://github.com/warpdotdev/warp",
-    "desc": "Warp is an agentic development environment, born out of the terminal.",
-    "lang": "Rust",
-    "stars": "49139 stars",
-    "topics": [
-      "bash",
-      "linux",
-      "macos",
-      "rust",
-      "shell",
-      "terminal",
-      "wasm",
-      "zsh"
-    ]
-  },
-  {
     "name": "TauricResearch/TradingAgents",
     "url": "https://github.com/TauricResearch/TradingAgents",
     "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
     "lang": "Python",
-    "stars": "57682 stars",
+    "stars": "59805 stars",
     "topics": [
       "agent",
       "finance",
@@ -31,76 +14,11 @@
     ]
   },
   {
-    "name": "mattpocock/skills",
-    "url": "https://github.com/mattpocock/skills",
-    "desc": "Skills for Real Engineers. Straight from my .claude directory.",
-    "lang": "Shell",
-    "stars": "49373 stars",
-    "topics": []
-  },
-  {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "174549 stars",
-    "topics": []
-  },
-  {
-    "name": "lukilabs/craft-agents-oss",
-    "url": "https://github.com/lukilabs/craft-agents-oss",
-    "desc": "To understand what Craft Agents does and how it works watch this video. [Click Here (or on the image above) to watch the video on YouTube →](https://www.youtube.com/watch?v=xQouiAIilvU)",
-    "lang": "TypeScript",
-    "stars": "5562 stars",
-    "topics": []
-  },
-  {
-    "name": "public-apis/public-apis",
-    "url": "https://github.com/public-apis/public-apis",
-    "desc": "A collective list of free APIs",
-    "lang": "Python",
-    "stars": "429496 stars",
-    "topics": [
-      "api",
-      "apis",
-      "dataset",
-      "development",
-      "free",
-      "list",
-      "lists",
-      "open-source",
-      "public",
-      "public-api",
-      "public-apis",
-      "resources",
-      "software"
-    ]
-  },
-  {
-    "name": "1jehuang/jcode",
-    "url": "https://github.com/1jehuang/jcode",
-    "desc": "Coding Agent Harness",
-    "lang": "Rust",
-    "stars": "1868 stars",
-    "topics": [
-      "ai",
-      "claude",
-      "cli",
-      "coding-agent",
-      "llm",
-      "mcp",
-      "openai",
-      "rust",
-      "terminal",
-      "tui"
-    ]
-  },
-  {
     "name": "soxoj/maigret",
     "url": "https://github.com/soxoj/maigret",
     "desc": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
     "lang": "Python",
-    "stars": "20825 stars",
+    "stars": "21619 stars",
     "topics": [
       "blueteam",
       "cli",
@@ -125,81 +43,98 @@
     ]
   },
   {
-    "name": "HunxByts/GhostTrack",
-    "url": "https://github.com/HunxByts/GhostTrack",
-    "desc": "Useful tool to track location or mobile number",
-    "lang": "Python",
-    "stars": "12161 stars",
+    "name": "warpdotdev/warp",
+    "url": "https://github.com/warpdotdev/warp",
+    "desc": "Warp is an agentic development environment, born out of the terminal.",
+    "lang": "Rust",
+    "stars": "51412 stars",
     "topics": [
-      "cybersecurity",
-      "fyp",
-      "hacking",
-      "hacking-tool",
-      "indonesia",
-      "information",
-      "information-gathering",
-      "ip-geolocation",
+      "bash",
       "linux",
-      "osint",
-      "osint-python",
-      "osint-tool",
-      "pentesting",
-      "phone-number",
-      "python",
-      "python-hacking",
-      "termux",
-      "termux-hacks",
-      "termux-tool"
+      "macos",
+      "rust",
+      "shell",
+      "terminal",
+      "wasm",
+      "zsh"
     ]
   },
   {
-    "name": "iamgio/quarkdown",
-    "url": "https://github.com/iamgio/quarkdown",
-    "desc": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.",
-    "lang": "Kotlin",
-    "stars": "13049 stars",
+    "name": "1jehuang/jcode",
+    "url": "https://github.com/1jehuang/jcode",
+    "desc": "Coding Agent Harness",
+    "lang": "Rust",
+    "stars": "2342 stars",
     "topics": [
-      "compiler",
-      "documentation",
-      "knowledge-management",
-      "markdown",
-      "markup",
-      "markup-language",
-      "paper",
-      "pdf",
-      "presentations",
-      "scripting-language",
-      "slides",
-      "static-site-generator",
-      "typesetting",
-      "typesetting-system",
-      "wiki"
+      "ai",
+      "claude",
+      "cli",
+      "coding-agent",
+      "llm",
+      "mcp",
+      "openai",
+      "rust",
+      "terminal",
+      "tui"
     ]
   },
   {
-    "name": "ghostty-org/ghostty",
-    "url": "https://github.com/ghostty-org/ghostty",
-    "desc": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
-    "lang": "Zig",
-    "stars": "52840 stars",
+    "name": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+    "lang": "Shell",
+    "stars": "52485 stars",
     "topics": []
-  },
-  {
-    "name": "ForrestKnight/open-source-cs",
-    "url": "https://github.com/ForrestKnight/open-source-cs",
-    "desc": "Video discussing this curriculum:",
-    "lang": "Unknown",
-    "stars": "22366 stars",
-    "topics": [
-      "computer-science"
-    ]
   },
   {
     "name": "browserbase/skills",
     "url": "https://github.com/browserbase/skills",
     "desc": "Claude Agent SDK with a web browsing tool",
     "lang": "JavaScript",
-    "stars": "823 stars",
+    "stars": "1166 stars",
+    "topics": []
+  },
+  {
+    "name": "simstudioai/sim",
+    "url": "https://github.com/simstudioai/sim",
+    "desc": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+    "lang": "TypeScript",
+    "stars": "28144 stars",
+    "topics": [
+      "agent-workflow",
+      "agentic-workflow",
+      "agents",
+      "ai",
+      "aiagents",
+      "anthropic",
+      "artificial-intelligence",
+      "automation",
+      "chatbot",
+      "deepseek",
+      "gemini",
+      "low-code",
+      "nextjs",
+      "no-code",
+      "openai",
+      "rag",
+      "react",
+      "typescript"
+    ]
+  },
+  {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "175600 stars",
+    "topics": []
+  },
+  {
+    "name": "Flowseal/zapret-discord-youtube",
+    "url": "https://github.com/Flowseal/zapret-discord-youtube",
+    "desc": "<div align=\"center\"> **NEW**: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-proxy",
+    "lang": "Batchfile",
+    "stars": "26967 stars",
     "topics": []
   }
 ]

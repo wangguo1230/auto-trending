@@ -4,7 +4,7 @@
     "url": "https://github.com/TauricResearch/TradingAgents",
     "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
     "lang": "Python",
-    "stars": "59805 stars",
+    "stars": "62531 stars",
     "topics": [
       "agent",
       "finance",
@@ -14,11 +14,48 @@
     ]
   },
   {
+    "name": "ruvnet/ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+    "lang": "TypeScript",
+    "stars": "36759 stars",
+    "topics": [
+      "agentic-ai",
+      "agentic-engineering",
+      "agentic-framework",
+      "agentic-rag",
+      "agentic-workflow",
+      "agents",
+      "ai-assistant",
+      "ai-tools",
+      "anthropic-claude",
+      "autonomous-agents",
+      "claude-code",
+      "claude-code-skills",
+      "codex",
+      "huggingface",
+      "mcp-server",
+      "model-context-protocol",
+      "multi-agent",
+      "multi-agent-systems",
+      "swarm",
+      "swarm-intelligence"
+    ]
+  },
+  {
+    "name": "browserbase/skills",
+    "url": "https://github.com/browserbase/skills",
+    "desc": "Claude Agent SDK with a web browsing tool",
+    "lang": "JavaScript",
+    "stars": "1494 stars",
+    "topics": []
+  },
+  {
     "name": "soxoj/maigret",
     "url": "https://github.com/soxoj/maigret",
     "desc": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
     "lang": "Python",
-    "stars": "21619 stars",
+    "stars": "22643 stars",
     "topics": [
       "blueteam",
       "cli",
@@ -43,28 +80,19 @@
     ]
   },
   {
-    "name": "warpdotdev/warp",
-    "url": "https://github.com/warpdotdev/warp",
-    "desc": "Warp is an agentic development environment, born out of the terminal.",
-    "lang": "Rust",
-    "stars": "51412 stars",
-    "topics": [
-      "bash",
-      "linux",
-      "macos",
-      "rust",
-      "shell",
-      "terminal",
-      "wasm",
-      "zsh"
-    ]
+    "name": "Flowseal/zapret-discord-youtube",
+    "url": "https://github.com/Flowseal/zapret-discord-youtube",
+    "desc": "<div align=\"center\"> **NEW**: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-proxy",
+    "lang": "Batchfile",
+    "stars": "27116 stars",
+    "topics": []
   },
   {
     "name": "1jehuang/jcode",
     "url": "https://github.com/1jehuang/jcode",
     "desc": "Coding Agent Harness",
     "lang": "Rust",
-    "stars": "2342 stars",
+    "stars": "2826 stars",
     "topics": [
       "ai",
       "claude",
@@ -79,62 +107,53 @@
     ]
   },
   {
-    "name": "mattpocock/skills",
-    "url": "https://github.com/mattpocock/skills",
-    "desc": "Skills for Real Engineers. Straight from my .claude directory.",
-    "lang": "Shell",
-    "stars": "52485 stars",
-    "topics": []
-  },
-  {
-    "name": "browserbase/skills",
-    "url": "https://github.com/browserbase/skills",
-    "desc": "Claude Agent SDK with a web browsing tool",
-    "lang": "JavaScript",
-    "stars": "1166 stars",
-    "topics": []
-  },
-  {
-    "name": "simstudioai/sim",
-    "url": "https://github.com/simstudioai/sim",
-    "desc": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-    "lang": "TypeScript",
-    "stars": "28144 stars",
+    "name": "ShareX/ShareX",
+    "url": "https://github.com/ShareX/ShareX",
+    "desc": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+    "lang": "C#",
+    "stars": "36786 stars",
     "topics": [
-      "agent-workflow",
-      "agentic-workflow",
-      "agents",
-      "ai",
-      "aiagents",
-      "anthropic",
-      "artificial-intelligence",
-      "automation",
-      "chatbot",
-      "deepseek",
-      "gemini",
-      "low-code",
-      "nextjs",
-      "no-code",
-      "openai",
-      "rag",
-      "react",
-      "typescript"
+      "avalonia",
+      "capture",
+      "color-picker",
+      "csharp",
+      "dropbox",
+      "file-sharing",
+      "file-upload",
+      "ftp",
+      "gif",
+      "gif-recorder",
+      "image-annotation",
+      "ocr",
+      "productivity",
+      "region-capture",
+      "screen-capture",
+      "screen-recorder",
+      "screenshot",
+      "share",
+      "sharex",
+      "url-shortener"
     ]
   },
   {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "175600 stars",
-    "topics": []
-  },
-  {
-    "name": "Flowseal/zapret-discord-youtube",
-    "url": "https://github.com/Flowseal/zapret-discord-youtube",
-    "desc": "<div align=\"center\"> **NEW**: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-proxy",
-    "lang": "Batchfile",
-    "stars": "26967 stars",
-    "topics": []
+    "name": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer.",
+    "lang": "Unknown",
+    "stars": "344539 stars",
+    "topics": [
+      "algorithm",
+      "algorithms",
+      "coding-interview",
+      "coding-interviews",
+      "computer-science",
+      "data-structures",
+      "interview",
+      "interview-prep",
+      "interview-preparation",
+      "programming-interviews",
+      "software-engineering",
+      "study-plan"
+    ]
   }
 ]

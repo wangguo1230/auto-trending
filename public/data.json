@@ -1,24 +1,10 @@
 [
   {
-    "name": "TauricResearch/TradingAgents",
-    "url": "https://github.com/TauricResearch/TradingAgents",
-    "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-    "lang": "Python",
-    "stars": "62531 stars",
-    "topics": [
-      "agent",
-      "finance",
-      "llm",
-      "multiagent",
-      "trading"
-    ]
-  },
-  {
     "name": "ruvnet/ruflo",
     "url": "https://github.com/ruvnet/ruflo",
-    "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+    "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
     "lang": "TypeScript",
-    "stars": "36759 stars",
+    "stars": "38913 stars",
     "topics": [
       "agentic-ai",
       "agentic-engineering",
@@ -43,19 +29,25 @@
     ]
   },
   {
-    "name": "browserbase/skills",
-    "url": "https://github.com/browserbase/skills",
-    "desc": "Claude Agent SDK with a web browsing tool",
-    "lang": "JavaScript",
-    "stars": "1494 stars",
-    "topics": []
+    "name": "TauricResearch/TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "lang": "Python",
+    "stars": "65210 stars",
+    "topics": [
+      "agent",
+      "finance",
+      "llm",
+      "multiagent",
+      "trading"
+    ]
   },
   {
     "name": "soxoj/maigret",
     "url": "https://github.com/soxoj/maigret",
     "desc": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
     "lang": "Python",
-    "stars": "22643 stars",
+    "stars": "23760 stars",
     "topics": [
       "blueteam",
       "cli",
@@ -80,19 +72,61 @@
     ]
   },
   {
-    "name": "Flowseal/zapret-discord-youtube",
-    "url": "https://github.com/Flowseal/zapret-discord-youtube",
-    "desc": "<div align=\"center\"> **NEW**: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-proxy",
-    "lang": "Batchfile",
-    "stars": "27116 stars",
+    "name": "Hmbown/DeepSeek-TUI",
+    "url": "https://github.com/Hmbown/DeepSeek-TUI",
+    "desc": "Coding agent for DeepSeek models that runs in your terminal",
+    "lang": "Rust",
+    "stars": "2121 stars",
+    "topics": [
+      "cli",
+      "deepseek",
+      "llm",
+      "rust",
+      "terminal",
+      "tui"
+    ]
+  },
+  {
+    "name": "AIDC-AI/Pixelle-Video",
+    "url": "https://github.com/AIDC-AI/Pixelle-Video",
+    "desc": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+    "lang": "Python",
+    "stars": "9917 stars",
+    "topics": [
+      "aigc",
+      "comfyui",
+      "image-generation",
+      "tts",
+      "video-generation"
+    ]
+  },
+  {
+    "name": "browserbase/skills",
+    "url": "https://github.com/browserbase/skills",
+    "desc": "Claude Agent SDK with a web browsing tool",
+    "lang": "JavaScript",
+    "stars": "1809 stars",
     "topics": []
+  },
+  {
+    "name": "czlonkowski/n8n-mcp",
+    "url": "https://github.com/czlonkowski/n8n-mcp",
+    "desc": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you ",
+    "lang": "TypeScript",
+    "stars": "19504 stars",
+    "topics": [
+      "mcp",
+      "mcp-server",
+      "n8n",
+      "workflows"
+    ]
   },
   {
     "name": "1jehuang/jcode",
     "url": "https://github.com/1jehuang/jcode",
     "desc": "Coding Agent Harness",
     "lang": "Rust",
-    "stars": "2826 stars",
+    "stars": "3406 stars",
     "topics": [
       "ai",
       "claude",
@@ -107,53 +141,11 @@
     ]
   },
   {
-    "name": "ShareX/ShareX",
-    "url": "https://github.com/ShareX/ShareX",
-    "desc": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
-    "lang": "C#",
-    "stars": "36786 stars",
-    "topics": [
-      "avalonia",
-      "capture",
-      "color-picker",
-      "csharp",
-      "dropbox",
-      "file-sharing",
-      "file-upload",
-      "ftp",
-      "gif",
-      "gif-recorder",
-      "image-annotation",
-      "ocr",
-      "productivity",
-      "region-capture",
-      "screen-capture",
-      "screen-recorder",
-      "screenshot",
-      "share",
-      "sharex",
-      "url-shortener"
-    ]
-  },
-  {
-    "name": "jwasham/coding-interview-university",
-    "url": "https://github.com/jwasham/coding-interview-university",
-    "desc": "A complete computer science study plan to become a software engineer.",
-    "lang": "Unknown",
-    "stars": "344539 stars",
-    "topics": [
-      "algorithm",
-      "algorithms",
-      "coding-interview",
-      "coding-interviews",
-      "computer-science",
-      "data-structures",
-      "interview",
-      "interview-prep",
-      "interview-preparation",
-      "programming-interviews",
-      "software-engineering",
-      "study-plan"
-    ]
+    "name": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "desc": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+    "lang": "C",
+    "stars": "26604 stars",
+    "topics": []
   }
 ]

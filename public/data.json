@@ -1,10 +1,25 @@
 [
   {
+    "name": "Hmbown/DeepSeek-TUI",
+    "url": "https://github.com/Hmbown/DeepSeek-TUI",
+    "desc": "Coding agent for DeepSeek models that runs in your terminal",
+    "lang": "Rust",
+    "stars": "7174 stars",
+    "topics": [
+      "cli",
+      "deepseek",
+      "llm",
+      "rust",
+      "terminal",
+      "tui"
+    ]
+  },
+  {
     "name": "ruvnet/ruflo",
     "url": "https://github.com/ruvnet/ruflo",
     "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
     "lang": "TypeScript",
-    "stars": "41334 stars",
+    "stars": "43565 stars",
     "topics": [
       "agentic-ai",
       "agentic-engineering",
@@ -29,172 +44,76 @@
     ]
   },
   {
-    "name": "TauricResearch/TradingAgents",
-    "url": "https://github.com/TauricResearch/TradingAgents",
-    "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-    "lang": "Python",
-    "stars": "67420 stars",
-    "topics": [
-      "agent",
-      "finance",
-      "llm",
-      "multiagent",
-      "trading"
-    ]
-  },
-  {
-    "name": "browserbase/skills",
-    "url": "https://github.com/browserbase/skills",
-    "desc": "Claude Agent SDK with a web browsing tool",
-    "lang": "JavaScript",
-    "stars": "2106 stars",
-    "topics": []
-  },
-  {
-    "name": "Hmbown/DeepSeek-TUI",
-    "url": "https://github.com/Hmbown/DeepSeek-TUI",
-    "desc": "Coding agent for DeepSeek models that runs in your terminal",
-    "lang": "Rust",
-    "stars": "3888 stars",
-    "topics": [
-      "cli",
-      "deepseek",
-      "llm",
-      "rust",
-      "terminal",
-      "tui"
-    ]
-  },
-  {
-    "name": "soxoj/maigret",
-    "url": "https://github.com/soxoj/maigret",
-    "desc": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-    "lang": "Python",
-    "stars": "24798 stars",
-    "topics": [
-      "blueteam",
-      "cli",
-      "cybersecurity",
-      "identification",
-      "infosec",
-      "investigation",
-      "namechecker",
-      "open-source",
-      "osint",
-      "osint-framework",
-      "osint-python",
-      "pentesting",
-      "python",
-      "python3",
-      "reconnaissance",
-      "redteam",
-      "scraping",
-      "sherlock",
-      "social-network",
-      "socmint"
-    ]
-  },
-  {
-    "name": "qbittorrent/qBittorrent",
-    "url": "https://github.com/qbittorrent/qBittorrent",
-    "desc": "qBittorrent BitTorrent client",
-    "lang": "C++",
-    "stars": "37038 stars",
-    "topics": [
-      "bittorrent",
-      "bittorrent-client",
-      "c-plus-plus",
-      "crossplatform",
-      "torrent",
-      "torrent-client"
-    ]
-  },
-  {
-    "name": "czlonkowski/n8n-mcp",
-    "url": "https://github.com/czlonkowski/n8n-mcp",
-    "desc": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you ",
-    "lang": "TypeScript",
-    "stars": "19898 stars",
-    "topics": [
-      "mcp",
-      "mcp-server",
-      "n8n",
-      "workflows"
-    ]
-  },
-  {
-    "name": "1jehuang/jcode",
-    "url": "https://github.com/1jehuang/jcode",
-    "desc": "Coding Agent Harness",
-    "lang": "Rust",
-    "stars": "3896 stars",
-    "topics": [
-      "ai",
-      "claude",
-      "cli",
-      "coding-agent",
-      "llm",
-      "mcp",
-      "openai",
-      "rust",
-      "terminal",
-      "tui"
-    ]
-  },
-  {
-    "name": "msitarzewski/agency-agents",
-    "url": "https://github.com/msitarzewski/agency-agents",
-    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "lang": "Shell",
-    "stars": "92609 stars",
-    "topics": []
-  },
-  {
     "name": "virattt/dexter",
     "url": "https://github.com/virattt/dexter",
     "desc": "An autonomous agent for deep financial research",
     "lang": "TypeScript",
-    "stars": "23184 stars",
+    "stars": "23738 stars",
     "topics": []
   },
   {
-    "name": "Flowseal/zapret-discord-youtube",
-    "url": "https://github.com/Flowseal/zapret-discord-youtube",
-    "desc": "<div align=\"center\"> **NEW**: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-proxy",
-    "lang": "Batchfile",
-    "stars": "27309 stars",
-    "topics": []
-  },
-  {
-    "name": "fspecii/ace-step-ui",
-    "url": "https://github.com/fspecii/ace-step-ui",
-    "desc": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
-    "lang": "JavaScript",
-    "stars": "2825 stars",
+    "name": "docusealco/docuseal",
+    "url": "https://github.com/docusealco/docuseal",
+    "desc": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+    "lang": "Ruby",
+    "stars": "13985 stars",
     "topics": [
-      "ace-step",
-      "ai",
-      "ai-music",
-      "local-first",
-      "music",
-      "music-generation",
+      "document-signing",
+      "documents",
+      "e-signature",
+      "hotwired-turbo",
       "open-source",
-      "react",
-      "suno-alternative",
-      "typescript"
+      "pdf",
+      "pdf-sign",
+      "pdf-signature",
+      "ruby-on-rails",
+      "self-hosted",
+      "tailwindcss",
+      "vue",
+      "webpack"
     ]
   },
   {
-    "name": "jellyfin/jellyfin",
-    "url": "https://github.com/jellyfin/jellyfin",
-    "desc": "The Free Software Media System - Server Backend & API",
-    "lang": "C#",
-    "stars": "51146 stars",
+    "name": "bwya77/vscode-dark-islands",
+    "url": "https://github.com/bwya77/vscode-dark-islands",
+    "desc": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
+    "lang": "PowerShell",
+    "stars": "7840 stars",
     "topics": [
-      "csharp",
-      "dotnet",
-      "hacktoberfest",
-      "jellyfin"
+      "easemate",
+      "jetbrains",
+      "visual-studio-code",
+      "vscode",
+      "vscode-theme"
+    ]
+  },
+  {
+    "name": "mksglu/context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "desc": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
+    "lang": "TypeScript",
+    "stars": "13011 stars",
+    "topics": [
+      "antigravity",
+      "claude",
+      "claude-code",
+      "claude-code-hooks",
+      "claude-code-plugins",
+      "claude-code-skill",
+      "codex",
+      "codex-cli",
+      "context-mode",
+      "copilot",
+      "cursor-plugin",
+      "kiro",
+      "mcp",
+      "mcp-server",
+      "mcp-tools",
+      "openclaw",
+      "opencode",
+      "pi-agent",
+      "skills",
+      "zed-extension"
     ]
   },
   {
@@ -202,7 +121,7 @@
     "url": "https://github.com/cocoindex-io/cocoindex",
     "desc": "Incremental engine for long horizon agents 🌟 Star if you like it!",
     "lang": "Python",
-    "stars": "7993 stars",
+    "stars": "8372 stars",
     "topics": [
       "agentic-data-framework",
       "ai",
@@ -227,25 +146,119 @@
     ]
   },
   {
-    "name": "docusealco/docuseal",
-    "url": "https://github.com/docusealco/docuseal",
-    "desc": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-    "lang": "Ruby",
-    "stars": "13234 stars",
+    "name": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "lang": "Shell",
+    "stars": "93595 stars",
+    "topics": []
+  },
+  {
+    "name": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer.",
+    "lang": "Unknown",
+    "stars": "345779 stars",
     "topics": [
-      "document-signing",
-      "documents",
-      "e-signature",
-      "hotwired-turbo",
-      "open-source",
-      "pdf",
-      "pdf-sign",
-      "pdf-signature",
-      "ruby-on-rails",
-      "self-hosted",
-      "tailwindcss",
-      "vue",
-      "webpack"
+      "algorithm",
+      "algorithms",
+      "coding-interview",
+      "coding-interviews",
+      "computer-science",
+      "data-structures",
+      "interview",
+      "interview-prep",
+      "interview-preparation",
+      "programming-interviews",
+      "software-engineering",
+      "study-plan"
+    ]
+  },
+  {
+    "name": "Arindam200/awesome-ai-apps",
+    "url": "https://github.com/Arindam200/awesome-ai-apps",
+    "desc": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
+    "lang": "Python",
+    "stars": "11257 stars",
+    "topics": [
+      "agents",
+      "ai",
+      "hacktoberfest",
+      "llm",
+      "mcp"
+    ]
+  },
+  {
+    "name": "AIDC-AI/Pixelle-Video",
+    "url": "https://github.com/AIDC-AI/Pixelle-Video",
+    "desc": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+    "lang": "Python",
+    "stars": "11621 stars",
+    "topics": [
+      "aigc",
+      "comfyui",
+      "image-generation",
+      "tts",
+      "video-generation"
+    ]
+  },
+  {
+    "name": "LearningCircuit/local-deep-research",
+    "url": "https://github.com/LearningCircuit/local-deep-research",
+    "desc": " ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+    "lang": "Python",
+    "stars": "5143 stars",
+    "topics": [
+      "academia",
+      "anthropic",
+      "arxiv",
+      "brave",
+      "deep-research",
+      "encryption",
+      "home-automation",
+      "homeserver",
+      "local",
+      "local-deep-research",
+      "local-llm",
+      "mistral",
+      "ollama",
+      "openai",
+      "pubmed",
+      "research",
+      "research-tool",
+      "retrieval-augmented-generation",
+      "searxng",
+      "self-hosted"
+    ]
+  },
+  {
+    "name": "browserbase/skills",
+    "url": "https://github.com/browserbase/skills",
+    "desc": "Claude Agent SDK with a web browsing tool",
+    "lang": "JavaScript",
+    "stars": "2360 stars",
+    "topics": []
+  },
+  {
+    "name": "forrestchang/andrej-karpathy-skills",
+    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "lang": "Unknown",
+    "stars": "113794 stars",
+    "topics": []
+  },
+  {
+    "name": "PriorLabs/TabPFN",
+    "url": "https://github.com/PriorLabs/TabPFN",
+    "desc": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
+    "lang": "Python",
+    "stars": "6355 stars",
+    "topics": [
+      "data-science",
+      "foundation-models",
+      "machine-learning",
+      "tabpfn",
+      "tabular-data"
     ]
   }
 ]

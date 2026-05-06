@@ -4,7 +4,7 @@
     "url": "https://github.com/Hmbown/DeepSeek-TUI",
     "desc": "Coding agent for DeepSeek models that runs in your terminal",
     "lang": "Rust",
-    "stars": "7174 stars",
+    "stars": "13679 stars",
     "topics": [
       "cli",
       "deepseek",
@@ -15,48 +15,40 @@
     ]
   },
   {
-    "name": "ruvnet/ruflo",
-    "url": "https://github.com/ruvnet/ruflo",
-    "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-    "lang": "TypeScript",
-    "stars": "43565 stars",
+    "name": "addyosmani/agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "desc": "Production-grade engineering skills for AI coding agents.",
+    "lang": "Shell",
+    "stars": "30397 stars",
     "topics": [
-      "agentic-ai",
-      "agentic-engineering",
-      "agentic-framework",
-      "agentic-rag",
-      "agentic-workflow",
-      "agents",
-      "ai-assistant",
-      "ai-tools",
-      "anthropic-claude",
-      "autonomous-agents",
+      "agent-skills",
+      "antigravity",
+      "antigravity-ide",
       "claude-code",
-      "claude-code-skills",
-      "codex",
-      "huggingface",
-      "mcp-server",
-      "model-context-protocol",
-      "multi-agent",
-      "multi-agent-systems",
-      "swarm",
-      "swarm-intelligence"
+      "cursor",
+      "skills"
     ]
   },
   {
-    "name": "virattt/dexter",
-    "url": "https://github.com/virattt/dexter",
-    "desc": "An autonomous agent for deep financial research",
-    "lang": "TypeScript",
-    "stars": "23738 stars",
-    "topics": []
+    "name": "PriorLabs/TabPFN",
+    "url": "https://github.com/PriorLabs/TabPFN",
+    "desc": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
+    "lang": "Python",
+    "stars": "6565 stars",
+    "topics": [
+      "data-science",
+      "foundation-models",
+      "machine-learning",
+      "tabpfn",
+      "tabular-data"
+    ]
   },
   {
     "name": "docusealco/docuseal",
     "url": "https://github.com/docusealco/docuseal",
     "desc": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
     "lang": "Ruby",
-    "stars": "13985 stars",
+    "stars": "14856 stars",
     "topics": [
       "document-signing",
       "documents",
@@ -74,140 +66,11 @@
     ]
   },
   {
-    "name": "bwya77/vscode-dark-islands",
-    "url": "https://github.com/bwya77/vscode-dark-islands",
-    "desc": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
-    "lang": "PowerShell",
-    "stars": "7840 stars",
-    "topics": [
-      "easemate",
-      "jetbrains",
-      "visual-studio-code",
-      "vscode",
-      "vscode-theme"
-    ]
-  },
-  {
-    "name": "mksglu/context-mode",
-    "url": "https://github.com/mksglu/context-mode",
-    "desc": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms",
-    "lang": "TypeScript",
-    "stars": "13011 stars",
-    "topics": [
-      "antigravity",
-      "claude",
-      "claude-code",
-      "claude-code-hooks",
-      "claude-code-plugins",
-      "claude-code-skill",
-      "codex",
-      "codex-cli",
-      "context-mode",
-      "copilot",
-      "cursor-plugin",
-      "kiro",
-      "mcp",
-      "mcp-server",
-      "mcp-tools",
-      "openclaw",
-      "opencode",
-      "pi-agent",
-      "skills",
-      "zed-extension"
-    ]
-  },
-  {
-    "name": "cocoindex-io/cocoindex",
-    "url": "https://github.com/cocoindex-io/cocoindex",
-    "desc": "Incremental engine for long horizon agents 🌟 Star if you like it!",
-    "lang": "Python",
-    "stars": "8372 stars",
-    "topics": [
-      "agentic-data-framework",
-      "ai",
-      "ai-agents",
-      "change-data-capture",
-      "codebase-intelligence",
-      "context-engineering",
-      "data-engineering",
-      "data-indexing",
-      "data-processing",
-      "etl",
-      "help-wanted",
-      "indexing",
-      "knowledge-graph",
-      "llm",
-      "long-horizon-agent",
-      "python",
-      "rag",
-      "real-time",
-      "rust",
-      "semantic-search"
-    ]
-  },
-  {
-    "name": "msitarzewski/agency-agents",
-    "url": "https://github.com/msitarzewski/agency-agents",
-    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "lang": "Shell",
-    "stars": "93595 stars",
-    "topics": []
-  },
-  {
-    "name": "jwasham/coding-interview-university",
-    "url": "https://github.com/jwasham/coding-interview-university",
-    "desc": "A complete computer science study plan to become a software engineer.",
-    "lang": "Unknown",
-    "stars": "345779 stars",
-    "topics": [
-      "algorithm",
-      "algorithms",
-      "coding-interview",
-      "coding-interviews",
-      "computer-science",
-      "data-structures",
-      "interview",
-      "interview-prep",
-      "interview-preparation",
-      "programming-interviews",
-      "software-engineering",
-      "study-plan"
-    ]
-  },
-  {
-    "name": "Arindam200/awesome-ai-apps",
-    "url": "https://github.com/Arindam200/awesome-ai-apps",
-    "desc": "A collection of projects showcasing RAG, agents, workflows, and other AI use cases",
-    "lang": "Python",
-    "stars": "11257 stars",
-    "topics": [
-      "agents",
-      "ai",
-      "hacktoberfest",
-      "llm",
-      "mcp"
-    ]
-  },
-  {
-    "name": "AIDC-AI/Pixelle-Video",
-    "url": "https://github.com/AIDC-AI/Pixelle-Video",
-    "desc": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
-    "lang": "Python",
-    "stars": "11621 stars",
-    "topics": [
-      "aigc",
-      "comfyui",
-      "image-generation",
-      "tts",
-      "video-generation"
-    ]
-  },
-  {
     "name": "LearningCircuit/local-deep-research",
     "url": "https://github.com/LearningCircuit/local-deep-research",
     "desc": " ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
     "lang": "Python",
-    "stars": "5143 stars",
+    "stars": "5625 stars",
     "topics": [
       "academia",
       "anthropic",
@@ -232,33 +95,174 @@
     ]
   },
   {
-    "name": "browserbase/skills",
-    "url": "https://github.com/browserbase/skills",
-    "desc": "Claude Agent SDK with a web browsing tool",
-    "lang": "JavaScript",
-    "stars": "2360 stars",
-    "topics": []
-  },
-  {
-    "name": "forrestchang/andrej-karpathy-skills",
-    "url": "https://github.com/forrestchang/andrej-karpathy-skills",
-    "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-    "lang": "Unknown",
-    "stars": "113794 stars",
-    "topics": []
-  },
-  {
-    "name": "PriorLabs/TabPFN",
-    "url": "https://github.com/PriorLabs/TabPFN",
-    "desc": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
-    "lang": "Python",
-    "stars": "6355 stars",
+    "name": "LadybirdBrowser/ladybird",
+    "url": "https://github.com/LadybirdBrowser/ladybird",
+    "desc": "Truly independent web browser",
+    "lang": "C++",
+    "stars": "62971 stars",
     "topics": [
-      "data-science",
-      "foundation-models",
-      "machine-learning",
-      "tabpfn",
-      "tabular-data"
+      "browser",
+      "browser-engine"
+    ]
+  },
+  {
+    "name": "InsForge/InsForge",
+    "url": "https://github.com/InsForge/InsForge",
+    "desc": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
+    "lang": "TypeScript",
+    "stars": "8422 stars",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "coding",
+      "deno",
+      "embeddings",
+      "insforge",
+      "nextjs",
+      "oauth2",
+      "pgvector",
+      "postgresql",
+      "realtime",
+      "vectors",
+      "websockets"
+    ]
+  },
+  {
+    "name": "virattt/dexter",
+    "url": "https://github.com/virattt/dexter",
+    "desc": "An autonomous agent for deep financial research",
+    "lang": "TypeScript",
+    "stars": "24338 stars",
+    "topics": []
+  },
+  {
+    "name": "anthropics/financial-services",
+    "url": "https://github.com/anthropics/financial-services",
+    "desc": "Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl",
+    "lang": "Python",
+    "stars": "9096 stars",
+    "topics": []
+  },
+  {
+    "name": "ruvnet/ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+    "lang": "TypeScript",
+    "stars": "45223 stars",
+    "topics": [
+      "agentic-ai",
+      "agentic-engineering",
+      "agentic-framework",
+      "agentic-rag",
+      "agentic-workflow",
+      "agents",
+      "ai-assistant",
+      "ai-tools",
+      "anthropic-claude",
+      "autonomous-agents",
+      "claude-code",
+      "claude-code-skills",
+      "codex",
+      "huggingface",
+      "mcp-server",
+      "model-context-protocol",
+      "multi-agent",
+      "multi-agent-systems",
+      "swarm",
+      "swarm-intelligence"
+    ]
+  },
+  {
+    "name": "cheahjs/free-llm-api-resources",
+    "url": "https://github.com/cheahjs/free-llm-api-resources",
+    "desc": "A list of free LLM inference resources accessible via API.",
+    "lang": "Python",
+    "stars": "20474 stars",
+    "topics": [
+      "ai",
+      "claude",
+      "gemini",
+      "llama",
+      "llm",
+      "openai"
+    ]
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "lang": "Python",
+    "stars": "23192 stars",
+    "topics": []
+  },
+  {
+    "name": "bwya77/vscode-dark-islands",
+    "url": "https://github.com/bwya77/vscode-dark-islands",
+    "desc": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
+    "lang": "PowerShell",
+    "stars": "8197 stars",
+    "topics": [
+      "easemate",
+      "jetbrains",
+      "visual-studio-code",
+      "vscode",
+      "vscode-theme"
+    ]
+  },
+  {
+    "name": "bytedance/deer-flow",
+    "url": "https://github.com/bytedance/deer-flow",
+    "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "lang": "Python",
+    "stars": "65520 stars",
+    "topics": [
+      "agent",
+      "agentic",
+      "agentic-framework",
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "deep-research",
+      "harness",
+      "langchain",
+      "langgraph",
+      "langmanus",
+      "llm",
+      "multi-agent",
+      "nodejs",
+      "podcast",
+      "python",
+      "superagent",
+      "typescript"
+    ]
+  },
+  {
+    "name": "D4Vinci/Scrapling",
+    "url": "https://github.com/D4Vinci/Scrapling",
+    "desc": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+    "lang": "Python",
+    "stars": "46248 stars",
+    "topics": [
+      "ai",
+      "ai-scraping",
+      "automation",
+      "crawler",
+      "crawling",
+      "crawling-python",
+      "data",
+      "data-extraction",
+      "mcp",
+      "mcp-server",
+      "playwright",
+      "python",
+      "scraping",
+      "selectors",
+      "stealth",
+      "web-scraper",
+      "web-scraping",
+      "web-scraping-python",
+      "webscraping",
+      "xpath"
     ]
   }
 ]

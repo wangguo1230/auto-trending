@@ -1,10 +1,18 @@
 [
   {
+    "name": "anthropics/financial-services",
+    "url": "https://github.com/anthropics/financial-services",
+    "desc": "Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl",
+    "lang": "Python",
+    "stars": "11595 stars",
+    "topics": []
+  },
+  {
     "name": "Hmbown/DeepSeek-TUI",
     "url": "https://github.com/Hmbown/DeepSeek-TUI",
     "desc": "Coding agent for DeepSeek models that runs in your terminal",
     "lang": "Rust",
-    "stars": "13679 stars",
+    "stars": "18687 stars",
     "topics": [
       "cli",
       "deepseek",
@@ -15,54 +23,33 @@
     ]
   },
   {
-    "name": "addyosmani/agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "desc": "Production-grade engineering skills for AI coding agents.",
-    "lang": "Shell",
-    "stars": "30397 stars",
-    "topics": [
-      "agent-skills",
-      "antigravity",
-      "antigravity-ide",
-      "claude-code",
-      "cursor",
-      "skills"
-    ]
-  },
-  {
-    "name": "PriorLabs/TabPFN",
-    "url": "https://github.com/PriorLabs/TabPFN",
-    "desc": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
+    "name": "z-lab/dflash",
+    "url": "https://github.com/z-lab/dflash",
+    "desc": "DFlash: Block Diffusion for Flash Speculative Decoding",
     "lang": "Python",
-    "stars": "6565 stars",
-    "topics": [
-      "data-science",
-      "foundation-models",
-      "machine-learning",
-      "tabpfn",
-      "tabular-data"
-    ]
+    "stars": "3478 stars",
+    "topics": []
   },
   {
-    "name": "docusealco/docuseal",
-    "url": "https://github.com/docusealco/docuseal",
-    "desc": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-    "lang": "Ruby",
-    "stars": "14856 stars",
+    "name": "InsForge/InsForge",
+    "url": "https://github.com/InsForge/InsForge",
+    "desc": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
+    "lang": "TypeScript",
+    "stars": "8846 stars",
     "topics": [
-      "document-signing",
-      "documents",
-      "e-signature",
-      "hotwired-turbo",
-      "open-source",
-      "pdf",
-      "pdf-sign",
-      "pdf-signature",
-      "ruby-on-rails",
-      "self-hosted",
-      "tailwindcss",
-      "vue",
-      "webpack"
+      "ai",
+      "ai-agents",
+      "coding",
+      "deno",
+      "embeddings",
+      "insforge",
+      "nextjs",
+      "oauth2",
+      "pgvector",
+      "postgresql",
+      "realtime",
+      "vectors",
+      "websockets"
     ]
   },
   {
@@ -70,7 +57,7 @@
     "url": "https://github.com/LearningCircuit/local-deep-research",
     "desc": " ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
     "lang": "Python",
-    "stars": "5625 stars",
+    "stars": "6227 stars",
     "topics": [
       "academia",
       "anthropic",
@@ -95,174 +82,137 @@
     ]
   },
   {
-    "name": "LadybirdBrowser/ladybird",
-    "url": "https://github.com/LadybirdBrowser/ladybird",
-    "desc": "Truly independent web browser",
-    "lang": "C++",
-    "stars": "62971 stars",
+    "name": "addyosmani/agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "desc": "Production-grade engineering skills for AI coding agents.",
+    "lang": "Shell",
+    "stars": "32912 stars",
     "topics": [
-      "browser",
-      "browser-engine"
+      "agent-skills",
+      "antigravity",
+      "antigravity-ide",
+      "claude-code",
+      "cursor",
+      "skills"
     ]
   },
   {
-    "name": "InsForge/InsForge",
-    "url": "https://github.com/InsForge/InsForge",
-    "desc": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
-    "lang": "TypeScript",
-    "stars": "8422 stars",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "coding",
-      "deno",
-      "embeddings",
-      "insforge",
-      "nextjs",
-      "oauth2",
-      "pgvector",
-      "postgresql",
-      "realtime",
-      "vectors",
-      "websockets"
-    ]
-  },
-  {
-    "name": "virattt/dexter",
-    "url": "https://github.com/virattt/dexter",
-    "desc": "An autonomous agent for deep financial research",
-    "lang": "TypeScript",
-    "stars": "24338 stars",
-    "topics": []
-  },
-  {
-    "name": "anthropics/financial-services",
-    "url": "https://github.com/anthropics/financial-services",
-    "desc": "Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl",
+    "name": "VectifyAI/PageIndex",
+    "url": "https://github.com/VectifyAI/PageIndex",
+    "desc": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "lang": "Python",
-    "stars": "9096 stars",
-    "topics": []
-  },
-  {
-    "name": "ruvnet/ruflo",
-    "url": "https://github.com/ruvnet/ruflo",
-    "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
-    "lang": "TypeScript",
-    "stars": "45223 stars",
+    "stars": "29517 stars",
     "topics": [
       "agentic-ai",
-      "agentic-engineering",
-      "agentic-framework",
-      "agentic-rag",
-      "agentic-workflow",
       "agents",
-      "ai-assistant",
-      "ai-tools",
-      "anthropic-claude",
-      "autonomous-agents",
-      "claude-code",
-      "claude-code-skills",
-      "codex",
-      "huggingface",
-      "mcp-server",
-      "model-context-protocol",
-      "multi-agent",
-      "multi-agent-systems",
-      "swarm",
-      "swarm-intelligence"
-    ]
-  },
-  {
-    "name": "cheahjs/free-llm-api-resources",
-    "url": "https://github.com/cheahjs/free-llm-api-resources",
-    "desc": "A list of free LLM inference resources accessible via API.",
-    "lang": "Python",
-    "stars": "20474 stars",
-    "topics": [
-      "ai",
-      "claude",
-      "gemini",
-      "llama",
-      "llm",
-      "openai"
-    ]
-  },
-  {
-    "name": "shiyu-coder/Kronos",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "lang": "Python",
-    "stars": "23192 stars",
-    "topics": []
-  },
-  {
-    "name": "bwya77/vscode-dark-islands",
-    "url": "https://github.com/bwya77/vscode-dark-islands",
-    "desc": "VSCode theme based off the easemate IDE and Jetbrains islands theme",
-    "lang": "PowerShell",
-    "stars": "8197 stars",
-    "topics": [
-      "easemate",
-      "jetbrains",
-      "visual-studio-code",
-      "vscode",
-      "vscode-theme"
-    ]
-  },
-  {
-    "name": "bytedance/deer-flow",
-    "url": "https://github.com/bytedance/deer-flow",
-    "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-    "lang": "Python",
-    "stars": "65520 stars",
-    "topics": [
-      "agent",
-      "agentic",
-      "agentic-framework",
-      "agentic-workflow",
       "ai",
       "ai-agents",
-      "deep-research",
-      "harness",
-      "langchain",
-      "langgraph",
-      "langmanus",
+      "context-engineering",
       "llm",
-      "multi-agent",
-      "nodejs",
-      "podcast",
-      "python",
-      "superagent",
-      "typescript"
+      "rag",
+      "reasoning",
+      "retrieval",
+      "retrieval-augmented-generation",
+      "vector-database"
     ]
   },
   {
-    "name": "D4Vinci/Scrapling",
-    "url": "https://github.com/D4Vinci/Scrapling",
-    "desc": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-    "lang": "Python",
-    "stars": "46248 stars",
+    "name": "vercel-labs/open-agents",
+    "url": "https://github.com/vercel-labs/open-agents",
+    "desc": "An open source template for building cloud agents.",
+    "lang": "TypeScript",
+    "stars": "5033 stars",
     "topics": [
+      "agent",
+      "agents",
       "ai",
-      "ai-scraping",
-      "automation",
-      "crawler",
-      "crawling",
-      "crawling-python",
-      "data",
-      "data-extraction",
-      "mcp",
-      "mcp-server",
-      "playwright",
-      "python",
-      "scraping",
-      "selectors",
-      "stealth",
-      "web-scraper",
-      "web-scraping",
-      "web-scraping-python",
-      "webscraping",
-      "xpath"
+      "background-agents"
     ]
+  },
+  {
+    "name": "docusealco/docuseal",
+    "url": "https://github.com/docusealco/docuseal",
+    "desc": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+    "lang": "Ruby",
+    "stars": "15604 stars",
+    "topics": [
+      "document-signing",
+      "documents",
+      "e-signature",
+      "hotwired-turbo",
+      "open-source",
+      "pdf",
+      "pdf-sign",
+      "pdf-signature",
+      "ruby-on-rails",
+      "self-hosted",
+      "tailwindcss",
+      "vue",
+      "webpack"
+    ]
+  },
+  {
+    "name": "decolua/9router",
+    "url": "https://github.com/decolua/9router",
+    "desc": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+    "lang": "JavaScript",
+    "stars": "4501 stars",
+    "topics": [
+      "ai-agents",
+      "ai-gateway",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "cline",
+      "codex",
+      "copilot",
+      "cursor",
+      "deepseek",
+      "free-ai",
+      "gemini",
+      "gemini-cli",
+      "llm",
+      "llm-gateway",
+      "openai",
+      "openai-proxy",
+      "qwen",
+      "token-saver"
+    ]
+  },
+  {
+    "name": "PriorLabs/TabPFN",
+    "url": "https://github.com/PriorLabs/TabPFN",
+    "desc": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
+    "lang": "Python",
+    "stars": "6781 stars",
+    "topics": [
+      "data-science",
+      "foundation-models",
+      "machine-learning",
+      "tabpfn",
+      "tabular-data"
+    ]
+  },
+  {
+    "name": "aaif-goose/goose",
+    "url": "https://github.com/aaif-goose/goose",
+    "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "lang": "Rust",
+    "stars": "44489 stars",
+    "topics": [
+      "acp",
+      "ai",
+      "ai-agents",
+      "mcp"
+    ]
+  },
+  {
+    "name": "Augani/openreel-video",
+    "url": "https://github.com/Augani/openreel-video",
+    "desc": "OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.",
+    "lang": "TypeScript",
+    "stars": "1663 stars",
+    "topics": []
   }
 ]

@@ -4,15 +4,30 @@
     "url": "https://github.com/anthropics/financial-services",
     "desc": "Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl",
     "lang": "Python",
-    "stars": "11595 stars",
+    "stars": "15062 stars",
     "topics": []
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "desc": "Production-grade engineering skills for AI coding agents.",
+    "lang": "Shell",
+    "stars": "35316 stars",
+    "topics": [
+      "agent-skills",
+      "antigravity",
+      "antigravity-ide",
+      "claude-code",
+      "cursor",
+      "skills"
+    ]
   },
   {
     "name": "Hmbown/DeepSeek-TUI",
     "url": "https://github.com/Hmbown/DeepSeek-TUI",
     "desc": "Coding agent for DeepSeek models that runs in your terminal",
     "lang": "Rust",
-    "stars": "18687 stars",
+    "stars": "21708 stars",
     "topics": [
       "cli",
       "deepseek",
@@ -27,136 +42,15 @@
     "url": "https://github.com/z-lab/dflash",
     "desc": "DFlash: Block Diffusion for Flash Speculative Decoding",
     "lang": "Python",
-    "stars": "3478 stars",
+    "stars": "3837 stars",
     "topics": []
-  },
-  {
-    "name": "InsForge/InsForge",
-    "url": "https://github.com/InsForge/InsForge",
-    "desc": "InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.",
-    "lang": "TypeScript",
-    "stars": "8846 stars",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "coding",
-      "deno",
-      "embeddings",
-      "insforge",
-      "nextjs",
-      "oauth2",
-      "pgvector",
-      "postgresql",
-      "realtime",
-      "vectors",
-      "websockets"
-    ]
-  },
-  {
-    "name": "LearningCircuit/local-deep-research",
-    "url": "https://github.com/LearningCircuit/local-deep-research",
-    "desc": " ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
-    "lang": "Python",
-    "stars": "6227 stars",
-    "topics": [
-      "academia",
-      "anthropic",
-      "arxiv",
-      "brave",
-      "deep-research",
-      "encryption",
-      "home-automation",
-      "homeserver",
-      "local",
-      "local-deep-research",
-      "local-llm",
-      "mistral",
-      "ollama",
-      "openai",
-      "pubmed",
-      "research",
-      "research-tool",
-      "retrieval-augmented-generation",
-      "searxng",
-      "self-hosted"
-    ]
-  },
-  {
-    "name": "addyosmani/agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "desc": "Production-grade engineering skills for AI coding agents.",
-    "lang": "Shell",
-    "stars": "32912 stars",
-    "topics": [
-      "agent-skills",
-      "antigravity",
-      "antigravity-ide",
-      "claude-code",
-      "cursor",
-      "skills"
-    ]
-  },
-  {
-    "name": "VectifyAI/PageIndex",
-    "url": "https://github.com/VectifyAI/PageIndex",
-    "desc": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "lang": "Python",
-    "stars": "29517 stars",
-    "topics": [
-      "agentic-ai",
-      "agents",
-      "ai",
-      "ai-agents",
-      "context-engineering",
-      "llm",
-      "rag",
-      "reasoning",
-      "retrieval",
-      "retrieval-augmented-generation",
-      "vector-database"
-    ]
-  },
-  {
-    "name": "vercel-labs/open-agents",
-    "url": "https://github.com/vercel-labs/open-agents",
-    "desc": "An open source template for building cloud agents.",
-    "lang": "TypeScript",
-    "stars": "5033 stars",
-    "topics": [
-      "agent",
-      "agents",
-      "ai",
-      "background-agents"
-    ]
-  },
-  {
-    "name": "docusealco/docuseal",
-    "url": "https://github.com/docusealco/docuseal",
-    "desc": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-    "lang": "Ruby",
-    "stars": "15604 stars",
-    "topics": [
-      "document-signing",
-      "documents",
-      "e-signature",
-      "hotwired-turbo",
-      "open-source",
-      "pdf",
-      "pdf-sign",
-      "pdf-signature",
-      "ruby-on-rails",
-      "self-hosted",
-      "tailwindcss",
-      "vue",
-      "webpack"
-    ]
   },
   {
     "name": "decolua/9router",
     "url": "https://github.com/decolua/9router",
-    "desc": "🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+    "desc": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
     "lang": "JavaScript",
-    "stars": "4501 stars",
+    "stars": "5544 stars",
     "topics": [
       "ai-agents",
       "ai-gateway",
@@ -181,38 +75,119 @@
     ]
   },
   {
-    "name": "PriorLabs/TabPFN",
-    "url": "https://github.com/PriorLabs/TabPFN",
-    "desc": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
+    "name": "CloakHQ/CloakBrowser",
+    "url": "https://github.com/CloakHQ/CloakBrowser",
+    "desc": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
     "lang": "Python",
-    "stars": "6781 stars",
+    "stars": "2940 stars",
     "topics": [
-      "data-science",
-      "foundation-models",
-      "machine-learning",
-      "tabpfn",
-      "tabular-data"
-    ]
-  },
-  {
-    "name": "aaif-goose/goose",
-    "url": "https://github.com/aaif-goose/goose",
-    "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-    "lang": "Rust",
-    "stars": "44489 stars",
-    "topics": [
-      "acp",
-      "ai",
       "ai-agents",
-      "mcp"
+      "anti-detect",
+      "antidetect-browser",
+      "bot-detection",
+      "browser-automation",
+      "captcha-bypass",
+      "chromium",
+      "cloudflare",
+      "cloudflare-bypass",
+      "fingerprint",
+      "headless-browser",
+      "playwright",
+      "puppeteer",
+      "python",
+      "recaptcha",
+      "selenium",
+      "stealth-browser",
+      "undetected",
+      "web-scraping",
+      "webscraping"
     ]
   },
   {
-    "name": "Augani/openreel-video",
-    "url": "https://github.com/Augani/openreel-video",
-    "desc": "OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.",
+    "name": "awslabs/aidlc-workflows",
+    "url": "https://github.com/awslabs/aidlc-workflows",
+    "desc": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
+    "lang": "Python",
+    "stars": "1744 stars",
+    "topics": []
+  },
+  {
+    "name": "HKUDS/AI-Trader",
+    "url": "https://github.com/HKUDS/AI-Trader",
+    "desc": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"  ",
+    "lang": "Python",
+    "stars": "14594 stars",
+    "topics": []
+  },
+  {
+    "name": "LearningCircuit/local-deep-research",
+    "url": "https://github.com/LearningCircuit/local-deep-research",
+    "desc": " ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+    "lang": "Python",
+    "stars": "6715 stars",
+    "topics": [
+      "academia",
+      "anthropic",
+      "arxiv",
+      "brave",
+      "deep-research",
+      "encryption",
+      "home-automation",
+      "homeserver",
+      "local",
+      "local-deep-research",
+      "local-llm",
+      "mistral",
+      "ollama",
+      "openai",
+      "pubmed",
+      "research",
+      "research-tool",
+      "retrieval-augmented-generation",
+      "searxng",
+      "self-hosted"
+    ]
+  },
+  {
+    "name": "lobehub/lobehub",
+    "url": "https://github.com/lobehub/lobehub",
+    "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
     "lang": "TypeScript",
-    "stars": "1663 stars",
+    "stars": "76484 stars",
+    "topics": [
+      "agent",
+      "agent-collaboration",
+      "agent-harness",
+      "ai",
+      "chatgpt",
+      "claude",
+      "deepseek",
+      "gemini",
+      "gpt",
+      "knowledge-base",
+      "mcp",
+      "openai"
+    ]
+  },
+  {
+    "name": "datawhalechina/hello-agents",
+    "url": "https://github.com/datawhalechina/hello-agents",
+    "desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+    "lang": "Python",
+    "stars": "44530 stars",
+    "topics": [
+      "agent",
+      "llm",
+      "rag",
+      "tutorial"
+    ]
+  },
+  {
+    "name": "flutter/skills",
+    "url": "https://github.com/flutter/skills",
+    "desc": "Agent skills for Flutter, maintained by the Flutter team. A collection of skills providing tailored instructions for happy path Flutter app development workflows. By giving the agent actual domain exp",
+    "lang": "Dart",
+    "stars": "1659 stars",
     "topics": []
   }
 ]

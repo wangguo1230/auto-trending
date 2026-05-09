@@ -4,7 +4,180 @@
     "url": "https://github.com/anthropics/financial-services",
     "desc": "Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl",
     "lang": "Python",
-    "stars": "15062 stars",
+    "stars": "17352 stars",
+    "topics": []
+  },
+  {
+    "name": "bytedance/UI-TARS-desktop",
+    "url": "https://github.com/bytedance/UI-TARS-desktop",
+    "desc": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "lang": "TypeScript",
+    "stars": "31379 stars",
+    "topics": [
+      "agent",
+      "agent-tars",
+      "browser-use",
+      "computer-use",
+      "cowork",
+      "gui-agent",
+      "gui-operator",
+      "mcp",
+      "mcp-server",
+      "multimodal",
+      "tars",
+      "ui-tars",
+      "vision",
+      "vlm"
+    ]
+  },
+  {
+    "name": "rohitg00/agentmemory",
+    "url": "https://github.com/rohitg00/agentmemory",
+    "desc": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+    "lang": "TypeScript",
+    "stars": "3410 stars",
+    "topics": [
+      "agentmemory",
+      "agents",
+      "ai",
+      "claude",
+      "claudecode",
+      "codex",
+      "copilot",
+      "cursor",
+      "genai",
+      "harness",
+      "hermes",
+      "memory",
+      "openclaw"
+    ]
+  },
+  {
+    "name": "datawhalechina/hello-agents",
+    "url": "https://github.com/datawhalechina/hello-agents",
+    "desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+    "lang": "Python",
+    "stars": "45659 stars",
+    "topics": [
+      "agent",
+      "llm",
+      "rag",
+      "tutorial"
+    ]
+  },
+  {
+    "name": "datawhalechina/easy-vibe",
+    "url": "https://github.com/datawhalechina/easy-vibe",
+    "desc": "💻 vibe coding 2026 | Your first modern programming course for beginners to master step by step.",
+    "lang": "JavaScript",
+    "stars": "8511 stars",
+    "topics": [
+      "agent",
+      "ai",
+      "coding",
+      "course",
+      "deepseek",
+      "gemini",
+      "genai",
+      "gpt",
+      "llm",
+      "low-code",
+      "mcp",
+      "nextjs",
+      "no-code",
+      "openai",
+      "programming",
+      "tutorial",
+      "vibe-coding",
+      "vibecoding",
+      "vscode",
+      "workflow"
+    ]
+  },
+  {
+    "name": "rowboatlabs/rowboat",
+    "url": "https://github.com/rowboatlabs/rowboat",
+    "desc": "Open-source AI coworker, with memory",
+    "lang": "TypeScript",
+    "stars": "13766 stars",
+    "topics": [
+      "agents",
+      "agents-sdk",
+      "ai",
+      "ai-agents",
+      "ai-agents-automation",
+      "chatgpt",
+      "claude-code",
+      "claude-cowork",
+      "generative-ai",
+      "llm",
+      "multiagent",
+      "opeani",
+      "open-source",
+      "orchestration",
+      "productivity"
+    ]
+  },
+  {
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "desc": "Chrome DevTools for coding agents",
+    "lang": "TypeScript",
+    "stars": "38811 stars",
+    "topics": [
+      "browser",
+      "chrome",
+      "chrome-devtools",
+      "debugging",
+      "devtools",
+      "mcp",
+      "mcp-server",
+      "puppeteer"
+    ]
+  },
+  {
+    "name": "masterking32/MasterDnsVPN",
+    "url": "https://github.com/masterking32/MasterDnsVPN",
+    "desc": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+    "lang": "Go",
+    "stars": "2506 stars",
+    "topics": [
+      "dns-client",
+      "dns-proxy",
+      "dns-server",
+      "dns-tunnel",
+      "dns-tunneling",
+      "dnstt",
+      "masterdns",
+      "masterdnsvpn",
+      "slipstream",
+      "tunnel",
+      "vpn"
+    ]
+  },
+  {
+    "name": "playcanvas/supersplat",
+    "url": "https://github.com/playcanvas/supersplat",
+    "desc": "3D Gaussian Splat Editor",
+    "lang": "TypeScript",
+    "stars": "6285 stars",
+    "topics": [
+      "3d-gaussian-splatting",
+      "3dgs",
+      "gaussian-splatting",
+      "pcui",
+      "playcanvas",
+      "typescript",
+      "webgl",
+      "webgpu"
+    ]
+  },
+  {
+    "name": "Lordog/dive-into-llms",
+    "url": "https://github.com/Lordog/dive-into-llms",
+    "desc": "《动手学大模型Dive into LLMs》系列编程实践教程",
+    "lang": "Jupyter Notebook",
+    "stars": "36472 stars",
     "topics": []
   },
   {
@@ -12,7 +185,7 @@
     "url": "https://github.com/addyosmani/agent-skills",
     "desc": "Production-grade engineering skills for AI coding agents.",
     "lang": "Shell",
-    "stars": "35316 stars",
+    "stars": "37357 stars",
     "topics": [
       "agent-skills",
       "antigravity",
@@ -23,34 +196,11 @@
     ]
   },
   {
-    "name": "Hmbown/DeepSeek-TUI",
-    "url": "https://github.com/Hmbown/DeepSeek-TUI",
-    "desc": "Coding agent for DeepSeek models that runs in your terminal",
-    "lang": "Rust",
-    "stars": "21708 stars",
-    "topics": [
-      "cli",
-      "deepseek",
-      "llm",
-      "rust",
-      "terminal",
-      "tui"
-    ]
-  },
-  {
-    "name": "z-lab/dflash",
-    "url": "https://github.com/z-lab/dflash",
-    "desc": "DFlash: Block Diffusion for Flash Speculative Decoding",
-    "lang": "Python",
-    "stars": "3837 stars",
-    "topics": []
-  },
-  {
     "name": "decolua/9router",
     "url": "https://github.com/decolua/9router",
     "desc": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
     "lang": "JavaScript",
-    "stars": "5544 stars",
+    "stars": "6473 stars",
     "topics": [
       "ai-agents",
       "ai-gateway",
@@ -75,119 +225,24 @@
     ]
   },
   {
-    "name": "CloakHQ/CloakBrowser",
-    "url": "https://github.com/CloakHQ/CloakBrowser",
-    "desc": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-    "lang": "Python",
-    "stars": "2940 stars",
+    "name": "oracle-devrel/oracle-ai-developer-hub",
+    "url": "https://github.com/oracle-devrel/oracle-ai-developer-hub",
+    "desc": "Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services",
+    "lang": "Jupyter Notebook",
+    "stars": "789 stars",
     "topics": [
-      "ai-agents",
-      "anti-detect",
-      "antidetect-browser",
-      "bot-detection",
-      "browser-automation",
-      "captcha-bypass",
-      "chromium",
-      "cloudflare",
-      "cloudflare-bypass",
-      "fingerprint",
-      "headless-browser",
-      "playwright",
-      "puppeteer",
-      "python",
-      "recaptcha",
-      "selenium",
-      "stealth-browser",
-      "undetected",
-      "web-scraping",
-      "webscraping"
-    ]
-  },
-  {
-    "name": "awslabs/aidlc-workflows",
-    "url": "https://github.com/awslabs/aidlc-workflows",
-    "desc": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
-    "lang": "Python",
-    "stars": "1744 stars",
-    "topics": []
-  },
-  {
-    "name": "HKUDS/AI-Trader",
-    "url": "https://github.com/HKUDS/AI-Trader",
-    "desc": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"  ",
-    "lang": "Python",
-    "stars": "14594 stars",
-    "topics": []
-  },
-  {
-    "name": "LearningCircuit/local-deep-research",
-    "url": "https://github.com/LearningCircuit/local-deep-research",
-    "desc": " ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
-    "lang": "Python",
-    "stars": "6715 stars",
-    "topics": [
-      "academia",
-      "anthropic",
-      "arxiv",
-      "brave",
-      "deep-research",
-      "encryption",
-      "home-automation",
-      "homeserver",
-      "local",
-      "local-deep-research",
-      "local-llm",
-      "mistral",
-      "ollama",
-      "openai",
-      "pubmed",
-      "research",
-      "research-tool",
-      "retrieval-augmented-generation",
-      "searxng",
-      "self-hosted"
-    ]
-  },
-  {
-    "name": "lobehub/lobehub",
-    "url": "https://github.com/lobehub/lobehub",
-    "desc": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
-    "lang": "TypeScript",
-    "stars": "76484 stars",
-    "topics": [
-      "agent",
-      "agent-collaboration",
-      "agent-harness",
+      "agentmemory",
+      "agents",
       "ai",
-      "chatgpt",
-      "claude",
-      "deepseek",
-      "gemini",
-      "gpt",
-      "knowledge-base",
-      "mcp",
-      "openai"
+      "ai-developer",
+      "artificial-intelligence",
+      "generative-ai",
+      "kubernetes",
+      "kustomize",
+      "oracle-database",
+      "oracleaidatabase",
+      "oraclejet",
+      "rag"
     ]
-  },
-  {
-    "name": "datawhalechina/hello-agents",
-    "url": "https://github.com/datawhalechina/hello-agents",
-    "desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-    "lang": "Python",
-    "stars": "44530 stars",
-    "topics": [
-      "agent",
-      "llm",
-      "rag",
-      "tutorial"
-    ]
-  },
-  {
-    "name": "flutter/skills",
-    "url": "https://github.com/flutter/skills",
-    "desc": "Agent skills for Flutter, maintained by the Flutter team. A collection of skills providing tailored instructions for happy path Flutter app development workflows. By giving the agent actual domain exp",
-    "lang": "Dart",
-    "stars": "1659 stars",
-    "topics": []
   }
 ]

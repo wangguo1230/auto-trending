@@ -4,7 +4,7 @@
     "url": "https://github.com/tinyhumansai/openhuman",
     "desc": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
     "lang": "Rust",
-    "stars": "2651 stars",
+    "stars": "5411 stars",
     "topics": []
   },
   {
@@ -12,7 +12,7 @@
     "url": "https://github.com/rohitg00/agentmemory",
     "desc": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
     "lang": "TypeScript",
-    "stars": "5812 stars",
+    "stars": "7581 stars",
     "topics": [
       "agentmemory",
       "agents",
@@ -30,11 +30,141 @@
     ]
   },
   {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "189475 stars",
+    "topics": []
+  },
+  {
+    "name": "yikart/AiToEarn",
+    "url": "https://github.com/yikart/AiToEarn",
+    "desc": "Let's use AI to Earn!",
+    "lang": "TypeScript",
+    "stars": "12892 stars",
+    "topics": [
+      "auto-publish",
+      "douyin",
+      "douyin-api",
+      "electron-app",
+      "electron-react",
+      "kuaishou",
+      "kwai",
+      "published",
+      "shipinhao",
+      "tool",
+      "xiaohongshu"
+    ]
+  },
+  {
+    "name": "influxdata/telegraf",
+    "url": "https://github.com/influxdata/telegraf",
+    "desc": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+    "lang": "Go",
+    "stars": "16992 stars",
+    "topics": [
+      "golang",
+      "hacktoberfest",
+      "influxdb",
+      "json",
+      "kafka",
+      "logs",
+      "metrics",
+      "modbus",
+      "monitoring",
+      "mqtt",
+      "opcua",
+      "t",
+      "telegraf",
+      "telemetry-collection",
+      "time-series",
+      "windows-eventlog",
+      "xpath"
+    ]
+  },
+  {
+    "name": "millionco/react-doctor",
+    "url": "https://github.com/millionco/react-doctor",
+    "desc": "Your agent writes bad React. This catches it",
+    "lang": "TypeScript",
+    "stars": "9261 stars",
+    "topics": [
+      "agents",
+      "code-review",
+      "doctor",
+      "react",
+      "skill"
+    ]
+  },
+  {
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "desc": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
+    "lang": "Python",
+    "stars": "21103 stars",
+    "topics": [
+      "agent-skills",
+      "ai-scientist",
+      "bioinformatics",
+      "chemoinformatics",
+      "claude",
+      "claude-skills",
+      "claudecode",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "drug-discovery",
+      "genomics",
+      "materials-science",
+      "metabolomics",
+      "proteomics",
+      "scientific-computing",
+      "scientific-visualization"
+    ]
+  },
+  {
+    "name": "danielmiessler/Personal_AI_Infrastructure",
+    "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+    "desc": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+    "lang": "TypeScript",
+    "stars": "13348 stars",
+    "topics": [
+      "ai",
+      "augmentation",
+      "humans",
+      "productivity"
+    ]
+  },
+  {
+    "name": "supertone-inc/supertonic",
+    "url": "https://github.com/supertone-inc/supertonic",
+    "desc": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+    "lang": "Swift",
+    "stars": "4325 stars",
+    "topics": [
+      "cpp",
+      "csharp",
+      "go",
+      "ios",
+      "java",
+      "lightweight",
+      "nodejs",
+      "on-device",
+      "python",
+      "rust",
+      "swift",
+      "text-to-speech",
+      "tts",
+      "web"
+    ]
+  },
+  {
     "name": "CloakHQ/CloakBrowser",
     "url": "https://github.com/CloakHQ/CloakBrowser",
     "desc": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
     "lang": "Python",
-    "stars": "7799 stars",
+    "stars": "9471 stars",
     "topics": [
       "ai-agents",
       "anti-detect",
@@ -59,11 +189,77 @@
     ]
   },
   {
+    "name": "Greedeks/GTweak",
+    "url": "https://github.com/Greedeks/GTweak",
+    "desc": "Portable Tool for an Ideal Windows Setup",
+    "lang": "C#",
+    "stars": "915 stars",
+    "topics": [
+      "activator",
+      "debloat",
+      "disable-services",
+      "disable-windows-defender",
+      "disable-windows-services",
+      "hwid",
+      "kms",
+      "monitoring-system",
+      "optimazation",
+      "registry-tweaks",
+      "system-utility",
+      "telemetry-disabling",
+      "tweaker",
+      "windows-10",
+      "windows-11",
+      "windows-debloat",
+      "windows-optimization",
+      "windows-optimization-tool",
+      "windows-optimizer",
+      "windows-tweaks"
+    ]
+  },
+  {
+    "name": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+    "lang": "Shell",
+    "stars": "78909 stars",
+    "topics": []
+  },
+  {
+    "name": "ArthurBrussee/brush",
+    "url": "https://github.com/ArthurBrussee/brush",
+    "desc": "3D Reconstruction for all",
+    "lang": "Rust",
+    "stars": "4356 stars",
+    "topics": [
+      "gaussian-splatting",
+      "graphics",
+      "reconstruction"
+    ]
+  },
+  {
+    "name": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+    "desc": "An evolving how-to guide for securing a Linux server.",
+    "lang": "Unknown",
+    "stars": "27077 stars",
+    "topics": [
+      "cc-by-sa",
+      "hardening",
+      "hardening-steps",
+      "linux",
+      "linux-server",
+      "security",
+      "security-hardening",
+      "server"
+    ]
+  },
+  {
     "name": "apernet/hysteria",
     "url": "https://github.com/apernet/hysteria",
     "desc": "Hysteria is a powerful, lightning fast and censorship resistant proxy.",
     "lang": "Go",
-    "stars": "20211 stars",
+    "stars": "20606 stars",
     "topics": [
       "censorship-circumvention",
       "golang",
@@ -79,60 +275,11 @@
     ]
   },
   {
-    "name": "mattpocock/skills",
-    "url": "https://github.com/mattpocock/skills",
-    "desc": "Skills for Real Engineers. Straight from my .claude directory.",
-    "lang": "Shell",
-    "stars": "75934 stars",
-    "topics": []
-  },
-  {
-    "name": "anonfaded/FadCam",
-    "url": "https://github.com/anonfaded/FadCam",
-    "desc": "Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control",
-    "lang": "Java",
-    "stars": "2198 stars",
-    "topics": [
-      "android-app",
-      "android-studio",
-      "cam",
-      "camera2-api",
-      "camerax",
-      "fadrec",
-      "ffmpeg-android",
-      "foss",
-      "java",
-      "material-design",
-      "material-ui",
-      "open-source",
-      "record-video",
-      "screenrecorder",
-      "screenrecordingapp",
-      "secret-recorder",
-      "video-editing",
-      "video-editing-tools"
-    ]
-  },
-  {
-    "name": "millionco/react-doctor",
-    "url": "https://github.com/millionco/react-doctor",
-    "desc": "Your agent writes bad React. This catches it",
-    "lang": "TypeScript",
-    "stars": "8750 stars",
-    "topics": [
-      "agents",
-      "code-review",
-      "doctor",
-      "react",
-      "skill"
-    ]
-  },
-  {
     "name": "rasbt/LLMs-from-scratch",
     "url": "https://github.com/rasbt/LLMs-from-scratch",
     "desc": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
     "lang": "Jupyter Notebook",
-    "stars": "93746 stars",
+    "stars": "94441 stars",
     "topics": [
       "ai",
       "artificial-intelligence",
@@ -153,44 +300,61 @@
     ]
   },
   {
-    "name": "datawhalechina/hello-agents",
-    "url": "https://github.com/datawhalechina/hello-agents",
-    "desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
-    "lang": "Python",
-    "stars": "48191 stars",
+    "name": "ton-blockchain/acton",
+    "url": "https://github.com/ton-blockchain/acton",
+    "desc": "Toolchain for TON smart contract development and beyond",
+    "lang": "Rust",
+    "stars": "201 stars",
+    "topics": [
+      "mtonga",
+      "rust",
+      "tolk",
+      "ton",
+      "ton-blockchain",
+      "tooling"
+    ]
+  },
+  {
+    "name": "trycua/cua",
+    "url": "https://github.com/trycua/cua",
+    "desc": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+    "lang": "HTML",
+    "stars": "16532 stars",
     "topics": [
       "agent",
-      "llm",
-      "rag",
-      "tutorial"
+      "ai-agent",
+      "apple",
+      "computer-use",
+      "computer-use-agent",
+      "containerization",
+      "cua",
+      "desktop-automation",
+      "hacktoberfest",
+      "lume",
+      "macos",
+      "manus",
+      "operator",
+      "swift",
+      "virtualization",
+      "virtualization-framework",
+      "windows",
+      "windows-sandbox"
     ]
   },
   {
-    "name": "yikart/AiToEarn",
-    "url": "https://github.com/yikart/AiToEarn",
-    "desc": "Let's use AI to Earn!",
-    "lang": "TypeScript",
-    "stars": "11822 stars",
-    "topics": [
-      "auto-publish",
-      "douyin",
-      "douyin-api",
-      "electron-app",
-      "electron-react",
-      "kuaishou",
-      "kwai",
-      "published",
-      "shipinhao",
-      "tool",
-      "xiaohongshu"
-    ]
-  },
-  {
-    "name": "HKUDS/AI-Trader",
-    "url": "https://github.com/HKUDS/AI-Trader",
-    "desc": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"  ",
+    "name": "github/spec-kit",
+    "url": "https://github.com/github/spec-kit",
+    "desc": "💫 Toolkit to help you get started with Spec-Driven Development",
     "lang": "Python",
-    "stars": "16577 stars",
-    "topics": []
+    "stars": "98334 stars",
+    "topics": [
+      "ai",
+      "copilot",
+      "development",
+      "engineering",
+      "prd",
+      "spec",
+      "spec-driven"
+    ]
   }
 ]

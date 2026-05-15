@@ -1,65 +1,18 @@
 [
   {
-    "name": "ruvnet/RuView",
-    "url": "https://github.com/ruvnet/RuView",
-    "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-    "lang": "Rust",
-    "stars": "55940 stars",
-    "topics": [
-      "agentic-ai",
-      "densepose",
-      "esp32",
-      "firmware",
-      "mcu",
-      "mincut",
-      "monitoring",
-      "pose-estimation",
-      "rf",
-      "self",
-      "self-learning",
-      "spatial-intelligence",
-      "wifi",
-      "wifi-hacking",
-      "wifi-security",
-      "world-model"
-    ]
-  },
-  {
     "name": "tinyhumansai/openhuman",
     "url": "https://github.com/tinyhumansai/openhuman",
     "desc": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
     "lang": "Rust",
-    "stars": "7730 stars",
+    "stars": "9006 stars",
     "topics": []
-  },
-  {
-    "name": "rohitg00/agentmemory",
-    "url": "https://github.com/rohitg00/agentmemory",
-    "desc": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
-    "lang": "TypeScript",
-    "stars": "8950 stars",
-    "topics": [
-      "agentmemory",
-      "agents",
-      "ai",
-      "claude",
-      "claudecode",
-      "codex",
-      "copilot",
-      "cursor",
-      "genai",
-      "harness",
-      "hermes",
-      "memory",
-      "openclaw"
-    ]
   },
   {
     "name": "obra/superpowers",
     "url": "https://github.com/obra/superpowers",
     "desc": "An agentic skills framework & software development methodology that works.",
     "lang": "Shell",
-    "stars": "191149 stars",
+    "stars": "192790 stars",
     "topics": []
   },
   {
@@ -67,7 +20,7 @@
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
     "desc": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
     "lang": "Python",
-    "stars": "21765 stars",
+    "stars": "22430 stars",
     "topics": [
       "agent-skills",
       "ai-scientist",
@@ -89,39 +42,51 @@
     ]
   },
   {
-    "name": "shiyu-coder/Kronos",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "lang": "Python",
-    "stars": "24801 stars",
-    "topics": []
+    "name": "supertone-inc/supertonic",
+    "url": "https://github.com/supertone-inc/supertonic",
+    "desc": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
+    "lang": "Swift",
+    "stars": "6019 stars",
+    "topics": [
+      "cpp",
+      "csharp",
+      "go",
+      "ios",
+      "java",
+      "lightweight",
+      "nodejs",
+      "on-device",
+      "python",
+      "rust",
+      "swift",
+      "text-to-speech",
+      "tts",
+      "web"
+    ]
   },
   {
-    "name": "roboflow/supervision",
-    "url": "https://github.com/roboflow/supervision",
-    "desc": "We write your reusable computer vision tools. 💜",
-    "lang": "Python",
-    "stars": "38868 stars",
+    "name": "ruvnet/RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "lang": "Rust",
+    "stars": "57474 stars",
     "topics": [
-      "classification",
-      "coco",
-      "computer-vision",
-      "deep-learning",
-      "hacktoberfest",
-      "image-processing",
-      "instance-segmentation",
-      "low-code",
-      "machine-learning",
-      "metrics",
-      "object-detection",
-      "oriented-bounding-box",
-      "pascal-voc",
-      "python",
-      "pytorch",
-      "tensorflow",
-      "tracking",
-      "video-processing",
-      "yolo"
+      "agentic-ai",
+      "densepose",
+      "esp32",
+      "firmware",
+      "mcu",
+      "mincut",
+      "monitoring",
+      "pose-estimation",
+      "rf",
+      "self",
+      "self-learning",
+      "spatial-intelligence",
+      "wifi",
+      "wifi-hacking",
+      "wifi-security",
+      "world-model"
     ]
   },
   {
@@ -129,7 +94,7 @@
     "url": "https://github.com/influxdata/telegraf",
     "desc": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
     "lang": "Go",
-    "stars": "17215 stars",
+    "stars": "17403 stars",
     "topics": [
       "golang",
       "hacktoberfest",
@@ -151,43 +116,26 @@
     ]
   },
   {
-    "name": "supertone-inc/supertonic",
-    "url": "https://github.com/supertone-inc/supertonic",
-    "desc": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
-    "lang": "Swift",
-    "stars": "5306 stars",
+    "name": "anthropics/skills",
+    "url": "https://github.com/anthropics/skills",
+    "desc": "Public repository for Agent Skills",
+    "lang": "Python",
+    "stars": "135100 stars",
     "topics": [
-      "cpp",
-      "csharp",
-      "go",
-      "ios",
-      "java",
-      "lightweight",
-      "nodejs",
-      "on-device",
-      "python",
-      "rust",
-      "swift",
-      "text-to-speech",
-      "tts",
-      "web"
+      "agent-skills"
     ]
   },
   {
-    "name": "Genymobile/scrcpy",
-    "url": "https://github.com/Genymobile/scrcpy",
-    "desc": "Display and control your Android device",
-    "lang": "C",
-    "stars": "141315 stars",
+    "name": "czlonkowski/n8n-mcp",
+    "url": "https://github.com/czlonkowski/n8n-mcp",
+    "desc": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you ",
+    "lang": "TypeScript",
+    "stars": "20887 stars",
     "topics": [
-      "android",
-      "c",
-      "ffmpeg",
-      "libav",
-      "mirroring",
-      "recording",
-      "screen",
-      "sdl2"
+      "mcp",
+      "mcp-server",
+      "n8n",
+      "workflows"
     ]
   },
   {
@@ -195,7 +143,7 @@
     "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
     "desc": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
     "lang": "Python",
-    "stars": "823 stars",
+    "stars": "1145 stars",
     "topics": [
       "agents",
       "llm",
@@ -207,32 +155,24 @@
     ]
   },
   {
-    "name": "CloakHQ/CloakBrowser",
-    "url": "https://github.com/CloakHQ/CloakBrowser",
-    "desc": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
-    "lang": "Python",
-    "stars": "10837 stars",
+    "name": "oven-sh/bun",
+    "url": "https://github.com/oven-sh/bun",
+    "desc": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+    "lang": "Rust",
+    "stars": "90610 stars",
     "topics": [
-      "ai-agents",
-      "anti-detect",
-      "antidetect-browser",
-      "bot-detection",
-      "browser-automation",
-      "captcha-bypass",
-      "chromium",
-      "cloudflare",
-      "cloudflare-bypass",
-      "fingerprint",
-      "headless-browser",
-      "playwright",
-      "puppeteer",
-      "python",
-      "recaptcha",
-      "selenium",
-      "stealth-browser",
-      "undetected",
-      "web-scraping",
-      "webscraping"
+      "bun",
+      "bundler",
+      "javascript",
+      "javascriptcore",
+      "jsx",
+      "nodejs",
+      "npm",
+      "react",
+      "transpiler",
+      "typescript",
+      "zig",
+      "ziglang"
     ]
   },
   {
@@ -240,31 +180,21 @@
     "url": "https://github.com/mattpocock/skills",
     "desc": "Skills for Real Engineers. Straight from my .claude directory.",
     "lang": "Shell",
-    "stars": "82195 stars",
+    "stars": "84907 stars",
     "topics": []
   },
   {
-    "name": "github/spec-kit",
-    "url": "https://github.com/github/spec-kit",
-    "desc": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "name": "joeseesun/qiaomu-anything-to-notebooklm",
+    "url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
+    "desc": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
     "lang": "Python",
-    "stars": "99461 stars",
+    "stars": "2679 stars",
     "topics": [
-      "ai",
-      "copilot",
-      "development",
-      "engineering",
-      "prd",
-      "spec",
-      "spec-driven"
+      "automation",
+      "claude",
+      "mcp",
+      "notebooklm",
+      "skill"
     ]
-  },
-  {
-    "name": "garrytan/gstack",
-    "url": "https://github.com/garrytan/gstack",
-    "desc": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-    "lang": "TypeScript",
-    "stars": "96719 stars",
-    "topics": []
   }
 ]

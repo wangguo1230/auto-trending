@@ -1,26 +1,31 @@
 [
   {
-    "name": "tinyhumansai/openhuman",
-    "url": "https://github.com/tinyhumansai/openhuman",
-    "desc": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+    "name": "oven-sh/bun",
+    "url": "https://github.com/oven-sh/bun",
+    "desc": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
     "lang": "Rust",
-    "stars": "9006 stars",
-    "topics": []
-  },
-  {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "192790 stars",
-    "topics": []
+    "stars": "91189 stars",
+    "topics": [
+      "bun",
+      "bundler",
+      "javascript",
+      "javascriptcore",
+      "jsx",
+      "nodejs",
+      "npm",
+      "react",
+      "transpiler",
+      "typescript",
+      "zig",
+      "ziglang"
+    ]
   },
   {
     "name": "K-Dense-AI/scientific-agent-skills",
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
     "desc": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
     "lang": "Python",
-    "stars": "22430 stars",
+    "stars": "23109 stars",
     "topics": [
       "agent-skills",
       "ai-scientist",
@@ -42,11 +47,45 @@
     ]
   },
   {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "193979 stars",
+    "topics": []
+  },
+  {
+    "name": "Anil-matcha/Open-Generative-AI",
+    "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+    "desc": "Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+    "lang": "JavaScript",
+    "stars": "14408 stars",
+    "topics": [
+      "ai-art-generator",
+      "ai-image-generation",
+      "ai-video-generation",
+      "creative-tools",
+      "flux-1",
+      "generative-ai",
+      "image-to-video",
+      "javascript",
+      "kling-ai",
+      "midjourney-alternative",
+      "muapi",
+      "open-source",
+      "sora-alternative",
+      "text-to-video",
+      "uncensored",
+      "unrestricted",
+      "wan-video"
+    ]
+  },
+  {
     "name": "supertone-inc/supertonic",
     "url": "https://github.com/supertone-inc/supertonic",
     "desc": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
     "lang": "Swift",
-    "stars": "6019 stars",
+    "stars": "6846 stars",
     "topics": [
       "cpp",
       "csharp",
@@ -65,11 +104,19 @@
     ]
   },
   {
+    "name": "tinyhumansai/openhuman",
+    "url": "https://github.com/tinyhumansai/openhuman",
+    "desc": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+    "lang": "Rust",
+    "stars": "10673 stars",
+    "topics": []
+  },
+  {
     "name": "ruvnet/RuView",
     "url": "https://github.com/ruvnet/RuView",
     "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
     "lang": "Rust",
-    "stars": "57474 stars",
+    "stars": "58320 stars",
     "topics": [
       "agentic-ai",
       "densepose",
@@ -90,111 +137,11 @@
     ]
   },
   {
-    "name": "influxdata/telegraf",
-    "url": "https://github.com/influxdata/telegraf",
-    "desc": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
-    "lang": "Go",
-    "stars": "17403 stars",
-    "topics": [
-      "golang",
-      "hacktoberfest",
-      "influxdb",
-      "json",
-      "kafka",
-      "logs",
-      "metrics",
-      "modbus",
-      "monitoring",
-      "mqtt",
-      "opcua",
-      "t",
-      "telegraf",
-      "telemetry-collection",
-      "time-series",
-      "windows-eventlog",
-      "xpath"
-    ]
-  },
-  {
-    "name": "anthropics/skills",
-    "url": "https://github.com/anthropics/skills",
-    "desc": "Public repository for Agent Skills",
-    "lang": "Python",
-    "stars": "135100 stars",
-    "topics": [
-      "agent-skills"
-    ]
-  },
-  {
-    "name": "czlonkowski/n8n-mcp",
-    "url": "https://github.com/czlonkowski/n8n-mcp",
-    "desc": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you ",
+    "name": "colbymchenry/codegraph",
+    "url": "https://github.com/colbymchenry/codegraph",
+    "desc": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
     "lang": "TypeScript",
-    "stars": "20887 stars",
-    "topics": [
-      "mcp",
-      "mcp-server",
-      "n8n",
-      "workflows"
-    ]
-  },
-  {
-    "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
-    "url": "https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization",
-    "desc": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.",
-    "lang": "Python",
-    "stars": "1145 stars",
-    "topics": [
-      "agents",
-      "llm",
-      "rag",
-      "skills",
-      "video-analytics",
-      "video-search",
-      "vlm"
-    ]
-  },
-  {
-    "name": "oven-sh/bun",
-    "url": "https://github.com/oven-sh/bun",
-    "desc": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-    "lang": "Rust",
-    "stars": "90610 stars",
-    "topics": [
-      "bun",
-      "bundler",
-      "javascript",
-      "javascriptcore",
-      "jsx",
-      "nodejs",
-      "npm",
-      "react",
-      "transpiler",
-      "typescript",
-      "zig",
-      "ziglang"
-    ]
-  },
-  {
-    "name": "mattpocock/skills",
-    "url": "https://github.com/mattpocock/skills",
-    "desc": "Skills for Real Engineers. Straight from my .claude directory.",
-    "lang": "Shell",
-    "stars": "84907 stars",
+    "stars": "2496 stars",
     "topics": []
-  },
-  {
-    "name": "joeseesun/qiaomu-anything-to-notebooklm",
-    "url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
-    "desc": "Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc.",
-    "lang": "Python",
-    "stars": "2679 stars",
-    "topics": [
-      "automation",
-      "claude",
-      "mcp",
-      "notebooklm",
-      "skill"
-    ]
   }
 ]

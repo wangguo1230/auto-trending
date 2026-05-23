@@ -1,10 +1,36 @@
 [
   {
+    "name": "Lum1104/Understand-Anything",
+    "url": "https://github.com/Lum1104/Understand-Anything",
+    "desc": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+    "lang": "TypeScript",
+    "stars": "21448 stars",
+    "topics": [
+      "antigravity-skills",
+      "business-knowledge",
+      "claude-code",
+      "claude-skills",
+      "codebase-analysis",
+      "codex",
+      "codex-skills",
+      "developer-tools-ai-agent",
+      "gemini-cli-skills",
+      "karpathy-llm-wiki",
+      "knowledge-base",
+      "knowledge-graph",
+      "memory",
+      "opencode-skills",
+      "pi-agent",
+      "understandcode",
+      "vibe-coding"
+    ]
+  },
+  {
     "name": "anthropics/claude-plugins-official",
     "url": "https://github.com/anthropics/claude-plugins-official",
     "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
     "lang": "Python",
-    "stars": "24888 stars",
+    "stars": "26410 stars",
     "topics": [
       "claude-code",
       "mcp",
@@ -16,40 +42,15 @@
     "url": "https://github.com/colbymchenry/codegraph",
     "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
     "lang": "TypeScript",
-    "stars": "16495 stars",
+    "stars": "19387 stars",
     "topics": []
-  },
-  {
-    "name": "ruvnet/RuView",
-    "url": "https://github.com/ruvnet/RuView",
-    "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-    "lang": "Rust",
-    "stars": "63993 stars",
-    "topics": [
-      "agentic-ai",
-      "densepose",
-      "esp32",
-      "firmware",
-      "mcu",
-      "mincut",
-      "monitoring",
-      "pose-estimation",
-      "rf",
-      "self",
-      "self-learning",
-      "spatial-intelligence",
-      "wifi",
-      "wifi-hacking",
-      "wifi-security",
-      "world-model"
-    ]
   },
   {
     "name": "rohitg00/ai-engineering-from-scratch",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
     "desc": "Learn it. Build it. Ship it for others.",
     "lang": "Python",
-    "stars": "11886 stars",
+    "stars": "13719 stars",
     "topics": [
       "agents",
       "ai",
@@ -74,11 +75,55 @@
     ]
   },
   {
+    "name": "Fincept-Corporation/FinceptTerminal",
+    "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+    "desc": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+    "lang": "Python",
+    "stars": "23106 stars",
+    "topics": [
+      "ai-agents",
+      "algorithmic-trading",
+      "bloomberg-terminal",
+      "cpp",
+      "finance",
+      "financial-markets",
+      "fintech",
+      "good-first-issue",
+      "investment",
+      "investment-research",
+      "machine-learning",
+      "opensource",
+      "python",
+      "qt",
+      "quantitative-finance",
+      "stock-market",
+      "trading"
+    ]
+  },
+  {
+    "name": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "lang": "Unknown",
+    "stars": "149578 stars",
+    "topics": []
+  },
+  {
+    "name": "dotnet/skills",
+    "url": "https://github.com/dotnet/skills",
+    "desc": "Repository for skills to assist AI coding agents with .NET and C#",
+    "lang": "C#",
+    "stars": "2738 stars",
+    "topics": [
+      "agent-skills"
+    ]
+  },
+  {
     "name": "ChromeDevTools/chrome-devtools-mcp",
     "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
     "desc": "Chrome DevTools for coding agents",
     "lang": "TypeScript",
-    "stars": "40965 stars",
+    "stars": "41321 stars",
     "topics": [
       "browser",
       "chrome",
@@ -91,63 +136,57 @@
     ]
   },
   {
-    "name": "dotnet/skills",
-    "url": "https://github.com/dotnet/skills",
-    "desc": "Repository for skills to assist AI coding agents with .NET and C#",
-    "lang": "C#",
-    "stars": "2522 stars",
-    "topics": [
-      "agent-skills"
-    ]
-  },
-  {
-    "name": "Lum1104/Understand-Anything",
-    "url": "https://github.com/Lum1104/Understand-Anything",
-    "desc": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-    "lang": "TypeScript",
-    "stars": "18536 stars",
-    "topics": [
-      "antigravity-skills",
-      "business-knowledge",
-      "claude-code",
-      "claude-skills",
-      "codebase-analysis",
-      "codex",
-      "codex-skills",
-      "developer-tools-ai-agent",
-      "gemini-cli-skills",
-      "karpathy-llm-wiki",
-      "knowledge-base",
-      "knowledge-graph",
-      "memory",
-      "opencode-skills",
-      "pi-agent",
-      "understandcode",
-      "vibe-coding"
-    ]
-  },
-  {
-    "name": "odoo/odoo",
-    "url": "https://github.com/odoo/odoo",
-    "desc": "Odoo. Open Source Apps To Grow Your Business.",
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "desc": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
     "lang": "Python",
-    "stars": "51121 stars",
+    "stars": "7384 stars",
     "topics": [
-      "apps",
-      "business",
-      "erp",
-      "management",
-      "odoo",
-      "odoo-apps",
-      "python"
+      "ai-agents",
+      "claude-code",
+      "cloud-security",
+      "cybersecurity",
+      "devsecops",
+      "ethical-hacking",
+      "incident-response",
+      "infosec",
+      "llm",
+      "malware-analysis",
+      "mcp",
+      "mitre-attack",
+      "nist-csf",
+      "osint",
+      "penetration-testing",
+      "red-team",
+      "security",
+      "security-automation",
+      "threat-hunting",
+      "threat-intelligence"
     ]
   },
   {
-    "name": "byJoey/cfnew",
-    "url": "https://github.com/byJoey/cfnew",
-    "desc": "> **⚠️ 重要：部署后请将兼容日期设置为 `2026-01-20`** >",
-    "lang": "Unknown",
-    "stars": "13295 stars",
+    "name": "presenton/presenton",
+    "url": "https://github.com/presenton/presenton",
+    "desc": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
+    "lang": "TypeScript",
+    "stars": "6342 stars",
+    "topics": [
+      "ai-agent",
+      "ai-presentation",
+      "api",
+      "gamma",
+      "powerpoint-automation",
+      "powerpoint-free",
+      "powerpoint-generation",
+      "presentation"
+    ]
+  },
+  {
+    "name": "multica-ai/multica",
+    "url": "https://github.com/multica-ai/multica",
+    "desc": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "lang": "TypeScript",
+    "stars": "31903 stars",
     "topics": []
   },
   {
@@ -155,7 +194,7 @@
     "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
     "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
     "lang": "Unknown",
-    "stars": "223187 stars",
+    "stars": "223823 stars",
     "topics": [
       "awesome",
       "awesome-list",
@@ -179,53 +218,34 @@
     ]
   },
   {
-    "name": "Fincept-Corporation/FinceptTerminal",
-    "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-    "desc": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+    "name": "odoo/odoo",
+    "url": "https://github.com/odoo/odoo",
+    "desc": "Odoo. Open Source Apps To Grow Your Business.",
     "lang": "Python",
-    "stars": "22628 stars",
+    "stars": "51472 stars",
     "topics": [
-      "ai-agents",
-      "algorithmic-trading",
-      "bloomberg-terminal",
-      "cpp",
-      "finance",
-      "financial-markets",
-      "fintech",
-      "good-first-issue",
-      "investment",
-      "investment-research",
-      "machine-learning",
-      "opensource",
-      "python",
-      "qt",
-      "quantitative-finance",
-      "stock-market",
-      "trading"
+      "apps",
+      "business",
+      "erp",
+      "management",
+      "odoo",
+      "odoo-apps",
+      "python"
     ]
   },
   {
-    "name": "can1357/oh-my-pi",
-    "url": "https://github.com/can1357/oh-my-pi",
-    "desc": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-    "lang": "TypeScript",
-    "stars": "6329 stars",
+    "name": "NVlabs/LongLive",
+    "url": "https://github.com/NVlabs/LongLive",
+    "desc": "LongLive 2.0: Infra - Long Video Gen",
+    "lang": "Python",
+    "stars": "1799 stars",
     "topics": [
-      "ai-agent",
-      "ai-coding-agent",
-      "anthropic",
-      "bun",
-      "claude",
-      "cli",
-      "coding-assistant",
-      "llm",
-      "mcp",
-      "multi-provider",
-      "openai",
-      "rust",
-      "terminal",
-      "tui",
-      "typescript"
+      "infra",
+      "long",
+      "nvfp4",
+      "parallel",
+      "real-time",
+      "video-generation"
     ]
   },
   {
@@ -233,7 +253,7 @@
     "url": "https://github.com/yt-dlp/yt-dlp",
     "desc": "A feature-rich command-line audio/video downloader",
     "lang": "Python",
-    "stars": "164321 stars",
+    "stars": "164944 stars",
     "topics": [
       "cli",
       "downloader",
@@ -245,11 +265,19 @@
     ]
   },
   {
-    "name": "karpathy/nn-zero-to-hero",
-    "url": "https://github.com/karpathy/nn-zero-to-hero",
-    "desc": "Neural Networks: Zero to Hero",
-    "lang": "Jupyter Notebook",
-    "stars": "22329 stars",
-    "topics": []
+    "name": "janestreet/magic-trace",
+    "url": "https://github.com/janestreet/magic-trace",
+    "desc": "magic-trace collects and displays high-resolution traces of what a process is doing",
+    "lang": "OCaml",
+    "stars": "5839 stars",
+    "topics": [
+      "intel",
+      "introspection",
+      "performance-tools",
+      "profile",
+      "tracing",
+      "visualizer",
+      "x86"
+    ]
   }
 ]

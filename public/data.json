@@ -4,7 +4,7 @@
     "url": "https://github.com/Lum1104/Understand-Anything",
     "desc": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
     "lang": "TypeScript",
-    "stars": "21448 stars",
+    "stars": "25651 stars",
     "topics": [
       "antigravity-skills",
       "business-knowledge",
@@ -26,31 +26,11 @@
     ]
   },
   {
-    "name": "anthropics/claude-plugins-official",
-    "url": "https://github.com/anthropics/claude-plugins-official",
-    "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "lang": "Python",
-    "stars": "26410 stars",
-    "topics": [
-      "claude-code",
-      "mcp",
-      "skills"
-    ]
-  },
-  {
-    "name": "colbymchenry/codegraph",
-    "url": "https://github.com/colbymchenry/codegraph",
-    "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-    "lang": "TypeScript",
-    "stars": "19387 stars",
-    "topics": []
-  },
-  {
     "name": "rohitg00/ai-engineering-from-scratch",
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
     "desc": "Learn it. Build it. Ship it for others.",
     "lang": "Python",
-    "stars": "13719 stars",
+    "stars": "15887 stars",
     "topics": [
       "agents",
       "ai",
@@ -75,64 +55,153 @@
     ]
   },
   {
-    "name": "Fincept-Corporation/FinceptTerminal",
-    "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
-    "desc": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+    "name": "anthropics/claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
     "lang": "Python",
-    "stars": "23106 stars",
+    "stars": "27221 stars",
     "topics": [
-      "ai-agents",
-      "algorithmic-trading",
-      "bloomberg-terminal",
-      "cpp",
-      "finance",
-      "financial-markets",
-      "fintech",
-      "good-first-issue",
-      "investment",
-      "investment-research",
-      "machine-learning",
-      "opensource",
-      "python",
-      "qt",
-      "quantitative-finance",
-      "stock-market",
-      "trading"
+      "claude-code",
+      "mcp",
+      "skills"
     ]
+  },
+  {
+    "name": "anthropics/knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "lang": "Python",
+    "stars": "14013 stars",
+    "topics": []
   },
   {
     "name": "multica-ai/andrej-karpathy-skills",
     "url": "https://github.com/multica-ai/andrej-karpathy-skills",
     "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
     "lang": "Unknown",
-    "stars": "149578 stars",
+    "stars": "151992 stars",
     "topics": []
+  },
+  {
+    "name": "earendil-works/pi",
+    "url": "https://github.com/earendil-works/pi",
+    "desc": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+    "lang": "TypeScript",
+    "stars": "53906 stars",
+    "topics": []
+  },
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "url": "https://github.com/Alishahryar1/free-claude-code",
+    "desc": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+    "lang": "Python",
+    "stars": "29140 stars",
+    "topics": []
+  },
+  {
+    "name": "colbymchenry/codegraph",
+    "url": "https://github.com/colbymchenry/codegraph",
+    "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+    "lang": "TypeScript",
+    "stars": "21892 stars",
+    "topics": []
+  },
+  {
+    "name": "multica-ai/multica",
+    "url": "https://github.com/multica-ai/multica",
+    "desc": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+    "lang": "TypeScript",
+    "stars": "32468 stars",
+    "topics": []
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "lang": "Python",
+    "stars": "25783 stars",
+    "topics": []
+  },
+  {
+    "name": "manaflow-ai/cmux",
+    "url": "https://github.com/manaflow-ai/cmux",
+    "desc": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+    "lang": "Swift",
+    "stars": "19000 stars",
+    "topics": [
+      "amp",
+      "claude-code",
+      "codex",
+      "gemini",
+      "ghostty",
+      "opencode",
+      "terminal",
+      "tmux"
+    ]
+  },
+  {
+    "name": "666ghj/MiroFish",
+    "url": "https://github.com/666ghj/MiroFish",
+    "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "lang": "Python",
+    "stars": "62127 stars",
+    "topics": [
+      "agent-memory",
+      "financial-forecasting",
+      "future-prediction",
+      "knowledge-graph",
+      "llms",
+      "multi-agent-simulation",
+      "public-opinion-analysis",
+      "python3",
+      "social-prediction",
+      "swarm-intelligence"
+    ]
+  },
+  {
+    "name": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "desc": "Master programming by recreating your favorite technologies from scratch.",
+    "lang": "Markdown",
+    "stars": "504248 stars",
+    "topics": [
+      "awesome-list",
+      "free",
+      "programming",
+      "tutorial-code",
+      "tutorial-exercises",
+      "tutorials"
+    ]
   },
   {
     "name": "dotnet/skills",
     "url": "https://github.com/dotnet/skills",
     "desc": "Repository for skills to assist AI coding agents with .NET and C#",
     "lang": "C#",
-    "stars": "2738 stars",
+    "stars": "2954 stars",
     "topics": [
       "agent-skills"
     ]
   },
   {
-    "name": "ChromeDevTools/chrome-devtools-mcp",
-    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-    "desc": "Chrome DevTools for coding agents",
+    "name": "blakeblackshear/frigate",
+    "url": "https://github.com/blakeblackshear/frigate",
+    "desc": "NVR with realtime local object detection for IP cameras",
     "lang": "TypeScript",
-    "stars": "41321 stars",
+    "stars": "32826 stars",
     "topics": [
-      "browser",
-      "chrome",
-      "chrome-devtools",
-      "debugging",
-      "devtools",
-      "mcp",
-      "mcp-server",
-      "puppeteer"
+      "ai",
+      "camera",
+      "google-coral",
+      "home-assistant",
+      "home-automation",
+      "homeautomation",
+      "mqtt",
+      "nvr",
+      "object-detection",
+      "realtime",
+      "rtsp",
+      "tensorflow"
     ]
   },
   {
@@ -140,7 +209,7 @@
     "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
     "desc": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
     "lang": "Python",
-    "stars": "7384 stars",
+    "stars": "8297 stars",
     "topics": [
       "ai-agents",
       "claude-code",
@@ -162,122 +231,6 @@
       "security-automation",
       "threat-hunting",
       "threat-intelligence"
-    ]
-  },
-  {
-    "name": "presenton/presenton",
-    "url": "https://github.com/presenton/presenton",
-    "desc": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Alternative)",
-    "lang": "TypeScript",
-    "stars": "6342 stars",
-    "topics": [
-      "ai-agent",
-      "ai-presentation",
-      "api",
-      "gamma",
-      "powerpoint-automation",
-      "powerpoint-free",
-      "powerpoint-generation",
-      "presentation"
-    ]
-  },
-  {
-    "name": "multica-ai/multica",
-    "url": "https://github.com/multica-ai/multica",
-    "desc": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-    "lang": "TypeScript",
-    "stars": "31903 stars",
-    "topics": []
-  },
-  {
-    "name": "trimstray/the-book-of-secret-knowledge",
-    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
-    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
-    "lang": "Unknown",
-    "stars": "223823 stars",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "bsd",
-      "cheatsheets",
-      "devops",
-      "guidelines",
-      "hacking",
-      "hacks",
-      "howtos",
-      "linux",
-      "lists",
-      "manuals",
-      "one-liners",
-      "pentesters",
-      "resources",
-      "search-engines",
-      "security",
-      "security-researchers",
-      "sysops"
-    ]
-  },
-  {
-    "name": "odoo/odoo",
-    "url": "https://github.com/odoo/odoo",
-    "desc": "Odoo. Open Source Apps To Grow Your Business.",
-    "lang": "Python",
-    "stars": "51472 stars",
-    "topics": [
-      "apps",
-      "business",
-      "erp",
-      "management",
-      "odoo",
-      "odoo-apps",
-      "python"
-    ]
-  },
-  {
-    "name": "NVlabs/LongLive",
-    "url": "https://github.com/NVlabs/LongLive",
-    "desc": "LongLive 2.0: Infra - Long Video Gen",
-    "lang": "Python",
-    "stars": "1799 stars",
-    "topics": [
-      "infra",
-      "long",
-      "nvfp4",
-      "parallel",
-      "real-time",
-      "video-generation"
-    ]
-  },
-  {
-    "name": "yt-dlp/yt-dlp",
-    "url": "https://github.com/yt-dlp/yt-dlp",
-    "desc": "A feature-rich command-line audio/video downloader",
-    "lang": "Python",
-    "stars": "164944 stars",
-    "topics": [
-      "cli",
-      "downloader",
-      "python",
-      "sponsorblock",
-      "youtube-dl",
-      "youtube-downloader",
-      "yt-dlp"
-    ]
-  },
-  {
-    "name": "janestreet/magic-trace",
-    "url": "https://github.com/janestreet/magic-trace",
-    "desc": "magic-trace collects and displays high-resolution traces of what a process is doing",
-    "lang": "OCaml",
-    "stars": "5839 stars",
-    "topics": [
-      "intel",
-      "introspection",
-      "performance-tools",
-      "profile",
-      "tracing",
-      "visualizer",
-      "x86"
     ]
   }
 ]

@@ -4,7 +4,7 @@
     "url": "https://github.com/harry0703/MoneyPrinterTurbo",
     "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
     "lang": "Python",
-    "stars": "61875 stars",
+    "stars": "66215 stars",
     "topics": [
       "ai",
       "automation",
@@ -16,45 +16,11 @@
     ]
   },
   {
-    "name": "Lum1104/Understand-Anything",
-    "url": "https://github.com/Lum1104/Understand-Anything",
-    "desc": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-    "lang": "TypeScript",
-    "stars": "39708 stars",
-    "topics": [
-      "antigravity-skills",
-      "business-knowledge",
-      "claude-code",
-      "claude-skills",
-      "codebase-analysis",
-      "codex",
-      "codex-skills",
-      "developer-tools-ai-agent",
-      "gemini-cli-skills",
-      "karpathy-llm-wiki",
-      "knowledge-base",
-      "knowledge-graph",
-      "memory",
-      "opencode-skills",
-      "pi-agent",
-      "understandcode",
-      "vibe-coding"
-    ]
-  },
-  {
-    "name": "hardikpandya/stop-slop",
-    "url": "https://github.com/hardikpandya/stop-slop",
-    "desc": "A skill file for removing AI tells from prose",
-    "lang": "Unknown",
-    "stars": "5663 stars",
-    "topics": []
-  },
-  {
     "name": "affaan-m/ECC",
     "url": "https://github.com/affaan-m/ECC",
     "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
     "lang": "JavaScript",
-    "stars": "195990 stars",
+    "stars": "197243 stars",
     "topics": [
       "ai-agents",
       "anthropic",
@@ -67,19 +33,11 @@
     ]
   },
   {
-    "name": "anthropics/knowledge-work-plugins",
-    "url": "https://github.com/anthropics/knowledge-work-plugins",
-    "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-    "lang": "Python",
-    "stars": "17252 stars",
-    "topics": []
-  },
-  {
     "name": "Leonxlnx/taste-skill",
     "url": "https://github.com/Leonxlnx/taste-skill",
     "desc": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
     "lang": "Shell",
-    "stars": "24160 stars",
+    "stars": "26361 stars",
     "topics": [
       "agent",
       "ai",
@@ -97,60 +55,19 @@
     ]
   },
   {
-    "name": "p-e-w/heretic",
-    "url": "https://github.com/p-e-w/heretic",
-    "desc": "Fully automatic censorship removal for language models",
-    "lang": "Python",
-    "stars": "21999 stars",
-    "topics": [
-      "abliteration",
-      "llm",
-      "transformer"
-    ]
-  },
-  {
-    "name": "shiyu-coder/Kronos",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "lang": "Python",
-    "stars": "26866 stars",
+    "name": "hardikpandya/stop-slop",
+    "url": "https://github.com/hardikpandya/stop-slop",
+    "desc": "A skill file for removing AI tells from prose",
+    "lang": "Unknown",
+    "stars": "6397 stars",
     "topics": []
-  },
-  {
-    "name": "mukul975/Anthropic-Cybersecurity-Skills",
-    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-    "desc": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
-    "lang": "Python",
-    "stars": "10934 stars",
-    "topics": [
-      "ai-agents",
-      "claude-code",
-      "cloud-security",
-      "cybersecurity",
-      "devsecops",
-      "ethical-hacking",
-      "incident-response",
-      "infosec",
-      "llm",
-      "malware-analysis",
-      "mcp",
-      "mitre-attack",
-      "nist-csf",
-      "osint",
-      "penetration-testing",
-      "red-team",
-      "security",
-      "security-automation",
-      "threat-hunting",
-      "threat-intelligence"
-    ]
   },
   {
     "name": "twentyhq/twenty",
     "url": "https://github.com/twentyhq/twenty",
     "desc": "The open alternative to Salesforce, designed for AI.",
     "lang": "TypeScript",
-    "stars": "47318 stars",
+    "stars": "47830 stars",
     "topics": [
       "crm",
       "crm-system",
@@ -172,19 +89,11 @@
     ]
   },
   {
-    "name": "Chachamaru127/claude-code-harness",
-    "url": "https://github.com/Chachamaru127/claude-code-harness",
-    "desc": "Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle",
-    "lang": "Shell",
-    "stars": "1809 stars",
-    "topics": []
-  },
-  {
     "name": "DigitalPlatDev/FreeDomain",
     "url": "https://github.com/DigitalPlatDev/FreeDomain",
     "desc": "DigitalPlat FreeDomain: Free Domain For Everyone",
     "lang": "HTML",
-    "stars": "169098 stars",
+    "stars": "170682 stars",
     "topics": [
       "digitalplat",
       "domain",
@@ -196,19 +105,11 @@
     ]
   },
   {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "209491 stars",
-    "topics": []
-  },
-  {
     "name": "byoungd/English-level-up-tips",
     "url": "https://github.com/byoungd/English-level-up-tips",
     "desc": "An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语",
     "lang": "Unknown",
-    "stars": "46548 stars",
+    "stars": "48450 stars",
     "topics": [
       "chinese",
       "english-learning",
@@ -216,63 +117,125 @@
     ]
   },
   {
-    "name": "iii-hq/iii",
-    "url": "https://github.com/iii-hq/iii",
-    "desc": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
-    "lang": "Rust",
-    "stars": "16847 stars",
+    "name": "microsoft/markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "desc": "Python tool for converting files and office documents to Markdown.",
+    "lang": "Python",
+    "stars": "127702 stars",
     "topics": [
-      "agents",
-      "ai",
-      "api",
-      "backend",
-      "developer-tools",
-      "framework",
-      "genai",
-      "javascript",
-      "primitives",
-      "python",
-      "rust",
-      "typescript"
+      "autogen",
+      "autogen-extension",
+      "langchain",
+      "markdown",
+      "microsoft-office",
+      "openai",
+      "pdf"
     ]
   },
   {
-    "name": "Axorax/awesome-free-apps",
-    "url": "https://github.com/Axorax/awesome-free-apps",
-    "desc": "Curated list of the best free apps for PC and mobile",
-    "lang": "JavaScript",
-    "stars": "5861 stars",
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "211048 stars",
+    "topics": []
+  },
+  {
+    "name": "revfactory/harness",
+    "url": "https://github.com/revfactory/harness",
+    "desc": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+    "lang": "HTML",
+    "stars": "3875 stars",
     "topics": [
-      "android",
-      "awesome",
+      "claude-code",
+      "claude-code-plugin",
+      "harness",
+      "harness-engineering"
+    ]
+  },
+  {
+    "name": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "desc": "Master programming by recreating your favorite technologies from scratch.",
+    "lang": "Markdown",
+    "stars": "506532 stars",
+    "topics": [
       "awesome-list",
-      "free-apps",
-      "ios",
-      "linux",
-      "macos",
-      "microsoft",
-      "mobile",
-      "windows"
+      "free",
+      "programming",
+      "tutorial-code",
+      "tutorial-exercises",
+      "tutorials"
     ]
   },
   {
-    "name": "moeru-ai/airi",
-    "url": "https://github.com/moeru-ai/airi",
-    "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+    "name": "Lum1104/Understand-Anything",
+    "url": "https://github.com/Lum1104/Understand-Anything",
+    "desc": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
     "lang": "TypeScript",
-    "stars": "40205 stars",
+    "stars": "42694 stars",
     "topics": [
-      "ai-companion",
-      "ai-vtuber",
-      "airi",
-      "digital-life",
-      "grok-companion",
-      "live2d",
-      "neuro-sama",
-      "neurosama",
-      "openclaw",
-      "vrm",
-      "vtuber"
+      "antigravity-skills",
+      "business-knowledge",
+      "claude-code",
+      "claude-skills",
+      "codebase-analysis",
+      "codex",
+      "codex-skills",
+      "developer-tools-ai-agent",
+      "gemini-cli-skills",
+      "karpathy-llm-wiki",
+      "knowledge-base",
+      "knowledge-graph",
+      "memory",
+      "opencode-skills",
+      "pi-agent",
+      "understandcode",
+      "vibe-coding"
+    ]
+  },
+  {
+    "name": "unclecode/crawl4ai",
+    "url": "https://github.com/unclecode/crawl4ai",
+    "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+    "lang": "Python",
+    "stars": "66926 stars",
+    "topics": []
+  },
+  {
+    "name": "OpenMOSS/MOSS-TTS",
+    "url": "https://github.com/OpenMOSS/MOSS-TTS",
+    "desc": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.",
+    "lang": "Python",
+    "stars": "2221 stars",
+    "topics": [
+      "audio",
+      "audio-tokenizer",
+      "llm",
+      "multimodal",
+      "text-to-speech",
+      "voice-cloning"
+    ]
+  },
+  {
+    "name": "EveryInc/compound-engineering-plugin",
+    "url": "https://github.com/EveryInc/compound-engineering-plugin",
+    "desc": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+    "lang": "TypeScript",
+    "stars": "17765 stars",
+    "topics": [
+      "compound",
+      "engineering"
+    ]
+  },
+  {
+    "name": "anthropics/skills",
+    "url": "https://github.com/anthropics/skills",
+    "desc": "Public repository for Agent Skills",
+    "lang": "Python",
+    "stars": "142803 stars",
+    "topics": [
+      "agent-skills"
     ]
   }
 ]

@@ -1,26 +1,10 @@
 [
   {
-    "name": "microsoft/markitdown",
-    "url": "https://github.com/microsoft/markitdown",
-    "desc": "Python tool for converting files and office documents to Markdown.",
-    "lang": "Python",
-    "stars": "132322 stars",
-    "topics": [
-      "autogen",
-      "autogen-extension",
-      "langchain",
-      "markdown",
-      "microsoft-office",
-      "openai",
-      "pdf"
-    ]
-  },
-  {
     "name": "harry0703/MoneyPrinterTurbo",
     "url": "https://github.com/harry0703/MoneyPrinterTurbo",
     "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
     "lang": "Python",
-    "stars": "71923 stars",
+    "stars": "74104 stars",
     "topics": [
       "ai",
       "automation",
@@ -32,32 +16,62 @@
     ]
   },
   {
-    "name": "anthropics/claude-code",
-    "url": "https://github.com/anthropics/claude-code",
-    "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "name": "microsoft/markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "desc": "Python tool for converting files and office documents to Markdown.",
     "lang": "Python",
-    "stars": "128387 stars",
-    "topics": []
-  },
-  {
-    "name": "cursor/plugins",
-    "url": "https://github.com/cursor/plugins",
-    "desc": "Cursor plugin specification and official plugins",
-    "lang": "TypeScript",
-    "stars": "1454 stars",
-    "topics": []
-  },
-  {
-    "name": "revfactory/harness",
-    "url": "https://github.com/revfactory/harness",
-    "desc": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-    "lang": "HTML",
-    "stars": "4251 stars",
+    "stars": "134897 stars",
     "topics": [
-      "claude-code",
-      "claude-code-plugin",
-      "harness",
-      "harness-engineering"
+      "autogen",
+      "autogen-extension",
+      "langchain",
+      "markdown",
+      "microsoft-office",
+      "openai",
+      "pdf"
+    ]
+  },
+  {
+    "name": "D4Vinci/Scrapling",
+    "url": "https://github.com/D4Vinci/Scrapling",
+    "desc": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+    "lang": "Python",
+    "stars": "56584 stars",
+    "topics": [
+      "ai",
+      "ai-scraping",
+      "automation",
+      "crawler",
+      "crawling",
+      "crawling-python",
+      "data",
+      "data-extraction",
+      "mcp",
+      "mcp-server",
+      "playwright",
+      "python",
+      "scraping",
+      "selectors",
+      "stealth",
+      "web-scraper",
+      "web-scraping",
+      "web-scraping-python",
+      "webscraping",
+      "xpath"
+    ]
+  },
+  {
+    "name": "nesquena/hermes-webui",
+    "url": "https://github.com/nesquena/hermes-webui",
+    "desc": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+    "lang": "Python",
+    "stars": "9948 stars",
+    "topics": [
+      "agent",
+      "ai-agents",
+      "hermes",
+      "hermes-agent",
+      "nous-research"
     ]
   },
   {
@@ -65,27 +79,21 @@
     "url": "https://github.com/EveryInc/compound-engineering-plugin",
     "desc": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
     "lang": "TypeScript",
-    "stars": "18414 stars",
+    "stars": "18693 stars",
     "topics": [
       "compound",
       "engineering"
     ]
   },
   {
-    "name": "affaan-m/ECC",
-    "url": "https://github.com/affaan-m/ECC",
-    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "lang": "JavaScript",
-    "stars": "199280 stars",
+    "name": "github/docs",
+    "url": "https://github.com/github/docs",
+    "desc": "The open-source repo for docs.github.com",
+    "lang": "TypeScript",
+    "stars": "19721 stars",
     "topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "developer-tools",
-      "llm",
-      "mcp",
-      "productivity"
+      "docs",
+      "works-with-codespaces"
     ]
   },
   {
@@ -93,7 +101,7 @@
     "url": "https://github.com/OpenBMB/VoxCPM",
     "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
     "lang": "Python",
-    "stars": "22743 stars",
+    "stars": "23490 stars",
     "topics": [
       "audio",
       "deeplearning",
@@ -112,59 +120,16 @@
     ]
   },
   {
-    "name": "galilai-group/stable-worldmodel",
-    "url": "https://github.com/galilai-group/stable-worldmodel",
-    "desc": "A platform for reproducible world model research and evaluation",
-    "lang": "Python",
-    "stars": "1455 stars",
+    "name": "revfactory/harness",
+    "url": "https://github.com/revfactory/harness",
+    "desc": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+    "lang": "HTML",
+    "stars": "4582 stars",
     "topics": [
-      "deep-learning",
-      "jepa",
-      "model-predictive-control",
-      "pytorch",
-      "world-model"
-    ]
-  },
-  {
-    "name": "Crosstalk-Solutions/project-nomad",
-    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-    "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-    "lang": "TypeScript",
-    "stars": "27347 stars",
-    "topics": []
-  },
-  {
-    "name": "run-llama/liteparse",
-    "url": "https://github.com/run-llama/liteparse",
-    "desc": "A fast, helpful, and open-source document parser",
-    "lang": "Rust",
-    "stars": "7893 stars",
-    "topics": [
-      "document-ocr",
-      "document-processing",
-      "ocr",
-      "ocr-recognition",
-      "pdf",
-      "pdf-parser",
-      "text-extraction"
-    ]
-  },
-  {
-    "name": "chen08209/FlClash",
-    "url": "https://github.com/chen08209/FlClash",
-    "desc": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
-    "lang": "Dart",
-    "stars": "40354 stars",
-    "topics": [
-      "clash",
-      "clash-meta",
-      "flutter",
-      "hysteria",
-      "multi-platform",
-      "proxy",
-      "v2ray",
-      "vless",
-      "vpn"
+      "claude-code",
+      "claude-code-plugin",
+      "harness",
+      "harness-engineering"
     ]
   },
   {
@@ -172,7 +137,7 @@
     "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
     "desc": "A straightforward method for training your LLM, from downloading data to generating text.",
     "lang": "Jupyter Notebook",
-    "stars": "2235 stars",
+    "stars": "2943 stars",
     "topics": [
       "gemini",
       "large-language-models",
@@ -183,96 +148,64 @@
     ]
   },
   {
-    "name": "ruvnet/RuView",
-    "url": "https://github.com/ruvnet/RuView",
-    "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-    "lang": "Rust",
-    "stars": "68880 stars",
+    "name": "supermemoryai/supermemory",
+    "url": "https://github.com/supermemoryai/supermemory",
+    "desc": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+    "lang": "TypeScript",
+    "stars": "23318 stars",
     "topics": [
-      "awesome",
-      "claude",
-      "densepose",
-      "esp32",
-      "firmware",
-      "home-assistant",
-      "home-automation",
-      "iot",
-      "monitoring",
-      "networking",
-      "npm",
-      "pose-estimation",
-      "react",
-      "rf",
-      "self-learning",
-      "skills",
-      "spatial-intelligence",
+      "agent-memory",
+      "ai-memory",
+      "cloudflare-kv",
+      "cloudflare-pages",
+      "cloudflare-workers",
+      "drizzle-orm",
+      "memory",
+      "postgres",
+      "remix",
+      "tailwindcss",
       "typescript",
-      "wifi",
-      "wifi-security"
+      "vite"
     ]
   },
   {
-    "name": "DataTalksClub/data-engineering-zoomcamp",
-    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
-    "desc": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
-    "lang": "Jupyter Notebook",
-    "stars": "41785 stars",
-    "topics": [
-      "course",
-      "data-engineering",
-      "dbt",
-      "docker",
-      "free",
-      "kafka",
-      "kestra",
-      "spark"
-    ]
+    "name": "Crosstalk-Solutions/project-nomad",
+    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+    "lang": "TypeScript",
+    "stars": "27712 stars",
+    "topics": []
   },
   {
-    "name": "OpenMOSS/MOSS-TTS",
-    "url": "https://github.com/OpenMOSS/MOSS-TTS",
-    "desc": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.",
+    "name": "anthropics/claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
     "lang": "Python",
-    "stars": "2625 stars",
-    "topics": [
-      "audio",
-      "audio-tokenizer",
-      "llm",
-      "multimodal",
-      "text-to-speech",
-      "voice-cloning"
-    ]
+    "stars": "128886 stars",
+    "topics": []
   },
   {
-    "name": "dreammis/social-auto-upload",
-    "url": "https://github.com/dreammis/social-auto-upload",
-    "desc": "自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili",
-    "lang": "Python",
-    "stars": "11761 stars",
-    "topics": [
-      "bilibili",
-      "douyin",
-      "tiktok",
-      "xiaohongshu",
-      "youtube"
-    ]
+    "name": "nicobailon/pi-subagents",
+    "url": "https://github.com/nicobailon/pi-subagents",
+    "desc": "Pi extension for async subagent delegation with truncation, artifacts, and session sharing",
+    "lang": "TypeScript",
+    "stars": "1831 stars",
+    "topics": []
   },
   {
-    "name": "anthropics/skills",
-    "url": "https://github.com/anthropics/skills",
-    "desc": "Public repository for Agent Skills",
+    "name": "emmabostian/developer-portfolios",
+    "url": "https://github.com/emmabostian/developer-portfolios",
+    "desc": "A list of developer portfolios for your inspiration",
     "lang": "Python",
-    "stars": "144112 stars",
-    "topics": [
-      "agent-skills"
-    ]
+    "stars": "23347 stars",
+    "topics": []
   },
   {
     "name": "codecrafters-io/build-your-own-x",
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "desc": "Master programming by recreating your favorite technologies from scratch.",
     "lang": "Markdown",
-    "stars": "508212 stars",
+    "stars": "509376 stars",
     "topics": [
       "awesome-list",
       "free",

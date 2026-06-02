@@ -1,26 +1,10 @@
 [
   {
-    "name": "harry0703/MoneyPrinterTurbo",
-    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-    "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-    "lang": "Python",
-    "stars": "74104 stars",
-    "topics": [
-      "ai",
-      "automation",
-      "chatgpt",
-      "moviepy",
-      "python",
-      "shortvideo",
-      "tiktok"
-    ]
-  },
-  {
     "name": "microsoft/markitdown",
     "url": "https://github.com/microsoft/markitdown",
     "desc": "Python tool for converting files and office documents to Markdown.",
     "lang": "Python",
-    "stars": "134897 stars",
+    "stars": "138325 stars",
     "topics": [
       "autogen",
       "autogen-extension",
@@ -32,11 +16,62 @@
     ]
   },
   {
+    "name": "nesquena/hermes-webui",
+    "url": "https://github.com/nesquena/hermes-webui",
+    "desc": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+    "lang": "Python",
+    "stars": "11266 stars",
+    "topics": [
+      "agent",
+      "ai-agents",
+      "hermes",
+      "hermes-agent",
+      "nous-research"
+    ]
+  },
+  {
+    "name": "supermemoryai/supermemory",
+    "url": "https://github.com/supermemoryai/supermemory",
+    "desc": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+    "lang": "TypeScript",
+    "stars": "23958 stars",
+    "topics": [
+      "agent-memory",
+      "ai-memory",
+      "cloudflare-kv",
+      "cloudflare-pages",
+      "cloudflare-workers",
+      "drizzle-orm",
+      "memory",
+      "postgres",
+      "remix",
+      "tailwindcss",
+      "typescript",
+      "vite"
+    ]
+  },
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "lang": "Python",
+    "stars": "76805 stars",
+    "topics": [
+      "ai",
+      "automation",
+      "chatgpt",
+      "moviepy",
+      "python",
+      "shortvideo",
+      "tiktok"
+    ]
+  },
+  {
     "name": "D4Vinci/Scrapling",
     "url": "https://github.com/D4Vinci/Scrapling",
     "desc": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
     "lang": "Python",
-    "stars": "56584 stars",
+    "stars": "57999 stars",
     "topics": [
       "ai",
       "ai-scraping",
@@ -61,17 +96,23 @@
     ]
   },
   {
-    "name": "nesquena/hermes-webui",
-    "url": "https://github.com/nesquena/hermes-webui",
-    "desc": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+    "name": "pbakaus/impeccable",
+    "url": "https://github.com/pbakaus/impeccable",
+    "desc": "The design language that makes your AI harness better at design.",
+    "lang": "JavaScript",
+    "stars": "32665 stars",
+    "topics": []
+  },
+  {
+    "name": "p-e-w/heretic",
+    "url": "https://github.com/p-e-w/heretic",
+    "desc": "Fully automatic censorship removal for language models",
     "lang": "Python",
-    "stars": "9948 stars",
+    "stars": "23022 stars",
     "topics": [
-      "agent",
-      "ai-agents",
-      "hermes",
-      "hermes-agent",
-      "nous-research"
+      "abliteration",
+      "llm",
+      "transformer"
     ]
   },
   {
@@ -79,21 +120,77 @@
     "url": "https://github.com/EveryInc/compound-engineering-plugin",
     "desc": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
     "lang": "TypeScript",
-    "stars": "18693 stars",
+    "stars": "19090 stars",
     "topics": [
       "compound",
       "engineering"
     ]
   },
   {
-    "name": "github/docs",
-    "url": "https://github.com/github/docs",
-    "desc": "The open-source repo for docs.github.com",
-    "lang": "TypeScript",
-    "stars": "19721 stars",
+    "name": "TauricResearch/TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "lang": "Python",
+    "stars": "81748 stars",
     "topics": [
-      "docs",
-      "works-with-codespaces"
+      "agent",
+      "finance",
+      "llm",
+      "multiagent",
+      "trading"
+    ]
+  },
+  {
+    "name": "revfactory/harness",
+    "url": "https://github.com/revfactory/harness",
+    "desc": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+    "lang": "HTML",
+    "stars": "5131 stars",
+    "topics": [
+      "claude-code",
+      "claude-code-plugin",
+      "harness",
+      "harness-engineering"
+    ]
+  },
+  {
+    "name": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "lang": "C++",
+    "stars": "111628 stars",
+    "topics": [
+      "game-development",
+      "game-engine",
+      "gamedev",
+      "godot",
+      "godotengine",
+      "multi-platform",
+      "open-source"
+    ]
+  },
+  {
+    "name": "can1357/oh-my-pi",
+    "url": "https://github.com/can1357/oh-my-pi",
+    "desc": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "lang": "TypeScript",
+    "stars": "9454 stars",
+    "topics": [
+      "ai-agent",
+      "ai-coding-agent",
+      "anthropic",
+      "bun",
+      "claude",
+      "cli",
+      "coding-assistant",
+      "llm",
+      "mcp",
+      "multi-provider",
+      "openai",
+      "rust",
+      "terminal",
+      "tui",
+      "typescript"
     ]
   },
   {
@@ -101,7 +198,7 @@
     "url": "https://github.com/OpenBMB/VoxCPM",
     "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
     "lang": "Python",
-    "stars": "23490 stars",
+    "stars": "24213 stars",
     "topics": [
       "audio",
       "deeplearning",
@@ -120,24 +217,11 @@
     ]
   },
   {
-    "name": "revfactory/harness",
-    "url": "https://github.com/revfactory/harness",
-    "desc": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-    "lang": "HTML",
-    "stars": "4582 stars",
-    "topics": [
-      "claude-code",
-      "claude-code-plugin",
-      "harness",
-      "harness-engineering"
-    ]
-  },
-  {
     "name": "FareedKhan-dev/train-llm-from-scratch",
     "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
     "desc": "A straightforward method for training your LLM, from downloading data to generating text.",
     "lang": "Jupyter Notebook",
-    "stars": "2943 stars",
+    "stars": "3694 stars",
     "topics": [
       "gemini",
       "large-language-models",
@@ -148,64 +232,46 @@
     ]
   },
   {
-    "name": "supermemoryai/supermemory",
-    "url": "https://github.com/supermemoryai/supermemory",
-    "desc": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-    "lang": "TypeScript",
-    "stars": "23318 stars",
+    "name": "stefan-jansen/machine-learning-for-trading",
+    "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+    "desc": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+    "lang": "Jupyter Notebook",
+    "stars": "17843 stars",
     "topics": [
-      "agent-memory",
-      "ai-memory",
-      "cloudflare-kv",
-      "cloudflare-pages",
-      "cloudflare-workers",
-      "drizzle-orm",
-      "memory",
-      "postgres",
-      "remix",
-      "tailwindcss",
-      "typescript",
-      "vite"
+      "artificial-intelligence",
+      "data-science",
+      "deep-learning",
+      "finance",
+      "investment",
+      "investment-strategies",
+      "machine-learning",
+      "ml4t-workflow",
+      "synthetic-data",
+      "trading",
+      "trading-agent",
+      "trading-strategies"
     ]
   },
   {
-    "name": "Crosstalk-Solutions/project-nomad",
-    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-    "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-    "lang": "TypeScript",
-    "stars": "27712 stars",
-    "topics": []
-  },
-  {
-    "name": "anthropics/claude-code",
-    "url": "https://github.com/anthropics/claude-code",
-    "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-    "lang": "Python",
-    "stars": "128886 stars",
-    "topics": []
-  },
-  {
-    "name": "nicobailon/pi-subagents",
-    "url": "https://github.com/nicobailon/pi-subagents",
-    "desc": "Pi extension for async subagent delegation with truncation, artifacts, and session sharing",
-    "lang": "TypeScript",
-    "stars": "1831 stars",
-    "topics": []
-  },
-  {
-    "name": "emmabostian/developer-portfolios",
-    "url": "https://github.com/emmabostian/developer-portfolios",
-    "desc": "A list of developer portfolios for your inspiration",
-    "lang": "Python",
-    "stars": "23347 stars",
-    "topics": []
+    "name": "dmtrKovalenko/fff",
+    "url": "https://github.com/dmtrKovalenko/fff",
+    "desc": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+    "lang": "Rust",
+    "stars": "7162 stars",
+    "topics": [
+      "filesearch",
+      "lua",
+      "neovim",
+      "neovim-plugin",
+      "rust"
+    ]
   },
   {
     "name": "codecrafters-io/build-your-own-x",
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "desc": "Master programming by recreating your favorite technologies from scratch.",
     "lang": "Markdown",
-    "stars": "509376 stars",
+    "stars": "510392 stars",
     "topics": [
       "awesome-list",
       "free",

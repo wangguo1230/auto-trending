@@ -1,10 +1,39 @@
 [
   {
+    "name": "chopratejas/headroom",
+    "url": "https://github.com/chopratejas/headroom",
+    "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "lang": "Python",
+    "stars": "6352 stars",
+    "topics": [
+      "agent",
+      "ai",
+      "anthropic",
+      "claude-code",
+      "compression",
+      "context-engineering",
+      "context-window",
+      "cursor",
+      "fastapi",
+      "langchain",
+      "llm",
+      "mcp",
+      "openai",
+      "prompt-engineering",
+      "proxy",
+      "python",
+      "rag",
+      "token-optimization",
+      "tokens",
+      "typescript"
+    ]
+  },
+  {
     "name": "microsoft/markitdown",
     "url": "https://github.com/microsoft/markitdown",
     "desc": "Python tool for converting files and office documents to Markdown.",
     "lang": "Python",
-    "stars": "138325 stars",
+    "stars": "141092 stars",
     "topics": [
       "autogen",
       "autogen-extension",
@@ -16,54 +45,20 @@
     ]
   },
   {
-    "name": "nesquena/hermes-webui",
-    "url": "https://github.com/nesquena/hermes-webui",
-    "desc": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-    "lang": "Python",
-    "stars": "11266 stars",
+    "name": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "lang": "JavaScript",
+    "stars": "203916 stars",
     "topics": [
-      "agent",
       "ai-agents",
-      "hermes",
-      "hermes-agent",
-      "nous-research"
-    ]
-  },
-  {
-    "name": "supermemoryai/supermemory",
-    "url": "https://github.com/supermemoryai/supermemory",
-    "desc": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-    "lang": "TypeScript",
-    "stars": "23958 stars",
-    "topics": [
-      "agent-memory",
-      "ai-memory",
-      "cloudflare-kv",
-      "cloudflare-pages",
-      "cloudflare-workers",
-      "drizzle-orm",
-      "memory",
-      "postgres",
-      "remix",
-      "tailwindcss",
-      "typescript",
-      "vite"
-    ]
-  },
-  {
-    "name": "harry0703/MoneyPrinterTurbo",
-    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-    "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-    "lang": "Python",
-    "stars": "76805 stars",
-    "topics": [
-      "ai",
-      "automation",
-      "chatgpt",
-      "moviepy",
-      "python",
-      "shortvideo",
-      "tiktok"
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
     ]
   },
   {
@@ -71,7 +66,7 @@
     "url": "https://github.com/D4Vinci/Scrapling",
     "desc": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
     "lang": "Python",
-    "stars": "57999 stars",
+    "stars": "59144 stars",
     "topics": [
       "ai",
       "ai-scraping",
@@ -96,101 +91,30 @@
     ]
   },
   {
-    "name": "pbakaus/impeccable",
-    "url": "https://github.com/pbakaus/impeccable",
-    "desc": "The design language that makes your AI harness better at design.",
-    "lang": "JavaScript",
-    "stars": "32665 stars",
-    "topics": []
-  },
-  {
-    "name": "p-e-w/heretic",
-    "url": "https://github.com/p-e-w/heretic",
-    "desc": "Fully automatic censorship removal for language models",
+    "name": "nesquena/hermes-webui",
+    "url": "https://github.com/nesquena/hermes-webui",
+    "desc": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
     "lang": "Python",
-    "stars": "23022 stars",
-    "topics": [
-      "abliteration",
-      "llm",
-      "transformer"
-    ]
-  },
-  {
-    "name": "EveryInc/compound-engineering-plugin",
-    "url": "https://github.com/EveryInc/compound-engineering-plugin",
-    "desc": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-    "lang": "TypeScript",
-    "stars": "19090 stars",
-    "topics": [
-      "compound",
-      "engineering"
-    ]
-  },
-  {
-    "name": "TauricResearch/TradingAgents",
-    "url": "https://github.com/TauricResearch/TradingAgents",
-    "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-    "lang": "Python",
-    "stars": "81748 stars",
+    "stars": "12527 stars",
     "topics": [
       "agent",
-      "finance",
-      "llm",
-      "multiagent",
-      "trading"
+      "ai-agents",
+      "hermes",
+      "hermes-agent",
+      "nous-research"
     ]
   },
   {
-    "name": "revfactory/harness",
-    "url": "https://github.com/revfactory/harness",
-    "desc": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-    "lang": "HTML",
-    "stars": "5131 stars",
-    "topics": [
-      "claude-code",
-      "claude-code-plugin",
-      "harness",
-      "harness-engineering"
-    ]
-  },
-  {
-    "name": "godotengine/godot",
-    "url": "https://github.com/godotengine/godot",
-    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
-    "lang": "C++",
-    "stars": "111628 stars",
-    "topics": [
-      "game-development",
-      "game-engine",
-      "gamedev",
-      "godot",
-      "godotengine",
-      "multi-platform",
-      "open-source"
-    ]
-  },
-  {
-    "name": "can1357/oh-my-pi",
-    "url": "https://github.com/can1357/oh-my-pi",
-    "desc": "⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+    "name": "reconurge/flowsint",
+    "url": "https://github.com/reconurge/flowsint",
+    "desc": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
     "lang": "TypeScript",
-    "stars": "9454 stars",
+    "stars": "4492 stars",
     "topics": [
-      "ai-agent",
-      "ai-coding-agent",
-      "anthropic",
-      "bun",
-      "claude",
-      "cli",
-      "coding-assistant",
-      "llm",
-      "mcp",
-      "multi-provider",
-      "openai",
-      "rust",
-      "terminal",
-      "tui",
-      "typescript"
+      "investigation",
+      "osint",
+      "python",
+      "recon"
     ]
   },
   {
@@ -198,7 +122,7 @@
     "url": "https://github.com/OpenBMB/VoxCPM",
     "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
     "lang": "Python",
-    "stars": "24213 stars",
+    "stars": "25104 stars",
     "topics": [
       "audio",
       "deeplearning",
@@ -217,26 +141,11 @@
     ]
   },
   {
-    "name": "FareedKhan-dev/train-llm-from-scratch",
-    "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-    "desc": "A straightforward method for training your LLM, from downloading data to generating text.",
-    "lang": "Jupyter Notebook",
-    "stars": "3694 stars",
-    "topics": [
-      "gemini",
-      "large-language-models",
-      "llm",
-      "openai",
-      "training",
-      "transformers"
-    ]
-  },
-  {
     "name": "stefan-jansen/machine-learning-for-trading",
     "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
     "desc": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
     "lang": "Jupyter Notebook",
-    "stars": "17843 stars",
+    "stars": "18447 stars",
     "topics": [
       "artificial-intelligence",
       "data-science",
@@ -253,32 +162,51 @@
     ]
   },
   {
-    "name": "dmtrKovalenko/fff",
-    "url": "https://github.com/dmtrKovalenko/fff",
-    "desc": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
-    "lang": "Rust",
-    "stars": "7162 stars",
+    "name": "jamwithai/production-agentic-rag-course",
+    "url": "https://github.com/jamwithai/production-agentic-rag-course",
+    "desc": "<div align=\"center\"> <h3>A Learner-Focused Journey into Production RAG Systems</h3>",
+    "lang": "Python",
+    "stars": "6369 stars",
+    "topics": []
+  },
+  {
+    "name": "supermemoryai/supermemory",
+    "url": "https://github.com/supermemoryai/supermemory",
+    "desc": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+    "lang": "TypeScript",
+    "stars": "24616 stars",
     "topics": [
-      "filesearch",
-      "lua",
-      "neovim",
-      "neovim-plugin",
-      "rust"
+      "agent-memory",
+      "ai-memory",
+      "cloudflare-kv",
+      "cloudflare-pages",
+      "cloudflare-workers",
+      "drizzle-orm",
+      "memory",
+      "postgres",
+      "remix",
+      "tailwindcss",
+      "typescript",
+      "vite"
     ]
   },
   {
-    "name": "codecrafters-io/build-your-own-x",
-    "url": "https://github.com/codecrafters-io/build-your-own-x",
-    "desc": "Master programming by recreating your favorite technologies from scratch.",
-    "lang": "Markdown",
-    "stars": "510392 stars",
+    "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+    "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+    "desc": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+    "lang": "Python",
+    "stars": "8348 stars",
     "topics": [
-      "awesome-list",
-      "free",
-      "programming",
-      "tutorial-code",
-      "tutorial-exercises",
-      "tutorials"
+      "ai",
+      "ai-companion",
+      "ai-vtuber",
+      "ai-waifu",
+      "chatbots",
+      "live2d",
+      "live2d-web",
+      "llm",
+      "neuro-sama",
+      "ollama"
     ]
   }
 ]

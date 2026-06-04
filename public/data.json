@@ -4,7 +4,7 @@
     "url": "https://github.com/chopratejas/headroom",
     "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
     "lang": "Python",
-    "stars": "6352 stars",
+    "stars": "9857 stars",
     "topics": [
       "agent",
       "ai",
@@ -29,27 +29,11 @@
     ]
   },
   {
-    "name": "microsoft/markitdown",
-    "url": "https://github.com/microsoft/markitdown",
-    "desc": "Python tool for converting files and office documents to Markdown.",
-    "lang": "Python",
-    "stars": "141092 stars",
-    "topics": [
-      "autogen",
-      "autogen-extension",
-      "langchain",
-      "markdown",
-      "microsoft-office",
-      "openai",
-      "pdf"
-    ]
-  },
-  {
     "name": "affaan-m/ECC",
     "url": "https://github.com/affaan-m/ECC",
     "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
     "lang": "JavaScript",
-    "stars": "203916 stars",
+    "stars": "205792 stars",
     "topics": [
       "ai-agents",
       "anthropic",
@@ -62,11 +46,90 @@
     ]
   },
   {
+    "name": "aquasecurity/trivy",
+    "url": "https://github.com/aquasecurity/trivy",
+    "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "lang": "Go",
+    "stars": "35418 stars",
+    "topics": [
+      "containers",
+      "devsecops",
+      "docker",
+      "go",
+      "golang",
+      "hacktoberfest",
+      "iac",
+      "infrastructure-as-code",
+      "kubernetes",
+      "misconfiguration",
+      "security",
+      "security-tools",
+      "vulnerability",
+      "vulnerability-detection",
+      "vulnerability-scanners"
+    ]
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "desc": "The agent that grows with you",
+    "lang": "Python",
+    "stars": "179191 stars",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "clawdbot",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "moltbot",
+      "nous-research",
+      "openai",
+      "openclaw"
+    ]
+  },
+  {
+    "name": "microsoft/markitdown",
+    "url": "https://github.com/microsoft/markitdown",
+    "desc": "Python tool for converting files and office documents to Markdown.",
+    "lang": "Python",
+    "stars": "142920 stars",
+    "topics": [
+      "autogen",
+      "autogen-extension",
+      "langchain",
+      "markdown",
+      "microsoft-office",
+      "openai",
+      "pdf"
+    ]
+  },
+  {
+    "name": "nesquena/hermes-webui",
+    "url": "https://github.com/nesquena/hermes-webui",
+    "desc": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+    "lang": "Python",
+    "stars": "13114 stars",
+    "topics": [
+      "agent",
+      "ai-agents",
+      "hermes",
+      "hermes-agent",
+      "nous-research"
+    ]
+  },
+  {
     "name": "D4Vinci/Scrapling",
     "url": "https://github.com/D4Vinci/Scrapling",
     "desc": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
     "lang": "Python",
-    "stars": "59144 stars",
+    "stars": "60296 stars",
     "topics": [
       "ai",
       "ai-scraping",
@@ -91,90 +154,118 @@
     ]
   },
   {
-    "name": "nesquena/hermes-webui",
-    "url": "https://github.com/nesquena/hermes-webui",
-    "desc": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+    "name": "opendataloader-project/opendataloader-pdf",
+    "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+    "desc": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+    "lang": "Java",
+    "stars": "23309 stars",
+    "topics": [
+      "a11y",
+      "accessibility",
+      "ai",
+      "bounding-box",
+      "document-parsing",
+      "eaa",
+      "html",
+      "json",
+      "markdown",
+      "ocr",
+      "ocr-recognition",
+      "pdf",
+      "pdf-accessibility",
+      "pdf-converter",
+      "pdf-extraction",
+      "pdf-parser",
+      "pdf-ua",
+      "rag",
+      "tables",
+      "tagged-pdf"
+    ]
+  },
+  {
+    "name": "odoo/odoo",
+    "url": "https://github.com/odoo/odoo",
+    "desc": "Odoo. Open Source Apps To Grow Your Business.",
     "lang": "Python",
-    "stars": "12527 stars",
+    "stars": "51957 stars",
     "topics": [
-      "agent",
-      "ai-agents",
-      "hermes",
-      "hermes-agent",
-      "nous-research"
+      "apps",
+      "business",
+      "erp",
+      "management",
+      "odoo",
+      "odoo-apps",
+      "python"
     ]
   },
   {
-    "name": "reconurge/flowsint",
-    "url": "https://github.com/reconurge/flowsint",
-    "desc": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
-    "lang": "TypeScript",
-    "stars": "4492 stars",
-    "topics": [
-      "investigation",
-      "osint",
-      "python",
-      "recon"
-    ]
-  },
-  {
-    "name": "OpenBMB/VoxCPM",
-    "url": "https://github.com/OpenBMB/VoxCPM",
-    "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+    "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+    "desc": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
     "lang": "Python",
-    "stars": "25104 stars",
+    "stars": "8981 stars",
     "topics": [
-      "audio",
-      "deeplearning",
-      "minicpm",
-      "multilingual",
-      "python",
-      "pytorch",
-      "speech",
-      "speech-synthesis",
-      "text-to-speech",
-      "tts",
-      "tts-model",
-      "voice-cloning",
-      "voice-design",
-      "voxcpm"
+      "ai",
+      "ai-companion",
+      "ai-vtuber",
+      "ai-waifu",
+      "chatbots",
+      "live2d",
+      "live2d-web",
+      "llm",
+      "neuro-sama",
+      "ollama"
     ]
   },
   {
-    "name": "stefan-jansen/machine-learning-for-trading",
-    "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
-    "desc": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+    "name": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer.",
+    "lang": "Unknown",
+    "stars": "349039 stars",
+    "topics": [
+      "algorithm",
+      "algorithms",
+      "coding-interview",
+      "coding-interviews",
+      "computer-science",
+      "data-structures",
+      "interview",
+      "interview-prep",
+      "interview-preparation",
+      "programming-interviews",
+      "software-engineering",
+      "study-plan"
+    ]
+  },
+  {
+    "name": "lyogavin/airllm",
+    "url": "https://github.com/lyogavin/airllm",
+    "desc": "AirLLM 70B inference with single 4GB GPU",
     "lang": "Jupyter Notebook",
-    "stars": "18447 stars",
+    "stars": "18922 stars",
     "topics": [
-      "artificial-intelligence",
-      "data-science",
-      "deep-learning",
-      "finance",
-      "investment",
-      "investment-strategies",
-      "machine-learning",
-      "ml4t-workflow",
-      "synthetic-data",
-      "trading",
-      "trading-agent",
-      "trading-strategies"
+      "chinese-llm",
+      "chinese-nlp",
+      "finetune",
+      "generative-ai",
+      "instruct-gpt",
+      "instruction-set",
+      "llama",
+      "llm",
+      "lora",
+      "open-models",
+      "open-source",
+      "open-source-models",
+      "qlora"
     ]
-  },
-  {
-    "name": "jamwithai/production-agentic-rag-course",
-    "url": "https://github.com/jamwithai/production-agentic-rag-course",
-    "desc": "<div align=\"center\"> <h3>A Learner-Focused Journey into Production RAG Systems</h3>",
-    "lang": "Python",
-    "stars": "6369 stars",
-    "topics": []
   },
   {
     "name": "supermemoryai/supermemory",
     "url": "https://github.com/supermemoryai/supermemory",
     "desc": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
     "lang": "TypeScript",
-    "stars": "24616 stars",
+    "stars": "25189 stars",
     "topics": [
       "agent-memory",
       "ai-memory",
@@ -191,22 +282,22 @@
     ]
   },
   {
-    "name": "Open-LLM-VTuber/Open-LLM-VTuber",
-    "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
-    "desc": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+    "name": "HKUDS/Vibe-Trading",
+    "url": "https://github.com/HKUDS/Vibe-Trading",
+    "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
     "lang": "Python",
-    "stars": "8348 stars",
+    "stars": "9964 stars",
     "topics": [
-      "ai",
-      "ai-companion",
-      "ai-vtuber",
-      "ai-waifu",
-      "chatbots",
-      "live2d",
-      "live2d-web",
+      "ai-agent",
+      "algorithmic-trading",
+      "backtesting",
+      "fintech",
       "llm",
-      "neuro-sama",
-      "ollama"
+      "mcp",
+      "multi-agent",
+      "python",
+      "quantitative-finance",
+      "trading"
     ]
   }
 ]

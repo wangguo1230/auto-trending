@@ -1,10 +1,35 @@
 [
   {
+    "name": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "desc": "The agent that grows with you",
+    "lang": "Python",
+    "stars": "183082 stars",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "clawdbot",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "moltbot",
+      "nous-research",
+      "openai",
+      "openclaw"
+    ]
+  },
+  {
     "name": "chopratejas/headroom",
     "url": "https://github.com/chopratejas/headroom",
     "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
     "lang": "Python",
-    "stars": "12425 stars",
+    "stars": "14483 stars",
     "topics": [
       "agent",
       "ai",
@@ -29,28 +54,47 @@
     ]
   },
   {
-    "name": "NousResearch/hermes-agent",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "desc": "The agent that grows with you",
-    "lang": "Python",
-    "stars": "180943 stars",
+    "name": "CopilotKit/CopilotKit",
+    "url": "https://github.com/CopilotKit/CopilotKit",
+    "desc": "The Frontend Stack for Agents & Generative UI. React + Angular.  Makers of the AG-UI Protocol",
+    "lang": "TypeScript",
+    "stars": "32665 stars",
     "topics": [
+      "agent",
+      "agent-native",
+      "agentic-ai",
+      "agents",
       "ai",
       "ai-agent",
-      "ai-agents",
-      "anthropic",
-      "chatgpt",
-      "claude",
-      "claude-code",
-      "clawdbot",
-      "codex",
-      "hermes",
-      "hermes-agent",
+      "ai-assistant",
+      "assistant",
+      "assistant-chat-bots",
+      "copilot",
+      "copilot-chat",
+      "generative-ui",
+      "js",
       "llm",
-      "moltbot",
-      "nous-research",
-      "openai",
-      "openclaw"
+      "nextjs",
+      "open-source",
+      "react",
+      "reactjs",
+      "ts",
+      "typescript"
+    ]
+  },
+  {
+    "name": "lfnovo/open-notebook",
+    "url": "https://github.com/lfnovo/open-notebook",
+    "desc": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "lang": "TypeScript",
+    "stars": "25985 stars",
+    "topics": [
+      "assistant",
+      "learning",
+      "note-taking",
+      "notebook",
+      "notes-app",
+      "self-learning"
     ]
   },
   {
@@ -58,7 +102,7 @@
     "url": "https://github.com/affaan-m/ECC",
     "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
     "lang": "JavaScript",
-    "stars": "207203 stars",
+    "stars": "208344 stars",
     "topics": [
       "ai-agents",
       "anthropic",
@@ -71,41 +115,29 @@
     ]
   },
   {
-    "name": "PaddlePaddle/PaddleOCR",
-    "url": "https://github.com/PaddlePaddle/PaddleOCR",
-    "desc": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+    "name": "Panniantong/Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
     "lang": "Python",
-    "stars": "79843 stars",
+    "stars": "21546 stars",
     "topics": [
-      "ai4science",
-      "chineseocr",
-      "document-parsing",
-      "document-translation",
-      "kie",
-      "ocr",
-      "paddleocr-vl",
-      "pdf-extractor-rag",
-      "pdf-parser",
-      "pdf2markdown",
-      "pp-ocr",
-      "pp-structure",
-      "rag"
-    ]
-  },
-  {
-    "name": "github/spec-kit",
-    "url": "https://github.com/github/spec-kit",
-    "desc": "💫 Toolkit to help you get started with Spec-Driven Development",
-    "lang": "Python",
-    "stars": "108563 stars",
-    "topics": [
-      "ai",
-      "copilot",
-      "development",
-      "engineering",
-      "prd",
-      "spec",
-      "spec-driven"
+      "agent-infrastructure",
+      "ai-agent",
+      "ai-search",
+      "automation",
+      "bilibili",
+      "claude-code",
+      "cli",
+      "cursor",
+      "free-api",
+      "llm-tools",
+      "mcp",
+      "python",
+      "reddit-scraper",
+      "twitter-scraper",
+      "web-scraper",
+      "xiaohongshu",
+      "youtube-transcript"
     ]
   },
   {
@@ -113,115 +145,26 @@
     "url": "https://github.com/NVIDIA/cosmos",
     "desc": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
     "lang": "Jupyter Notebook",
-    "stars": "8987 stars",
+    "stars": "9408 stars",
     "topics": []
   },
   {
-    "name": "lfnovo/open-notebook",
-    "url": "https://github.com/lfnovo/open-notebook",
-    "desc": "An Open Source implementation of Notebook LM with more flexibility and features",
-    "lang": "TypeScript",
-    "stars": "24994 stars",
-    "topics": [
-      "assistant",
-      "learning",
-      "note-taking",
-      "notebook",
-      "notes-app",
-      "self-learning"
-    ]
-  },
-  {
-    "name": "Open-LLM-VTuber/Open-LLM-VTuber",
-    "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
-    "desc": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+    "name": "666ghj/MiroFish",
+    "url": "https://github.com/666ghj/MiroFish",
+    "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
     "lang": "Python",
-    "stars": "9573 stars",
+    "stars": "64690 stars",
     "topics": [
-      "ai",
-      "ai-companion",
-      "ai-vtuber",
-      "ai-waifu",
-      "chatbots",
-      "live2d",
-      "live2d-web",
-      "llm",
-      "neuro-sama",
-      "ollama"
-    ]
-  },
-  {
-    "name": "jwasham/coding-interview-university",
-    "url": "https://github.com/jwasham/coding-interview-university",
-    "desc": "A complete computer science study plan to become a software engineer.",
-    "lang": "Unknown",
-    "stars": "349703 stars",
-    "topics": [
-      "algorithm",
-      "algorithms",
-      "coding-interview",
-      "coding-interviews",
-      "computer-science",
-      "data-structures",
-      "interview",
-      "interview-prep",
-      "interview-preparation",
-      "programming-interviews",
-      "software-engineering",
-      "study-plan"
-    ]
-  },
-  {
-    "name": "github/copilot-sdk",
-    "url": "https://github.com/github/copilot-sdk",
-    "desc": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-    "lang": "Java",
-    "stars": "8961 stars",
-    "topics": []
-  },
-  {
-    "name": "aquasecurity/trivy",
-    "url": "https://github.com/aquasecurity/trivy",
-    "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-    "lang": "Go",
-    "stars": "35662 stars",
-    "topics": [
-      "containers",
-      "devsecops",
-      "docker",
-      "go",
-      "golang",
-      "hacktoberfest",
-      "iac",
-      "infrastructure-as-code",
-      "kubernetes",
-      "misconfiguration",
-      "security",
-      "security-tools",
-      "vulnerability",
-      "vulnerability-detection",
-      "vulnerability-scanners"
-    ]
-  },
-  {
-    "name": "openclaw/openclaw-windows-node",
-    "url": "https://github.com/openclaw/openclaw-windows-node",
-    "desc": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
-    "lang": "C#",
-    "stars": "1316 stars",
-    "topics": []
-  },
-  {
-    "name": "reconurge/flowsint",
-    "url": "https://github.com/reconurge/flowsint",
-    "desc": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
-    "lang": "TypeScript",
-    "stars": "5299 stars",
-    "topics": [
-      "investigation",
-      "osint",
-      "python",
-      "recon"
+      "agent-memory",
+      "financial-forecasting",
+      "future-prediction",
+      "knowledge-graph",
+      "llms",
+      "multi-agent-simulation",
+      "public-opinion-analysis",
+      "python3",
+      "social-prediction",
+      "swarm-intelligence"
     ]
   },
   {
@@ -229,7 +172,7 @@
     "url": "https://github.com/mvanhorn/last30days-skill",
     "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
     "lang": "Python",
-    "stars": "27556 stars",
+    "stars": "28194 stars",
     "topics": [
       "ai-prompts",
       "ai-skill",
@@ -252,5 +195,119 @@
       "web-search",
       "youtube"
     ]
+  },
+  {
+    "name": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "desc": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+    "lang": "Python",
+    "stars": "80531 stars",
+    "topics": [
+      "ai4science",
+      "chineseocr",
+      "document-parsing",
+      "document-translation",
+      "kie",
+      "ocr",
+      "paddleocr-vl",
+      "pdf-extractor-rag",
+      "pdf-parser",
+      "pdf2markdown",
+      "pp-ocr",
+      "pp-structure",
+      "rag"
+    ]
+  },
+  {
+    "name": "openai/plugins",
+    "url": "https://github.com/openai/plugins",
+    "desc": "OpenAI Plugins",
+    "lang": "JavaScript",
+    "stars": "1528 stars",
+    "topics": []
+  },
+  {
+    "name": "MemPalace/mempalace",
+    "url": "https://github.com/MemPalace/mempalace",
+    "desc": "The best-benchmarked open-source AI memory system. And it's free.",
+    "lang": "Python",
+    "stars": "53869 stars",
+    "topics": [
+      "ai",
+      "chromadb",
+      "llm",
+      "mcp",
+      "memory",
+      "python"
+    ]
+  },
+  {
+    "name": "withastro/flue",
+    "url": "https://github.com/withastro/flue",
+    "desc": "The sandbox agent framework.",
+    "lang": "TypeScript",
+    "stars": "4510 stars",
+    "topics": []
+  },
+  {
+    "name": "openclaw/openclaw-windows-node",
+    "url": "https://github.com/openclaw/openclaw-windows-node",
+    "desc": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
+    "lang": "C#",
+    "stars": "1598 stars",
+    "topics": []
+  },
+  {
+    "name": "aquasecurity/trivy",
+    "url": "https://github.com/aquasecurity/trivy",
+    "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "lang": "Go",
+    "stars": "35851 stars",
+    "topics": [
+      "containers",
+      "devsecops",
+      "docker",
+      "go",
+      "golang",
+      "hacktoberfest",
+      "iac",
+      "infrastructure-as-code",
+      "kubernetes",
+      "misconfiguration",
+      "security",
+      "security-tools",
+      "vulnerability",
+      "vulnerability-detection",
+      "vulnerability-scanners"
+    ]
+  },
+  {
+    "name": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer.",
+    "lang": "Unknown",
+    "stars": "350373 stars",
+    "topics": [
+      "algorithm",
+      "algorithms",
+      "coding-interview",
+      "coding-interviews",
+      "computer-science",
+      "data-structures",
+      "interview",
+      "interview-prep",
+      "interview-preparation",
+      "programming-interviews",
+      "software-engineering",
+      "study-plan"
+    ]
+  },
+  {
+    "name": "github/copilot-sdk",
+    "url": "https://github.com/github/copilot-sdk",
+    "desc": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+    "lang": "Java",
+    "stars": "9236 stars",
+    "topics": []
   }
 ]

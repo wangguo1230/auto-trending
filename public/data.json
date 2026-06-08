@@ -4,7 +4,7 @@
     "url": "https://github.com/mvanhorn/last30days-skill",
     "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
     "lang": "Python",
-    "stars": "28781 stars",
+    "stars": "30877 stars",
     "topics": [
       "ai-prompts",
       "ai-skill",
@@ -29,167 +29,64 @@
     ]
   },
   {
-    "name": "CopilotKit/CopilotKit",
-    "url": "https://github.com/CopilotKit/CopilotKit",
-    "desc": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
-    "lang": "TypeScript",
-    "stars": "33197 stars",
+    "name": "opencv/opencv",
+    "url": "https://github.com/opencv/opencv",
+    "desc": "Open Source Computer Vision Library",
+    "lang": "C++",
+    "stars": "88069 stars",
+    "topics": [
+      "c-plus-plus",
+      "computer-vision",
+      "deep-learning",
+      "image-processing",
+      "opencv"
+    ]
+  },
+  {
+    "name": "Leonxlnx/taste-skill",
+    "url": "https://github.com/Leonxlnx/taste-skill",
+    "desc": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
+    "lang": "Shell",
+    "stars": "36566 stars",
     "topics": [
       "agent",
-      "agent-native",
-      "agentic-ai",
-      "agents",
       "ai",
-      "ai-agent",
-      "ai-assistant",
-      "assistant",
-      "assistant-chat-bots",
-      "copilot",
-      "copilot-chat",
-      "generative-ui",
-      "js",
-      "llm",
-      "nextjs",
-      "open-source",
-      "react",
-      "reactjs",
-      "ts",
-      "typescript"
-    ]
-  },
-  {
-    "name": "MemPalace/mempalace",
-    "url": "https://github.com/MemPalace/mempalace",
-    "desc": "The best-benchmarked open-source AI memory system. And it's free.",
-    "lang": "Python",
-    "stars": "54270 stars",
-    "topics": [
-      "ai",
-      "chromadb",
-      "llm",
-      "mcp",
-      "memory",
-      "python"
-    ]
-  },
-  {
-    "name": "danielmiessler/Personal_AI_Infrastructure",
-    "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
-    "desc": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
-    "lang": "TypeScript",
-    "stars": "14954 stars",
-    "topics": [
-      "ai",
-      "augmentation",
-      "humans",
-      "productivity"
-    ]
-  },
-  {
-    "name": "openai/plugins",
-    "url": "https://github.com/openai/plugins",
-    "desc": "OpenAI Plugins",
-    "lang": "JavaScript",
-    "stars": "1764 stars",
-    "topics": []
-  },
-  {
-    "name": "Panniantong/Agent-Reach",
-    "url": "https://github.com/Panniantong/Agent-Reach",
-    "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-    "lang": "Python",
-    "stars": "22306 stars",
-    "topics": [
-      "agent-infrastructure",
-      "ai-agent",
-      "ai-search",
-      "automation",
-      "bilibili",
+      "claude",
       "claude-code",
-      "cli",
-      "cursor",
-      "free-api",
-      "llm-tools",
-      "mcp",
-      "python",
-      "reddit-scraper",
-      "twitter-scraper",
-      "web-scraper",
-      "xiaohongshu",
-      "youtube-transcript"
+      "codex",
+      "coding",
+      "design",
+      "frontend",
+      "lowcode",
+      "nocode",
+      "skill",
+      "skills",
+      "vibecoding"
     ]
   },
   {
-    "name": "sveltejs/svelte",
-    "url": "https://github.com/sveltejs/svelte",
-    "desc": "web development for the rest of us",
-    "lang": "JavaScript",
-    "stars": "86981 stars",
+    "name": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "desc": "The agent that grows with you",
+    "lang": "Python",
+    "stars": "185897 stars",
     "topics": [
-      "compiler",
-      "template",
-      "ui"
-    ]
-  },
-  {
-    "name": "nginx/nginx",
-    "url": "https://github.com/nginx/nginx",
-    "desc": "The official NGINX Open Source repository.",
-    "lang": "C",
-    "stars": "30686 stars",
-    "topics": [
-      "content-cache",
-      "http",
-      "http2",
-      "http3",
-      "https",
-      "load-balancer",
-      "mail-proxy-server",
-      "nginx",
-      "quic",
-      "reverse-proxy",
-      "security",
-      "tcp-proxy-server",
-      "tls",
-      "udp-proxy-server",
-      "web-server"
-    ]
-  },
-  {
-    "name": "aquasecurity/trivy",
-    "url": "https://github.com/aquasecurity/trivy",
-    "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-    "lang": "Go",
-    "stars": "35998 stars",
-    "topics": [
-      "containers",
-      "devsecops",
-      "docker",
-      "go",
-      "golang",
-      "hacktoberfest",
-      "iac",
-      "infrastructure-as-code",
-      "kubernetes",
-      "misconfiguration",
-      "security",
-      "security-tools",
-      "vulnerability",
-      "vulnerability-detection",
-      "vulnerability-scanners"
-    ]
-  },
-  {
-    "name": "golang/go",
-    "url": "https://github.com/golang/go",
-    "desc": "The Go programming language",
-    "lang": "Go",
-    "stars": "134505 stars",
-    "topics": [
-      "go",
-      "golang",
-      "language",
-      "programming-language"
+      "ai",
+      "ai-agent",
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "clawdbot",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "moltbot",
+      "nous-research",
+      "openai",
+      "openclaw"
     ]
   },
   {
@@ -197,7 +94,7 @@
     "url": "https://github.com/lfnovo/open-notebook",
     "desc": "An Open Source implementation of Notebook LM with more flexibility and features",
     "lang": "TypeScript",
-    "stars": "26601 stars",
+    "stars": "27235 stars",
     "topics": [
       "assistant",
       "learning",
@@ -208,93 +105,145 @@
     ]
   },
   {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "219644 stars",
-    "topics": []
-  },
-  {
-    "name": "santifer/career-ops",
-    "url": "https://github.com/santifer/career-ops",
-    "desc": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
-    "lang": "JavaScript",
-    "stars": "49327 stars",
-    "topics": [
-      "ai-agent",
-      "anthropic",
-      "automation",
-      "career",
-      "careerops",
-      "claude",
-      "claude-code",
-      "cli",
-      "golang",
-      "interview-prep",
-      "job-search",
-      "open-source",
-      "resume"
-    ]
-  },
-  {
-    "name": "openai/whisper",
-    "url": "https://github.com/openai/whisper",
-    "desc": "Robust Speech Recognition via Large-Scale Weak Supervision",
-    "lang": "Python",
-    "stars": "101850 stars",
-    "topics": []
-  },
-  {
-    "name": "vitejs/vite",
-    "url": "https://github.com/vitejs/vite",
-    "desc": "Next generation frontend tooling. It's fast!",
+    "name": "yikart/AiToEarn",
+    "url": "https://github.com/yikart/AiToEarn",
+    "desc": "Let's use AI to Earn!",
     "lang": "TypeScript",
-    "stars": "81178 stars",
+    "stars": "18735 stars",
     "topics": [
-      "build-tool",
-      "dev-server",
-      "frontend",
-      "hmr",
-      "vite"
+      "auto-publish",
+      "douyin",
+      "douyin-api",
+      "electron-app",
+      "electron-react",
+      "kuaishou",
+      "kwai",
+      "published",
+      "shipinhao",
+      "tool",
+      "xiaohongshu"
     ]
   },
   {
-    "name": "microsoft/mxc",
-    "url": "https://github.com/microsoft/mxc",
-    "desc": "Policy-driven, layered isolation and containment ",
+    "name": "aaif-goose/goose",
+    "url": "https://github.com/aaif-goose/goose",
+    "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
     "lang": "Rust",
-    "stars": "573 stars",
-    "topics": []
-  },
-  {
-    "name": "PaddlePaddle/PaddleOCR",
-    "url": "https://github.com/PaddlePaddle/PaddleOCR",
-    "desc": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
-    "lang": "Python",
-    "stars": "80954 stars",
+    "stars": "47490 stars",
     "topics": [
-      "ai4science",
-      "chineseocr",
-      "document-parsing",
-      "document-translation",
-      "kie",
-      "ocr",
-      "paddleocr-vl",
-      "pdf-extractor-rag",
-      "pdf-parser",
-      "pdf2markdown",
-      "pp-ocr",
-      "pp-structure",
-      "rag"
+      "acp",
+      "ai",
+      "ai-agents",
+      "mcp"
     ]
   },
   {
-    "name": "microsoft/VibeVoice",
-    "url": "https://github.com/microsoft/VibeVoice",
-    "desc": "Open-Source Frontier Voice AI",
-    "lang": "Python",
-    "stars": "48467 stars",
+    "name": "Crosstalk-Solutions/project-nomad",
+    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+    "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+    "lang": "TypeScript",
+    "stars": "29712 stars",
     "topics": []
+  },
+  {
+    "name": "ggml-org/llama.cpp",
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "desc": "LLM inference in C/C++",
+    "lang": "C++",
+    "stars": "115312 stars",
+    "topics": [
+      "ggml"
+    ]
+  },
+  {
+    "name": "RyanCodrai/turbovec",
+    "url": "https://github.com/RyanCodrai/turbovec",
+    "desc": "A vector index built on TurboQuant, written in Rust with Python bindings",
+    "lang": "Python",
+    "stars": "7132 stars",
+    "topics": [
+      "ann",
+      "avx512",
+      "embedding",
+      "embeddings",
+      "faiss",
+      "nearest-neighbor",
+      "neon",
+      "python",
+      "quant",
+      "quantization",
+      "rag",
+      "rust",
+      "simd",
+      "turboquant",
+      "vector-search"
+    ]
+  },
+  {
+    "name": "TapXWorld/ChinaTextbook",
+    "url": "https://github.com/TapXWorld/ChinaTextbook",
+    "desc": "所有小初高、大学PDF教材。",
+    "lang": "Roff",
+    "stars": "72426 stars",
+    "topics": []
+  },
+  {
+    "name": "openai/plugins",
+    "url": "https://github.com/openai/plugins",
+    "desc": "OpenAI Plugins",
+    "lang": "JavaScript",
+    "stars": "2023 stars",
+    "topics": []
+  },
+  {
+    "name": "refactoringhq/tolaria",
+    "url": "https://github.com/refactoringhq/tolaria",
+    "desc": "Desktop app to manage markdown knowledge bases",
+    "lang": "TypeScript",
+    "stars": "12855 stars",
+    "topics": []
+  },
+  {
+    "name": "HunxByts/GhostTrack",
+    "url": "https://github.com/HunxByts/GhostTrack",
+    "desc": "Useful tool to track location or mobile number",
+    "lang": "Python",
+    "stars": "13722 stars",
+    "topics": [
+      "cybersecurity",
+      "fyp",
+      "hacking",
+      "hacking-tool",
+      "indonesia",
+      "information",
+      "information-gathering",
+      "ip-geolocation",
+      "linux",
+      "osint",
+      "osint-python",
+      "osint-tool",
+      "pentesting",
+      "phone-number",
+      "python",
+      "python-hacking",
+      "termux",
+      "termux-hacks",
+      "termux-tool"
+    ]
+  },
+  {
+    "name": "microsoft/pg_durable",
+    "url": "https://github.com/microsoft/pg_durable",
+    "desc": "PostgreSQL in-database durable execution",
+    "lang": "Rust",
+    "stars": "1447 stars",
+    "topics": [
+      "ai-pipelines",
+      "ai-workflows",
+      "durable-execution",
+      "durable-functions",
+      "durable-workflows",
+      "postgresql"
+    ]
   }
 ]

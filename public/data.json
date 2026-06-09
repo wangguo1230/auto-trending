@@ -4,7 +4,7 @@
     "url": "https://github.com/mvanhorn/last30days-skill",
     "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
     "lang": "Python",
-    "stars": "30877 stars",
+    "stars": "34473 stars",
     "topics": [
       "ai-prompts",
       "ai-skill",
@@ -29,138 +29,11 @@
     ]
   },
   {
-    "name": "opencv/opencv",
-    "url": "https://github.com/opencv/opencv",
-    "desc": "Open Source Computer Vision Library",
-    "lang": "C++",
-    "stars": "88069 stars",
-    "topics": [
-      "c-plus-plus",
-      "computer-vision",
-      "deep-learning",
-      "image-processing",
-      "opencv"
-    ]
-  },
-  {
-    "name": "Leonxlnx/taste-skill",
-    "url": "https://github.com/Leonxlnx/taste-skill",
-    "desc": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
-    "lang": "Shell",
-    "stars": "36566 stars",
-    "topics": [
-      "agent",
-      "ai",
-      "claude",
-      "claude-code",
-      "codex",
-      "coding",
-      "design",
-      "frontend",
-      "lowcode",
-      "nocode",
-      "skill",
-      "skills",
-      "vibecoding"
-    ]
-  },
-  {
-    "name": "NousResearch/hermes-agent",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "desc": "The agent that grows with you",
-    "lang": "Python",
-    "stars": "185897 stars",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "anthropic",
-      "chatgpt",
-      "claude",
-      "claude-code",
-      "clawdbot",
-      "codex",
-      "hermes",
-      "hermes-agent",
-      "llm",
-      "moltbot",
-      "nous-research",
-      "openai",
-      "openclaw"
-    ]
-  },
-  {
-    "name": "lfnovo/open-notebook",
-    "url": "https://github.com/lfnovo/open-notebook",
-    "desc": "An Open Source implementation of Notebook LM with more flexibility and features",
-    "lang": "TypeScript",
-    "stars": "27235 stars",
-    "topics": [
-      "assistant",
-      "learning",
-      "note-taking",
-      "notebook",
-      "notes-app",
-      "self-learning"
-    ]
-  },
-  {
-    "name": "yikart/AiToEarn",
-    "url": "https://github.com/yikart/AiToEarn",
-    "desc": "Let's use AI to Earn!",
-    "lang": "TypeScript",
-    "stars": "18735 stars",
-    "topics": [
-      "auto-publish",
-      "douyin",
-      "douyin-api",
-      "electron-app",
-      "electron-react",
-      "kuaishou",
-      "kwai",
-      "published",
-      "shipinhao",
-      "tool",
-      "xiaohongshu"
-    ]
-  },
-  {
-    "name": "aaif-goose/goose",
-    "url": "https://github.com/aaif-goose/goose",
-    "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
-    "lang": "Rust",
-    "stars": "47490 stars",
-    "topics": [
-      "acp",
-      "ai",
-      "ai-agents",
-      "mcp"
-    ]
-  },
-  {
-    "name": "Crosstalk-Solutions/project-nomad",
-    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-    "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-    "lang": "TypeScript",
-    "stars": "29712 stars",
-    "topics": []
-  },
-  {
-    "name": "ggml-org/llama.cpp",
-    "url": "https://github.com/ggml-org/llama.cpp",
-    "desc": "LLM inference in C/C++",
-    "lang": "C++",
-    "stars": "115312 stars",
-    "topics": [
-      "ggml"
-    ]
-  },
-  {
     "name": "RyanCodrai/turbovec",
     "url": "https://github.com/RyanCodrai/turbovec",
     "desc": "A vector index built on TurboQuant, written in Rust with Python bindings",
     "lang": "Python",
-    "stars": "7132 stars",
+    "stars": "8825 stars",
     "topics": [
       "ann",
       "avx512",
@@ -180,70 +53,236 @@
     ]
   },
   {
-    "name": "TapXWorld/ChinaTextbook",
-    "url": "https://github.com/TapXWorld/ChinaTextbook",
-    "desc": "所有小初高、大学PDF教材。",
-    "lang": "Roff",
-    "stars": "72426 stars",
-    "topics": []
-  },
-  {
-    "name": "openai/plugins",
-    "url": "https://github.com/openai/plugins",
-    "desc": "OpenAI Plugins",
-    "lang": "JavaScript",
-    "stars": "2023 stars",
-    "topics": []
+    "name": "google/skills",
+    "url": "https://github.com/google/skills",
+    "desc": "Agent Skills for Google products and technologies",
+    "lang": "Python",
+    "stars": "12380 stars",
+    "topics": [
+      "google",
+      "googlecloud",
+      "skills"
+    ]
   },
   {
     "name": "refactoringhq/tolaria",
     "url": "https://github.com/refactoringhq/tolaria",
     "desc": "Desktop app to manage markdown knowledge bases",
     "lang": "TypeScript",
-    "stars": "12855 stars",
+    "stars": "13558 stars",
     "topics": []
   },
   {
-    "name": "HunxByts/GhostTrack",
-    "url": "https://github.com/HunxByts/GhostTrack",
-    "desc": "Useful tool to track location or mobile number",
+    "name": "Panniantong/Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
     "lang": "Python",
-    "stars": "13722 stars",
+    "stars": "24077 stars",
     "topics": [
-      "cybersecurity",
-      "fyp",
-      "hacking",
-      "hacking-tool",
-      "indonesia",
-      "information",
-      "information-gathering",
-      "ip-geolocation",
-      "linux",
-      "osint",
-      "osint-python",
-      "osint-tool",
-      "pentesting",
-      "phone-number",
+      "agent-infrastructure",
+      "ai-agent",
+      "ai-search",
+      "automation",
+      "bilibili",
+      "claude-code",
+      "cli",
+      "cursor",
+      "free-api",
+      "llm-tools",
+      "mcp",
       "python",
-      "python-hacking",
-      "termux",
-      "termux-hacks",
-      "termux-tool"
+      "reddit-scraper",
+      "twitter-scraper",
+      "web-scraper",
+      "xiaohongshu",
+      "youtube-transcript"
     ]
   },
   {
-    "name": "microsoft/pg_durable",
-    "url": "https://github.com/microsoft/pg_durable",
-    "desc": "PostgreSQL in-database durable execution",
-    "lang": "Rust",
-    "stars": "1447 stars",
+    "name": "danielmiessler/Personal_AI_Infrastructure",
+    "url": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+    "desc": "Agentic AI Infrastructure for magnifying HUMAN capabilities.",
+    "lang": "TypeScript",
+    "stars": "15412 stars",
     "topics": [
-      "ai-pipelines",
-      "ai-workflows",
-      "durable-execution",
-      "durable-functions",
-      "durable-workflows",
-      "postgresql"
+      "ai",
+      "augmentation",
+      "humans",
+      "productivity"
+    ]
+  },
+  {
+    "name": "santifer/career-ops",
+    "url": "https://github.com/santifer/career-ops",
+    "desc": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+    "lang": "JavaScript",
+    "stars": "50492 stars",
+    "topics": [
+      "ai-agent",
+      "anthropic",
+      "automation",
+      "career",
+      "careerops",
+      "claude",
+      "claude-code",
+      "cli",
+      "golang",
+      "interview-prep",
+      "job-search",
+      "open-source",
+      "resume"
+    ]
+  },
+  {
+    "name": "phuryn/pm-skills",
+    "url": "https://github.com/phuryn/pm-skills",
+    "desc": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
+    "lang": "Unknown",
+    "stars": "12642 stars",
+    "topics": [
+      "agent-skill-repository",
+      "agent-skills",
+      "agentic-skills",
+      "claude-code-marketplace",
+      "claude-code-plugins",
+      "claude-cowork-plugin",
+      "product-management"
+    ]
+  },
+  {
+    "name": "openai/plugins",
+    "url": "https://github.com/openai/plugins",
+    "desc": "OpenAI Plugins",
+    "lang": "JavaScript",
+    "stars": "2312 stars",
+    "topics": []
+  },
+  {
+    "name": "Andyyyy64/whichllm",
+    "url": "https://github.com/Andyyyy64/whichllm",
+    "desc": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
+    "lang": "Python",
+    "stars": "3436 stars",
+    "topics": [
+      "ai",
+      "apple-silicon",
+      "benchmarks",
+      "cli",
+      "command-line-tool",
+      "gguf",
+      "gpu",
+      "huggingface",
+      "inference",
+      "llm",
+      "local-llm",
+      "ollama",
+      "python",
+      "vram"
+    ]
+  },
+  {
+    "name": "MemPalace/mempalace",
+    "url": "https://github.com/MemPalace/mempalace",
+    "desc": "The best-benchmarked open-source AI memory system. And it's free.",
+    "lang": "Python",
+    "stars": "54921 stars",
+    "topics": [
+      "ai",
+      "chromadb",
+      "llm",
+      "mcp",
+      "memory",
+      "python"
+    ]
+  },
+  {
+    "name": "roboflow/supervision",
+    "url": "https://github.com/roboflow/supervision",
+    "desc": "We write your reusable computer vision tools. 💜",
+    "lang": "Python",
+    "stars": "42325 stars",
+    "topics": [
+      "classification",
+      "coco",
+      "computer-vision",
+      "deep-learning",
+      "hacktoberfest",
+      "image-processing",
+      "instance-segmentation",
+      "low-code",
+      "machine-learning",
+      "metrics",
+      "object-detection",
+      "oriented-bounding-box",
+      "pascal-voc",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "tracking",
+      "video-processing",
+      "yolo"
+    ]
+  },
+  {
+    "name": "CopilotKit/CopilotKit",
+    "url": "https://github.com/CopilotKit/CopilotKit",
+    "desc": "The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol",
+    "lang": "TypeScript",
+    "stars": "34120 stars",
+    "topics": [
+      "agent",
+      "agent-native",
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agent",
+      "ai-assistant",
+      "assistant",
+      "assistant-chat-bots",
+      "copilot",
+      "copilot-chat",
+      "generative-ui",
+      "js",
+      "llm",
+      "nextjs",
+      "open-source",
+      "react",
+      "reactjs",
+      "ts",
+      "typescript"
+    ]
+  },
+  {
+    "name": "TapXWorld/ChinaTextbook",
+    "url": "https://github.com/TapXWorld/ChinaTextbook",
+    "desc": "所有小初高、大学PDF教材。",
+    "lang": "Roff",
+    "stars": "72962 stars",
+    "topics": []
+  },
+  {
+    "name": "luongnv89/claude-howto",
+    "url": "https://github.com/luongnv89/claude-howto",
+    "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+    "lang": "Python",
+    "stars": "35758 stars",
+    "topics": [
+      "claude-code",
+      "guide",
+      "tutorial"
+    ]
+  },
+  {
+    "name": "aaif-goose/goose",
+    "url": "https://github.com/aaif-goose/goose",
+    "desc": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "lang": "Rust",
+    "stars": "48093 stars",
+    "topics": [
+      "acp",
+      "ai",
+      "ai-agents",
+      "mcp"
     ]
   }
 ]

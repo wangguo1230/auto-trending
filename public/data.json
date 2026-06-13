@@ -1,18 +1,10 @@
 [
   {
-    "name": "apple/container",
-    "url": "https://github.com/apple/container",
-    "desc": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",
-    "lang": "Swift",
-    "stars": "32360 stars",
-    "topics": []
-  },
-  {
     "name": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
     "desc": "Production-grade engineering skills for AI coding agents.",
     "lang": "Shell",
-    "stars": "54673 stars",
+    "stars": "56765 stars",
     "topics": [
       "agent-skills",
       "antigravity",
@@ -23,11 +15,73 @@
     ]
   },
   {
+    "name": "music-assistant/server",
+    "url": "https://github.com/music-assistant/server",
+    "desc": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+    "lang": "Python",
+    "stars": "1774 stars",
+    "topics": []
+  },
+  {
+    "name": "mattermost/mattermost",
+    "url": "https://github.com/mattermost/mattermost",
+    "desc": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+    "lang": "TypeScript",
+    "stars": "37622 stars",
+    "topics": [
+      "collaboration",
+      "golang",
+      "hacktoberfest",
+      "mattermost",
+      "monorepo",
+      "react",
+      "react-native"
+    ]
+  },
+  {
+    "name": "apple/container",
+    "url": "https://github.com/apple/container",
+    "desc": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",
+    "lang": "Swift",
+    "stars": "35059 stars",
+    "topics": []
+  },
+  {
+    "name": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "desc": "Collection of publicly available IPTV channels from all over the world",
+    "lang": "TypeScript",
+    "stars": "118023 stars",
+    "topics": [
+      "iptv",
+      "m3u",
+      "playlist",
+      "streams",
+      "tv"
+    ]
+  },
+  {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "225984 stars",
+    "topics": []
+  },
+  {
+    "name": "refactoringhq/tolaria",
+    "url": "https://github.com/refactoringhq/tolaria",
+    "desc": "Desktop app to manage markdown knowledge bases",
+    "lang": "TypeScript",
+    "stars": "15756 stars",
+    "topics": []
+  },
+  {
     "name": "maziyarpanahi/openmed",
     "url": "https://github.com/maziyarpanahi/openmed",
     "desc": "open-source healthcare ai",
     "lang": "Python",
-    "stars": "2743 stars",
+    "stars": "3185 stars",
     "topics": [
       "bert",
       "deepseek",
@@ -48,11 +102,30 @@
     ]
   },
   {
+    "name": "LMCache/LMCache",
+    "url": "https://github.com/LMCache/LMCache",
+    "desc": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
+    "lang": "Python",
+    "stars": "8631 stars",
+    "topics": [
+      "amd",
+      "cuda",
+      "fast",
+      "inference",
+      "kv-cache",
+      "llm",
+      "pytorch",
+      "rocm",
+      "speed",
+      "vllm"
+    ]
+  },
+  {
     "name": "phuryn/pm-skills",
     "url": "https://github.com/phuryn/pm-skills",
     "desc": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
     "lang": "Unknown",
-    "stars": "16195 stars",
+    "stars": "16971 stars",
     "topics": [
       "agent-skill-repository",
       "agent-skills",
@@ -64,116 +137,11 @@
     ]
   },
   {
-    "name": "NVIDIA/SkillSpector",
-    "url": "https://github.com/NVIDIA/SkillSpector",
-    "desc": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
-    "lang": "Python",
-    "stars": "2630 stars",
-    "topics": []
-  },
-  {
-    "name": "soxoj/maigret",
-    "url": "https://github.com/soxoj/maigret",
-    "desc": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-    "lang": "Python",
-    "stars": "32597 stars",
-    "topics": [
-      "cli",
-      "cybersecurity",
-      "identification",
-      "information-gathering",
-      "infosec",
-      "investigation",
-      "open-source",
-      "osint",
-      "osint-framework",
-      "osint-python",
-      "pentesting",
-      "python",
-      "python3",
-      "reconnaissance",
-      "redteam",
-      "scraping",
-      "sherlock",
-      "social-network",
-      "socmint",
-      "username"
-    ]
-  },
-  {
-    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-    "desc": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-    "lang": "Unknown",
-    "stars": "139864 stars",
-    "topics": [
-      "ai",
-      "bolt",
-      "cluely",
-      "copilot",
-      "cursor",
-      "cursorai",
-      "devin",
-      "github-copilot",
-      "lovable",
-      "open-source",
-      "perplexity",
-      "replit",
-      "system-prompts",
-      "trae",
-      "trae-ai",
-      "trae-ide",
-      "v0",
-      "vscode",
-      "windsurf",
-      "windsurf-ai"
-    ]
-  },
-  {
-    "name": "refactoringhq/tolaria",
-    "url": "https://github.com/refactoringhq/tolaria",
-    "desc": "Desktop app to manage markdown knowledge bases",
-    "lang": "TypeScript",
-    "stars": "15379 stars",
-    "topics": []
-  },
-  {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "224799 stars",
-    "topics": []
-  },
-  {
-    "name": "restic/restic",
-    "url": "https://github.com/restic/restic",
-    "desc": "Fast, secure, efficient backup program",
-    "lang": "Go",
-    "stars": "34150 stars",
-    "topics": [
-      "backup",
-      "dedupe",
-      "deduplication",
-      "go",
-      "restic",
-      "secure-by-default"
-    ]
-  },
-  {
-    "name": "msitarzewski/agency-agents",
-    "url": "https://github.com/msitarzewski/agency-agents",
-    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "lang": "Shell",
-    "stars": "111538 stars",
-    "topics": []
-  },
-  {
     "name": "masterking32/MasterDnsVPN",
     "url": "https://github.com/masterking32/MasterDnsVPN",
     "desc": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
     "lang": "Go",
-    "stars": "5685 stars",
+    "stars": "6004 stars",
     "topics": [
       "dns",
       "dns-client",
@@ -190,99 +158,32 @@
     ]
   },
   {
-    "name": "chatwoot/chatwoot",
-    "url": "https://github.com/chatwoot/chatwoot",
-    "desc": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-    "lang": "Ruby",
-    "stars": "30350 stars",
+    "name": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "lang": "Shell",
+    "stars": "112400 stars",
+    "topics": []
+  },
+  {
+    "name": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+    "lang": "C",
+    "stars": "134327 stars",
     "topics": [
-      "actioncable",
-      "chat-widget",
-      "conversation",
-      "customer-support",
-      "dashboard",
-      "design",
-      "docker",
-      "docker-image",
-      "heroku",
-      "intercom",
-      "javascript",
-      "livechat",
-      "opensource",
-      "rails",
-      "ruby",
-      "sass",
-      "vuejs",
-      "whatsapp",
-      "zendesk"
-    ]
-  },
-  {
-    "name": "kenn-io/agentsview",
-    "url": "https://github.com/kenn-io/agentsview",
-    "desc": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
-    "lang": "Go",
-    "stars": "1629 stars",
-    "topics": []
-  },
-  {
-    "name": "alchaincyf/zhangxuefeng-skill",
-    "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
-    "desc": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
-    "lang": "Unknown",
-    "stars": "7936 stars",
-    "topics": []
-  },
-  {
-    "name": "TapXWorld/ChinaTextbook",
-    "url": "https://github.com/TapXWorld/ChinaTextbook",
-    "desc": "所有小初高、大学PDF教材。",
-    "lang": "Roff",
-    "stars": "73919 stars",
-    "topics": []
-  },
-  {
-    "name": "hexo-ai/sia",
-    "url": "https://github.com/hexo-ai/sia",
-    "desc": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
-    "lang": "Python",
-    "stars": "1287 stars",
-    "topics": []
-  },
-  {
-    "name": "mattermost/mattermost",
-    "url": "https://github.com/mattermost/mattermost",
-    "desc": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
-    "lang": "TypeScript",
-    "stars": "37307 stars",
-    "topics": [
-      "collaboration",
-      "golang",
-      "hacktoberfest",
-      "mattermost",
-      "monorepo",
-      "react",
-      "react-native"
-    ]
-  },
-  {
-    "name": "bannedbook/fanqiang",
-    "url": "https://github.com/bannedbook/fanqiang",
-    "desc": "翻墙-科学上网",
-    "lang": "Kotlin",
-    "stars": "46749 stars",
-    "topics": [
-      "brook",
-      "daze",
-      "fanqiang",
-      "goflyway",
-      "lightsocks",
-      "proxy",
-      "psiphon",
-      "shadowsocks",
-      "ssr",
-      "trojan",
-      "v2ray"
+      "advanced-paste",
+      "color-picker",
+      "command-palette",
+      "desktop",
+      "fancyzones",
+      "keyboard-manager",
+      "microsoft-powertoys",
+      "powerrename",
+      "powertoys",
+      "windows",
+      "windows-10",
+      "windows-11"
     ]
   }
 ]

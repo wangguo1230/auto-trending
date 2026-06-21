@@ -1,10 +1,84 @@
 [
   {
+    "name": "palmier-io/palmier-pro",
+    "url": "https://github.com/palmier-io/palmier-pro",
+    "desc": "macOS video editor built for AI",
+    "lang": "Swift",
+    "stars": "3320 stars",
+    "topics": [
+      "ai-video",
+      "claude",
+      "macos",
+      "mcp",
+      "seedance2",
+      "swift",
+      "video-editor"
+    ]
+  },
+  {
+    "name": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "desc": "Penpot: The open-source design tool for design and code collaboration",
+    "lang": "Clojure",
+    "stars": "51398 stars",
+    "topics": [
+      "clojure",
+      "clojurescript",
+      "design",
+      "prototyping",
+      "ui",
+      "ux-design",
+      "ux-experience"
+    ]
+  },
+  {
+    "name": "calesthio/OpenMontage",
+    "url": "https://github.com/calesthio/OpenMontage",
+    "desc": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "lang": "Python",
+    "stars": "7042 stars",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "claude",
+      "copilot",
+      "cursor",
+      "elevenlabs",
+      "ffmpeg",
+      "flux",
+      "image-generation",
+      "open-source",
+      "openai",
+      "python",
+      "remotion",
+      "stable-diffusion",
+      "text-to-speech",
+      "text-to-video",
+      "video-generation",
+      "video-production"
+    ]
+  },
+  {
+    "name": "tursodatabase/turso",
+    "url": "https://github.com/tursodatabase/turso",
+    "desc": "Turso is an in-process SQL database, compatible with SQLite.",
+    "lang": "Rust",
+    "stars": "20319 stars",
+    "topics": [
+      "database",
+      "embedded-database",
+      "sql",
+      "sqlite3",
+      "webassembly"
+    ]
+  },
+  {
     "name": "DeusData/codebase-memory-mcp",
     "url": "https://github.com/DeusData/codebase-memory-mcp",
     "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
     "lang": "C",
-    "stars": "8204 stars",
+    "stars": "9327 stars",
     "topics": [
       "aider",
       "ast",
@@ -33,70 +107,74 @@
     "url": "https://github.com/google-research/timesfm",
     "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
     "lang": "Python",
-    "stars": "24078 stars",
+    "stars": "24536 stars",
     "topics": []
   },
   {
-    "name": "palmier-io/palmier-pro",
-    "url": "https://github.com/palmier-io/palmier-pro",
-    "desc": "macOS video editor built for AI",
-    "lang": "Swift",
-    "stars": "1885 stars",
+    "name": "twentyhq/twenty",
+    "url": "https://github.com/twentyhq/twenty",
+    "desc": "The open alternative to Salesforce, designed for AI.",
+    "lang": "TypeScript",
+    "stars": "50855 stars",
     "topics": [
-      "ai-video",
+      "crm",
+      "crm-system",
+      "customer",
+      "good-first-issue",
+      "graphql",
+      "hacktoberfest",
+      "javascript",
+      "marketing",
+      "monorepo",
+      "nestjs",
+      "open-source",
+      "postgresql",
+      "react",
+      "reactjs",
+      "sales",
+      "typescript",
+      "web"
+    ]
+  },
+  {
+    "name": "Kong/insomnia",
+    "url": "https://github.com/Kong/insomnia",
+    "desc": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+    "lang": "TypeScript",
+    "stars": "39319 stars",
+    "topics": [
+      "api",
+      "api-client",
+      "api-design",
+      "curl",
+      "electron-app",
+      "graphql",
+      "grpc",
+      "http-client",
+      "rest-api",
+      "websockets"
+    ]
+  },
+  {
+    "name": "tw93/Pake",
+    "url": "https://github.com/tw93/Pake",
+    "desc": "🤱🏻 Turn any webpage into a desktop app with one command.",
+    "lang": "Rust",
+    "stars": "54701 stars",
+    "topics": [
+      "chatgpt",
       "claude",
+      "desktop",
+      "gemini",
+      "hight-performance",
+      "linux",
       "macos",
-      "mcp",
-      "seedance2",
-      "swift",
-      "video-editor"
-    ]
-  },
-  {
-    "name": "koala73/worldmonitor",
-    "url": "https://github.com/koala73/worldmonitor",
-    "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-    "lang": "TypeScript",
-    "stars": "57225 stars",
-    "topics": [
-      "ai",
-      "dashboard",
-      "geopolitics",
-      "monitoring",
-      "news",
-      "opensource",
-      "osint",
-      "palantir",
-      "situation"
-    ]
-  },
-  {
-    "name": "aishwaryanr/awesome-generative-ai-guide",
-    "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
-    "desc": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
-    "lang": "HTML",
-    "stars": "27610 stars",
-    "topics": [
-      "awesome",
-      "awesome-list",
-      "generative-ai",
-      "interview-questions",
-      "large-language-models",
-      "llms",
-      "notebook-jupyter",
-      "vision-and-language"
-    ]
-  },
-  {
-    "name": "BuilderIO/agent-native",
-    "url": "https://github.com/BuilderIO/agent-native",
-    "desc": "A framework for building agent-native applications.",
-    "lang": "TypeScript",
-    "stars": "1035 stars",
-    "topics": [
-      "agents",
-      "ai",
-      "react"
+      "no-electron",
+      "package",
+      "rust",
+      "tauri",
+      "windows",
+      "youtube"
     ]
   },
   {
@@ -104,7 +182,7 @@
     "url": "https://github.com/chopratejas/headroom",
     "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
     "lang": "Python",
-    "stars": "38644 stars",
+    "stars": "41823 stars",
     "topics": [
       "agent",
       "ai",
@@ -129,135 +207,122 @@
     ]
   },
   {
-    "name": "calesthio/OpenMontage",
-    "url": "https://github.com/calesthio/OpenMontage",
-    "desc": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-    "lang": "Python",
-    "stars": "6271 stars",
+    "name": "jamiepine/voicebox",
+    "url": "https://github.com/jamiepine/voicebox",
+    "desc": "The open-source AI voice studio. Clone, dictate, create.",
+    "lang": "TypeScript",
+    "stars": "31008 stars",
     "topics": [
-      "agent",
-      "agentic-ai",
       "ai",
-      "claude",
-      "copilot",
-      "cursor",
-      "elevenlabs",
-      "ffmpeg",
-      "flux",
-      "image-generation",
-      "open-source",
-      "openai",
-      "python",
-      "remotion",
-      "stable-diffusion",
-      "text-to-speech",
-      "text-to-video",
-      "video-generation",
-      "video-production"
+      "cuda",
+      "mlx",
+      "qwen3-tts",
+      "qwen3-tts-ui",
+      "voice-ai",
+      "voice-clone",
+      "whisper"
     ]
   },
   {
-    "name": "zai-org/GLM-5",
-    "url": "https://github.com/zai-org/GLM-5",
-    "desc": "GLM-5: From Vibe Coding to Agentic Engineering",
-    "lang": "Unknown",
-    "stars": "4577 stars",
+    "name": "Kilo-Org/kilocode",
+    "url": "https://github.com/Kilo-Org/kilocode",
+    "desc": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+    "lang": "TypeScript",
+    "stars": "23342 stars",
     "topics": [
-      "agentic-ai",
-      "coding",
-      "llm",
-      "long-horizon"
+      "ai",
+      "ai-age",
+      "ai-coding",
+      "ai-developer-tools",
+      "chatgpt",
+      "claude",
+      "cli",
+      "gemini",
+      "jetbrains",
+      "sonnet",
+      "vscode",
+      "vscode-extension"
     ]
+  },
+  {
+    "name": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+    "lang": "Shell",
+    "stars": "138190 stars",
+    "topics": []
   },
   {
     "name": "withastro/flue",
     "url": "https://github.com/withastro/flue",
     "desc": "The sandbox agent framework.",
     "lang": "TypeScript",
-    "stars": "5828 stars",
+    "stars": "6090 stars",
     "topics": []
   },
   {
-    "name": "n0-computer/iroh",
-    "url": "https://github.com/n0-computer/iroh",
-    "desc": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-    "lang": "Rust",
-    "stars": "10246 stars",
-    "topics": [
-      "does-anyone-read-these",
-      "holepunching",
-      "memes",
-      "multipath",
-      "p2p",
-      "quic",
-      "realtime",
-      "rust",
-      "tags",
-      "tagsoftags"
-    ]
-  },
-  {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "233327 stars",
+    "name": "owainlewis/awesome-artificial-intelligence",
+    "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+    "desc": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+    "lang": "Unknown",
+    "stars": "14772 stars",
     "topics": [
       "ai",
-      "brainstorming",
-      "coding",
-      "obra",
-      "sdlc",
-      "skills",
-      "subagent-driven-development",
-      "superpowers"
+      "artificial-intelligence",
+      "deep-learning",
+      "intelligent-machines",
+      "intelligent-systems",
+      "machine-intelligence",
+      "machine-learning",
+      "neural-network",
+      "reinforcement-learning",
+      "statistical-learning",
+      "unsupervised-learning"
     ]
   },
   {
-    "name": "penpot/penpot",
-    "url": "https://github.com/penpot/penpot",
-    "desc": "Penpot: The open-source design tool for design and code collaboration",
-    "lang": "Clojure",
-    "stars": "50579 stars",
+    "name": "pppscn/SmsForwarder",
+    "url": "https://github.com/pppscn/SmsForwarder",
+    "desc": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
+    "lang": "Kotlin",
+    "stars": "26486 stars",
     "topics": [
-      "clojure",
-      "clojurescript",
-      "design",
-      "prototyping",
-      "ui",
-      "ux-design",
-      "ux-experience"
-    ]
-  },
-  {
-    "name": "Kong/insomnia",
-    "url": "https://github.com/Kong/insomnia",
-    "desc": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
-    "lang": "TypeScript",
-    "stars": "38969 stars",
-    "topics": [
+      "android",
       "api",
-      "api-client",
-      "api-design",
-      "curl",
-      "electron-app",
-      "graphql",
-      "grpc",
-      "http-client",
-      "rest-api",
-      "websockets"
+      "app",
+      "bark",
+      "call",
+      "chatgpt",
+      "dingding",
+      "forward",
+      "mqtt",
+      "pushdear",
+      "pushplus",
+      "serverchan",
+      "sms",
+      "smtp",
+      "telegram",
+      "webhook",
+      "wechatapp"
     ]
   },
   {
-    "name": "Lightricks/LTX-2",
-    "url": "https://github.com/Lightricks/LTX-2",
-    "desc": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
-    "lang": "Python",
-    "stars": "7666 stars",
+    "name": "1jehuang/jcode",
+    "url": "https://github.com/1jehuang/jcode",
+    "desc": "Coding Agent Harness",
+    "lang": "Rust",
+    "stars": "7391 stars",
     "topics": [
-      "generative-ai",
-      "ltx",
-      "ltx-2"
+      "ai",
+      "claude",
+      "cli",
+      "coding-agent",
+      "llm",
+      "mcp",
+      "openai",
+      "rust",
+      "terminal",
+      "tui"
     ]
   }
 ]

@@ -4,7 +4,7 @@
     "url": "https://github.com/calesthio/OpenMontage",
     "desc": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
     "lang": "Python",
-    "stars": "11961 stars",
+    "stars": "15555 stars",
     "topics": [
       "agent",
       "agentic-ai",
@@ -28,36 +28,19 @@
     ]
   },
   {
-    "name": "palmier-io/palmier-pro",
-    "url": "https://github.com/palmier-io/palmier-pro",
-    "desc": "macOS video editor built for AI",
-    "lang": "Swift",
-    "stars": "7313 stars",
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "lang": "Python",
+    "stars": "47002 stars",
     "topics": [
-      "ai-video",
-      "claude",
-      "macos",
-      "mcp",
-      "seedance2",
-      "swift",
-      "video-editor"
-    ]
-  },
-  {
-    "name": "jamiepine/voicebox",
-    "url": "https://github.com/jamiepine/voicebox",
-    "desc": "The open-source AI voice studio. Clone, dictate, create.",
-    "lang": "TypeScript",
-    "stars": "32208 stars",
-    "topics": [
-      "ai",
-      "cuda",
-      "mlx",
-      "qwen3-tts",
-      "qwen3-tts-ui",
-      "voice-ai",
-      "voice-clone",
-      "whisper"
+      "a-stock",
+      "ai-agent",
+      "aigc",
+      "llm",
+      "quant",
+      "quantitative-finance",
+      "quantitative-trading"
     ]
   },
   {
@@ -65,7 +48,7 @@
     "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
     "desc": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
     "lang": "Python",
-    "stars": "18660 stars",
+    "stars": "19652 stars",
     "topics": [
       "ai-agents",
       "claude-code",
@@ -90,91 +73,19 @@
     ]
   },
   {
-    "name": "penpot/penpot",
-    "url": "https://github.com/penpot/penpot",
-    "desc": "Penpot: The open-source design tool for design and code collaboration",
-    "lang": "Clojure",
-    "stars": "52855 stars",
-    "topics": [
-      "clojure",
-      "clojurescript",
-      "design",
-      "prototyping",
-      "ui",
-      "ux-design",
-      "ux-experience"
-    ]
-  },
-  {
-    "name": "Stirling-Tools/Stirling-PDF",
-    "url": "https://github.com/Stirling-Tools/Stirling-PDF",
-    "desc": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
-    "lang": "TypeScript",
-    "stars": "82877 stars",
-    "topics": [
-      "docker",
-      "hacktoberfest",
-      "java",
-      "pdf",
-      "pdf-converter",
-      "pdf-editor",
-      "pdf-manipulation",
-      "pdf-merger",
-      "pdf-ocr",
-      "pdf-tools",
-      "pdf-web-apps",
-      "pdfmerger",
-      "self-hosted"
-    ]
-  },
-  {
     "name": "garrytan/gstack",
     "url": "https://github.com/garrytan/gstack",
     "desc": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
     "lang": "TypeScript",
-    "stars": "113125 stars",
+    "stars": "114039 stars",
     "topics": []
-  },
-  {
-    "name": "heygen-com/hyperframes",
-    "url": "https://github.com/heygen-com/hyperframes",
-    "desc": "Write HTML. Render video. Built for agents.",
-    "lang": "TypeScript",
-    "stars": "29966 stars",
-    "topics": [
-      "ai",
-      "animation",
-      "ffmpeg",
-      "framework",
-      "gsap",
-      "html",
-      "mcp",
-      "puppeteer",
-      "rendering",
-      "typescript",
-      "video"
-    ]
-  },
-  {
-    "name": "tursodatabase/turso",
-    "url": "https://github.com/tursodatabase/turso",
-    "desc": "Turso is an in-process SQL database, compatible with SQLite.",
-    "lang": "Rust",
-    "stars": "21461 stars",
-    "topics": [
-      "database",
-      "embedded-database",
-      "sql",
-      "sqlite3",
-      "webassembly"
-    ]
   },
   {
     "name": "bytedance/deer-flow",
     "url": "https://github.com/bytedance/deer-flow",
     "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
     "lang": "Python",
-    "stars": "73225 stars",
+    "stars": "73882 stars",
     "topics": [
       "agent",
       "agentic",
@@ -197,11 +108,156 @@
     ]
   },
   {
+    "name": "koala73/worldmonitor",
+    "url": "https://github.com/koala73/worldmonitor",
+    "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "lang": "TypeScript",
+    "stars": "59066 stars",
+    "topics": [
+      "ai",
+      "dashboard",
+      "geopolitics",
+      "monitoring",
+      "news",
+      "opensource",
+      "osint",
+      "palantir",
+      "situation"
+    ]
+  },
+  {
+    "name": "palmier-io/palmier-pro",
+    "url": "https://github.com/palmier-io/palmier-pro",
+    "desc": "macOS video editor built for AI",
+    "lang": "Swift",
+    "stars": "8398 stars",
+    "topics": [
+      "ai-video",
+      "claude",
+      "macos",
+      "mcp",
+      "seedance2",
+      "swift",
+      "video-editor"
+    ]
+  },
+  {
+    "name": "anthropics/claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "lang": "Python",
+    "stars": "30827 stars",
+    "topics": [
+      "claude-code",
+      "mcp",
+      "skills"
+    ]
+  },
+  {
+    "name": "shanraisshan/claude-code-best-practice",
+    "url": "https://github.com/shanraisshan/claude-code-best-practice",
+    "desc": "from vibe coding to agentic engineering - practice makes claude perfect",
+    "lang": "HTML",
+    "stars": "59414 stars",
+    "topics": [
+      "agentic-ai",
+      "agentic-coding",
+      "agentic-engineering",
+      "agentic-workflow",
+      "ai",
+      "ai-agents",
+      "anthropic",
+      "best-practices",
+      "boris",
+      "claude",
+      "claude-ai",
+      "claude-code",
+      "claude-code-agents",
+      "claude-code-best-practices",
+      "claude-code-commands",
+      "claude-code-skills",
+      "context-engineering",
+      "pakistan",
+      "pakistani-developer",
+      "vibe-coding"
+    ]
+  },
+  {
+    "name": "revfactory/harness",
+    "url": "https://github.com/revfactory/harness",
+    "desc": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+    "lang": "HTML",
+    "stars": "7433 stars",
+    "topics": [
+      "claude-code",
+      "claude-code-plugin",
+      "harness",
+      "harness-engineering"
+    ]
+  },
+  {
+    "name": "jamiepine/voicebox",
+    "url": "https://github.com/jamiepine/voicebox",
+    "desc": "The open-source AI voice studio. Clone, dictate, create.",
+    "lang": "TypeScript",
+    "stars": "33113 stars",
+    "topics": [
+      "ai",
+      "cuda",
+      "mlx",
+      "qwen3-tts",
+      "qwen3-tts-ui",
+      "voice-ai",
+      "voice-clone",
+      "whisper"
+    ]
+  },
+  {
+    "name": "JCodesMore/ai-website-cloner-template",
+    "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+    "desc": "Clone any website with one command using AI coding agents",
+    "lang": "TypeScript",
+    "stars": "18526 stars",
+    "topics": [
+      "ai",
+      "ai-agents",
+      "ai-tools",
+      "automation",
+      "boilerplate",
+      "claude",
+      "claude-code",
+      "clone",
+      "developer-tools",
+      "nextjs",
+      "react",
+      "reverse-engineering",
+      "shadcn-ui",
+      "skills",
+      "tailwindcss",
+      "template",
+      "typescript",
+      "web-scraping",
+      "website-clone"
+    ]
+  },
+  {
+    "name": "byoungd/English-level-up-tips",
+    "url": "https://github.com/byoungd/English-level-up-tips",
+    "desc": "An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+    "lang": "Unknown",
+    "stars": "54485 stars",
+    "topics": [
+      "chinese",
+      "english-learning",
+      "tutorial"
+    ]
+  },
+  {
     "name": "DeusData/codebase-memory-mcp",
     "url": "https://github.com/DeusData/codebase-memory-mcp",
     "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
     "lang": "C",
-    "stars": "11512 stars",
+    "stars": "12856 stars",
     "topics": [
       "aider",
       "ast",
@@ -226,105 +282,45 @@
     ]
   },
   {
-    "name": "ZhuLinsen/daily_stock_analysis",
-    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-    "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "name": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "desc": "The agent that grows with you",
     "lang": "Python",
-    "stars": "45788 stars",
+    "stars": "200904 stars",
     "topics": [
-      "a-stock",
+      "ai",
       "ai-agent",
-      "aigc",
-      "llm",
-      "quant",
-      "quantitative-finance",
-      "quantitative-trading"
-    ]
-  },
-  {
-    "name": "firecrawl/firecrawl",
-    "url": "https://github.com/firecrawl/firecrawl",
-    "desc": "The API to search, scrape, and interact with the web at scale. 🔥",
-    "lang": "TypeScript",
-    "stars": "137249 stars",
-    "topics": [
-      "ai",
       "ai-agents",
-      "ai-crawler",
-      "ai-scraping",
-      "ai-search",
-      "crawler",
-      "data-extraction",
-      "html-to-markdown",
-      "llm",
-      "markdown",
-      "scraper",
-      "scraping",
-      "web-crawler",
-      "web-data",
-      "web-data-extraction",
-      "web-scraper",
-      "web-scraping",
-      "web-search",
-      "webscraping"
-    ]
-  },
-  {
-    "name": "JCodesMore/ai-website-cloner-template",
-    "url": "https://github.com/JCodesMore/ai-website-cloner-template",
-    "desc": "Clone any website with one command using AI coding agents",
-    "lang": "TypeScript",
-    "stars": "17707 stars",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-tools",
-      "automation",
-      "boilerplate",
+      "anthropic",
+      "chatgpt",
       "claude",
       "claude-code",
-      "clone",
-      "developer-tools",
-      "nextjs",
-      "react",
-      "reverse-engineering",
-      "shadcn-ui",
-      "skills",
-      "tailwindcss",
-      "template",
-      "typescript",
-      "web-scraping",
-      "website-clone"
-    ]
-  },
-  {
-    "name": "lyogavin/airllm",
-    "url": "https://github.com/lyogavin/airllm",
-    "desc": "AirLLM 70B inference with single 4GB GPU",
-    "lang": "Jupyter Notebook",
-    "stars": "21037 stars",
-    "topics": [
-      "chinese-llm",
-      "chinese-nlp",
-      "finetune",
-      "generative-ai",
-      "instruct-gpt",
-      "instruction-set",
-      "llama",
+      "clawdbot",
+      "codex",
+      "hermes",
+      "hermes-agent",
       "llm",
-      "lora",
-      "open-models",
-      "open-source",
-      "open-source-models",
-      "qlora"
+      "moltbot",
+      "nous-research",
+      "openai",
+      "openclaw"
     ]
   },
   {
-    "name": "mattpocock/skills",
-    "url": "https://github.com/mattpocock/skills",
-    "desc": "Skills for Real Engineers. Straight from my .claude directory.",
-    "lang": "Shell",
-    "stars": "141596 stars",
-    "topics": []
+    "name": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "lang": "JavaScript",
+    "stars": "220513 stars",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ]
   }
 ]

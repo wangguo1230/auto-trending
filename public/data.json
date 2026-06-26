@@ -1,10 +1,18 @@
 [
   {
+    "name": "google-labs-code/design.md",
+    "url": "https://github.com/google-labs-code/design.md",
+    "desc": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+    "lang": "TypeScript",
+    "stars": "19143 stars",
+    "topics": []
+  },
+  {
     "name": "calesthio/OpenMontage",
     "url": "https://github.com/calesthio/OpenMontage",
     "desc": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
     "lang": "Python",
-    "stars": "19304 stars",
+    "stars": "22026 stars",
     "topics": [
       "agent",
       "agentic-ai",
@@ -28,19 +36,59 @@
     ]
   },
   {
-    "name": "ZhuLinsen/daily_stock_analysis",
-    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-    "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+    "name": "xbtlin/ai-berkshire",
+    "url": "https://github.com/xbtlin/ai-berkshire",
+    "desc": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
     "lang": "Python",
-    "stars": "48460 stars",
+    "stars": "1836 stars",
     "topics": [
-      "a-stock",
+      "ai",
       "ai-agent",
-      "aigc",
+      "anthropic",
+      "berkshire-hathaway",
+      "charlie-munger",
+      "china-stock",
+      "claude",
+      "claude-code",
+      "financial-analysis",
+      "fintech",
+      "fundamental-analysis",
+      "investment",
+      "investment-research",
       "llm",
-      "quant",
-      "quantitative-finance",
-      "quantitative-trading"
+      "mcp",
+      "portfolio-management",
+      "stock-analysis",
+      "stock-market",
+      "value-investing",
+      "warren-buffett"
+    ]
+  },
+  {
+    "name": "mauriceboe/TREK",
+    "url": "https://github.com/mauriceboe/TREK",
+    "desc": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+    "lang": "TypeScript",
+    "stars": "6626 stars",
+    "topics": [
+      "budget-tracker",
+      "collaborative",
+      "open-source",
+      "opensource",
+      "packing-list",
+      "poi",
+      "real-time",
+      "routes",
+      "self-hosted",
+      "travel",
+      "travel-app",
+      "travel-planner",
+      "traveling",
+      "trip",
+      "trip-planner",
+      "wanderlog",
+      "wanderlust",
+      "webapplication"
     ]
   },
   {
@@ -48,15 +96,7 @@
     "url": "https://github.com/apple/container",
     "desc": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. ",
     "lang": "Swift",
-    "stars": "42194 stars",
-    "topics": []
-  },
-  {
-    "name": "interviewstreet/hiring-agent",
-    "url": "https://github.com/interviewstreet/hiring-agent",
-    "desc": "AI agent to evaluate and score resumes.",
-    "lang": "Python",
-    "stars": "2139 stars",
+    "stars": "43193 stars",
     "topics": []
   },
   {
@@ -64,7 +104,7 @@
     "url": "https://github.com/JCodesMore/ai-website-cloner-template",
     "desc": "Clone any website with one command using AI coding agents",
     "lang": "TypeScript",
-    "stars": "19281 stars",
+    "stars": "20401 stars",
     "topics": [
       "ai",
       "ai-agents",
@@ -88,132 +128,173 @@
     ]
   },
   {
-    "name": "revfactory/harness",
-    "url": "https://github.com/revfactory/harness",
-    "desc": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-    "lang": "HTML",
-    "stars": "7717 stars",
-    "topics": [
-      "claude-code",
-      "claude-code-plugin",
-      "harness",
-      "harness-engineering"
-    ]
-  },
-  {
-    "name": "flutter/flutter",
-    "url": "https://github.com/flutter/flutter",
-    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
-    "lang": "Dart",
-    "stars": "177288 stars",
-    "topics": [
-      "android",
-      "app-framework",
-      "cross-platform",
-      "dart",
-      "dart-platform",
-      "desktop",
-      "flutter",
-      "flutter-package",
-      "fuchsia",
-      "ios",
-      "linux-desktop",
-      "macos",
-      "material-design",
-      "mobile",
-      "mobile-development",
-      "skia",
-      "web",
-      "web-framework",
-      "windows"
-    ]
-  },
-  {
-    "name": "andreknieriem/headunit-revived",
-    "url": "https://github.com/andreknieriem/headunit-revived",
-    "desc": "Headunit App for displaying Android Auto",
-    "lang": "Kotlin",
-    "stars": "1411 stars",
-    "topics": [
-      "android",
-      "androidauto",
-      "headunit"
-    ]
-  },
-  {
-    "name": "stablyai/orca",
-    "url": "https://github.com/stablyai/orca",
-    "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+    "name": "every-app/open-seo",
+    "url": "https://github.com/every-app/open-seo",
+    "desc": "Open source alternative to Semrush and Ahrefs",
     "lang": "TypeScript",
-    "stars": "6757 stars",
+    "stars": "2502 stars",
     "topics": [
-      "ade",
-      "agent-ide",
+      "backlink-analysis",
+      "google-search-console-mcp",
+      "keyword-research",
+      "mcp",
+      "seo",
+      "seo-tools",
+      "site-audit"
+    ]
+  },
+  {
+    "name": "garrytan/gstack",
+    "url": "https://github.com/garrytan/gstack",
+    "desc": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "lang": "TypeScript",
+    "stars": "115779 stars",
+    "topics": []
+  },
+  {
+    "name": "aws/agent-toolkit-for-aws",
+    "url": "https://github.com/aws/agent-toolkit-for-aws",
+    "desc": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+    "lang": "Python",
+    "stars": "1126 stars",
+    "topics": []
+  },
+  {
+    "name": "mukul975/Anthropic-Cybersecurity-Skills",
+    "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "desc": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+    "lang": "Python",
+    "stars": "21210 stars",
+    "topics": [
       "ai-agents",
       "claude-code",
-      "cli",
-      "codex",
-      "cursor-agent",
-      "devtools",
-      "ghostty",
-      "ide",
-      "mobile-app",
-      "opencode",
-      "orchestration",
-      "parallel-agents",
-      "pi",
-      "terminal",
-      "worktrees",
-      "yc-backed"
+      "cloud-security",
+      "cybersecurity",
+      "devsecops",
+      "ethical-hacking",
+      "incident-response",
+      "infosec",
+      "llm",
+      "malware-analysis",
+      "mcp",
+      "mitre-attack",
+      "nist-csf",
+      "osint",
+      "penetration-testing",
+      "red-team",
+      "security",
+      "security-automation",
+      "threat-hunting",
+      "threat-intelligence"
     ]
   },
   {
-    "name": "google-labs-code/design.md",
-    "url": "https://github.com/google-labs-code/design.md",
-    "desc": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+    "name": "alibaba/page-agent",
+    "url": "https://github.com/alibaba/page-agent",
+    "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
     "lang": "TypeScript",
-    "stars": "17304 stars",
-    "topics": []
-  },
-  {
-    "name": "Flowseal/zapret-discord-youtube",
-    "url": "https://github.com/Flowseal/zapret-discord-youtube",
-    "desc": "<div align=\"center\"> **NEW**: Ускорение Telegram Desktop - https://github.com/Flowseal/tg-ws-proxy",
-    "lang": "Batchfile",
-    "stars": "30025 stars",
-    "topics": []
-  },
-  {
-    "name": "kunchenguid/no-mistakes",
-    "url": "https://github.com/kunchenguid/no-mistakes",
-    "desc": "git push no-mistakes",
-    "lang": "Go",
-    "stars": "2072 stars",
-    "topics": []
-  },
-  {
-    "name": "NousResearch/hermes-agent",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "desc": "The agent that grows with you",
-    "lang": "Python",
-    "stars": "202034 stars",
+    "stars": "19791 stars",
     "topics": [
+      "agent",
       "ai",
-      "ai-agent",
+      "ai-agents",
+      "browser-automation",
+      "javascript",
+      "mcp",
+      "typescript",
+      "web"
+    ]
+  },
+  {
+    "name": "IceWhaleTech/CasaOS",
+    "url": "https://github.com/IceWhaleTech/CasaOS",
+    "desc": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+    "lang": "Go",
+    "stars": "34803 stars",
+    "topics": [
+      "casaos",
+      "docker",
+      "golang",
+      "home-automation",
+      "home-cloud",
+      "home-server",
+      "iot",
+      "raspberry",
+      "self-hosted",
+      "vuejs"
+    ]
+  },
+  {
+    "name": "opendatalab/MinerU",
+    "url": "https://github.com/opendatalab/MinerU",
+    "desc": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+    "lang": "Python",
+    "stars": "69548 stars",
+    "topics": [
+      "ai4science",
+      "document-analysis",
+      "docx",
+      "extract-data",
+      "layout-analysis",
+      "ocr",
+      "parser",
+      "pdf",
+      "pdf-converter",
+      "pdf-extractor-llm",
+      "pdf-extractor-pretrain",
+      "pdf-extractor-rag",
+      "pdf-parser",
+      "pptx",
+      "python",
+      "xlsx"
+    ]
+  },
+  {
+    "name": "Free-TV/IPTV",
+    "url": "https://github.com/Free-TV/IPTV",
+    "desc": "M3U Playlist for free TV channels",
+    "lang": "Python",
+    "stars": "18194 stars",
+    "topics": [
+      "help-wanted",
+      "looking-for-contributors"
+    ]
+  },
+  {
+    "name": "shanraisshan/claude-code-best-practice",
+    "url": "https://github.com/shanraisshan/claude-code-best-practice",
+    "desc": "from vibe coding to agentic engineering - practice makes claude perfect",
+    "lang": "HTML",
+    "stars": "60509 stars",
+    "topics": [
+      "agentic-ai",
+      "agentic-coding",
+      "agentic-engineering",
+      "agentic-workflow",
+      "ai",
       "ai-agents",
       "anthropic",
-      "chatgpt",
+      "best-practices",
+      "boris",
       "claude",
+      "claude-ai",
       "claude-code",
-      "clawdbot",
-      "codex",
-      "hermes",
-      "hermes-agent",
-      "llm",
-      "moltbot",
-      "nous-research",
-      "openai",
-      "openclaw"
+      "claude-code-agents",
+      "claude-code-best-practices",
+      "claude-code-commands",
+      "claude-code-skills",
+      "context-engineering",
+      "pakistan",
+      "pakistani-developer",
+      "vibe-coding"
     ]
+  },
+  {
+    "name": "NanmiCoder/MediaCrawler",
+    "url": "https://github.com/NanmiCoder/MediaCrawler",
+    "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫",
+    "lang": "Python",
+    "stars": "52734 stars",
+    "topics": []
   }
 ]

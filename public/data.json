@@ -4,7 +4,7 @@
     "url": "https://github.com/simplex-chat/simplex-chat",
     "desc": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
     "lang": "Haskell",
-    "stars": "12526 stars",
+    "stars": "13809 stars",
     "topics": [
       "chat",
       "double-ratchet",
@@ -18,134 +18,11 @@
     ]
   },
   {
-    "name": "google-labs-code/design.md",
-    "url": "https://github.com/google-labs-code/design.md",
-    "desc": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-    "lang": "TypeScript",
-    "stars": "21222 stars",
-    "topics": []
-  },
-  {
-    "name": "commaai/openpilot",
-    "url": "https://github.com/commaai/openpilot",
-    "desc": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-    "lang": "Python",
-    "stars": "61773 stars",
-    "topics": [
-      "advanced-driver-assistance-systems",
-      "driver-assistance-systems",
-      "robotics"
-    ]
-  },
-  {
-    "name": "kunchenguid/no-mistakes",
-    "url": "https://github.com/kunchenguid/no-mistakes",
-    "desc": "git push no-mistakes",
-    "lang": "Go",
-    "stars": "3412 stars",
-    "topics": []
-  },
-  {
-    "name": "grafana/grafana",
-    "url": "https://github.com/grafana/grafana",
-    "desc": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ",
-    "lang": "TypeScript",
-    "stars": "74887 stars",
-    "topics": [
-      "alerting",
-      "analytics",
-      "business-intelligence",
-      "dashboard",
-      "data-visualization",
-      "elasticsearch",
-      "go",
-      "grafana",
-      "hacktoberfest",
-      "influxdb",
-      "metrics",
-      "monitoring",
-      "mysql",
-      "postgres",
-      "prometheus"
-    ]
-  },
-  {
-    "name": "ripienaar/free-for-dev",
-    "url": "https://github.com/ripienaar/free-for-dev",
-    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-    "lang": "HTML",
-    "stars": "123720 stars",
-    "topics": [
-      "awesome-list",
-      "free-for-developers"
-    ]
-  },
-  {
-    "name": "opendatalab/MinerU",
-    "url": "https://github.com/opendatalab/MinerU",
-    "desc": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
-    "lang": "Python",
-    "stars": "70405 stars",
-    "topics": [
-      "ai4science",
-      "document-analysis",
-      "docx",
-      "extract-data",
-      "layout-analysis",
-      "ocr",
-      "parser",
-      "pdf",
-      "pdf-converter",
-      "pdf-extractor-llm",
-      "pdf-extractor-pretrain",
-      "pdf-extractor-rag",
-      "pdf-parser",
-      "pptx",
-      "python",
-      "xlsx"
-    ]
-  },
-  {
-    "name": "alchaincyf/zhangxuefeng-skill",
-    "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
-    "desc": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
-    "lang": "Unknown",
-    "stars": "9244 stars",
-    "topics": []
-  },
-  {
-    "name": "mauriceboe/TREK",
-    "url": "https://github.com/mauriceboe/TREK",
-    "desc": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
-    "lang": "TypeScript",
-    "stars": "7647 stars",
-    "topics": [
-      "budget-tracker",
-      "collaborative",
-      "open-source",
-      "opensource",
-      "packing-list",
-      "poi",
-      "real-time",
-      "routes",
-      "self-hosted",
-      "travel",
-      "travel-app",
-      "travel-planner",
-      "traveling",
-      "trip",
-      "trip-planner",
-      "wanderlog",
-      "wanderlust",
-      "webapplication"
-    ]
-  },
-  {
     "name": "xbtlin/ai-berkshire",
     "url": "https://github.com/xbtlin/ai-berkshire",
     "desc": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
     "lang": "Python",
-    "stars": "3101 stars",
+    "stars": "4089 stars",
     "topics": [
       "ai",
       "ai-agent",
@@ -170,63 +47,23 @@
     ]
   },
   {
-    "name": "calesthio/OpenMontage",
-    "url": "https://github.com/calesthio/OpenMontage",
-    "desc": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "name": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
     "lang": "Python",
-    "stars": "23590 stars",
+    "stars": "62064 stars",
     "topics": [
-      "agent",
-      "agentic-ai",
-      "ai",
-      "claude",
-      "copilot",
-      "cursor",
-      "elevenlabs",
-      "ffmpeg",
-      "flux",
-      "image-generation",
-      "open-source",
-      "openai",
-      "python",
-      "remotion",
-      "stable-diffusion",
-      "text-to-speech",
-      "text-to-video",
-      "video-generation",
-      "video-production"
+      "advanced-driver-assistance-systems",
+      "driver-assistance-systems",
+      "robotics"
     ]
-  },
-  {
-    "name": "aws/agent-toolkit-for-aws",
-    "url": "https://github.com/aws/agent-toolkit-for-aws",
-    "desc": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-    "lang": "Python",
-    "stars": "1348 stars",
-    "topics": []
-  },
-  {
-    "name": "NanmiCoder/MediaCrawler",
-    "url": "https://github.com/NanmiCoder/MediaCrawler",
-    "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫",
-    "lang": "Python",
-    "stars": "53342 stars",
-    "topics": []
-  },
-  {
-    "name": "garrytan/gstack",
-    "url": "https://github.com/garrytan/gstack",
-    "desc": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-    "lang": "TypeScript",
-    "stars": "116619 stars",
-    "topics": []
   },
   {
     "name": "IceWhaleTech/CasaOS",
     "url": "https://github.com/IceWhaleTech/CasaOS",
     "desc": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
     "lang": "Go",
-    "stars": "35361 stars",
+    "stars": "35776 stars",
     "topics": [
       "casaos",
       "docker",
@@ -241,11 +78,70 @@
     ]
   },
   {
+    "name": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML",
+    "stars": "124162 stars",
+    "topics": [
+      "awesome-list",
+      "free-for-developers"
+    ]
+  },
+  {
+    "name": "google-labs-code/design.md",
+    "url": "https://github.com/google-labs-code/design.md",
+    "desc": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+    "lang": "TypeScript",
+    "stars": "22317 stars",
+    "topics": []
+  },
+  {
+    "name": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+    "lang": "C",
+    "stars": "135698 stars",
+    "topics": [
+      "advanced-paste",
+      "color-picker",
+      "command-palette",
+      "desktop",
+      "fancyzones",
+      "keyboard-manager",
+      "microsoft-powertoys",
+      "powerrename",
+      "powertoys",
+      "windows",
+      "windows-10",
+      "windows-11"
+    ]
+  },
+  {
+    "name": "hugohe3/ppt-master",
+    "url": "https://github.com/hugohe3/ppt-master",
+    "desc": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
+    "lang": "Python",
+    "stars": "33053 stars",
+    "topics": [
+      "ai-agent",
+      "aippt",
+      "office",
+      "powerpoint",
+      "powerpoint-generation",
+      "ppt",
+      "pptx",
+      "presentation",
+      "slide",
+      "slides"
+    ]
+  },
+  {
     "name": "JCodesMore/ai-website-cloner-template",
     "url": "https://github.com/JCodesMore/ai-website-cloner-template",
     "desc": "Clone any website with one command using AI coding agents",
     "lang": "TypeScript",
-    "stars": "21349 stars",
+    "stars": "22103 stars",
     "topics": [
       "ai",
       "ai-agents",
@@ -269,29 +165,178 @@
     ]
   },
   {
-    "name": "Panniantong/Agent-Reach",
-    "url": "https://github.com/Panniantong/Agent-Reach",
-    "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "name": "garrytan/gstack",
+    "url": "https://github.com/garrytan/gstack",
+    "desc": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "lang": "TypeScript",
+    "stars": "117231 stars",
+    "topics": []
+  },
+  {
+    "name": "NanmiCoder/MediaCrawler",
+    "url": "https://github.com/NanmiCoder/MediaCrawler",
+    "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫",
     "lang": "Python",
-    "stars": "42323 stars",
+    "stars": "53763 stars",
+    "topics": []
+  },
+  {
+    "name": "Anil-matcha/Open-Generative-AI",
+    "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+    "desc": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+    "lang": "JavaScript",
+    "stars": "21372 stars",
     "topics": [
-      "agent-infrastructure",
-      "ai-agent",
-      "ai-search",
-      "automation",
-      "bilibili",
+      "ai-art-generator",
+      "ai-image-generation",
+      "ai-video-generation",
+      "creative-tools",
+      "flux",
+      "flux-1",
+      "generative-ai",
+      "image-to-video",
+      "javascript",
+      "kling-ai",
+      "lipsync",
+      "midjourney-alternative",
+      "muapi",
+      "open-source",
+      "seedance2",
+      "sora-alternative",
+      "text-to-image",
+      "text-to-video",
+      "uncensored",
+      "wan-video"
+    ]
+  },
+  {
+    "name": "topoteretes/cognee",
+    "url": "https://github.com/topoteretes/cognee",
+    "desc": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
+    "lang": "Python",
+    "stars": "23990 stars",
+    "topics": [
+      "agent-memory",
+      "agent-skills",
+      "ai",
+      "ai-agents",
+      "ai-memory",
+      "cognitive-architecture",
+      "cognitive-memory",
+      "context-engineering",
+      "contributions-welcome",
+      "good-first-issue",
+      "good-first-pr",
+      "graph-database",
+      "graph-rag",
+      "help-wanted",
+      "knowledge",
+      "knowledge-graph",
+      "memory-management",
+      "open-source",
+      "vector-database"
+    ]
+  },
+  {
+    "name": "dbt-labs/dbt-core",
+    "url": "https://github.com/dbt-labs/dbt-core",
+    "desc": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+    "lang": "Rust",
+    "stars": "13214 stars",
+    "topics": [
+      "analytics",
+      "business-intelligence",
+      "data-modeling",
+      "dbt-viewpoint",
+      "elt",
+      "pypa",
+      "slack"
+    ]
+  },
+  {
+    "name": "luongnv89/claude-howto",
+    "url": "https://github.com/luongnv89/claude-howto",
+    "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+    "lang": "Python",
+    "stars": "38614 stars",
+    "topics": [
       "claude-code",
-      "cli",
-      "cursor",
-      "free-api",
-      "llm-tools",
+      "guide",
+      "tutorial"
+    ]
+  },
+  {
+    "name": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "desc": "The open source coding agent.",
+    "lang": "TypeScript",
+    "stars": "179737 stars",
+    "topics": []
+  },
+  {
+    "name": "Fission-AI/OpenSpec",
+    "url": "https://github.com/Fission-AI/OpenSpec",
+    "desc": "Spec-driven development (SDD) for AI coding assistants.",
+    "lang": "TypeScript",
+    "stars": "57112 stars",
+    "topics": [
+      "ai",
+      "context-engineering",
+      "engineering",
+      "planning",
+      "prd",
+      "sdd",
+      "sdlc",
+      "spec",
+      "spec-driven-development",
+      "specification"
+    ]
+  },
+  {
+    "name": "HKUDS/Vibe-Trading",
+    "url": "https://github.com/HKUDS/Vibe-Trading",
+    "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "lang": "Python",
+    "stars": "13700 stars",
+    "topics": [
+      "ai-agent",
+      "algorithmic-trading",
+      "backtesting",
+      "fintech",
+      "llm",
       "mcp",
+      "multi-agent",
       "python",
-      "reddit-scraper",
-      "twitter-scraper",
-      "web-scraper",
-      "xiaohongshu",
-      "youtube-transcript"
+      "quantitative-finance",
+      "trading"
+    ]
+  },
+  {
+    "name": "keycloak/keycloak",
+    "url": "https://github.com/keycloak/keycloak",
+    "desc": "Open Source Identity and Access Management For Modern Applications and Services",
+    "lang": "Java",
+    "stars": "35262 stars",
+    "topics": [
+      "keycloak",
+      "oidc",
+      "saml"
+    ]
+  },
+  {
+    "name": "every-app/open-seo",
+    "url": "https://github.com/every-app/open-seo",
+    "desc": "Open source alternative to Semrush and Ahrefs",
+    "lang": "TypeScript",
+    "stars": "3374 stars",
+    "topics": [
+      "backlink-analysis",
+      "google-search-console-mcp",
+      "keyword-research",
+      "mcp",
+      "seo",
+      "seo-tools",
+      "site-audit"
     ]
   }
 ]

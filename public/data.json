@@ -4,7 +4,7 @@
     "url": "https://github.com/simplex-chat/simplex-chat",
     "desc": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
     "lang": "Haskell",
-    "stars": "14969 stars",
+    "stars": "16546 stars",
     "topics": [
       "chat",
       "double-ratchet",
@@ -18,100 +18,19 @@
     ]
   },
   {
-    "name": "ripienaar/free-for-dev",
-    "url": "https://github.com/ripienaar/free-for-dev",
-    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-    "lang": "HTML",
-    "stars": "125186 stars",
-    "topics": [
-      "awesome-list",
-      "free-for-developers"
-    ]
-  },
-  {
-    "name": "commaai/openpilot",
-    "url": "https://github.com/commaai/openpilot",
-    "desc": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-    "lang": "Python",
-    "stars": "62371 stars",
-    "topics": [
-      "advanced-driver-assistance-systems",
-      "driver-assistance-systems",
-      "robotics"
-    ]
-  },
-  {
-    "name": "xbtlin/ai-berkshire",
-    "url": "https://github.com/xbtlin/ai-berkshire",
-    "desc": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-    "lang": "Python",
-    "stars": "5257 stars",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "anthropic",
-      "berkshire-hathaway",
-      "charlie-munger",
-      "china-stock",
-      "claude",
-      "claude-code",
-      "financial-analysis",
-      "fintech",
-      "fundamental-analysis",
-      "investment",
-      "investment-research",
-      "llm",
-      "mcp",
-      "portfolio-management",
-      "stock-analysis",
-      "stock-market",
-      "value-investing",
-      "warren-buffett"
-    ]
-  },
-  {
-    "name": "Robbyant/lingbot-map",
-    "url": "https://github.com/Robbyant/lingbot-map",
-    "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-    "lang": "Python",
-    "stars": "8209 stars",
+    "name": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "lang": "Shell",
+    "stars": "118844 stars",
     "topics": []
-  },
-  {
-    "name": "DeusData/codebase-memory-mcp",
-    "url": "https://github.com/DeusData/codebase-memory-mcp",
-    "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-    "lang": "C",
-    "stars": "19593 stars",
-    "topics": [
-      "aider",
-      "ast",
-      "claude-code",
-      "code-analysis",
-      "code-intelligence",
-      "codex",
-      "cursor",
-      "cypher",
-      "developer-tools",
-      "gemini-cli",
-      "graph-visualization",
-      "kilocode",
-      "knowledge-graph",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "opencode",
-      "sqlite",
-      "tree-sitter",
-      "windsurf"
-    ]
   },
   {
     "name": "cupy/cupy",
     "url": "https://github.com/cupy/cupy",
     "desc": "NumPy & SciPy for GPU",
     "lang": "Python",
-    "stars": "11505 stars",
+    "stars": "11812 stars",
     "topics": [
       "cublas",
       "cuda",
@@ -138,32 +57,163 @@
     "url": "https://github.com/altic-dev/FluidVoice",
     "desc": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :)) ",
     "lang": "Swift",
-    "stars": "3706 stars",
+    "stars": "4369 stars",
     "topics": []
   },
   {
-    "name": "opendatalab/MinerU",
-    "url": "https://github.com/opendatalab/MinerU",
-    "desc": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+    "name": "soxoj/maigret",
+    "url": "https://github.com/soxoj/maigret",
+    "desc": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
     "lang": "Python",
-    "stars": "71560 stars",
+    "stars": "34355 stars",
     "topics": [
-      "ai4science",
-      "document-analysis",
-      "docx",
-      "extract-data",
-      "layout-analysis",
-      "ocr",
-      "parser",
-      "pdf",
-      "pdf-converter",
-      "pdf-extractor-llm",
-      "pdf-extractor-pretrain",
-      "pdf-extractor-rag",
-      "pdf-parser",
-      "pptx",
+      "cli",
+      "cybersecurity",
+      "identification",
+      "information-gathering",
+      "infosec",
+      "investigation",
+      "open-source",
+      "osint",
+      "osint-framework",
+      "osint-python",
+      "pentesting",
       "python",
-      "xlsx"
+      "python3",
+      "reconnaissance",
+      "redteam",
+      "scraping",
+      "sherlock",
+      "social-network",
+      "socmint",
+      "username"
+    ]
+  },
+  {
+    "name": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "desc": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+    "lang": "Python",
+    "stars": "62761 stars",
+    "topics": [
+      "advanced-driver-assistance-systems",
+      "driver-assistance-systems",
+      "robotics"
+    ]
+  },
+  {
+    "name": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML",
+    "stars": "126703 stars",
+    "topics": [
+      "awesome-list",
+      "free-for-developers"
+    ]
+  },
+  {
+    "name": "logto-io/logto",
+    "url": "https://github.com/logto-io/logto",
+    "desc": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+    "lang": "TypeScript",
+    "stars": "12643 stars",
+    "topics": [
+      "authentication",
+      "authorization",
+      "email",
+      "identity",
+      "jwt",
+      "login",
+      "logto",
+      "mfa",
+      "oauth2",
+      "openid-connect",
+      "password",
+      "passwordless",
+      "rbac",
+      "saml",
+      "signup",
+      "sms",
+      "social-login",
+      "sso",
+      "totp",
+      "typescript"
+    ]
+  },
+  {
+    "name": "xbtlin/ai-berkshire",
+    "url": "https://github.com/xbtlin/ai-berkshire",
+    "desc": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+    "lang": "Python",
+    "stars": "6589 stars",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "anthropic",
+      "berkshire-hathaway",
+      "charlie-munger",
+      "china-stock",
+      "claude",
+      "claude-code",
+      "financial-analysis",
+      "fintech",
+      "fundamental-analysis",
+      "investment",
+      "investment-research",
+      "llm",
+      "mcp",
+      "portfolio-management",
+      "stock-analysis",
+      "stock-market",
+      "value-investing",
+      "warren-buffett"
+    ]
+  },
+  {
+    "name": "browser-use/video-use",
+    "url": "https://github.com/browser-use/video-use",
+    "desc": "Edit videos with coding agents",
+    "lang": "Python",
+    "stars": "11921 stars",
+    "topics": []
+  },
+  {
+    "name": "Unclecheng-li/VulnClaw",
+    "url": "https://github.com/Unclecheng-li/VulnClaw",
+    "desc": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+    "lang": "Python",
+    "stars": "1116 stars",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-tools",
+      "ctf",
+      "cybersecurity",
+      "openclaw",
+      "penetration-testing",
+      "penetration-testing-tools",
+      "security-tools",
+      "skill"
+    ]
+  },
+  {
+    "name": "0xNyk/council-of-high-intelligence",
+    "url": "https://github.com/0xNyk/council-of-high-intelligence",
+    "desc": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
+    "lang": "Shell",
+    "stars": "1871 stars",
+    "topics": [
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "decision-making",
+      "deliberation",
+      "gemini",
+      "multi-llm",
+      "ollama",
+      "openai",
+      "prompt-engineering"
     ]
   },
   {
@@ -171,7 +221,7 @@
     "url": "https://github.com/HKUDS/Vibe-Trading",
     "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
     "lang": "Python",
-    "stars": "14292 stars",
+    "stars": "15072 stars",
     "topics": [
       "ai-agent",
       "algorithmic-trading",
@@ -186,59 +236,26 @@
     ]
   },
   {
-    "name": "ByteByteGoHq/system-design-101",
-    "url": "https://github.com/ByteByteGoHq/system-design-101",
-    "desc": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
-    "lang": "Unknown",
-    "stars": "84427 stars",
-    "topics": [
-      "aws",
-      "cloud-computing",
-      "coding-interviews",
-      "computer-science",
-      "interview-questions",
-      "software-architecture",
-      "software-development",
-      "software-engineering",
-      "system-design",
-      "system-design-interview"
-    ]
-  },
-  {
-    "name": "usestrix/strix",
-    "url": "https://github.com/usestrix/strix",
-    "desc": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
-    "lang": "Python",
-    "stars": "26705 stars",
-    "topics": [
-      "agents",
-      "ai-hacking",
-      "ai-penetration-testing",
-      "ai-pentesting",
-      "ai-security",
-      "artificial-intelligence",
-      "bug-bounty",
-      "code-quality",
-      "ctf-tools",
-      "cybersecurity",
-      "cybersecurity-tools",
-      "ethical-hacking",
-      "hacking",
-      "llm-security",
-      "offensive-security",
-      "penetration-testing",
-      "pentesting-tools",
-      "red-teaming",
-      "security",
-      "security-automation"
-    ]
-  },
-  {
-    "name": "browser-use/video-use",
-    "url": "https://github.com/browser-use/video-use",
-    "desc": "Edit videos with coding agents",
-    "lang": "Python",
-    "stars": "11022 stars",
+    "name": "refactoringhq/tolaria",
+    "url": "https://github.com/refactoringhq/tolaria",
+    "desc": "Desktop app to manage markdown knowledge bases",
+    "lang": "TypeScript",
+    "stars": "17499 stars",
     "topics": []
+  },
+  {
+    "name": "veracrypt/VeraCrypt",
+    "url": "https://github.com/veracrypt/VeraCrypt",
+    "desc": "Disk encryption with strong security based on TrueCrypt",
+    "lang": "C",
+    "stars": "10468 stars",
+    "topics": [
+      "encryption",
+      "encryption-algorithms",
+      "encryption-decryption",
+      "idrix",
+      "veracrypt",
+      "veracrypt-source"
+    ]
   }
 ]

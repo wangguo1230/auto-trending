@@ -1,20 +1,43 @@
 [
   {
-    "name": "simplex-chat/simplex-chat",
-    "url": "https://github.com/simplex-chat/simplex-chat",
-    "desc": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-    "lang": "Haskell",
-    "stars": "16546 stars",
+    "name": "hasaneyldrm/exercises-dataset",
+    "url": "https://github.com/hasaneyldrm/exercises-dataset",
+    "desc": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+    "lang": "HTML",
+    "stars": "6540 stars",
     "topics": [
-      "chat",
-      "double-ratchet",
-      "e2ee",
-      "encryption",
-      "haskell",
-      "messaging",
-      "privacy",
-      "protocol",
-      "security"
+      "excercises",
+      "fitness",
+      "fitness-app"
+    ]
+  },
+  {
+    "name": "usestrix/strix",
+    "url": "https://github.com/usestrix/strix",
+    "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "lang": "Python",
+    "stars": "28093 stars",
+    "topics": [
+      "agents",
+      "ai-hacking",
+      "ai-penetration-testing",
+      "ai-pentesting",
+      "ai-security",
+      "artificial-intelligence",
+      "bug-bounty",
+      "code-quality",
+      "ctf-tools",
+      "cybersecurity",
+      "cybersecurity-tools",
+      "ethical-hacking",
+      "hacking",
+      "llm-security",
+      "offensive-security",
+      "penetration-testing",
+      "pentesting-tools",
+      "red-teaming",
+      "security",
+      "security-automation"
     ]
   },
   {
@@ -22,131 +45,60 @@
     "url": "https://github.com/msitarzewski/agency-agents",
     "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
     "lang": "Shell",
-    "stars": "118844 stars",
+    "stars": "120825 stars",
     "topics": []
-  },
-  {
-    "name": "cupy/cupy",
-    "url": "https://github.com/cupy/cupy",
-    "desc": "NumPy & SciPy for GPU",
-    "lang": "Python",
-    "stars": "11812 stars",
-    "topics": [
-      "cublas",
-      "cuda",
-      "cudnn",
-      "cupy",
-      "curand",
-      "cusolver",
-      "cusparse",
-      "cusparselt",
-      "cutensor",
-      "gpu",
-      "nccl",
-      "numpy",
-      "nvrtc",
-      "nvtx",
-      "python",
-      "rocm",
-      "scipy",
-      "tensor"
-    ]
   },
   {
     "name": "altic-dev/FluidVoice",
     "url": "https://github.com/altic-dev/FluidVoice",
-    "desc": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :)) ",
+    "desc": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
     "lang": "Swift",
-    "stars": "4369 stars",
+    "stars": "4905 stars",
     "topics": []
   },
   {
-    "name": "soxoj/maigret",
-    "url": "https://github.com/soxoj/maigret",
-    "desc": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
-    "lang": "Python",
-    "stars": "34355 stars",
-    "topics": [
-      "cli",
-      "cybersecurity",
-      "identification",
-      "information-gathering",
-      "infosec",
-      "investigation",
-      "open-source",
-      "osint",
-      "osint-framework",
-      "osint-python",
-      "pentesting",
-      "python",
-      "python3",
-      "reconnaissance",
-      "redteam",
-      "scraping",
-      "sherlock",
-      "social-network",
-      "socmint",
-      "username"
-    ]
-  },
-  {
-    "name": "commaai/openpilot",
-    "url": "https://github.com/commaai/openpilot",
-    "desc": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-    "lang": "Python",
-    "stars": "62761 stars",
-    "topics": [
-      "advanced-driver-assistance-systems",
-      "driver-assistance-systems",
-      "robotics"
-    ]
-  },
-  {
-    "name": "ripienaar/free-for-dev",
-    "url": "https://github.com/ripienaar/free-for-dev",
-    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-    "lang": "HTML",
-    "stars": "126703 stars",
-    "topics": [
-      "awesome-list",
-      "free-for-developers"
-    ]
-  },
-  {
-    "name": "logto-io/logto",
-    "url": "https://github.com/logto-io/logto",
-    "desc": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
+    "name": "diegosouzapw/OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "desc": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
     "lang": "TypeScript",
-    "stars": "12643 stars",
+    "stars": "8475 stars",
     "topics": [
-      "authentication",
-      "authorization",
-      "email",
-      "identity",
-      "jwt",
-      "login",
-      "logto",
-      "mfa",
-      "oauth2",
-      "openid-connect",
-      "password",
-      "passwordless",
-      "rbac",
-      "saml",
-      "signup",
-      "sms",
-      "social-login",
-      "sso",
-      "totp",
-      "typescript"
+      "a2a",
+      "ai-agents",
+      "ai-gateway",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "cline",
+      "codex",
+      "copilot",
+      "cursor",
+      "deepseek",
+      "free-ai",
+      "gemini",
+      "gemini-cli",
+      "llm-gateway",
+      "mcp",
+      "openai",
+      "openai-proxy",
+      "qwen",
+      "token-saver"
     ]
+  },
+  {
+    "name": "browser-use/video-use",
+    "url": "https://github.com/browser-use/video-use",
+    "desc": "Edit videos with coding agents",
+    "lang": "Python",
+    "stars": "12568 stars",
+    "topics": []
   },
   {
     "name": "xbtlin/ai-berkshire",
     "url": "https://github.com/xbtlin/ai-berkshire",
     "desc": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
     "lang": "Python",
-    "stars": "6589 stars",
+    "stars": "7469 stars",
     "topics": [
       "ai",
       "ai-agent",
@@ -171,57 +123,169 @@
     ]
   },
   {
-    "name": "browser-use/video-use",
-    "url": "https://github.com/browser-use/video-use",
-    "desc": "Edit videos with coding agents",
+    "name": "Mebus/cupp",
+    "url": "https://github.com/Mebus/cupp",
+    "desc": "Common User Passwords Profiler (CUPP)",
     "lang": "Python",
-    "stars": "11921 stars",
-    "topics": []
+    "stars": "6094 stars",
+    "topics": [
+      "dictionary-attack",
+      "password",
+      "password-strength",
+      "weak-passwords",
+      "wordlist",
+      "wordlist-generator"
+    ]
   },
   {
-    "name": "Unclecheng-li/VulnClaw",
-    "url": "https://github.com/Unclecheng-li/VulnClaw",
-    "desc": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+    "name": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "lang": "HTML",
+    "stars": "127301 stars",
+    "topics": [
+      "awesome-list",
+      "free-for-developers"
+    ]
+  },
+  {
+    "name": "google/agents-cli",
+    "url": "https://github.com/google/agents-cli",
+    "desc": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
     "lang": "Python",
-    "stars": "1116 stars",
+    "stars": "4165 stars",
+    "topics": [
+      "adk",
+      "agent-development-kit",
+      "agents",
+      "coding-agent",
+      "gemini",
+      "gemini-enterprise-agent-platform",
+      "generative-ai",
+      "google-cloud"
+    ]
+  },
+  {
+    "name": "roboflow/supervision",
+    "url": "https://github.com/roboflow/supervision",
+    "desc": "We write your reusable computer vision tools. 💜",
+    "lang": "Python",
+    "stars": "45897 stars",
+    "topics": [
+      "classification",
+      "coco",
+      "computer-vision",
+      "deep-learning",
+      "hacktoberfest",
+      "image-processing",
+      "instance-segmentation",
+      "low-code",
+      "machine-learning",
+      "metrics",
+      "object-detection",
+      "oriented-bounding-box",
+      "pascal-voc",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "tracking",
+      "video-processing",
+      "yolo"
+    ]
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "url": "https://github.com/ogulcancelik/herdr",
+    "desc": "agent multiplexer that lives in your terminal.",
+    "lang": "Rust",
+    "stars": "8993 stars",
+    "topics": [
+      "agent",
+      "agent-orchestration",
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "coding-agents",
+      "developer-tools",
+      "devtools",
+      "multiplexer",
+      "rust",
+      "terminal",
+      "terminal-multiplexer",
+      "terminal-ui",
+      "tmux",
+      "tui",
+      "workspace-manager"
+    ]
+  },
+  {
+    "name": "simplex-chat/simplex-chat",
+    "url": "https://github.com/simplex-chat/simplex-chat",
+    "desc": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+    "lang": "Haskell",
+    "stars": "17322 stars",
+    "topics": [
+      "chat",
+      "double-ratchet",
+      "e2ee",
+      "encryption",
+      "haskell",
+      "messaging",
+      "privacy",
+      "protocol",
+      "security"
+    ]
+  },
+  {
+    "name": "CoreBunch/Instatic",
+    "url": "https://github.com/CoreBunch/Instatic",
+    "desc": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+    "lang": "TypeScript",
+    "stars": "1509 stars",
+    "topics": [
+      "cms",
+      "css",
+      "css-framework",
+      "page-builder",
+      "static",
+      "website"
+    ]
+  },
+  {
+    "name": "microsoft/AI-For-Beginners",
+    "url": "https://github.com/microsoft/AI-For-Beginners",
+    "desc": "12 Weeks, 24 Lessons, AI for All!",
+    "lang": "Jupyter Notebook",
+    "stars": "49338 stars",
     "topics": [
       "ai",
-      "ai-agent",
-      "ai-tools",
-      "ctf",
-      "cybersecurity",
-      "openclaw",
-      "penetration-testing",
-      "penetration-testing-tools",
-      "security-tools",
-      "skill"
+      "artificial-intelligence",
+      "cnn",
+      "computer-vision",
+      "deep-learning",
+      "gan",
+      "machine-learning",
+      "microsoft-for-beginners",
+      "nlp",
+      "rnn"
     ]
   },
   {
-    "name": "0xNyk/council-of-high-intelligence",
-    "url": "https://github.com/0xNyk/council-of-high-intelligence",
-    "desc": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
-    "lang": "Shell",
-    "stars": "1871 stars",
-    "topics": [
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "decision-making",
-      "deliberation",
-      "gemini",
-      "multi-llm",
-      "ollama",
-      "openai",
-      "prompt-engineering"
-    ]
+    "name": "facebook/astryx",
+    "url": "https://github.com/facebook/astryx",
+    "desc": "An open source design system that's fully customizable and agent ready",
+    "lang": "TypeScript",
+    "stars": "1749 stars",
+    "topics": []
   },
   {
     "name": "HKUDS/Vibe-Trading",
     "url": "https://github.com/HKUDS/Vibe-Trading",
     "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
     "lang": "Python",
-    "stars": "15072 stars",
+    "stars": "15777 stars",
     "topics": [
       "ai-agent",
       "algorithmic-trading",
@@ -236,26 +300,28 @@
     ]
   },
   {
-    "name": "refactoringhq/tolaria",
-    "url": "https://github.com/refactoringhq/tolaria",
-    "desc": "Desktop app to manage markdown knowledge bases",
-    "lang": "TypeScript",
-    "stars": "17499 stars",
-    "topics": []
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "242478 stars",
+    "topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "subagent-driven-development",
+      "superpowers"
+    ]
   },
   {
-    "name": "veracrypt/VeraCrypt",
-    "url": "https://github.com/veracrypt/VeraCrypt",
-    "desc": "Disk encryption with strong security based on TrueCrypt",
-    "lang": "C",
-    "stars": "10468 stars",
-    "topics": [
-      "encryption",
-      "encryption-algorithms",
-      "encryption-decryption",
-      "idrix",
-      "veracrypt",
-      "veracrypt-source"
-    ]
+    "name": "Robbyant/lingbot-map",
+    "url": "https://github.com/Robbyant/lingbot-map",
+    "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+    "lang": "Python",
+    "stars": "8856 stars",
+    "topics": []
   }
 ]

@@ -1,18 +1,10 @@
 [
   {
-    "name": "msitarzewski/agency-agents",
-    "url": "https://github.com/msitarzewski/agency-agents",
-    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "lang": "Shell",
-    "stars": "123329 stars",
-    "topics": []
-  },
-  {
     "name": "usestrix/strix",
     "url": "https://github.com/usestrix/strix",
     "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
     "lang": "Python",
-    "stars": "29666 stars",
+    "stars": "32137 stars",
     "topics": [
       "agents",
       "ai-hacking",
@@ -37,11 +29,142 @@
     ]
   },
   {
+    "name": "JuliusBrussee/caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "lang": "JavaScript",
+    "stars": "80848 stars",
+    "topics": [
+      "ai",
+      "anthropic",
+      "caveman",
+      "claude",
+      "claude-code",
+      "llm",
+      "meme",
+      "prompt-engineering",
+      "skill",
+      "tokens"
+    ]
+  },
+  {
+    "name": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "lang": "Shell",
+    "stars": "125456 stars",
+    "topics": []
+  },
+  {
+    "name": "hasaneyldrm/exercises-dataset",
+    "url": "https://github.com/hasaneyldrm/exercises-dataset",
+    "desc": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+    "lang": "HTML",
+    "stars": "9243 stars",
+    "topics": [
+      "excercises",
+      "fitness",
+      "fitness-app"
+    ]
+  },
+  {
+    "name": "santifer/career-ops",
+    "url": "https://github.com/santifer/career-ops",
+    "desc": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
+    "lang": "JavaScript",
+    "stars": "57788 stars",
+    "topics": [
+      "ai-agent",
+      "anthropic",
+      "automation",
+      "beginner-friendly",
+      "career",
+      "careerops",
+      "claude",
+      "claude-code",
+      "cli",
+      "first-timers-only",
+      "golang",
+      "good-first-issue",
+      "interview-prep",
+      "job-search",
+      "open-source",
+      "resume"
+    ]
+  },
+  {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "244392 stars",
+    "topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "subagent-driven-development",
+      "superpowers"
+    ]
+  },
+  {
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "desc": "Chrome DevTools for coding agents",
+    "lang": "TypeScript",
+    "stars": "45073 stars",
+    "topics": [
+      "browser",
+      "chrome",
+      "chrome-devtools",
+      "debugging",
+      "devtools",
+      "mcp",
+      "mcp-server",
+      "puppeteer"
+    ]
+  },
+  {
+    "name": "browser-use/video-use",
+    "url": "https://github.com/browser-use/video-use",
+    "desc": "Edit videos with coding agents",
+    "lang": "Python",
+    "stars": "13766 stars",
+    "topics": []
+  },
+  {
+    "name": "actions/checkout",
+    "url": "https://github.com/actions/checkout",
+    "desc": "Action for checking out a repo",
+    "lang": "TypeScript",
+    "stars": "8158 stars",
+    "topics": []
+  },
+  {
+    "name": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "lang": "JavaScript",
+    "stars": "225168 stars",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ]
+  },
+  {
     "name": "HKUDS/Vibe-Trading",
     "url": "https://github.com/HKUDS/Vibe-Trading",
     "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
     "lang": "Python",
-    "stars": "16503 stars",
+    "stars": "17322 stars",
     "topics": [
       "ai-agent",
       "algorithmic-trading",
@@ -56,285 +179,90 @@
     ]
   },
   {
-    "name": "hasaneyldrm/exercises-dataset",
-    "url": "https://github.com/hasaneyldrm/exercises-dataset",
-    "desc": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-    "lang": "HTML",
-    "stars": "8380 stars",
+    "name": "agentskills/agentskills",
+    "url": "https://github.com/agentskills/agentskills",
+    "desc": "Specification and documentation for Agent Skills",
+    "lang": "Python",
+    "stars": "21595 stars",
     "topics": [
-      "excercises",
-      "fitness",
-      "fitness-app"
+      "agent-skills"
     ]
   },
   {
-    "name": "facebook/astryx",
-    "url": "https://github.com/facebook/astryx",
-    "desc": "An open source design system that's fully customizable and agent ready",
-    "lang": "TypeScript",
-    "stars": "2607 stars",
+    "name": "openai/codex-plugin-cc",
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "desc": "Use Codex from Claude Code to review code or delegate tasks.",
+    "lang": "JavaScript",
+    "stars": "22610 stars",
     "topics": []
   },
   {
-    "name": "diegosouzapw/OmniRoute",
-    "url": "https://github.com/diegosouzapw/OmniRoute",
-    "desc": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
-    "lang": "TypeScript",
-    "stars": "9495 stars",
-    "topics": [
-      "a2a",
-      "ai-agents",
-      "ai-gateway",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "cline",
-      "codex",
-      "copilot",
-      "cursor",
-      "deepseek",
-      "free-ai",
-      "gemini",
-      "gemini-cli",
-      "llm-gateway",
-      "mcp",
-      "openai",
-      "openai-proxy",
-      "qwen",
-      "token-saver"
-    ]
-  },
-  {
-    "name": "allenai/olmocr",
-    "url": "https://github.com/allenai/olmocr",
-    "desc": "Toolkit for linearizing PDFs for LLM datasets/training",
+    "name": "langflow-ai/langflow",
+    "url": "https://github.com/langflow-ai/langflow",
+    "desc": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
     "lang": "Python",
-    "stars": "18258 stars",
-    "topics": []
-  },
-  {
-    "name": "logto-io/logto",
-    "url": "https://github.com/logto-io/logto",
-    "desc": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
-    "lang": "TypeScript",
-    "stars": "13251 stars",
-    "topics": [
-      "authentication",
-      "authorization",
-      "email",
-      "identity",
-      "jwt",
-      "login",
-      "logto",
-      "mfa",
-      "oauth2",
-      "openid-connect",
-      "password",
-      "passwordless",
-      "rbac",
-      "saml",
-      "signup",
-      "sms",
-      "social-login",
-      "sso",
-      "totp",
-      "typescript"
-    ]
-  },
-  {
-    "name": "togatoga/karukan",
-    "url": "https://github.com/togatoga/karukan",
-    "desc": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
-    "lang": "Rust",
-    "stars": "572 stars",
-    "topics": [
-      "fcitx5",
-      "ime",
-      "input-method",
-      "inputmethod",
-      "japanese",
-      "linux",
-      "macos",
-      "natural-language-processing",
-      "nlp",
-      "rust"
-    ]
-  },
-  {
-    "name": "Mebus/cupp",
-    "url": "https://github.com/Mebus/cupp",
-    "desc": "Common User Passwords Profiler (CUPP)",
-    "lang": "Python",
-    "stars": "6241 stars",
-    "topics": [
-      "dictionary-attack",
-      "password",
-      "password-strength",
-      "weak-passwords",
-      "wordlist",
-      "wordlist-generator"
-    ]
-  },
-  {
-    "name": "Unclecheng-li/VulnClaw",
-    "url": "https://github.com/Unclecheng-li/VulnClaw",
-    "desc": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
-    "lang": "Python",
-    "stars": "1561 stars",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-tools",
-      "ctf",
-      "cybersecurity",
-      "openclaw",
-      "penetration-testing",
-      "penetration-testing-tools",
-      "security-tools",
-      "skill"
-    ]
-  },
-  {
-    "name": "microsoft/AI-For-Beginners",
-    "url": "https://github.com/microsoft/AI-For-Beginners",
-    "desc": "12 Weeks, 24 Lessons, AI for All!",
-    "lang": "Jupyter Notebook",
-    "stars": "50411 stars",
-    "topics": [
-      "ai",
-      "artificial-intelligence",
-      "cnn",
-      "computer-vision",
-      "deep-learning",
-      "gan",
-      "machine-learning",
-      "microsoft-for-beginners",
-      "nlp",
-      "rnn"
-    ]
-  },
-  {
-    "name": "refactoringhq/tolaria",
-    "url": "https://github.com/refactoringhq/tolaria",
-    "desc": "Desktop app to manage markdown knowledge bases",
-    "lang": "TypeScript",
-    "stars": "18016 stars",
-    "topics": []
-  },
-  {
-    "name": "ogulcancelik/herdr",
-    "url": "https://github.com/ogulcancelik/herdr",
-    "desc": "agent multiplexer that lives in your terminal.",
-    "lang": "Rust",
-    "stars": "9578 stars",
-    "topics": [
-      "agent",
-      "agent-orchestration",
-      "ai",
-      "ai-agents",
-      "claude-code",
-      "cli",
-      "codex",
-      "coding-agents",
-      "developer-tools",
-      "devtools",
-      "multiplexer",
-      "rust",
-      "terminal",
-      "terminal-multiplexer",
-      "terminal-ui",
-      "tmux",
-      "tui",
-      "workspace-manager"
-    ]
-  },
-  {
-    "name": "0xNyk/council-of-high-intelligence",
-    "url": "https://github.com/0xNyk/council-of-high-intelligence",
-    "desc": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
-    "lang": "Shell",
-    "stars": "2607 stars",
-    "topics": [
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "decision-making",
-      "deliberation",
-      "gemini",
-      "multi-llm",
-      "ollama",
-      "openai",
-      "prompt-engineering"
-    ]
-  },
-  {
-    "name": "altic-dev/FluidVoice",
-    "url": "https://github.com/altic-dev/FluidVoice",
-    "desc": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
-    "lang": "Swift",
-    "stars": "5467 stars",
-    "topics": [
-      "ai",
-      "dictation",
-      "ios",
-      "llama-cpp",
-      "macos",
-      "swift"
-    ]
-  },
-  {
-    "name": "CoreBunch/Instatic",
-    "url": "https://github.com/CoreBunch/Instatic",
-    "desc": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
-    "lang": "TypeScript",
-    "stars": "2003 stars",
-    "topics": [
-      "cms",
-      "css",
-      "css-framework",
-      "page-builder",
-      "static",
-      "website"
-    ]
-  },
-  {
-    "name": "TencentCloud/CubeSandbox",
-    "url": "https://github.com/TencentCloud/CubeSandbox",
-    "desc": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-    "lang": "Rust",
-    "stars": "6782 stars",
+    "stars": "150713 stars",
     "topics": [
       "agents",
-      "container",
-      "sandbox"
+      "chatgpt",
+      "generative-ai",
+      "large-language-models",
+      "multiagent",
+      "react-flow"
     ]
   },
   {
-    "name": "browser-use/video-use",
-    "url": "https://github.com/browser-use/video-use",
-    "desc": "Edit videos with coding agents",
+    "name": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
     "lang": "Python",
-    "stars": "13204 stars",
-    "topics": []
+    "stars": "101221 stars",
+    "topics": [
+      "autograd",
+      "deep-learning",
+      "gpu",
+      "machine-learning",
+      "neural-network",
+      "numpy",
+      "python",
+      "tensor"
+    ]
   },
   {
-    "name": "yikart/AiToEarn",
-    "url": "https://github.com/yikart/AiToEarn",
-    "desc": "Let's use AI to Earn!",
-    "lang": "TypeScript",
-    "stars": "22523 stars",
+    "name": "harvard-edge/cs249r_book",
+    "url": "https://github.com/harvard-edge/cs249r_book",
+    "desc": "Machine Learning Systems",
+    "lang": "Python",
+    "stars": "25563 stars",
     "topics": [
-      "auto-publish",
-      "douyin",
-      "douyin-api",
-      "electron-app",
-      "electron-react",
-      "kuaishou",
-      "kwai",
-      "published",
-      "shipinhao",
-      "tool",
-      "xiaohongshu"
+      "artificial-intelligence",
+      "cloud-ml",
+      "computer-systems",
+      "courseware",
+      "deep-learning",
+      "edge-machine-learning",
+      "embedded-ml",
+      "machine-learning",
+      "machine-learning-systems",
+      "mobile-ml",
+      "textbook",
+      "tinyml"
+    ]
+  },
+  {
+    "name": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "desc": "Clean Code concepts adapted for JavaScript",
+    "lang": "JavaScript",
+    "stars": "94555 stars",
+    "topics": [
+      "best-practices",
+      "clean-architecture",
+      "clean-code",
+      "composition",
+      "inheritance",
+      "javascript",
+      "principles"
     ]
   }
 ]

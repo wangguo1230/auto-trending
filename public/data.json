@@ -1,100 +1,10 @@
 [
   {
-    "name": "openai/codex-plugin-cc",
-    "url": "https://github.com/openai/codex-plugin-cc",
-    "desc": "Use Codex from Claude Code to review code or delegate tasks.",
-    "lang": "JavaScript",
-    "stars": "24382 stars",
-    "topics": []
-  },
-  {
-    "name": "JuliusBrussee/caveman",
-    "url": "https://github.com/JuliusBrussee/caveman",
-    "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
-    "lang": "JavaScript",
-    "stars": "83944 stars",
-    "topics": [
-      "ai",
-      "anthropic",
-      "caveman",
-      "claude",
-      "claude-code",
-      "llm",
-      "meme",
-      "prompt-engineering",
-      "skill",
-      "tokens"
-    ]
-  },
-  {
-    "name": "alibaba/page-agent",
-    "url": "https://github.com/alibaba/page-agent",
-    "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-    "lang": "TypeScript",
-    "stars": "23087 stars",
-    "topics": [
-      "agent",
-      "ai",
-      "ai-agents",
-      "browser-automation",
-      "javascript",
-      "mcp",
-      "typescript",
-      "web"
-    ]
-  },
-  {
-    "name": "usestrix/strix",
-    "url": "https://github.com/usestrix/strix",
-    "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-    "lang": "Python",
-    "stars": "36013 stars",
-    "topics": [
-      "agents",
-      "ai-hacking",
-      "ai-penetration-testing",
-      "ai-pentesting",
-      "ai-security",
-      "artificial-intelligence",
-      "bug-bounty",
-      "code-quality",
-      "ctf-tools",
-      "cybersecurity",
-      "cybersecurity-tools",
-      "ethical-hacking",
-      "hacking",
-      "llm-security",
-      "offensive-security",
-      "penetration-testing",
-      "pentesting-tools",
-      "red-teaming",
-      "security",
-      "security-automation"
-    ]
-  },
-  {
-    "name": "ChromeDevTools/chrome-devtools-mcp",
-    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-    "desc": "Chrome DevTools for coding agents",
-    "lang": "TypeScript",
-    "stars": "45767 stars",
-    "topics": [
-      "browser",
-      "chrome",
-      "chrome-devtools",
-      "debugging",
-      "devtools",
-      "mcp",
-      "mcp-server",
-      "puppeteer"
-    ]
-  },
-  {
     "name": "Zackriya-Solutions/meetily",
     "url": "https://github.com/Zackriya-Solutions/meetily",
     "desc": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows.  ",
     "lang": "Rust",
-    "stars": "15235 stars",
+    "stars": "16911 stars",
     "topics": [
       "ai",
       "ai-meeting-assistant",
@@ -119,11 +29,19 @@
     ]
   },
   {
+    "name": "openai/codex-plugin-cc",
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "desc": "Use Codex from Claude Code to review code or delegate tasks.",
+    "lang": "JavaScript",
+    "stars": "25438 stars",
+    "topics": []
+  },
+  {
     "name": "asgeirtj/system_prompts_leaks",
     "url": "https://github.com/asgeirtj/system_prompts_leaks",
     "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
     "lang": "JavaScript",
-    "stars": "48900 stars",
+    "stars": "49915 stars",
     "topics": [
       "ai",
       "ai-agents",
@@ -148,162 +66,25 @@
     ]
   },
   {
-    "name": "harvard-edge/cs249r_book",
-    "url": "https://github.com/harvard-edge/cs249r_book",
-    "desc": "Machine Learning Systems",
-    "lang": "Python",
-    "stars": "26554 stars",
-    "topics": [
-      "artificial-intelligence",
-      "cloud-ml",
-      "computer-systems",
-      "courseware",
-      "deep-learning",
-      "edge-machine-learning",
-      "embedded-ml",
-      "machine-learning",
-      "machine-learning-systems",
-      "mobile-ml",
-      "textbook",
-      "tinyml"
-    ]
-  },
-  {
-    "name": "rommapp/romm",
-    "url": "https://github.com/rommapp/romm",
-    "desc": "A beautiful, powerful, self-hosted rom manager and player.",
-    "lang": "Python",
-    "stars": "10194 stars",
-    "topics": [
-      "emulation",
-      "open-source",
-      "retrogaming",
-      "rommapp",
-      "self-hosted"
-    ]
-  },
-  {
-    "name": "ogulcancelik/herdr",
-    "url": "https://github.com/ogulcancelik/herdr",
-    "desc": "agent multiplexer that lives in your terminal.",
-    "lang": "Rust",
-    "stars": "11425 stars",
+    "name": "Leonxlnx/taste-skill",
+    "url": "https://github.com/Leonxlnx/taste-skill",
+    "desc": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
+    "lang": "JavaScript",
+    "stars": "57439 stars",
     "topics": [
       "agent",
-      "agent-orchestration",
       "ai",
-      "ai-agents",
-      "claude-code",
-      "cli",
-      "codex",
-      "coding-agents",
-      "developer-tools",
-      "devtools",
-      "multiplexer",
-      "rust",
-      "terminal",
-      "terminal-multiplexer",
-      "terminal-ui",
-      "tmux",
-      "tui",
-      "workspace-manager"
-    ]
-  },
-  {
-    "name": "dotnet/skills",
-    "url": "https://github.com/dotnet/skills",
-    "desc": "Repository for skills to assist AI coding agents with .NET and C#",
-    "lang": "C#",
-    "stars": "3801 stars",
-    "topics": [
-      "agent-skills"
-    ]
-  },
-  {
-    "name": "agentskills/agentskills",
-    "url": "https://github.com/agentskills/agentskills",
-    "desc": "Specification and documentation for Agent Skills",
-    "lang": "Python",
-    "stars": "22323 stars",
-    "topics": [
-      "agent-skills"
-    ]
-  },
-  {
-    "name": "immich-app/immich",
-    "url": "https://github.com/immich-app/immich",
-    "desc": "High performance self-hosted photo and video management solution.",
-    "lang": "TypeScript",
-    "stars": "105619 stars",
-    "topics": [
-      "backup-tool",
-      "flutter",
-      "google-photos",
-      "google-photos-alternative",
-      "javascript",
-      "mobile-app",
-      "nestjs",
-      "nodejs",
-      "photo-gallery",
-      "photos",
-      "photos-management",
-      "self-hosted",
-      "svelte",
-      "sveltekit",
-      "typescript",
-      "videos"
-    ]
-  },
-  {
-    "name": "chthollyphile/folia-major",
-    "url": "https://github.com/chthollyphile/folia-major",
-    "desc": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器",
-    "lang": "TypeScript",
-    "stars": "984 stars",
-    "topics": [
-      "ai",
-      "music",
-      "music-player",
-      "navidrome-client",
-      "netease-music",
-      "player",
-      "pwa",
-      "react",
-      "typescript",
-      "vercel-deployment"
-    ]
-  },
-  {
-    "name": "mattpocock/skills",
-    "url": "https://github.com/mattpocock/skills",
-    "desc": "Skills for Real Engineers. Straight from my .claude directory.",
-    "lang": "Shell",
-    "stars": "156538 stars",
-    "topics": []
-  },
-  {
-    "name": "CoplayDev/unity-mcp",
-    "url": "https://github.com/CoplayDev/unity-mcp",
-    "desc": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
-    "lang": "C#",
-    "stars": "11589 stars",
-    "topics": [
-      "ai",
-      "ai-integration",
-      "anthropic",
       "claude",
-      "copilot",
-      "cursor",
-      "game-development",
-      "gamedev",
-      "gemini",
-      "llm",
-      "mcp",
-      "model-context-protocol",
-      "openai",
-      "unity",
-      "unity3d",
-      "videogames"
+      "claude-code",
+      "codex",
+      "coding",
+      "design",
+      "frontend",
+      "lowcode",
+      "nocode",
+      "skill",
+      "skills",
+      "vibecoding"
     ]
   },
   {
@@ -311,7 +92,7 @@
     "url": "https://github.com/alirezarezvani/claude-skills",
     "desc": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
     "lang": "Python",
-    "stars": "20142 stars",
+    "stars": "20543 stars",
     "topics": [
       "agent-plugins",
       "agent-skills",
@@ -336,23 +117,325 @@
     ]
   },
   {
-    "name": "crynta/terax-ai",
-    "url": "https://github.com/crynta/terax-ai",
-    "desc": "Lightweight (7MB) Terminal-first AI-native dev workspace",
+    "name": "rommapp/romm",
+    "url": "https://github.com/rommapp/romm",
+    "desc": "A beautiful, powerful, self-hosted rom manager and player.",
+    "lang": "Python",
+    "stars": "10522 stars",
+    "topics": [
+      "emulation",
+      "open-source",
+      "retrogaming",
+      "rommapp",
+      "self-hosted"
+    ]
+  },
+  {
+    "name": "ogulcancelik/herdr",
+    "url": "https://github.com/ogulcancelik/herdr",
+    "desc": "agent multiplexer that lives in your terminal.",
+    "lang": "Rust",
+    "stars": "12042 stars",
+    "topics": [
+      "agent",
+      "agent-orchestration",
+      "ai",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "coding-agents",
+      "developer-tools",
+      "devtools",
+      "multiplexer",
+      "rust",
+      "terminal",
+      "terminal-multiplexer",
+      "terminal-ui",
+      "tmux",
+      "tui",
+      "workspace-manager"
+    ]
+  },
+  {
+    "name": "alibaba/page-agent",
+    "url": "https://github.com/alibaba/page-agent",
+    "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
     "lang": "TypeScript",
-    "stars": "8046 stars",
+    "stars": "23845 stars",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "browser-automation",
+      "javascript",
+      "mcp",
+      "typescript",
+      "web"
+    ]
+  },
+  {
+    "name": "harvard-edge/cs249r_book",
+    "url": "https://github.com/harvard-edge/cs249r_book",
+    "desc": "Machine Learning Systems",
+    "lang": "Python",
+    "stars": "26830 stars",
+    "topics": [
+      "artificial-intelligence",
+      "cloud-ml",
+      "computer-systems",
+      "courseware",
+      "deep-learning",
+      "edge-machine-learning",
+      "embedded-ml",
+      "machine-learning",
+      "machine-learning-systems",
+      "mobile-ml",
+      "textbook",
+      "tinyml"
+    ]
+  },
+  {
+    "name": "usestrix/strix",
+    "url": "https://github.com/usestrix/strix",
+    "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+    "lang": "Python",
+    "stars": "37077 stars",
     "topics": [
       "agents",
-      "ai",
-      "code-editor",
-      "linux",
-      "macos",
-      "reactjs",
-      "rust",
-      "tauri",
-      "terminal",
-      "windows",
-      "xterm-js"
+      "ai-hacking",
+      "ai-penetration-testing",
+      "ai-pentesting",
+      "ai-security",
+      "artificial-intelligence",
+      "bug-bounty",
+      "code-quality",
+      "ctf-tools",
+      "cybersecurity",
+      "cybersecurity-tools",
+      "ethical-hacking",
+      "hacking",
+      "llm-security",
+      "offensive-security",
+      "penetration-testing",
+      "pentesting-tools",
+      "red-teaming",
+      "security",
+      "security-automation"
     ]
+  },
+  {
+    "name": "hesreallyhim/awesome-claude-code",
+    "url": "https://github.com/hesreallyhim/awesome-claude-code",
+    "desc": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+    "lang": "Python",
+    "stars": "48347 stars",
+    "topics": [
+      "agent-skills",
+      "agentic-code",
+      "agentic-coding",
+      "ai-workflow-optimization",
+      "ai-workflows",
+      "anthropic",
+      "anthropic-claude",
+      "awesome",
+      "awesome-claude-code",
+      "awesome-list",
+      "awesome-lists",
+      "awesome-resources",
+      "claude",
+      "claude-code",
+      "coding-agent",
+      "coding-agents",
+      "coding-assistant",
+      "coding-assistants",
+      "llm"
+    ]
+  },
+  {
+    "name": "coreyhaines31/marketingskills",
+    "url": "https://github.com/coreyhaines31/marketingskills",
+    "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+    "lang": "JavaScript",
+    "stars": "36411 stars",
+    "topics": [
+      "claude",
+      "codex",
+      "marketing"
+    ]
+  },
+  {
+    "name": "JuliusBrussee/caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "lang": "JavaScript",
+    "stars": "84843 stars",
+    "topics": [
+      "ai",
+      "anthropic",
+      "caveman",
+      "claude",
+      "claude-code",
+      "llm",
+      "meme",
+      "prompt-engineering",
+      "skill",
+      "tokens"
+    ]
+  },
+  {
+    "name": "CoplayDev/unity-mcp",
+    "url": "https://github.com/CoplayDev/unity-mcp",
+    "desc": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+    "lang": "C#",
+    "stars": "11910 stars",
+    "topics": [
+      "ai",
+      "ai-integration",
+      "anthropic",
+      "claude",
+      "copilot",
+      "cursor",
+      "game-development",
+      "gamedev",
+      "gemini",
+      "llm",
+      "mcp",
+      "model-context-protocol",
+      "openai",
+      "unity",
+      "unity3d",
+      "videogames"
+    ]
+  },
+  {
+    "name": "facebook/astryx",
+    "url": "https://github.com/facebook/astryx",
+    "desc": "An open source design system that's fully customizable and agent ready",
+    "lang": "TypeScript",
+    "stars": "5870 stars",
+    "topics": []
+  },
+  {
+    "name": "immich-app/immich",
+    "url": "https://github.com/immich-app/immich",
+    "desc": "High performance self-hosted photo and video management solution.",
+    "lang": "TypeScript",
+    "stars": "106089 stars",
+    "topics": [
+      "backup-tool",
+      "flutter",
+      "google-photos",
+      "google-photos-alternative",
+      "javascript",
+      "mobile-app",
+      "nestjs",
+      "nodejs",
+      "photo-gallery",
+      "photos",
+      "photos-management",
+      "self-hosted",
+      "svelte",
+      "sveltekit",
+      "typescript",
+      "videos"
+    ]
+  },
+  {
+    "name": "ruvnet/RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "lang": "Rust",
+    "stars": "76708 stars",
+    "topics": [
+      "awesome",
+      "claude",
+      "densepose",
+      "esp32",
+      "firmware",
+      "home-assistant",
+      "home-automation",
+      "iot",
+      "monitoring",
+      "networking",
+      "npm",
+      "pose-estimation",
+      "react",
+      "rf",
+      "self-learning",
+      "skills",
+      "spatial-intelligence",
+      "typescript",
+      "wifi",
+      "wifi-security"
+    ]
+  },
+  {
+    "name": "gastownhall/gastown",
+    "url": "https://github.com/gastownhall/gastown",
+    "desc": "Gas Town - multi-agent workspace manager",
+    "lang": "Go",
+    "stars": "16365 stars",
+    "topics": []
+  },
+  {
+    "name": "dotnet/skills",
+    "url": "https://github.com/dotnet/skills",
+    "desc": "Repository for skills to assist AI coding agents with .NET and C#",
+    "lang": "C#",
+    "stars": "4030 stars",
+    "topics": [
+      "agent-skills"
+    ]
+  },
+  {
+    "name": "OthmanAdi/planning-with-files",
+    "url": "https://github.com/OthmanAdi/planning-with-files",
+    "desc": "Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.",
+    "lang": "Python",
+    "stars": "24693 stars",
+    "topics": [
+      "agent-skills",
+      "agentic-ai",
+      "ai-agents",
+      "autonomous-agents",
+      "claude",
+      "claude-code",
+      "claude-skills",
+      "codex",
+      "coding-agent",
+      "context-engineering",
+      "copilot",
+      "cursor",
+      "developer-tools",
+      "github-copilot",
+      "llm-agents",
+      "long-running-agents",
+      "manus",
+      "multi-agent-systems",
+      "pi",
+      "planning"
+    ]
+  },
+  {
+    "name": "steipete/CodexBar",
+    "url": "https://github.com/steipete/CodexBar",
+    "desc": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+    "lang": "Swift",
+    "stars": "16187 stars",
+    "topics": [
+      "ai",
+      "claude-code",
+      "codex",
+      "swift"
+    ]
+  },
+  {
+    "name": "anthropics/claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "lang": "Python",
+    "stars": "136289 stars",
+    "topics": []
   }
 ]

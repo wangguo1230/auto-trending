@@ -1,47 +1,10 @@
 [
   {
-    "name": "MadsLorentzen/ai-job-search",
-    "url": "https://github.com/MadsLorentzen/ai-job-search",
-    "desc": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-    "lang": "TypeScript",
-    "stars": "10752 stars",
-    "topics": []
-  },
-  {
-    "name": "Zackriya-Solutions/meetily",
-    "url": "https://github.com/Zackriya-Solutions/meetily",
-    "desc": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted,  Open-source Ai meeting note taker for macOS & Windows.  ",
-    "lang": "Rust",
-    "stars": "20685 stars",
-    "topics": [
-      "ai",
-      "ai-meeting-assistant",
-      "llm",
-      "local-ai",
-      "mac",
-      "meeting-minutes",
-      "meeting-notes",
-      "offline-first",
-      "ollama",
-      "parakeet",
-      "privacy-focused",
-      "privacy-tools",
-      "rust",
-      "self-hosted",
-      "sortformer",
-      "speech-to-text",
-      "transcription",
-      "whisper",
-      "whisper-cpp",
-      "windows"
-    ]
-  },
-  {
     "name": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
     "desc": "Production-grade engineering skills for AI coding agents.",
     "lang": "JavaScript",
-    "stars": "72104 stars",
+    "stars": "73999 stars",
     "topics": [
       "agent-skills",
       "antigravity",
@@ -56,7 +19,7 @@
     "url": "https://github.com/ruvnet/RuView",
     "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
     "lang": "Rust",
-    "stars": "78480 stars",
+    "stars": "79125 stars",
     "topics": [
       "awesome",
       "claude",
@@ -81,11 +44,135 @@
     ]
   },
   {
+    "name": "TencentCloud/TencentDB-Agent-Memory",
+    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+    "desc": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+    "lang": "TypeScript",
+    "stars": "7617 stars",
+    "topics": [
+      "agent",
+      "ai-agent",
+      "embedding",
+      "llm",
+      "local-first",
+      "long-term-memory",
+      "memory",
+      "openclaw-plugin",
+      "vector-search"
+    ]
+  },
+  {
+    "name": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+    "lang": "TypeScript",
+    "stars": "46541 stars",
+    "topics": [
+      "cockroachdb",
+      "database",
+      "javascript",
+      "mariadb",
+      "mongo",
+      "mongodb",
+      "mongodb-orm",
+      "mssql",
+      "mysql",
+      "nodejs",
+      "orm",
+      "postgres",
+      "postgresql",
+      "prisma",
+      "prisma-client",
+      "query-builder",
+      "sql-server",
+      "sqlite",
+      "sqlserver",
+      "typescript"
+    ]
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "lang": "Python",
+    "stars": "50727 stars",
+    "topics": [
+      "ai-prompts",
+      "ai-skill",
+      "bluesky",
+      "claude",
+      "claude-code",
+      "clawhub",
+      "deep-research",
+      "hackernews",
+      "instagram",
+      "openclaw",
+      "polymarket",
+      "recency",
+      "reddit",
+      "research",
+      "social-media",
+      "tiktok",
+      "trends",
+      "twitter",
+      "web-search",
+      "youtube"
+    ]
+  },
+  {
+    "name": "argoproj/argo-cd",
+    "url": "https://github.com/argoproj/argo-cd",
+    "desc": "Declarative Continuous Deployment for Kubernetes",
+    "lang": "Go",
+    "stars": "23424 stars",
+    "topics": [
+      "argo",
+      "argo-cd",
+      "cd",
+      "ci-cd",
+      "cicd",
+      "continuous-delivery",
+      "continuous-deployment",
+      "devops",
+      "docker",
+      "gitops",
+      "hacktoberfest",
+      "helm",
+      "jsonnet",
+      "kubernetes",
+      "kustomize",
+      "pipeline"
+    ]
+  },
+  {
+    "name": "iOfficeAI/OfficeCLI",
+    "url": "https://github.com/iOfficeAI/OfficeCLI",
+    "desc": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "lang": "C#",
+    "stars": "11751 stars",
+    "topics": [
+      "agent",
+      "ai",
+      "claude-code",
+      "cli",
+      "codex",
+      "docx",
+      "excel",
+      "office",
+      "openclaw",
+      "pptx",
+      "presentation",
+      "skills",
+      "word",
+      "xlsx"
+    ]
+  },
+  {
     "name": "asgeirtj/system_prompts_leaks",
     "url": "https://github.com/asgeirtj/system_prompts_leaks",
     "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
     "lang": "JavaScript",
-    "stars": "52958 stars",
+    "stars": "54158 stars",
     "topics": [
       "ai",
       "ai-agents",
@@ -110,74 +197,79 @@
     ]
   },
   {
-    "name": "TencentCloud/CubeSandbox",
-    "url": "https://github.com/TencentCloud/CubeSandbox",
-    "desc": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-    "lang": "Rust",
-    "stars": "8442 stars",
-    "topics": [
-      "agents",
-      "container",
-      "sandbox"
-    ]
-  },
-  {
-    "name": "AhmadIbrahiim/Website-downloader",
-    "url": "https://github.com/AhmadIbrahiim/Website-downloader",
-    "desc": "💡  Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ]  using Node.js  ",
-    "lang": "HTML",
-    "stars": "3969 stars",
-    "topics": [
-      "assets",
-      "downloader",
-      "offline-web-pages",
-      "scraper"
-    ]
-  },
-  {
-    "name": "steipete/CodexBar",
-    "url": "https://github.com/steipete/CodexBar",
-    "desc": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-    "lang": "Swift",
-    "stars": "17025 stars",
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "249797 stars",
     "topics": [
       "ai",
-      "claude-code",
-      "codex",
-      "swift"
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "subagent-driven-development",
+      "superpowers"
     ]
   },
   {
-    "name": "dotnet/skills",
-    "url": "https://github.com/dotnet/skills",
-    "desc": "Repository for skills to assist AI coding agents with .NET and C#",
-    "lang": "C#",
-    "stars": "4299 stars",
+    "name": "alibaba/zvec",
+    "url": "https://github.com/alibaba/zvec",
+    "desc": "A lightweight, lightning-fast, in-process vector database",
+    "lang": "C++",
+    "stars": "14383 stars",
     "topics": [
-      "agent-skills"
+      "agent-skills",
+      "db",
+      "embedded",
+      "faiss",
+      "hnsw",
+      "llm-memory",
+      "local",
+      "rag",
+      "search-engine",
+      "semantic-search",
+      "similarity-search",
+      "vector-database",
+      "vector-db"
     ]
   },
   {
-    "name": "iOfficeAI/OfficeCLI",
-    "url": "https://github.com/iOfficeAI/OfficeCLI",
-    "desc": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-    "lang": "C#",
-    "stars": "9890 stars",
+    "name": "Diolinux/PhotoGIMP",
+    "url": "https://github.com/Diolinux/PhotoGIMP",
+    "desc": "A Patch for GIMP 3+ for Photoshop Users",
+    "lang": "CSS",
+    "stars": "15021 stars",
+    "topics": []
+  },
+  {
+    "name": "wonderwhy-er/DesktopCommanderMCP",
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+    "desc": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "lang": "TypeScript",
+    "stars": "6370 stars",
     "topics": [
       "agent",
       "ai",
-      "claude-code",
-      "cli",
-      "codex",
-      "docx",
-      "excel",
-      "office",
-      "openclaw",
-      "pptx",
-      "presentation",
-      "skills",
-      "word",
-      "xlsx"
+      "code-analysis",
+      "code-generation",
+      "gemini-cli-extension",
+      "mcp",
+      "terminal-ai",
+      "terminal-automation",
+      "vibe-coding"
+    ]
+  },
+  {
+    "name": "huxingyi/autoremesher",
+    "url": "https://github.com/huxingyi/autoremesher",
+    "desc": "Automatic quad remeshing tool",
+    "lang": "C++",
+    "stars": "1991 stars",
+    "topics": [
+      "quadremesh",
+      "retopology"
     ]
   },
   {
@@ -185,43 +277,19 @@
     "url": "https://github.com/bradautomates/claude-video",
     "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
     "lang": "Python",
-    "stars": "5136 stars",
+    "stars": "6038 stars",
     "topics": []
   },
   {
-    "name": "kyutai-labs/pocket-tts",
-    "url": "https://github.com/kyutai-labs/pocket-tts",
-    "desc": "A TTS that fits in your CPU (and pocket)",
-    "lang": "Python",
-    "stars": "6143 stars",
-    "topics": []
-  },
-  {
-    "name": "hesreallyhim/awesome-claude-code",
-    "url": "https://github.com/hesreallyhim/awesome-claude-code",
-    "desc": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
-    "lang": "Python",
-    "stars": "49104 stars",
+    "name": "TencentCloud/CubeSandbox",
+    "url": "https://github.com/TencentCloud/CubeSandbox",
+    "desc": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+    "lang": "Rust",
+    "stars": "8915 stars",
     "topics": [
-      "agent-skills",
-      "agentic-code",
-      "agentic-coding",
-      "ai-workflow-optimization",
-      "ai-workflows",
-      "anthropic",
-      "anthropic-claude",
-      "awesome",
-      "awesome-claude-code",
-      "awesome-list",
-      "awesome-lists",
-      "awesome-resources",
-      "claude",
-      "claude-code",
-      "coding-agent",
-      "coding-agents",
-      "coding-assistant",
-      "coding-assistants",
-      "llm"
+      "agents",
+      "container",
+      "sandbox"
     ]
   }
 ]

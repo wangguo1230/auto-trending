@@ -1,10 +1,26 @@
 [
   {
+    "name": "MadsLorentzen/ai-job-search",
+    "url": "https://github.com/MadsLorentzen/ai-job-search",
+    "desc": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+    "lang": "TypeScript",
+    "stars": "18920 stars",
+    "topics": []
+  },
+  {
+    "name": "SmartlyDressedGames/U3-SDK",
+    "url": "https://github.com/SmartlyDressedGames/U3-SDK",
+    "desc": "Source code for Unturned, a free open-world zombie survival sandbox game.",
+    "lang": "C#",
+    "stars": "1998 stars",
+    "topics": []
+  },
+  {
     "name": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
     "desc": "Production-grade engineering skills for AI coding agents.",
     "lang": "JavaScript",
-    "stars": "73999 stars",
+    "stars": "75843 stars",
     "topics": [
       "agent-skills",
       "antigravity",
@@ -15,58 +31,150 @@
     ]
   },
   {
-    "name": "ruvnet/RuView",
-    "url": "https://github.com/ruvnet/RuView",
-    "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-    "lang": "Rust",
-    "stars": "79125 stars",
+    "name": "VoltAgent/awesome-design-md",
+    "url": "https://github.com/VoltAgent/awesome-design-md",
+    "desc": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+    "lang": "Unknown",
+    "stars": "99640 stars",
     "topics": [
-      "awesome",
-      "claude",
-      "densepose",
-      "esp32",
-      "firmware",
-      "home-assistant",
-      "home-automation",
-      "iot",
-      "monitoring",
-      "networking",
-      "npm",
-      "pose-estimation",
-      "react",
-      "rf",
-      "self-learning",
-      "skills",
-      "spatial-intelligence",
-      "typescript",
-      "wifi",
-      "wifi-security"
+      "awesome-list",
+      "design-md",
+      "design-system",
+      "design-tokens",
+      "figma",
+      "google-stitch",
+      "landing-page",
+      "vibe-coding",
+      "vibe-design",
+      "vibecoding"
     ]
   },
   {
-    "name": "TencentCloud/TencentDB-Agent-Memory",
-    "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-    "desc": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-    "lang": "TypeScript",
-    "stars": "7617 stars",
+    "name": "iOfficeAI/OfficeCLI",
+    "url": "https://github.com/iOfficeAI/OfficeCLI",
+    "desc": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "lang": "C#",
+    "stars": "13391 stars",
     "topics": [
       "agent",
-      "ai-agent",
-      "embedding",
-      "llm",
-      "local-first",
-      "long-term-memory",
-      "memory",
-      "openclaw-plugin",
-      "vector-search"
+      "ai",
+      "claude-code",
+      "cli",
+      "codex",
+      "docx",
+      "excel",
+      "office",
+      "openclaw",
+      "pptx",
+      "presentation",
+      "skills",
+      "word",
+      "xlsx"
     ]
+  },
+  {
+    "name": "wonderwhy-er/DesktopCommanderMCP",
+    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+    "desc": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+    "lang": "TypeScript",
+    "stars": "6567 stars",
+    "topics": [
+      "agent",
+      "ai",
+      "code-analysis",
+      "code-generation",
+      "gemini-cli-extension",
+      "mcp",
+      "terminal-ai",
+      "terminal-automation",
+      "vibe-coding"
+    ]
+  },
+  {
+    "name": "anthropics/claude-cookbooks",
+    "url": "https://github.com/anthropics/claude-cookbooks",
+    "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "lang": "Jupyter Notebook",
+    "stars": "47141 stars",
+    "topics": []
+  },
+  {
+    "name": "vxcontrol/pentagi",
+    "url": "https://github.com/vxcontrol/pentagi",
+    "desc": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+    "lang": "Go",
+    "stars": "19375 stars",
+    "topics": [
+      "ai-agents",
+      "ai-security-tool",
+      "anthropic",
+      "autonomous-agents",
+      "golang",
+      "gpt",
+      "graphql",
+      "multi-agent-system",
+      "offensive-security",
+      "open-source",
+      "openai",
+      "penetration-testing",
+      "penetration-testing-tools",
+      "react",
+      "security-automation",
+      "security-testing",
+      "security-tools",
+      "self-hosted"
+    ]
+  },
+  {
+    "name": "unclecode/crawl4ai",
+    "url": "https://github.com/unclecode/crawl4ai",
+    "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+    "lang": "Python",
+    "stars": "71809 stars",
+    "topics": []
+  },
+  {
+    "name": "imthenachoman/How-To-Secure-A-Linux-Server",
+    "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
+    "desc": "An evolving how-to guide for securing a Linux server.",
+    "lang": "Unknown",
+    "stars": "29067 stars",
+    "topics": [
+      "cc-by-sa",
+      "hardening",
+      "hardening-steps",
+      "linux",
+      "linux-server",
+      "security",
+      "security-hardening",
+      "server"
+    ]
+  },
+  {
+    "name": "huxingyi/autoremesher",
+    "url": "https://github.com/huxingyi/autoremesher",
+    "desc": "Automatic quad remeshing tool",
+    "lang": "C++",
+    "stars": "2353 stars",
+    "topics": [
+      "quadremesh",
+      "retopology"
+    ]
+  },
+  {
+    "name": "bradautomates/claude-video",
+    "url": "https://github.com/bradautomates/claude-video",
+    "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "lang": "Python",
+    "stars": "6680 stars",
+    "topics": []
   },
   {
     "name": "prisma/prisma",
     "url": "https://github.com/prisma/prisma",
     "desc": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
     "lang": "TypeScript",
-    "stars": "46541 stars",
+    "stars": "46891 stars",
     "topics": [
       "cockroachdb",
       "database",
@@ -91,88 +199,19 @@
     ]
   },
   {
-    "name": "mvanhorn/last30days-skill",
-    "url": "https://github.com/mvanhorn/last30days-skill",
-    "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "name": "kyutai-labs/pocket-tts",
+    "url": "https://github.com/kyutai-labs/pocket-tts",
+    "desc": "A TTS that fits in your CPU (and pocket)",
     "lang": "Python",
-    "stars": "50727 stars",
-    "topics": [
-      "ai-prompts",
-      "ai-skill",
-      "bluesky",
-      "claude",
-      "claude-code",
-      "clawhub",
-      "deep-research",
-      "hackernews",
-      "instagram",
-      "openclaw",
-      "polymarket",
-      "recency",
-      "reddit",
-      "research",
-      "social-media",
-      "tiktok",
-      "trends",
-      "twitter",
-      "web-search",
-      "youtube"
-    ]
-  },
-  {
-    "name": "argoproj/argo-cd",
-    "url": "https://github.com/argoproj/argo-cd",
-    "desc": "Declarative Continuous Deployment for Kubernetes",
-    "lang": "Go",
-    "stars": "23424 stars",
-    "topics": [
-      "argo",
-      "argo-cd",
-      "cd",
-      "ci-cd",
-      "cicd",
-      "continuous-delivery",
-      "continuous-deployment",
-      "devops",
-      "docker",
-      "gitops",
-      "hacktoberfest",
-      "helm",
-      "jsonnet",
-      "kubernetes",
-      "kustomize",
-      "pipeline"
-    ]
-  },
-  {
-    "name": "iOfficeAI/OfficeCLI",
-    "url": "https://github.com/iOfficeAI/OfficeCLI",
-    "desc": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-    "lang": "C#",
-    "stars": "11751 stars",
-    "topics": [
-      "agent",
-      "ai",
-      "claude-code",
-      "cli",
-      "codex",
-      "docx",
-      "excel",
-      "office",
-      "openclaw",
-      "pptx",
-      "presentation",
-      "skills",
-      "word",
-      "xlsx"
-    ]
+    "stars": "6966 stars",
+    "topics": []
   },
   {
     "name": "asgeirtj/system_prompts_leaks",
     "url": "https://github.com/asgeirtj/system_prompts_leaks",
     "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
     "lang": "JavaScript",
-    "stars": "54158 stars",
+    "stars": "55136 stars",
     "topics": [
       "ai",
       "ai-agents",
@@ -194,102 +233,6 @@
       "open-source",
       "openai",
       "prompt-engineering"
-    ]
-  },
-  {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "249797 stars",
-    "topics": [
-      "ai",
-      "brainstorming",
-      "coding",
-      "obra",
-      "sdlc",
-      "skills",
-      "subagent-driven-development",
-      "superpowers"
-    ]
-  },
-  {
-    "name": "alibaba/zvec",
-    "url": "https://github.com/alibaba/zvec",
-    "desc": "A lightweight, lightning-fast, in-process vector database",
-    "lang": "C++",
-    "stars": "14383 stars",
-    "topics": [
-      "agent-skills",
-      "db",
-      "embedded",
-      "faiss",
-      "hnsw",
-      "llm-memory",
-      "local",
-      "rag",
-      "search-engine",
-      "semantic-search",
-      "similarity-search",
-      "vector-database",
-      "vector-db"
-    ]
-  },
-  {
-    "name": "Diolinux/PhotoGIMP",
-    "url": "https://github.com/Diolinux/PhotoGIMP",
-    "desc": "A Patch for GIMP 3+ for Photoshop Users",
-    "lang": "CSS",
-    "stars": "15021 stars",
-    "topics": []
-  },
-  {
-    "name": "wonderwhy-er/DesktopCommanderMCP",
-    "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-    "desc": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
-    "lang": "TypeScript",
-    "stars": "6370 stars",
-    "topics": [
-      "agent",
-      "ai",
-      "code-analysis",
-      "code-generation",
-      "gemini-cli-extension",
-      "mcp",
-      "terminal-ai",
-      "terminal-automation",
-      "vibe-coding"
-    ]
-  },
-  {
-    "name": "huxingyi/autoremesher",
-    "url": "https://github.com/huxingyi/autoremesher",
-    "desc": "Automatic quad remeshing tool",
-    "lang": "C++",
-    "stars": "1991 stars",
-    "topics": [
-      "quadremesh",
-      "retopology"
-    ]
-  },
-  {
-    "name": "bradautomates/claude-video",
-    "url": "https://github.com/bradautomates/claude-video",
-    "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-    "lang": "Python",
-    "stars": "6038 stars",
-    "topics": []
-  },
-  {
-    "name": "TencentCloud/CubeSandbox",
-    "url": "https://github.com/TencentCloud/CubeSandbox",
-    "desc": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-    "lang": "Rust",
-    "stars": "8915 stars",
-    "topics": [
-      "agents",
-      "container",
-      "sandbox"
     ]
   }
 ]

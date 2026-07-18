@@ -1,17 +1,21 @@
 [
   {
-    "name": "codecrafters-io/build-your-own-x",
-    "url": "https://github.com/codecrafters-io/build-your-own-x",
-    "desc": "Master programming by recreating your favorite technologies from scratch.",
-    "lang": "Markdown",
-    "stars": "527311 stars",
+    "name": "Robbyant/lingbot-map",
+    "url": "https://github.com/Robbyant/lingbot-map",
+    "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+    "lang": "Python",
+    "stars": "12911 stars",
+    "topics": []
+  },
+  {
+    "name": "apache/ossie",
+    "url": "https://github.com/apache/ossie",
+    "desc": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+    "lang": "Python",
+    "stars": "1266 stars",
     "topics": [
-      "awesome-list",
-      "free",
-      "programming",
-      "tutorial-code",
-      "tutorial-exercises",
-      "tutorials"
+      "metadata",
+      "semantic"
     ]
   },
   {
@@ -19,7 +23,7 @@
     "url": "https://github.com/PostHog/posthog",
     "desc": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
     "lang": "Python",
-    "stars": "36177 stars",
+    "stars": "36582 stars",
     "topics": [
       "ab-testing",
       "ai-analytics",
@@ -39,87 +43,43 @@
     ]
   },
   {
-    "name": "HenryNdubuaku/maths-cs-ai-compendium",
-    "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-    "desc": "Become a cracked AI/ML Research Engineer",
+    "name": "ibelick/ui-skills",
+    "url": "https://github.com/ibelick/ui-skills",
+    "desc": "Skills for Design Engineers",
     "lang": "TypeScript",
-    "stars": "6601 stars",
+    "stars": "4991 stars",
     "topics": [
-      "ai-textbook",
-      "algorithms",
-      "artificial-intelligence",
-      "computer-science",
+      "skills",
+      "ui-skills"
+    ]
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "desc": "Learn it. Build it. Ship it for others.",
+    "lang": "Python",
+    "stars": "39090 stars",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-engineering",
       "computer-vision",
+      "course",
       "deep-learning",
-      "jax",
-      "linear-algebra",
+      "from-scratch",
+      "generative-ai",
+      "llm",
       "machine-learning",
-      "machine-learning-algorithms",
-      "math",
-      "mathematics",
-      "multimodal-learning",
+      "mcp",
       "nlp",
-      "probability",
       "python",
       "reinforcement-learning",
-      "speech-processing",
-      "statistics"
-    ]
-  },
-  {
-    "name": "Nutlope/hallmark",
-    "url": "https://github.com/Nutlope/hallmark",
-    "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-    "lang": "CSS",
-    "stars": "11988 stars",
-    "topics": []
-  },
-  {
-    "name": "github/copilot-sdk",
-    "url": "https://github.com/github/copilot-sdk",
-    "desc": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-    "lang": "Java",
-    "stars": "9789 stars",
-    "topics": []
-  },
-  {
-    "name": "anthropics/cwc-workshops",
-    "url": "https://github.com/anthropics/cwc-workshops",
-    "desc": "<!-- Copyright 2026 Anthropic PBC --> <!-- SPDX-License-Identifier: Apache-2.0 -->",
-    "lang": "TypeScript",
-    "stars": "1579 stars",
-    "topics": []
-  },
-  {
-    "name": "PrismML-Eng/Bonsai-demo",
-    "url": "https://github.com/PrismML-Eng/Bonsai-demo",
-    "desc": "Bonsai Demo",
-    "lang": "Shell",
-    "stars": "1705 stars",
-    "topics": [
-      "bonsai",
-      "llamacpp",
-      "llm",
-      "mlx",
-      "prism-ml",
-      "small-models"
-    ]
-  },
-  {
-    "name": "protocolbuffers/protobuf",
-    "url": "https://github.com/protocolbuffers/protobuf",
-    "desc": "Protocol Buffers - Google's data interchange format",
-    "lang": "C++",
-    "stars": "71537 stars",
-    "topics": [
-      "marshalling",
-      "protobuf",
-      "protobuf-runtime",
-      "protoc",
-      "protocol-buffers",
-      "protocol-compiler",
-      "rpc",
-      "serialization"
+      "rust",
+      "swarm-intelligence",
+      "transformers",
+      "tutorial",
+      "typescript"
     ]
   },
   {
@@ -127,7 +87,7 @@
     "url": "https://github.com/tirth8205/code-review-graph",
     "desc": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
     "lang": "Python",
-    "stars": "19731 stars",
+    "stars": "20148 stars",
     "topics": [
       "ai-coding",
       "claude",
@@ -144,94 +104,85 @@
     ]
   },
   {
-    "name": "docusealco/docuseal",
-    "url": "https://github.com/docusealco/docuseal",
-    "desc": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-    "lang": "Ruby",
-    "stars": "17829 stars",
-    "topics": [
-      "document-signing",
-      "documents",
-      "e-signature",
-      "hotwired-turbo",
-      "open-source",
-      "pdf",
-      "pdf-sign",
-      "pdf-signature",
-      "ruby-on-rails",
-      "self-hosted",
-      "tailwindcss",
-      "vue",
-      "webpack"
-    ]
-  },
-  {
-    "name": "openinterpreter/openinterpreter",
-    "url": "https://github.com/openinterpreter/openinterpreter",
-    "desc": "A coding agent for open models like Kimi K3",
-    "lang": "Rust",
-    "stars": "66344 stars",
-    "topics": [
-      "acp",
-      "coding-agent",
-      "deepseek",
-      "kimi",
-      "qwen",
-      "rust"
-    ]
-  },
-  {
-    "name": "RyanCodrai/turbovec",
-    "url": "https://github.com/RyanCodrai/turbovec",
-    "desc": "A vector index built on TurboQuant, written in Rust with Python bindings",
-    "lang": "Python",
-    "stars": "13291 stars",
-    "topics": [
-      "ann",
-      "avx512",
-      "embedding",
-      "embeddings",
-      "faiss",
-      "nearest-neighbor",
-      "neon",
-      "python",
-      "quant",
-      "quantization",
-      "rag",
-      "rust",
-      "simd",
-      "turboquant",
-      "vector-search"
-    ]
-  },
-  {
-    "name": "HKUDS/DeepTutor",
-    "url": "https://github.com/HKUDS/DeepTutor",
-    "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-    "lang": "Python",
-    "stars": "27344 stars",
-    "topics": [
-      "ai-agents",
-      "ai-tutor",
-      "clawdbot",
-      "cli-tool",
-      "deepresearch",
-      "interactive-learning",
-      "large-language-models",
-      "multi-agent-systems",
-      "rag"
-    ]
-  },
-  {
-    "name": "OpenCut-app/OpenCut",
-    "url": "https://github.com/OpenCut-app/OpenCut",
-    "desc": "The open-source CapCut alternative",
+    "name": "elder-plinius/G0DM0D3",
+    "url": "https://github.com/elder-plinius/G0DM0D3",
+    "desc": "LIBERATED AI CHAT",
     "lang": "TypeScript",
-    "stars": "74832 stars",
+    "stars": "9498 stars",
+    "topics": []
+  },
+  {
+    "name": "lyogavin/airllm",
+    "url": "https://github.com/lyogavin/airllm",
+    "desc": "AirLLM 70B inference with single 4GB GPU",
+    "lang": "Jupyter Notebook",
+    "stars": "23320 stars",
     "topics": [
-      "editor",
-      "oss",
-      "videoeditor"
+      "chinese-llm",
+      "chinese-nlp",
+      "finetune",
+      "generative-ai",
+      "instruct-gpt",
+      "instruction-set",
+      "llama",
+      "llm",
+      "lora",
+      "open-models",
+      "open-source",
+      "open-source-models",
+      "qlora"
     ]
+  },
+  {
+    "name": "KnockOutEZ/wigolo",
+    "url": "https://github.com/KnockOutEZ/wigolo",
+    "desc": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+    "lang": "TypeScript",
+    "stars": "1218 stars",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agent",
+      "claude",
+      "cli",
+      "developer-tools",
+      "local-first",
+      "mcp",
+      "mcp-server",
+      "metasearch",
+      "model-context-protocol",
+      "nodejs",
+      "privacy",
+      "rag",
+      "search",
+      "search-engine",
+      "typescript",
+      "web-crawler",
+      "web-scraping",
+      "web-search"
+    ]
+  },
+  {
+    "name": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "desc": "Master programming by recreating your favorite technologies from scratch.",
+    "lang": "Markdown",
+    "stars": "528237 stars",
+    "topics": [
+      "awesome-list",
+      "free",
+      "programming",
+      "tutorial-code",
+      "tutorial-exercises",
+      "tutorials"
+    ]
+  },
+  {
+    "name": "MoonshotAI/kimi-cli",
+    "url": "https://github.com/MoonshotAI/kimi-cli",
+    "desc": "Kimi Code CLI is your next CLI agent.",
+    "lang": "Python",
+    "stars": "9466 stars",
+    "topics": []
   }
 ]

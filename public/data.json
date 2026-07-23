@@ -1,10 +1,18 @@
 [
   {
+    "name": "block/buzz",
+    "url": "https://github.com/block/buzz",
+    "desc": "A hive mind communication platform",
+    "lang": "Rust",
+    "stars": "6824 stars",
+    "topics": []
+  },
+  {
     "name": "koala73/worldmonitor",
     "url": "https://github.com/koala73/worldmonitor",
     "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
     "lang": "TypeScript",
-    "stars": "68888 stars",
+    "stars": "71531 stars",
     "topics": [
       "agent",
       "ai",
@@ -21,76 +29,44 @@
     ]
   },
   {
-    "name": "ruvnet/RuView",
-    "url": "https://github.com/ruvnet/RuView",
-    "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-    "lang": "Rust",
-    "stars": "83761 stars",
-    "topics": [
-      "awesome",
-      "claude",
-      "densepose",
-      "esp32",
-      "firmware",
-      "home-assistant",
-      "home-automation",
-      "iot",
-      "monitoring",
-      "networking",
-      "npm",
-      "pose-estimation",
-      "react",
-      "rf",
-      "self-learning",
-      "skills",
-      "spatial-intelligence",
-      "typescript",
-      "wifi",
-      "wifi-security"
-    ]
-  },
-  {
-    "name": "ayghri/i-have-adhd",
-    "url": "https://github.com/ayghri/i-have-adhd",
-    "desc": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+    "name": "shiyu-coder/Kronos",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
     "lang": "Python",
-    "stars": "8247 stars",
+    "stars": "33039 stars",
+    "topics": []
+  },
+  {
+    "name": "Pumpkin-MC/Pumpkin",
+    "url": "https://github.com/Pumpkin-MC/Pumpkin",
+    "desc": "Empowering everyone to host fast and efficient Minecraft servers.",
+    "lang": "Rust",
+    "stars": "8897 stars",
     "topics": [
-      "adhd",
-      "claude-",
-      "claude-code-plugin",
-      "claude-skills",
-      "developer-tools",
-      "productivity"
+      "docker",
+      "game-server",
+      "gamedev",
+      "minecraft",
+      "minecraft-bedrock-edition",
+      "minecraft-protocol",
+      "minecraft-server",
+      "networking",
+      "rust",
+      "server"
     ]
   },
   {
-    "name": "schollz/croc",
-    "url": "https://github.com/schollz/croc",
-    "desc": "Easily and securely send things from one computer to another :crocodile: :package:",
-    "lang": "Go",
-    "stars": "37550 stars",
+    "name": "citrolabs/ego-lite",
+    "url": "https://github.com/citrolabs/ego-lite",
+    "desc": "The best browser for both you and your AI agents work in parallel.",
+    "lang": "JavaScript",
+    "stars": "1608 stars",
     "topics": [
-      "data-transfer",
-      "file-sharing",
-      "golang",
-      "pake",
-      "peer-to-peer",
-      "tcp",
-      "transfer"
-    ]
-  },
-  {
-    "name": "likec4/likec4",
-    "url": "https://github.com/likec4/likec4",
-    "desc": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
-    "lang": "TypeScript",
-    "stars": "4264 stars",
-    "topics": [
-      "architecture",
-      "architecture-as-code",
-      "c4",
-      "diagrams"
+      "agent-skills",
+      "ai-agent",
+      "browser",
+      "skills",
+      "skills-sh"
     ]
   },
   {
@@ -98,7 +74,7 @@
     "url": "https://github.com/chrislgarry/Apollo-11",
     "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
     "lang": "Assembly",
-    "stars": "70585 stars",
+    "stars": "71092 stars",
     "topics": [
       "agc",
       "apollo",
@@ -107,28 +83,11 @@
     ]
   },
   {
-    "name": "jamiepine/voicebox",
-    "url": "https://github.com/jamiepine/voicebox",
-    "desc": "The open-source AI voice studio. Clone, dictate, create.",
-    "lang": "TypeScript",
-    "stars": "45737 stars",
-    "topics": [
-      "ai",
-      "cuda",
-      "mlx",
-      "qwen3-tts",
-      "qwen3-tts-ui",
-      "voice-ai",
-      "voice-clone",
-      "whisper"
-    ]
-  },
-  {
     "name": "diegosouzapw/OmniRoute",
     "url": "https://github.com/diegosouzapw/OmniRoute",
-    "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+    "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
     "lang": "TypeScript",
-    "stars": "25214 stars",
+    "stars": "27126 stars",
     "topics": [
       "a2a",
       "ai-agents",
@@ -153,19 +112,11 @@
     ]
   },
   {
-    "name": "shiyu-coder/Kronos",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "lang": "Python",
-    "stars": "32587 stars",
-    "topics": []
-  },
-  {
     "name": "ComposioHQ/awesome-claude-skills",
     "url": "https://github.com/ComposioHQ/awesome-claude-skills",
     "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
     "lang": "Python",
-    "stars": "68754 stars",
+    "stars": "69406 stars",
     "topics": [
       "agent-skills",
       "ai-agents",
@@ -187,16 +138,29 @@
     ]
   },
   {
-    "name": "oblien/openship",
-    "url": "https://github.com/oblien/openship",
-    "desc": "Self-hosted deployment platform",
-    "lang": "TypeScript",
-    "stars": "7278 stars",
+    "name": "earthtojake/text-to-cad",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "desc": "A collection of agent skills for CAD, robotics and hardware design",
+    "lang": "JavaScript",
+    "stars": "9963 stars",
     "topics": [
+      "3mf",
       "agents",
-      "ai",
-      "deployments",
-      "self-hosted"
+      "ai-agents",
+      "build123d",
+      "cad",
+      "dxf",
+      "glb",
+      "mechanical-engineering",
+      "opencascade",
+      "robotics",
+      "sdf",
+      "srdf",
+      "step",
+      "stl",
+      "stp",
+      "text-to-cad",
+      "urdf"
     ]
   },
   {
@@ -204,142 +168,95 @@
     "url": "https://github.com/agegr/pi-web",
     "desc": "Web UI for the pi coding agent",
     "lang": "TypeScript",
-    "stars": "2060 stars",
+    "stars": "2348 stars",
     "topics": []
   },
   {
-    "name": "rohitg00/ai-engineering-from-scratch",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "desc": "Learn it. Build it. Ship it for others.",
-    "lang": "Python",
-    "stars": "42238 stars",
+    "name": "alibaba/open-code-review",
+    "url": "https://github.com/alibaba/open-code-review",
+    "desc": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "lang": "Go",
+    "stars": "11487 stars",
     "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "ai-engineering",
-      "computer-vision",
-      "course",
-      "deep-learning",
-      "from-scratch",
-      "generative-ai",
-      "llm",
-      "machine-learning",
-      "mcp",
-      "nlp",
-      "python",
-      "reinforcement-learning",
-      "rust",
-      "swarm-intelligence",
-      "transformers",
-      "tutorial",
-      "typescript"
-    ]
-  },
-  {
-    "name": "tirth8205/code-review-graph",
-    "url": "https://github.com/tirth8205/code-review-graph",
-    "desc": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-    "lang": "Python",
-    "stars": "25300 stars",
-    "topics": [
-      "ai-coding",
-      "claude",
-      "claude-code",
+      "agent",
+      "agent-skills",
       "code-review",
-      "graphrag",
-      "incremental",
-      "knowledge-graph",
-      "llm",
-      "mcp",
-      "python",
-      "static-analysis",
-      "tree-sitter"
+      "code-review-assistant",
+      "harness",
+      "repository-level-context"
     ]
   },
   {
-    "name": "dreamhunter2333/cloudflare_temp_email",
-    "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
-    "desc": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
-    "lang": "TypeScript",
-    "stars": "10793 stars",
-    "topics": [
-      "cloudflare-email",
-      "cloudflare-pages",
-      "cloudflare-workers",
-      "email",
-      "free"
-    ]
-  },
-  {
-    "name": "DioxusLabs/dioxus",
-    "url": "https://github.com/DioxusLabs/dioxus",
-    "desc": "Fullstack app framework for web, desktop, and mobile.",
+    "name": "ruvnet/RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
     "lang": "Rust",
-    "stars": "38003 stars",
+    "stars": "85188 stars",
     "topics": [
-      "android",
-      "css",
-      "desktop",
-      "html",
-      "ios",
-      "native",
+      "awesome",
+      "claude",
+      "densepose",
+      "esp32",
+      "firmware",
+      "home-assistant",
+      "home-automation",
+      "iot",
+      "monitoring",
+      "networking",
+      "npm",
+      "pose-estimation",
+      "react",
+      "rf",
+      "self-learning",
+      "skills",
+      "spatial-intelligence",
+      "typescript",
+      "wifi",
+      "wifi-security"
+    ]
+  },
+  {
+    "name": "likec4/likec4",
+    "url": "https://github.com/likec4/likec4",
+    "desc": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+    "lang": "TypeScript",
+    "stars": "4682 stars",
+    "topics": [
+      "architecture",
+      "architecture-as-code",
+      "c4",
+      "diagrams"
+    ]
+  },
+  {
+    "name": "Automattic/harper",
+    "url": "https://github.com/Automattic/harper",
+    "desc": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+    "lang": "Rust",
+    "stars": "12270 stars",
+    "topics": [
+      "chrome-extension",
+      "developer-tools",
+      "english-language",
+      "grammar-checker",
+      "nodejs",
       "react",
       "rust",
-      "ssr",
-      "ui",
-      "virtualdom",
-      "wasm",
-      "web"
+      "svelte",
+      "webassembly"
     ]
   },
   {
-    "name": "hyprwm/Hyprland",
-    "url": "https://github.com/hyprwm/Hyprland",
-    "desc": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-    "lang": "C++",
-    "stars": "37288 stars",
+    "name": "jellyfin/jellyfin",
+    "url": "https://github.com/jellyfin/jellyfin",
+    "desc": "The Free Software Media System - Server Backend & API",
+    "lang": "C#",
+    "stars": "54725 stars",
     "topics": [
-      "compositor",
-      "cpp26",
-      "wayland",
-      "wayland-compositor"
-    ]
-  },
-  {
-    "name": "Pumpkin-MC/Pumpkin",
-    "url": "https://github.com/Pumpkin-MC/Pumpkin",
-    "desc": "Empowering everyone to host fast and efficient Minecraft servers.",
-    "lang": "Rust",
-    "stars": "8392 stars",
-    "topics": [
-      "docker",
-      "game-server",
-      "gamedev",
-      "minecraft",
-      "minecraft-bedrock-edition",
-      "minecraft-protocol",
-      "minecraft-server",
-      "networking",
-      "rust",
-      "server"
-    ]
-  },
-  {
-    "name": "dottxt-ai/outlines",
-    "url": "https://github.com/dottxt-ai/outlines",
-    "desc": "Structured Outputs",
-    "lang": "Python",
-    "stars": "15095 stars",
-    "topics": [
-      "cfg",
-      "generative-ai",
-      "json",
-      "llms",
-      "prompt-engineering",
-      "regex",
-      "structured-generation",
-      "symbolic-ai"
+      "csharp",
+      "dotnet",
+      "hacktoberfest",
+      "jellyfin"
     ]
   }
 ]

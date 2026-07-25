@@ -4,7 +4,7 @@
     "url": "https://github.com/block/buzz",
     "desc": "A hive mind communication platform",
     "lang": "Rust",
-    "stars": "6824 stars",
+    "stars": "9909 stars",
     "topics": []
   },
   {
@@ -12,7 +12,7 @@
     "url": "https://github.com/koala73/worldmonitor",
     "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
     "lang": "TypeScript",
-    "stars": "71531 stars",
+    "stars": "73245 stars",
     "topics": [
       "agent",
       "ai",
@@ -29,94 +29,11 @@
     ]
   },
   {
-    "name": "shiyu-coder/Kronos",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "lang": "Python",
-    "stars": "33039 stars",
-    "topics": []
-  },
-  {
-    "name": "Pumpkin-MC/Pumpkin",
-    "url": "https://github.com/Pumpkin-MC/Pumpkin",
-    "desc": "Empowering everyone to host fast and efficient Minecraft servers.",
-    "lang": "Rust",
-    "stars": "8897 stars",
-    "topics": [
-      "docker",
-      "game-server",
-      "gamedev",
-      "minecraft",
-      "minecraft-bedrock-edition",
-      "minecraft-protocol",
-      "minecraft-server",
-      "networking",
-      "rust",
-      "server"
-    ]
-  },
-  {
-    "name": "citrolabs/ego-lite",
-    "url": "https://github.com/citrolabs/ego-lite",
-    "desc": "The best browser for both you and your AI agents work in parallel.",
-    "lang": "JavaScript",
-    "stars": "1608 stars",
-    "topics": [
-      "agent-skills",
-      "ai-agent",
-      "browser",
-      "skills",
-      "skills-sh"
-    ]
-  },
-  {
-    "name": "chrislgarry/Apollo-11",
-    "url": "https://github.com/chrislgarry/Apollo-11",
-    "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-    "lang": "Assembly",
-    "stars": "71092 stars",
-    "topics": [
-      "agc",
-      "apollo",
-      "hacktoberfest",
-      "nasa"
-    ]
-  },
-  {
-    "name": "diegosouzapw/OmniRoute",
-    "url": "https://github.com/diegosouzapw/OmniRoute",
-    "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-    "lang": "TypeScript",
-    "stars": "27126 stars",
-    "topics": [
-      "a2a",
-      "ai-agents",
-      "ai-gateway",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "cline",
-      "codex",
-      "copilot",
-      "cursor",
-      "deepseek",
-      "free-ai",
-      "gemini",
-      "kimi",
-      "llm-gateway",
-      "mcp",
-      "openai",
-      "openai-proxy",
-      "qwen",
-      "token-saver"
-    ]
-  },
-  {
     "name": "ComposioHQ/awesome-claude-skills",
     "url": "https://github.com/ComposioHQ/awesome-claude-skills",
     "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
     "lang": "Python",
-    "stars": "69406 stars",
+    "stars": "70037 stars",
     "topics": [
       "agent-skills",
       "ai-agents",
@@ -138,52 +55,95 @@
     ]
   },
   {
-    "name": "earthtojake/text-to-cad",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "desc": "A collection of agent skills for CAD, robotics and hardware design",
-    "lang": "JavaScript",
-    "stars": "9963 stars",
+    "name": "Pumpkin-MC/Pumpkin",
+    "url": "https://github.com/Pumpkin-MC/Pumpkin",
+    "desc": "Empowering everyone to host fast and efficient Minecraft servers.",
+    "lang": "Rust",
+    "stars": "9328 stars",
     "topics": [
-      "3mf",
-      "agents",
-      "ai-agents",
-      "build123d",
-      "cad",
-      "dxf",
-      "glb",
-      "mechanical-engineering",
-      "opencascade",
-      "robotics",
-      "sdf",
-      "srdf",
-      "step",
-      "stl",
-      "stp",
-      "text-to-cad",
-      "urdf"
+      "docker",
+      "game-server",
+      "gamedev",
+      "minecraft",
+      "minecraft-bedrock-edition",
+      "minecraft-protocol",
+      "minecraft-server",
+      "networking",
+      "rust",
+      "server"
     ]
   },
   {
-    "name": "agegr/pi-web",
-    "url": "https://github.com/agegr/pi-web",
-    "desc": "Web UI for the pi coding agent",
-    "lang": "TypeScript",
-    "stars": "2348 stars",
+    "name": "shiyu-coder/Kronos",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "lang": "Python",
+    "stars": "33479 stars",
     "topics": []
   },
   {
-    "name": "alibaba/open-code-review",
-    "url": "https://github.com/alibaba/open-code-review",
-    "desc": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-    "lang": "Go",
-    "stars": "11487 stars",
+    "name": "Automattic/harper",
+    "url": "https://github.com/Automattic/harper",
+    "desc": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+    "lang": "Rust",
+    "stars": "13029 stars",
     "topics": [
-      "agent",
+      "chrome-extension",
+      "developer-tools",
+      "english-language",
+      "grammar-checker",
+      "nodejs",
+      "react",
+      "rust",
+      "svelte",
+      "webassembly"
+    ]
+  },
+  {
+    "name": "likec4/likec4",
+    "url": "https://github.com/likec4/likec4",
+    "desc": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+    "lang": "TypeScript",
+    "stars": "5013 stars",
+    "topics": [
+      "architecture",
+      "architecture-as-code",
+      "c4",
+      "diagrams"
+    ]
+  },
+  {
+    "name": "citrolabs/ego-lite",
+    "url": "https://github.com/citrolabs/ego-lite",
+    "desc": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "lang": "JavaScript",
+    "stars": "2544 stars",
+    "topics": [
       "agent-skills",
-      "code-review",
-      "code-review-assistant",
-      "harness",
-      "repository-level-context"
+      "ai-agent",
+      "browser",
+      "skills",
+      "skills-sh"
+    ]
+  },
+  {
+    "name": "yorukot/superfile",
+    "url": "https://github.com/yorukot/superfile",
+    "desc": "Pretty fancy and modern terminal file manager",
+    "lang": "Go",
+    "stars": "19560 stars",
+    "topics": [
+      "bubbletea",
+      "cli",
+      "file-manager",
+      "filemanager",
+      "filesystem",
+      "golang",
+      "hacktoberfest",
+      "linux-app",
+      "terminal-app",
+      "terminal-based",
+      "tui"
     ]
   },
   {
@@ -191,7 +151,7 @@
     "url": "https://github.com/ruvnet/RuView",
     "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
     "lang": "Rust",
-    "stars": "85188 stars",
+    "stars": "85917 stars",
     "topics": [
       "awesome",
       "claude",
@@ -216,47 +176,104 @@
     ]
   },
   {
-    "name": "likec4/likec4",
-    "url": "https://github.com/likec4/likec4",
-    "desc": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code",
+    "name": "CoreBunch/Instatic",
+    "url": "https://github.com/CoreBunch/Instatic",
+    "desc": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. ",
     "lang": "TypeScript",
-    "stars": "4682 stars",
+    "stars": "4273 stars",
     "topics": [
-      "architecture",
-      "architecture-as-code",
-      "c4",
-      "diagrams"
+      "cms",
+      "css",
+      "css-framework",
+      "page-builder",
+      "static",
+      "website"
     ]
   },
   {
-    "name": "Automattic/harper",
-    "url": "https://github.com/Automattic/harper",
-    "desc": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-    "lang": "Rust",
-    "stars": "12270 stars",
+    "name": "chrislgarry/Apollo-11",
+    "url": "https://github.com/chrislgarry/Apollo-11",
+    "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "lang": "Assembly",
+    "stars": "71400 stars",
     "topics": [
-      "chrome-extension",
-      "developer-tools",
-      "english-language",
-      "grammar-checker",
-      "nodejs",
-      "react",
-      "rust",
-      "svelte",
-      "webassembly"
-    ]
-  },
-  {
-    "name": "jellyfin/jellyfin",
-    "url": "https://github.com/jellyfin/jellyfin",
-    "desc": "The Free Software Media System - Server Backend & API",
-    "lang": "C#",
-    "stars": "54725 stars",
-    "topics": [
-      "csharp",
-      "dotnet",
+      "agc",
+      "apollo",
       "hacktoberfest",
-      "jellyfin"
+      "nasa"
+    ]
+  },
+  {
+    "name": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+    "lang": "Shell",
+    "stars": "186674 stars",
+    "topics": []
+  },
+  {
+    "name": "Lordog/dive-into-llms",
+    "url": "https://github.com/Lordog/dive-into-llms",
+    "desc": "《动手学大模型Dive into LLMs》系列编程实践教程",
+    "lang": "Jupyter Notebook",
+    "stars": "44988 stars",
+    "topics": []
+  },
+  {
+    "name": "diegosouzapw/OmniRoute",
+    "url": "https://github.com/diegosouzapw/OmniRoute",
+    "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+    "lang": "TypeScript",
+    "stars": "28802 stars",
+    "topics": [
+      "a2a",
+      "ai-agents",
+      "ai-gateway",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "cline",
+      "codex",
+      "copilot",
+      "cursor",
+      "deepseek",
+      "free-ai",
+      "gemini",
+      "kimi",
+      "llm-gateway",
+      "mcp",
+      "openai",
+      "openai-proxy",
+      "qwen",
+      "token-saver"
+    ]
+  },
+  {
+    "name": "OtterMind/Chat2DB",
+    "url": "https://github.com/OtterMind/Chat2DB",
+    "desc": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+    "lang": "Java",
+    "stars": "26320 stars",
+    "topics": [
+      "ai",
+      "bi",
+      "chatgpt",
+      "clickhouse",
+      "clickhouse-client",
+      "database",
+      "datagrip",
+      "db2",
+      "dbeaver",
+      "gpt",
+      "hive",
+      "mysql",
+      "navicat",
+      "oracle",
+      "postgresql",
+      "redis",
+      "redis-client",
+      "sqlserver",
+      "text2sql"
     ]
   }
 ]

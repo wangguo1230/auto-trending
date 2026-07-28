@@ -1,39 +1,29 @@
 [
   {
-    "name": "permissionlesstech/bitchat",
-    "url": "https://github.com/permissionlesstech/bitchat",
-    "desc": "bluetooth mesh chat, IRC vibes",
-    "lang": "Swift",
-    "stars": "32220 stars",
-    "topics": [
-      "bluetooth",
-      "bluetooth-le",
-      "decentralized",
-      "e2e-encryption",
-      "ios",
-      "macos",
-      "mesh-network",
-      "messaging",
-      "nostr",
-      "swift"
-    ]
+    "name": "pascalorg/editor",
+    "url": "https://github.com/pascalorg/editor",
+    "desc": "Create and share 3D architectural projects.",
+    "lang": "TypeScript",
+    "stars": "18673 stars",
+    "topics": []
   },
   {
-    "name": "amnezia-vpn/amnezia-client",
-    "url": "https://github.com/amnezia-vpn/amnezia-client",
-    "desc": "Amnezia VPN Client (Desktop+Mobile)",
-    "lang": "C++",
-    "stars": "13796 stars",
+    "name": "jenkinsci/jenkins",
+    "url": "https://github.com/jenkinsci/jenkins",
+    "desc": "Jenkins automation server",
+    "lang": "Java",
+    "stars": "26065 stars",
     "topics": [
-      "cloak",
-      "gfw",
-      "ikev2",
-      "openvpn",
-      "shadowsocks",
-      "vpn",
-      "vpn-client",
-      "vpn-server",
-      "wireguard"
+      "cicd",
+      "continuous-delivery",
+      "continuous-deployment",
+      "continuous-integration",
+      "devops",
+      "groovy",
+      "hacktoberfest",
+      "java",
+      "jenkins",
+      "pipelines-as-code"
     ]
   },
   {
@@ -41,7 +31,7 @@
     "url": "https://github.com/moeru-ai/airi",
     "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
     "lang": "TypeScript",
-    "stars": "44006 stars",
+    "stars": "44736 stars",
     "topics": [
       "ai-companion",
       "ai-vtuber",
@@ -57,11 +47,62 @@
     ]
   },
   {
+    "name": "andrewyng/aisuite",
+    "url": "https://github.com/andrewyng/aisuite",
+    "desc": "Simple, unified interface to multiple Generative AI providers ",
+    "lang": "Python",
+    "stars": "15675 stars",
+    "topics": []
+  },
+  {
+    "name": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "lang": "JavaScript",
+    "stars": "234783 stars",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ]
+  },
+  {
+    "name": "huggingface/speech-to-speech",
+    "url": "https://github.com/huggingface/speech-to-speech",
+    "desc": "Build local voice agents with open-source models",
+    "lang": "Python",
+    "stars": "7208 stars",
+    "topics": [
+      "ai",
+      "assistant",
+      "language-model",
+      "machine-learning",
+      "python",
+      "speech",
+      "speech-synthesis",
+      "speech-to-text",
+      "speech-translation"
+    ]
+  },
+  {
+    "name": "virgiliojr94/book-to-skill",
+    "url": "https://github.com/virgiliojr94/book-to-skill",
+    "desc": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "lang": "Python",
+    "stars": "11315 stars",
+    "topics": []
+  },
+  {
     "name": "opengeos/GeoLibre",
     "url": "https://github.com/opengeos/GeoLibre",
     "desc": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
     "lang": "TypeScript",
-    "stars": "2655 stars",
+    "stars": "3378 stars",
     "topics": [
       "data-science",
       "duckdb",
@@ -72,11 +113,60 @@
     ]
   },
   {
+    "name": "paperswithbacktest/awesome-systematic-trading",
+    "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+    "desc": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+    "lang": "Python",
+    "stars": "9561 stars",
+    "topics": [
+      "algorithmic-trading",
+      "algotrading",
+      "alpha",
+      "arbitrage-bot",
+      "awesome",
+      "awesome-list",
+      "book",
+      "finance",
+      "futures",
+      "futures-historical-data",
+      "futures-market",
+      "futuresmarkets",
+      "paper",
+      "quant",
+      "quantitative-finance",
+      "quantitative-trading",
+      "trading-algorithms",
+      "trading-bot",
+      "trading-strategies"
+    ]
+  },
+  {
+    "name": "microsoft/agent-governance-toolkit",
+    "url": "https://github.com/microsoft/agent-governance-toolkit",
+    "desc": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+    "lang": "Python",
+    "stars": "5179 stars",
+    "topics": [
+      "agent-framework",
+      "ai-agents",
+      "ai-safety",
+      "compliance",
+      "governance",
+      "microsoft",
+      "owasp",
+      "policy-engine",
+      "python",
+      "security",
+      "trust",
+      "zero-trust"
+    ]
+  },
+  {
     "name": "yorukot/superfile",
     "url": "https://github.com/yorukot/superfile",
     "desc": "Pretty fancy and modern terminal file manager",
     "lang": "Go",
-    "stars": "20860 stars",
+    "stars": "21462 stars",
     "topics": [
       "bubbletea",
       "cli",
@@ -92,142 +182,11 @@
     ]
   },
   {
-    "name": "NanmiCoder/MediaCrawler",
-    "url": "https://github.com/NanmiCoder/MediaCrawler",
-    "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫",
-    "lang": "Python",
-    "stars": "58151 stars",
-    "topics": []
-  },
-  {
-    "name": "pbakaus/impeccable",
-    "url": "https://github.com/pbakaus/impeccable",
-    "desc": "The design language that makes your AI harness better at design.",
-    "lang": "JavaScript",
-    "stars": "51516 stars",
-    "topics": []
-  },
-  {
-    "name": "shiyu-coder/Kronos",
-    "url": "https://github.com/shiyu-coder/Kronos",
-    "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
-    "lang": "Python",
-    "stars": "34557 stars",
-    "topics": []
-  },
-  {
-    "name": "alibaba/open-code-review",
-    "url": "https://github.com/alibaba/open-code-review",
-    "desc": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-    "lang": "Go",
-    "stars": "14767 stars",
-    "topics": [
-      "agent",
-      "agent-skills",
-      "code-review",
-      "code-review-assistant",
-      "harness",
-      "repository-level-context"
-    ]
-  },
-  {
-    "name": "jenkinsci/jenkins",
-    "url": "https://github.com/jenkinsci/jenkins",
-    "desc": "Jenkins automation server",
-    "lang": "Java",
-    "stars": "25875 stars",
-    "topics": [
-      "cicd",
-      "continuous-delivery",
-      "continuous-deployment",
-      "continuous-integration",
-      "devops",
-      "groovy",
-      "hacktoberfest",
-      "java",
-      "jenkins",
-      "pipelines-as-code"
-    ]
-  },
-  {
     "name": "bradautomates/claude-video",
     "url": "https://github.com/bradautomates/claude-video",
     "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
     "lang": "Python",
-    "stars": "11045 stars",
+    "stars": "12068 stars",
     "topics": []
-  },
-  {
-    "name": "vudovn/ag-kit",
-    "url": "https://github.com/vudovn/ag-kit",
-    "desc": "<p align=\"center\"> <img src=\"https://raw.githubusercontent.com/vudovn/ag-kit/main/web/public/images/logo.png\" width=\"128\" height=\"128\" alt=\"AG Kit\">",
-    "lang": "TypeScript",
-    "stars": "7950 stars",
-    "topics": []
-  },
-  {
-    "name": "apache/cassandra",
-    "url": "https://github.com/apache/cassandra",
-    "desc": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
-    "lang": "Java",
-    "stars": "9955 stars",
-    "topics": [
-      "cassandra",
-      "database",
-      "java"
-    ]
-  },
-  {
-    "name": "mvanhorn/last30days-skill",
-    "url": "https://github.com/mvanhorn/last30days-skill",
-    "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-    "lang": "Python",
-    "stars": "54152 stars",
-    "topics": [
-      "ai-prompts",
-      "ai-skill",
-      "bluesky",
-      "claude",
-      "claude-code",
-      "clawhub",
-      "deep-research",
-      "hackernews",
-      "instagram",
-      "openclaw",
-      "polymarket",
-      "recency",
-      "reddit",
-      "research",
-      "social-media",
-      "tiktok",
-      "trends",
-      "twitter",
-      "web-search",
-      "youtube"
-    ]
-  },
-  {
-    "name": "ocornut/imgui",
-    "url": "https://github.com/ocornut/imgui",
-    "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-    "lang": "C++",
-    "stars": "75194 stars",
-    "topics": [
-      "api",
-      "cplusplus",
-      "framework",
-      "game-development",
-      "game-engine",
-      "gamedev",
-      "gui",
-      "imgui",
-      "immediate-gui",
-      "library",
-      "multi-platform",
-      "native",
-      "toolkit",
-      "tools",
-      "ui"
-    ]
   }
 ]

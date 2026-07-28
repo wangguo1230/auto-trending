@@ -4,7 +4,7 @@
     "url": "https://github.com/permissionlesstech/bitchat",
     "desc": "bluetooth mesh chat, IRC vibes",
     "lang": "Swift",
-    "stars": "30249 stars",
+    "stars": "32220 stars",
     "topics": [
       "bluetooth",
       "bluetooth-le",
@@ -19,48 +19,56 @@
     ]
   },
   {
-    "name": "citrolabs/ego-lite",
-    "url": "https://github.com/citrolabs/ego-lite",
-    "desc": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-    "lang": "JavaScript",
-    "stars": "4464 stars",
+    "name": "amnezia-vpn/amnezia-client",
+    "url": "https://github.com/amnezia-vpn/amnezia-client",
+    "desc": "Amnezia VPN Client (Desktop+Mobile)",
+    "lang": "C++",
+    "stars": "13796 stars",
     "topics": [
-      "agent-skills",
-      "ai-agent",
-      "browser",
-      "skills",
-      "skills-sh"
+      "cloak",
+      "gfw",
+      "ikev2",
+      "openvpn",
+      "shadowsocks",
+      "vpn",
+      "vpn-client",
+      "vpn-server",
+      "wireguard"
     ]
   },
   {
-    "name": "block/buzz",
-    "url": "https://github.com/block/buzz",
-    "desc": "A hive mind communication platform",
-    "lang": "Rust",
-    "stars": "13230 stars",
-    "topics": []
-  },
-  {
-    "name": "pingdotgg/t3code",
-    "url": "https://github.com/pingdotgg/t3code",
-    "desc": "T3 Code is a minimal web GUI for coding agents (currently Codex, Claude, Cursor, and OpenCode, more coming soon). > [!WARNING]",
+    "name": "moeru-ai/airi",
+    "url": "https://github.com/moeru-ai/airi",
+    "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
     "lang": "TypeScript",
-    "stars": "15036 stars",
-    "topics": []
-  },
-  {
-    "name": "CoreBunch/Instatic",
-    "url": "https://github.com/CoreBunch/Instatic",
-    "desc": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. ",
-    "lang": "TypeScript",
-    "stars": "5644 stars",
+    "stars": "44006 stars",
     "topics": [
-      "cms",
-      "css",
-      "css-framework",
-      "page-builder",
-      "static",
-      "website"
+      "ai-companion",
+      "ai-vtuber",
+      "airi",
+      "digital-life",
+      "grok-companion",
+      "live2d",
+      "neuro-sama",
+      "neurosama",
+      "openclaw",
+      "vrm",
+      "vtuber"
+    ]
+  },
+  {
+    "name": "opengeos/GeoLibre",
+    "url": "https://github.com/opengeos/GeoLibre",
+    "desc": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
+    "lang": "TypeScript",
+    "stars": "2655 stars",
+    "topics": [
+      "data-science",
+      "duckdb",
+      "geospatial",
+      "maplibre",
+      "maplibre-gl-js",
+      "tauri-app"
     ]
   },
   {
@@ -68,7 +76,7 @@
     "url": "https://github.com/yorukot/superfile",
     "desc": "Pretty fancy and modern terminal file manager",
     "lang": "Go",
-    "stars": "20208 stars",
+    "stars": "20860 stars",
     "topics": [
       "bubbletea",
       "cli",
@@ -84,57 +92,19 @@
     ]
   },
   {
-    "name": "nodejs/node",
-    "url": "https://github.com/nodejs/node",
-    "desc": "Node.js JavaScript runtime ✨🐢🚀✨",
-    "lang": "JavaScript",
-    "stars": "118459 stars",
-    "topics": [
-      "javascript",
-      "js",
-      "linux",
-      "macos",
-      "mit",
-      "node",
-      "nodejs",
-      "runtime",
-      "windows"
-    ]
-  },
-  {
-    "name": "OtterMind/Chat2DB",
-    "url": "https://github.com/OtterMind/Chat2DB",
-    "desc": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
-    "lang": "Java",
-    "stars": "27090 stars",
-    "topics": [
-      "ai",
-      "bi",
-      "chatgpt",
-      "clickhouse",
-      "clickhouse-client",
-      "database",
-      "datagrip",
-      "db2",
-      "dbeaver",
-      "gpt",
-      "hive",
-      "mysql",
-      "navicat",
-      "oracle",
-      "postgresql",
-      "redis",
-      "redis-client",
-      "sqlserver",
-      "text2sql"
-    ]
+    "name": "NanmiCoder/MediaCrawler",
+    "url": "https://github.com/NanmiCoder/MediaCrawler",
+    "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫",
+    "lang": "Python",
+    "stars": "58151 stars",
+    "topics": []
   },
   {
     "name": "pbakaus/impeccable",
     "url": "https://github.com/pbakaus/impeccable",
     "desc": "The design language that makes your AI harness better at design.",
     "lang": "JavaScript",
-    "stars": "50636 stars",
+    "stars": "51516 stars",
     "topics": []
   },
   {
@@ -142,7 +112,7 @@
     "url": "https://github.com/shiyu-coder/Kronos",
     "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
     "lang": "Python",
-    "stars": "34158 stars",
+    "stars": "34557 stars",
     "topics": []
   },
   {
@@ -150,7 +120,7 @@
     "url": "https://github.com/alibaba/open-code-review",
     "desc": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
     "lang": "Go",
-    "stars": "13771 stars",
+    "stars": "14767 stars",
     "topics": [
       "agent",
       "agent-skills",
@@ -161,54 +131,11 @@
     ]
   },
   {
-    "name": "andrewyng/aisuite",
-    "url": "https://github.com/andrewyng/aisuite",
-    "desc": "Simple, unified interface to multiple Generative AI providers ",
-    "lang": "Python",
-    "stars": "15390 stars",
-    "topics": []
-  },
-  {
-    "name": "anthropics/claude-cookbooks",
-    "url": "https://github.com/anthropics/claude-cookbooks",
-    "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-    "lang": "Jupyter Notebook",
-    "stars": "50214 stars",
-    "topics": []
-  },
-  {
-    "name": "Pumpkin-MC/Pumpkin",
-    "url": "https://github.com/Pumpkin-MC/Pumpkin",
-    "desc": "Empowering everyone to host fast and efficient Minecraft servers.",
-    "lang": "Rust",
-    "stars": "9993 stars",
-    "topics": [
-      "docker",
-      "game-server",
-      "gamedev",
-      "minecraft",
-      "minecraft-bedrock-edition",
-      "minecraft-protocol",
-      "minecraft-server",
-      "networking",
-      "rust",
-      "server"
-    ]
-  },
-  {
-    "name": "permissionlesstech/bitchat-android",
-    "url": "https://github.com/permissionlesstech/bitchat-android",
-    "desc": "bluetooth mesh chat, IRC vibes",
-    "lang": "Kotlin",
-    "stars": "6688 stars",
-    "topics": []
-  },
-  {
     "name": "jenkinsci/jenkins",
     "url": "https://github.com/jenkinsci/jenkins",
     "desc": "Jenkins automation server",
     "lang": "Java",
-    "stars": "25696 stars",
+    "stars": "25875 stars",
     "topics": [
       "cicd",
       "continuous-delivery",
@@ -223,21 +150,84 @@
     ]
   },
   {
-    "name": "amnezia-vpn/amnezia-client",
-    "url": "https://github.com/amnezia-vpn/amnezia-client",
-    "desc": "Amnezia VPN Client (Desktop+Mobile)",
-    "lang": "C++",
-    "stars": "13306 stars",
+    "name": "bradautomates/claude-video",
+    "url": "https://github.com/bradautomates/claude-video",
+    "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+    "lang": "Python",
+    "stars": "11045 stars",
+    "topics": []
+  },
+  {
+    "name": "vudovn/ag-kit",
+    "url": "https://github.com/vudovn/ag-kit",
+    "desc": "<p align=\"center\"> <img src=\"https://raw.githubusercontent.com/vudovn/ag-kit/main/web/public/images/logo.png\" width=\"128\" height=\"128\" alt=\"AG Kit\">",
+    "lang": "TypeScript",
+    "stars": "7950 stars",
+    "topics": []
+  },
+  {
+    "name": "apache/cassandra",
+    "url": "https://github.com/apache/cassandra",
+    "desc": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
+    "lang": "Java",
+    "stars": "9955 stars",
     "topics": [
-      "cloak",
-      "gfw",
-      "ikev2",
-      "openvpn",
-      "shadowsocks",
-      "vpn",
-      "vpn-client",
-      "vpn-server",
-      "wireguard"
+      "cassandra",
+      "database",
+      "java"
+    ]
+  },
+  {
+    "name": "mvanhorn/last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "lang": "Python",
+    "stars": "54152 stars",
+    "topics": [
+      "ai-prompts",
+      "ai-skill",
+      "bluesky",
+      "claude",
+      "claude-code",
+      "clawhub",
+      "deep-research",
+      "hackernews",
+      "instagram",
+      "openclaw",
+      "polymarket",
+      "recency",
+      "reddit",
+      "research",
+      "social-media",
+      "tiktok",
+      "trends",
+      "twitter",
+      "web-search",
+      "youtube"
+    ]
+  },
+  {
+    "name": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "lang": "C++",
+    "stars": "75194 stars",
+    "topics": [
+      "api",
+      "cplusplus",
+      "framework",
+      "game-development",
+      "game-engine",
+      "gamedev",
+      "gui",
+      "imgui",
+      "immediate-gui",
+      "library",
+      "multi-platform",
+      "native",
+      "toolkit",
+      "tools",
+      "ui"
     ]
   }
 ]

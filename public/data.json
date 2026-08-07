@@ -1,35 +1,10 @@
 [
   {
-    "name": "cloudflare/computer",
-    "url": "https://github.com/cloudflare/computer",
-    "desc": "Give your agent a computer 👾",
-    "lang": "TypeScript",
-    "stars": "2854 stars",
-    "topics": []
-  },
-  {
-    "name": "huangruiteng/loopx",
-    "url": "https://github.com/huangruiteng/loopx",
-    "desc": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
-    "lang": "Python",
-    "stars": "2088 stars",
-    "topics": [
-      "agent-control-plane",
-      "agent-ops",
-      "ai-agents",
-      "codex",
-      "long-running-agents",
-      "loop-engineering",
-      "loopx",
-      "workflow-automation"
-    ]
-  },
-  {
     "name": "TencentCloud/TencentDB-Agent-Memory",
     "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
     "desc": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
     "lang": "TypeScript",
-    "stars": "15028 stars",
+    "stars": "16438 stars",
     "topics": [
       "agent",
       "ai-agent",
@@ -43,44 +18,137 @@
     ]
   },
   {
-    "name": "donnemartin/system-design-primer",
-    "url": "https://github.com/donnemartin/system-design-primer",
-    "desc": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
-    "lang": "Python",
-    "stars": "361502 stars",
+    "name": "addyosmani/agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "desc": "Production-grade engineering skills for AI coding agents.",
+    "lang": "JavaScript",
+    "stars": "82966 stars",
     "topics": [
-      "design",
-      "design-patterns",
-      "design-system",
-      "development",
-      "interview",
-      "interview-practice",
-      "interview-questions",
-      "programming",
-      "python",
-      "system",
-      "web",
-      "web-application",
-      "webapp"
+      "agent-skills",
+      "antigravity",
+      "claude-code",
+      "codex",
+      "cursor",
+      "skills"
     ]
   },
   {
-    "name": "firecrawl/pdf-inspector",
-    "url": "https://github.com/firecrawl/pdf-inspector",
-    "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-    "lang": "Rust",
-    "stars": "11419 stars",
+    "name": "cloudflare/computer",
+    "url": "https://github.com/cloudflare/computer",
+    "desc": "Give your agent a computer 👾",
+    "lang": "TypeScript",
+    "stars": "4833 stars",
+    "topics": []
+  },
+  {
+    "name": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+    "lang": "Shell",
+    "stars": "207100 stars",
+    "topics": []
+  },
+  {
+    "name": "goauthentik/authentik",
+    "url": "https://github.com/goauthentik/authentik",
+    "desc": "The authentication glue you need.",
+    "lang": "Python",
+    "stars": "23136 stars",
     "topics": [
-      "markdown",
-      "nodejs",
-      "ocr-routing",
-      "pdf",
-      "pdf-classification",
-      "pdf-extraction",
-      "pdf-parser",
+      "authentication",
+      "authentik",
+      "authorization",
+      "kubernetes",
+      "oauth2",
+      "oauth2-client",
+      "oauth2-server",
+      "oidc",
+      "oidc-client",
+      "oidc-provider",
+      "proxy",
+      "reverse-proxy",
+      "saml",
+      "saml-idp",
+      "saml-sp",
+      "security",
+      "sso"
+    ]
+  },
+  {
+    "name": "huangruiteng/loopx",
+    "url": "https://github.com/huangruiteng/loopx",
+    "desc": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+    "lang": "Python",
+    "stars": "2884 stars",
+    "topics": [
+      "agent-control-plane",
+      "agent-ops",
+      "ai-agents",
+      "codex",
+      "long-running-agents",
+      "loop-engineering",
+      "loopx",
+      "workflow-automation"
+    ]
+  },
+  {
+    "name": "google/guava",
+    "url": "https://github.com/google/guava",
+    "desc": "Google core libraries for Java",
+    "lang": "Java",
+    "stars": "51642 stars",
+    "topics": [
+      "guava",
+      "java"
+    ]
+  },
+  {
+    "name": "TapXWorld/ChinaTextbook",
+    "url": "https://github.com/TapXWorld/ChinaTextbook",
+    "desc": "所有小初高、大学PDF教材。",
+    "lang": "Roff",
+    "stars": "77127 stars",
+    "topics": []
+  },
+  {
+    "name": "Significant-Gravitas/AutoGPT",
+    "url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "lang": "Python",
+    "stars": "186020 stars",
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "artificial-intelligence",
+      "autonomous-agents",
+      "claude",
+      "gpt",
+      "llama-api",
+      "llm",
+      "openai",
+      "python"
+    ]
+  },
+  {
+    "name": "tirth8205/code-review-graph",
+    "url": "https://github.com/tirth8205/code-review-graph",
+    "desc": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+    "lang": "Python",
+    "stars": "29036 stars",
+    "topics": [
+      "ai-coding",
+      "claude",
+      "claude-code",
+      "code-review",
+      "graphrag",
+      "incremental",
+      "knowledge-graph",
+      "llm",
+      "mcp",
       "python",
-      "rust",
-      "text-extraction"
+      "static-analysis",
+      "tree-sitter"
     ]
   },
   {
@@ -88,7 +156,7 @@
     "url": "https://github.com/esengine/DeepSeek-Reasonix",
     "desc": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
     "lang": "Go",
-    "stars": "31574 stars",
+    "stars": "32439 stars",
     "topics": [
       "agent",
       "agent-framework",
@@ -109,26 +177,11 @@
     ]
   },
   {
-    "name": "addyosmani/agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "desc": "Production-grade engineering skills for AI coding agents.",
-    "lang": "JavaScript",
-    "stars": "81965 stars",
-    "topics": [
-      "agent-skills",
-      "antigravity",
-      "claude-code",
-      "codex",
-      "cursor",
-      "skills"
-    ]
-  },
-  {
     "name": "obra/superpowers",
     "url": "https://github.com/obra/superpowers",
     "desc": "An agentic skills framework & software development methodology that works.",
     "lang": "Shell",
-    "stars": "267281 stars",
+    "stars": "268114 stars",
     "topics": [
       "ai",
       "brainstorming",
@@ -141,114 +194,22 @@
     ]
   },
   {
-    "name": "roboflow/supervision",
-    "url": "https://github.com/roboflow/supervision",
-    "desc": "We write your reusable computer vision tools. 💜",
-    "lang": "Python",
-    "stars": "48905 stars",
+    "name": "firecrawl/pdf-inspector",
+    "url": "https://github.com/firecrawl/pdf-inspector",
+    "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+    "lang": "Rust",
+    "stars": "12475 stars",
     "topics": [
-      "classification",
-      "coco",
-      "computer-vision",
-      "deep-learning",
-      "hacktoberfest",
-      "image-processing",
-      "instance-segmentation",
-      "low-code",
-      "machine-learning",
-      "metrics",
-      "object-detection",
-      "oriented-bounding-box",
-      "pascal-voc",
+      "markdown",
+      "nodejs",
+      "ocr-routing",
+      "pdf",
+      "pdf-classification",
+      "pdf-extraction",
+      "pdf-parser",
       "python",
-      "pytorch",
-      "tensorflow",
-      "tracking",
-      "video-processing",
-      "yolo"
-    ]
-  },
-  {
-    "name": "vercel/next.js",
-    "url": "https://github.com/vercel/next.js",
-    "desc": "The React Framework",
-    "lang": "JavaScript",
-    "stars": "141538 stars",
-    "topics": [
-      "blog",
-      "browser",
-      "compiler",
-      "components",
-      "hybrid",
-      "nextjs",
-      "node",
-      "react",
-      "server-rendering",
-      "ssg",
-      "static",
-      "static-site-generator",
-      "universal",
-      "vercel"
-    ]
-  },
-  {
-    "name": "tailwindlabs/tailwindcss",
-    "url": "https://github.com/tailwindlabs/tailwindcss",
-    "desc": "A utility-first CSS framework for rapid UI development.",
-    "lang": "TypeScript",
-    "stars": "96842 stars",
-    "topics": [
-      "css",
-      "css-framework",
-      "functional-css",
-      "postcss",
-      "responsive",
-      "tailwindcss",
-      "utility-classes"
-    ]
-  },
-  {
-    "name": "uber/ADR",
-    "url": "https://github.com/uber/ADR",
-    "desc": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
-    "lang": "Python",
-    "stars": "1029 stars",
-    "topics": [
-      "agent-security",
-      "ai-agents",
-      "ai-security",
-      "benchmark",
-      "claude",
-      "claude-code",
-      "codex",
-      "cursor",
-      "llm-security",
-      "mcp",
-      "model-context-protocol",
-      "prompt-injection",
-      "threat-detection"
-    ]
-  },
-  {
-    "name": "lyogavin/airllm",
-    "url": "https://github.com/lyogavin/airllm",
-    "desc": "AirLLM 70B inference with single 4GB GPU",
-    "lang": "Jupyter Notebook",
-    "stars": "29067 stars",
-    "topics": [
-      "chinese-llm",
-      "chinese-nlp",
-      "finetune",
-      "generative-ai",
-      "instruct-gpt",
-      "instruction-set",
-      "llama",
-      "llm",
-      "lora",
-      "open-models",
-      "open-source",
-      "open-source-models",
-      "qlora"
+      "rust",
+      "text-extraction"
     ]
   }
 ]

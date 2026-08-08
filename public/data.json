@@ -4,7 +4,7 @@
     "url": "https://github.com/PrimeIntellect-ai/prime-agent",
     "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
     "lang": "TypeScript",
-    "stars": "6411 stars",
+    "stars": "8828 stars",
     "topics": []
   },
   {
@@ -12,7 +12,7 @@
     "url": "https://github.com/addyosmani/agent-skills",
     "desc": "Production-grade engineering skills for AI coding agents.",
     "lang": "JavaScript",
-    "stars": "83872 stars",
+    "stars": "84531 stars",
     "topics": [
       "agent-skills",
       "antigravity",
@@ -23,44 +23,39 @@
     ]
   },
   {
-    "name": "cloudflare/computer",
-    "url": "https://github.com/cloudflare/computer",
-    "desc": "Give your agent a computer 👾",
-    "lang": "TypeScript",
-    "stars": "5659 stars",
+    "name": "TapXWorld/ChinaTextbook",
+    "url": "https://github.com/TapXWorld/ChinaTextbook",
+    "desc": "所有小初高、大学PDF教材。",
+    "lang": "Roff",
+    "stars": "77910 stars",
     "topics": []
+  },
+  {
+    "name": "google/skills",
+    "url": "https://github.com/google/skills",
+    "desc": "Agent Skills for Google products and technologies",
+    "lang": "Python",
+    "stars": "16712 stars",
+    "topics": [
+      "google",
+      "googlecloud",
+      "skills"
+    ]
   },
   {
     "name": "mattpocock/skills",
     "url": "https://github.com/mattpocock/skills",
     "desc": "Skills for Real Engineers. Straight from my .agents directory.",
     "lang": "Shell",
-    "stars": "208765 stars",
+    "stars": "209970 stars",
     "topics": []
-  },
-  {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "268726 stars",
-    "topics": [
-      "ai",
-      "brainstorming",
-      "coding",
-      "obra",
-      "sdlc",
-      "skills",
-      "subagent-driven-development",
-      "superpowers"
-    ]
   },
   {
     "name": "goauthentik/authentik",
     "url": "https://github.com/goauthentik/authentik",
     "desc": "The authentication glue you need.",
     "lang": "Python",
-    "stars": "23567 stars",
+    "stars": "23960 stars",
     "topics": [
       "authentication",
       "authentik",
@@ -82,94 +77,17 @@
     ]
   },
   {
-    "name": "semantica-agi/semantica",
-    "url": "https://github.com/semantica-agi/semantica",
-    "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "name": "TauricResearch/TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
     "lang": "Python",
-    "stars": "2332 stars",
+    "stars": "96454 stars",
     "topics": [
-      "agent-memory",
-      "ai",
-      "ai-governance",
-      "ai-infrastructure",
-      "artificial-intelligence",
-      "context-engineering",
-      "context-graphs",
-      "data-engineering",
-      "decision-intelligence",
-      "developer-tools",
-      "explainable-ai",
-      "generative-ai",
-      "graph-rag",
-      "knowledge-graph",
+      "agent",
+      "finance",
       "llm",
-      "ontology",
-      "provenance",
-      "python",
-      "reasoning",
-      "semantic-search"
-    ]
-  },
-  {
-    "name": "666ghj/MiroFish",
-    "url": "https://github.com/666ghj/MiroFish",
-    "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-    "lang": "Python",
-    "stars": "70487 stars",
-    "topics": [
-      "agent-memory",
-      "financial-forecasting",
-      "future-prediction",
-      "knowledge-graph",
-      "llms",
-      "multi-agent-simulation",
-      "public-opinion-analysis",
-      "python3",
-      "social-prediction",
-      "swarm-intelligence"
-    ]
-  },
-  {
-    "name": "chenyme/grok2api",
-    "url": "https://github.com/chenyme/grok2api",
-    "desc": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
-    "lang": "Go",
-    "stars": "7137 stars",
-    "topics": [
-      "grok",
-      "grok-build",
-      "grok-console",
-      "grok-imagine",
-      "grok-video",
-      "grok-web"
-    ]
-  },
-  {
-    "name": "jdx/mise",
-    "url": "https://github.com/jdx/mise",
-    "desc": "dev tools, env vars, task runner",
-    "lang": "Rust",
-    "stars": "32061 stars",
-    "topics": []
-  },
-  {
-    "name": "Significant-Gravitas/AutoGPT",
-    "url": "https://github.com/Significant-Gravitas/AutoGPT",
-    "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-    "lang": "Python",
-    "stars": "186310 stars",
-    "topics": [
-      "agentic-ai",
-      "agents",
-      "ai",
-      "artificial-intelligence",
-      "autonomous-agents",
-      "claude",
-      "gpt",
-      "llama-api",
-      "llm",
-      "openai",
-      "python"
+      "multiagent",
+      "trading"
     ]
   },
   {
@@ -177,81 +95,57 @@
     "url": "https://github.com/google/guava",
     "desc": "Google core libraries for Java",
     "lang": "Java",
-    "stars": "51758 stars",
+    "stars": "51845 stars",
     "topics": [
       "guava",
       "java"
     ]
   },
   {
-    "name": "unclebob/swarm-forge",
-    "url": "https://github.com/unclebob/swarm-forge",
-    "desc": "A simple tool for coordinating several AI agents.",
-    "lang": "Clojure",
-    "stars": "1820 stars",
-    "topics": []
+    "name": "LadybirdBrowser/ladybird",
+    "url": "https://github.com/LadybirdBrowser/ladybird",
+    "desc": "Truly independent web browser",
+    "lang": "C++",
+    "stars": "64973 stars",
+    "topics": [
+      "browser",
+      "browser-engine"
+    ]
   },
   {
     "name": "denoland/celld",
     "url": "https://github.com/denoland/celld",
     "desc": "self-hosted, distributed Durable Objects",
     "lang": "Rust",
-    "stars": "2189 stars",
+    "stars": "2547 stars",
     "topics": []
   },
   {
-    "name": "K2SOsint/Legendary_OSINT",
-    "url": "https://github.com/K2SOsint/Legendary_OSINT",
-    "desc": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more. ",
+    "name": "litu54/DevOps-Interview-Guide",
+    "url": "https://github.com/litu54/DevOps-Interview-Guide",
+    "desc": " DevOps Interview Guide",
     "lang": "Unknown",
-    "stars": "1413 stars",
-    "topics": [
-      "cti",
-      "cyberthreatintelligence",
-      "osint",
-      "osint-tools-list",
-      "socmint"
-    ]
+    "stars": "695 stars",
+    "topics": []
   },
   {
-    "name": "pranshuparmar/witr",
-    "url": "https://github.com/pranshuparmar/witr",
-    "desc": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-    "lang": "Go",
-    "stars": "19717 stars",
+    "name": "bannedbook/fanqiang",
+    "url": "https://github.com/bannedbook/fanqiang",
+    "desc": "翻墙-科学上网",
+    "lang": "Kotlin",
+    "stars": "49863 stars",
     "topics": [
-      "cli",
-      "containers",
-      "devops",
-      "docker",
-      "freebsd",
-      "go",
-      "golang",
-      "incident-response",
-      "kubernetes",
-      "linux",
-      "macos",
-      "monitoring",
-      "observability",
-      "process-management",
-      "sysadmin",
-      "systemd",
-      "terminal",
-      "troubleshooting",
-      "tui",
-      "windows"
-    ]
-  },
-  {
-    "name": "google/skills",
-    "url": "https://github.com/google/skills",
-    "desc": "Agent Skills for Google products and technologies",
-    "lang": "Python",
-    "stars": "16227 stars",
-    "topics": [
-      "google",
-      "googlecloud",
-      "skills"
+      "brook",
+      "daze",
+      "fanqiang",
+      "goflyway",
+      "lightsocks",
+      "proxy",
+      "psiphon",
+      "shadowsocks",
+      "ssr",
+      "trojan",
+      "v2ray"
     ]
   }
 ]

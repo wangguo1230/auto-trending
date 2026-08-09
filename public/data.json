@@ -4,15 +4,92 @@
     "url": "https://github.com/PrimeIntellect-ai/prime-agent",
     "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
     "lang": "TypeScript",
-    "stars": "8828 stars",
+    "stars": "10953 stars",
     "topics": []
+  },
+  {
+    "name": "vitali87/code-graph-rag",
+    "url": "https://github.com/vitali87/code-graph-rag",
+    "desc": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
+    "lang": "Python",
+    "stars": "2962 stars",
+    "topics": [
+      "ai",
+      "ast",
+      "claude-code",
+      "code-analysis",
+      "code-understanding",
+      "codebase-search",
+      "developer-tools",
+      "graph-database",
+      "knowledge-graph",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "memgraph",
+      "monorepo",
+      "multi-language",
+      "python",
+      "rag",
+      "retrieval-augmented-generation",
+      "semantic-search",
+      "tree-sitter"
+    ]
+  },
+  {
+    "name": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "lang": "Shell",
+    "stars": "140622 stars",
+    "topics": []
+  },
+  {
+    "name": "pranshuparmar/witr",
+    "url": "https://github.com/pranshuparmar/witr",
+    "desc": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+    "lang": "Go",
+    "stars": "20611 stars",
+    "topics": [
+      "cli",
+      "containers",
+      "devops",
+      "docker",
+      "freebsd",
+      "go",
+      "golang",
+      "incident-response",
+      "kubernetes",
+      "linux",
+      "macos",
+      "monitoring",
+      "observability",
+      "process-management",
+      "sysadmin",
+      "systemd",
+      "terminal",
+      "troubleshooting",
+      "tui",
+      "windows"
+    ]
+  },
+  {
+    "name": "google-deepmind/weathernext",
+    "url": "https://github.com/google-deepmind/weathernext",
+    "desc": "This repo contains the code for WeatherNext 2 (WN2), the global, medium-range atmospheric and cyclone forecasting model developed by Google DeepMind and",
+    "lang": "Python",
+    "stars": "7061 stars",
+    "topics": [
+      "weather",
+      "weather-forecast"
+    ]
   },
   {
     "name": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
     "desc": "Production-grade engineering skills for AI coding agents.",
     "lang": "JavaScript",
-    "stars": "84531 stars",
+    "stars": "85098 stars",
     "topics": [
       "agent-skills",
       "antigravity",
@@ -23,39 +100,27 @@
     ]
   },
   {
-    "name": "TapXWorld/ChinaTextbook",
-    "url": "https://github.com/TapXWorld/ChinaTextbook",
-    "desc": "所有小初高、大学PDF教材。",
-    "lang": "Roff",
-    "stars": "77910 stars",
-    "topics": []
-  },
-  {
-    "name": "google/skills",
-    "url": "https://github.com/google/skills",
-    "desc": "Agent Skills for Google products and technologies",
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
     "lang": "Python",
-    "stars": "16712 stars",
+    "stars": "61160 stars",
     "topics": [
-      "google",
-      "googlecloud",
-      "skills"
+      "a-stock",
+      "ai-agent",
+      "aigc",
+      "llm",
+      "quant",
+      "quantitative-finance",
+      "quantitative-trading"
     ]
-  },
-  {
-    "name": "mattpocock/skills",
-    "url": "https://github.com/mattpocock/skills",
-    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-    "lang": "Shell",
-    "stars": "209970 stars",
-    "topics": []
   },
   {
     "name": "goauthentik/authentik",
     "url": "https://github.com/goauthentik/authentik",
     "desc": "The authentication glue you need.",
     "lang": "Python",
-    "stars": "23960 stars",
+    "stars": "24251 stars",
     "topics": [
       "authentication",
       "authentik",
@@ -77,75 +142,46 @@
     ]
   },
   {
-    "name": "TauricResearch/TradingAgents",
-    "url": "https://github.com/TauricResearch/TradingAgents",
-    "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "name": "google/skills",
+    "url": "https://github.com/google/skills",
+    "desc": "Agent Skills for Google products and technologies",
     "lang": "Python",
-    "stars": "96454 stars",
+    "stars": "17201 stars",
     "topics": [
-      "agent",
-      "finance",
-      "llm",
-      "multiagent",
-      "trading"
+      "google",
+      "googlecloud",
+      "skills"
     ]
   },
   {
-    "name": "google/guava",
-    "url": "https://github.com/google/guava",
-    "desc": "Google core libraries for Java",
-    "lang": "Java",
-    "stars": "51845 stars",
+    "name": "Comfy-Org/ComfyUI",
+    "url": "https://github.com/Comfy-Org/ComfyUI",
+    "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "lang": "Python",
+    "stars": "125468 stars",
     "topics": [
-      "guava",
-      "java"
+      "ai",
+      "comfy",
+      "comfyui",
+      "python",
+      "pytorch",
+      "stable-diffusion"
     ]
   },
   {
-    "name": "LadybirdBrowser/ladybird",
-    "url": "https://github.com/LadybirdBrowser/ladybird",
-    "desc": "Truly independent web browser",
-    "lang": "C++",
-    "stars": "64973 stars",
-    "topics": [
-      "browser",
-      "browser-engine"
-    ]
-  },
-  {
-    "name": "denoland/celld",
-    "url": "https://github.com/denoland/celld",
-    "desc": "self-hosted, distributed Durable Objects",
-    "lang": "Rust",
-    "stars": "2547 stars",
+    "name": "harveyai/harvey-labs",
+    "url": "https://github.com/harveyai/harvey-labs",
+    "desc": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+    "lang": "Python",
+    "stars": "810 stars",
     "topics": []
   },
   {
-    "name": "litu54/DevOps-Interview-Guide",
-    "url": "https://github.com/litu54/DevOps-Interview-Guide",
-    "desc": " DevOps Interview Guide",
-    "lang": "Unknown",
-    "stars": "695 stars",
+    "name": "pingdotgg/t3code",
+    "url": "https://github.com/pingdotgg/t3code",
+    "desc": "T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app ([iOS](https://apps.apple.com/us/app/t3-code-remote-claude-more/id678781",
+    "lang": "TypeScript",
+    "stars": "17637 stars",
     "topics": []
-  },
-  {
-    "name": "bannedbook/fanqiang",
-    "url": "https://github.com/bannedbook/fanqiang",
-    "desc": "翻墙-科学上网",
-    "lang": "Kotlin",
-    "stars": "49863 stars",
-    "topics": [
-      "brook",
-      "daze",
-      "fanqiang",
-      "goflyway",
-      "lightsocks",
-      "proxy",
-      "psiphon",
-      "shadowsocks",
-      "ssr",
-      "trojan",
-      "v2ray"
-    ]
   }
 ]

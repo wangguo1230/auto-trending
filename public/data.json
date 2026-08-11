@@ -1,10 +1,18 @@
 [
   {
+    "name": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "lang": "Shell",
+    "stars": "143142 stars",
+    "topics": []
+  },
+  {
     "name": "semantica-agi/semantica",
     "url": "https://github.com/semantica-agi/semantica",
     "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
     "lang": "Python",
-    "stars": "4058 stars",
+    "stars": "4841 stars",
     "topics": [
       "agent-memory",
       "ai",
@@ -29,27 +37,33 @@
     ]
   },
   {
-    "name": "msitarzewski/agency-agents",
-    "url": "https://github.com/msitarzewski/agency-agents",
-    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "name": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
     "lang": "Shell",
-    "stars": "141777 stars",
-    "topics": []
-  },
-  {
-    "name": "NanmiCoder/MediaCrawler",
-    "url": "https://github.com/NanmiCoder/MediaCrawler",
-    "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫",
-    "lang": "Python",
-    "stars": "60973 stars",
-    "topics": []
+    "stars": "94481 stars",
+    "topics": [
+      "bash",
+      "install",
+      "lts",
+      "node",
+      "node-js",
+      "nodejs",
+      "nvm",
+      "nvmrc",
+      "posix",
+      "posix-compliant",
+      "shell",
+      "version-manager",
+      "zsh"
+    ]
   },
   {
     "name": "addyosmani/agent-skills",
     "url": "https://github.com/addyosmani/agent-skills",
     "desc": "Production-grade engineering skills for AI coding agents.",
     "lang": "JavaScript",
-    "stars": "85721 stars",
+    "stars": "86204 stars",
     "topics": [
       "agent-skills",
       "antigravity",
@@ -60,130 +74,19 @@
     ]
   },
   {
-    "name": "paperclipai/paperclip",
-    "url": "https://github.com/paperclipai/paperclip",
-    "desc": "The open-source app everyone uses to manage agents at work",
-    "lang": "TypeScript",
-    "stars": "76445 stars",
-    "topics": []
-  },
-  {
-    "name": "PrimeIntellect-ai/prime-agent",
-    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-    "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-    "lang": "TypeScript",
-    "stars": "13019 stars",
-    "topics": []
-  },
-  {
-    "name": "LadybirdBrowser/ladybird",
-    "url": "https://github.com/LadybirdBrowser/ladybird",
-    "desc": "Truly independent web browser",
-    "lang": "C++",
-    "stars": "65243 stars",
-    "topics": [
-      "browser",
-      "browser-engine"
-    ]
-  },
-  {
-    "name": "ruvnet/RuView",
-    "url": "https://github.com/ruvnet/RuView",
-    "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-    "lang": "Rust",
-    "stars": "89353 stars",
-    "topics": [
-      "awesome",
-      "claude",
-      "densepose",
-      "esp32",
-      "firmware",
-      "home-assistant",
-      "home-automation",
-      "iot",
-      "monitoring",
-      "networking",
-      "npm",
-      "pose-estimation",
-      "react",
-      "rf",
-      "self-learning",
-      "skills",
-      "spatial-intelligence",
-      "typescript",
-      "wifi",
-      "wifi-security"
-    ]
-  },
-  {
-    "name": "danielmiessler/LifeOS",
-    "url": "https://github.com/danielmiessler/LifeOS",
-    "desc": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
-    "lang": "TypeScript",
-    "stars": "17879 stars",
-    "topics": [
-      "ai",
-      "ai-harness",
-      "augmentation",
-      "coding",
-      "humans",
-      "intent-engineering",
-      "lifeos",
-      "personal-ai",
-      "productivity"
-    ]
-  },
-  {
-    "name": "firecrawl/firecrawl",
-    "url": "https://github.com/firecrawl/firecrawl",
-    "desc": "The context API to search, scrape, and interact with the web at scale. 🔥",
-    "lang": "TypeScript",
-    "stars": "165032 stars",
-    "topics": [
-      "ai",
-      "ai-agents",
-      "ai-crawler",
-      "ai-scraping",
-      "ai-search",
-      "crawler",
-      "data-extraction",
-      "html-to-markdown",
-      "llm",
-      "markdown",
-      "scraper",
-      "scraping",
-      "web-crawler",
-      "web-data",
-      "web-data-extraction",
-      "web-scraper",
-      "web-scraping",
-      "web-search",
-      "webscraping"
-    ]
-  },
-  {
-    "name": "TauricResearch/TradingAgents",
-    "url": "https://github.com/TauricResearch/TradingAgents",
-    "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "name": "ZhuLinsen/daily_stock_analysis",
+    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+    "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
     "lang": "Python",
-    "stars": "97192 stars",
+    "stars": "62102 stars",
     "topics": [
-      "agent",
-      "finance",
+      "a-stock",
+      "ai-agent",
+      "aigc",
       "llm",
-      "multiagent",
-      "trading"
-    ]
-  },
-  {
-    "name": "google-deepmind/weathernext",
-    "url": "https://github.com/google-deepmind/weathernext",
-    "desc": "This repo contains the code for WeatherNext 2 (WN2), the global, medium-range atmospheric and cyclone forecasting model developed by Google DeepMind and",
-    "lang": "Python",
-    "stars": "7334 stars",
-    "topics": [
-      "weather",
-      "weather-forecast"
+      "quant",
+      "quantitative-finance",
+      "quantitative-trading"
     ]
   },
   {
@@ -191,7 +94,7 @@
     "url": "https://github.com/vitali87/code-graph-rag",
     "desc": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
     "lang": "Python",
-    "stars": "3514 stars",
+    "stars": "3801 stars",
     "topics": [
       "ai",
       "ast",
@@ -216,34 +119,196 @@
     ]
   },
   {
-    "name": "pingdotgg/t3code",
-    "url": "https://github.com/pingdotgg/t3code",
-    "desc": "T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app ([iOS](https://apps.apple.com/us/app/t3-code-remote-claude-more/id678781",
-    "lang": "TypeScript",
-    "stars": "18019 stars",
-    "topics": []
-  },
-  {
-    "name": "Comfy-Org/ComfyUI",
-    "url": "https://github.com/Comfy-Org/ComfyUI",
-    "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+    "name": "anthropics/skills",
+    "url": "https://github.com/anthropics/skills",
+    "desc": "Public repository for Agent Skills",
     "lang": "Python",
-    "stars": "126291 stars",
+    "stars": "168112 stars",
     "topics": [
-      "ai",
-      "comfy",
-      "comfyui",
-      "python",
-      "pytorch",
-      "stable-diffusion"
+      "agent-skills"
     ]
   },
   {
-    "name": "opa334/Dopamine",
-    "url": "https://github.com/opa334/Dopamine",
-    "desc": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
-    "lang": "C",
-    "stars": "6014 stars",
+    "name": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python",
+    "stars": "90154 stars",
+    "topics": [
+      "3b1b-videos",
+      "animation",
+      "explanatory-math-videos",
+      "python"
+    ]
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "lang": "Python",
+    "stars": "34678 stars",
+    "topics": [
+      "ai-agents",
+      "ai-tutor",
+      "clawdbot",
+      "cli-tool",
+      "deepresearch",
+      "interactive-learning",
+      "large-language-models",
+      "multi-agent-systems",
+      "rag"
+    ]
+  },
+  {
+    "name": "stablyai/orca",
+    "url": "https://github.com/stablyai/orca",
+    "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+    "lang": "TypeScript",
+    "stars": "42731 stars",
+    "topics": [
+      "ade",
+      "agent-ide",
+      "ai-agents",
+      "claude-code",
+      "cli",
+      "codex",
+      "cursor-agent",
+      "devtools",
+      "ghostty",
+      "ide",
+      "mobile-app",
+      "opencode",
+      "orchestration",
+      "parallel-agents",
+      "pi",
+      "terminal",
+      "worktrees",
+      "yc-backed"
+    ]
+  },
+  {
+    "name": "paperclipai/paperclip",
+    "url": "https://github.com/paperclipai/paperclip",
+    "desc": "The open-source app everyone uses to manage agents at work",
+    "lang": "TypeScript",
+    "stars": "77138 stars",
+    "topics": []
+  },
+  {
+    "name": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "lang": "Python",
+    "stars": "163793 stars",
+    "topics": [
+      "audio",
+      "deep-learning",
+      "deepseek",
+      "gemma",
+      "glm",
+      "hacktoberfest",
+      "llm",
+      "machine-learning",
+      "model-hub",
+      "natural-language-processing",
+      "nlp",
+      "pretrained-models",
+      "python",
+      "pytorch",
+      "pytorch-transformers",
+      "qwen",
+      "speech-recognition",
+      "transformer",
+      "vlm"
+    ]
+  },
+  {
+    "name": "harveyai/harvey-labs",
+    "url": "https://github.com/harveyai/harvey-labs",
+    "desc": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
+    "lang": "Python",
+    "stars": "1073 stars",
+    "topics": []
+  },
+  {
+    "name": "jaywcjlove/awesome-mac",
+    "url": "https://github.com/jaywcjlove/awesome-mac",
+    "desc": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
+    "lang": "Swift",
+    "stars": "110451 stars",
+    "topics": [
+      "app",
+      "apple",
+      "application",
+      "apps",
+      "awesome",
+      "awesome-list",
+      "awesome-lists",
+      "awesome-mac",
+      "desktop-app",
+      "desktop-application",
+      "desktop-apps",
+      "list",
+      "mac",
+      "mac-osx",
+      "macos",
+      "macos-app",
+      "macos-apps",
+      "macosx",
+      "software"
+    ]
+  },
+  {
+    "name": "calesthio/OpenMontage",
+    "url": "https://github.com/calesthio/OpenMontage",
+    "desc": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+    "lang": "Python",
+    "stars": "47303 stars",
+    "topics": [
+      "agent",
+      "agentic-ai",
+      "ai",
+      "claude",
+      "copilot",
+      "cursor",
+      "elevenlabs",
+      "ffmpeg",
+      "flux",
+      "image-generation",
+      "open-source",
+      "openai",
+      "python",
+      "remotion",
+      "stable-diffusion",
+      "text-to-speech",
+      "text-to-video",
+      "video-generation",
+      "video-production"
+    ]
+  },
+  {
+    "name": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "desc": "Curated list of project-based tutorials",
+    "lang": "Python",
+    "stars": "278423 stars",
+    "topics": [
+      "beginner-project",
+      "cpp",
+      "golang",
+      "javascript",
+      "project",
+      "python",
+      "tutorial",
+      "webdevelopment"
+    ]
+  },
+  {
+    "name": "PrimeIntellect-ai/prime-agent",
+    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+    "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+    "lang": "TypeScript",
+    "stars": "14057 stars",
     "topics": []
   }
 ]

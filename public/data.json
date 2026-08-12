@@ -1,18 +1,47 @@
 [
   {
-    "name": "msitarzewski/agency-agents",
-    "url": "https://github.com/msitarzewski/agency-agents",
-    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "lang": "Shell",
-    "stars": "143142 stars",
+    "name": "cathrynlavery/diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "desc": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+    "lang": "HTML",
+    "stars": "10210 stars",
     "topics": []
+  },
+  {
+    "name": "macro-inc/macro",
+    "url": "https://github.com/macro-inc/macro",
+    "desc": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+    "lang": "Rust",
+    "stars": "1750 stars",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "all-in-one",
+      "crm",
+      "crm-system",
+      "email",
+      "linear",
+      "mcp",
+      "messaging",
+      "notes",
+      "notion",
+      "office",
+      "rust",
+      "slack",
+      "slack-alternative",
+      "startup",
+      "startup-tools",
+      "typescript",
+      "workspace"
+    ]
   },
   {
     "name": "semantica-agi/semantica",
     "url": "https://github.com/semantica-agi/semantica",
     "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
     "lang": "Python",
-    "stars": "4841 stars",
+    "stars": "5686 stars",
     "topics": [
       "agent-memory",
       "ai",
@@ -37,134 +66,11 @@
     ]
   },
   {
-    "name": "nvm-sh/nvm",
-    "url": "https://github.com/nvm-sh/nvm",
-    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-    "lang": "Shell",
-    "stars": "94481 stars",
-    "topics": [
-      "bash",
-      "install",
-      "lts",
-      "node",
-      "node-js",
-      "nodejs",
-      "nvm",
-      "nvmrc",
-      "posix",
-      "posix-compliant",
-      "shell",
-      "version-manager",
-      "zsh"
-    ]
-  },
-  {
-    "name": "addyosmani/agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "desc": "Production-grade engineering skills for AI coding agents.",
-    "lang": "JavaScript",
-    "stars": "86204 stars",
-    "topics": [
-      "agent-skills",
-      "antigravity",
-      "claude-code",
-      "codex",
-      "cursor",
-      "skills"
-    ]
-  },
-  {
-    "name": "ZhuLinsen/daily_stock_analysis",
-    "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-    "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-    "lang": "Python",
-    "stars": "62102 stars",
-    "topics": [
-      "a-stock",
-      "ai-agent",
-      "aigc",
-      "llm",
-      "quant",
-      "quantitative-finance",
-      "quantitative-trading"
-    ]
-  },
-  {
-    "name": "vitali87/code-graph-rag",
-    "url": "https://github.com/vitali87/code-graph-rag",
-    "desc": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
-    "lang": "Python",
-    "stars": "3801 stars",
-    "topics": [
-      "ai",
-      "ast",
-      "claude-code",
-      "code-analysis",
-      "code-understanding",
-      "codebase-search",
-      "developer-tools",
-      "graph-database",
-      "knowledge-graph",
-      "llm",
-      "mcp",
-      "mcp-server",
-      "memgraph",
-      "monorepo",
-      "multi-language",
-      "python",
-      "rag",
-      "retrieval-augmented-generation",
-      "semantic-search",
-      "tree-sitter"
-    ]
-  },
-  {
-    "name": "anthropics/skills",
-    "url": "https://github.com/anthropics/skills",
-    "desc": "Public repository for Agent Skills",
-    "lang": "Python",
-    "stars": "168112 stars",
-    "topics": [
-      "agent-skills"
-    ]
-  },
-  {
-    "name": "3b1b/manim",
-    "url": "https://github.com/3b1b/manim",
-    "desc": "Animation engine for explanatory math videos",
-    "lang": "Python",
-    "stars": "90154 stars",
-    "topics": [
-      "3b1b-videos",
-      "animation",
-      "explanatory-math-videos",
-      "python"
-    ]
-  },
-  {
-    "name": "HKUDS/DeepTutor",
-    "url": "https://github.com/HKUDS/DeepTutor",
-    "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-    "lang": "Python",
-    "stars": "34678 stars",
-    "topics": [
-      "ai-agents",
-      "ai-tutor",
-      "clawdbot",
-      "cli-tool",
-      "deepresearch",
-      "interactive-learning",
-      "large-language-models",
-      "multi-agent-systems",
-      "rag"
-    ]
-  },
-  {
     "name": "stablyai/orca",
     "url": "https://github.com/stablyai/orca",
     "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
     "lang": "TypeScript",
-    "stars": "42731 stars",
+    "stars": "43827 stars",
     "topics": [
       "ade",
       "agent-ide",
@@ -187,128 +93,184 @@
     ]
   },
   {
+    "name": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "lang": "Shell",
+    "stars": "144538 stars",
+    "topics": []
+  },
+  {
+    "name": "shiyu-coder/Kronos",
+    "url": "https://github.com/shiyu-coder/Kronos",
+    "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "lang": "Python",
+    "stars": "36934 stars",
+    "topics": []
+  },
+  {
+    "name": "NanmiCoder/MediaCrawler",
+    "url": "https://github.com/NanmiCoder/MediaCrawler",
+    "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫",
+    "lang": "Python",
+    "stars": "61953 stars",
+    "topics": []
+  },
+  {
+    "name": "hugohe3/ppt-master",
+    "url": "https://github.com/hugohe3/ppt-master",
+    "desc": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+    "lang": "Python",
+    "stars": "45534 stars",
+    "topics": [
+      "ai-agent",
+      "aippt",
+      "office",
+      "powerpoint",
+      "powerpoint-generation",
+      "ppt",
+      "pptx",
+      "presentation",
+      "slide",
+      "slides"
+    ]
+  },
+  {
+    "name": "infiniflow/ragflow",
+    "url": "https://github.com/infiniflow/ragflow",
+    "desc": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+    "lang": "Go",
+    "stars": "87531 stars",
+    "topics": [
+      "agent-harness",
+      "agentic-ai",
+      "agentic-retrieval",
+      "agentic-search",
+      "ai",
+      "ai-agents",
+      "context-engine",
+      "context-engineering",
+      "context-management",
+      "harness-engineering",
+      "knowledge-compilation",
+      "llm-apps",
+      "rag",
+      "retrieval-augmented-generation"
+    ]
+  },
+  {
     "name": "paperclipai/paperclip",
     "url": "https://github.com/paperclipai/paperclip",
     "desc": "The open-source app everyone uses to manage agents at work",
     "lang": "TypeScript",
-    "stars": "77138 stars",
+    "stars": "77705 stars",
     "topics": []
   },
   {
-    "name": "huggingface/transformers",
-    "url": "https://github.com/huggingface/transformers",
-    "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "name": "NVIDIA-NeMo/Switchyard",
+    "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+    "desc": "<p align=\"center\"> <img src=\"assets/logo.png\" alt=\"Switchyard\" width=\"800\">",
+    "lang": "Rust",
+    "stars": "804 stars",
+    "topics": []
+  },
+  {
+    "name": "ZuodaoTech/everyone-can-use-english",
+    "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+    "desc": "人人都能用英语",
+    "lang": "TypeScript",
+    "stars": "36054 stars",
+    "topics": []
+  },
+  {
+    "name": "smicallef/spiderfoot",
+    "url": "https://github.com/smicallef/spiderfoot",
+    "desc": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
     "lang": "Python",
-    "stars": "163793 stars",
+    "stars": "20337 stars",
     "topics": [
-      "audio",
-      "deep-learning",
-      "deepseek",
-      "gemma",
-      "glm",
-      "hacktoberfest",
-      "llm",
-      "machine-learning",
-      "model-hub",
-      "natural-language-processing",
-      "nlp",
-      "pretrained-models",
+      "attacksurface",
+      "cti",
+      "cybersecurity",
+      "footprinting",
+      "hacking",
+      "information-gathering",
+      "information-security",
+      "infosec",
+      "intelligence-gathering",
+      "osint",
+      "osint-framework",
+      "osint-reconnaissance",
+      "osint-tool",
+      "pentesting",
       "python",
-      "pytorch",
-      "pytorch-transformers",
-      "qwen",
-      "speech-recognition",
-      "transformer",
-      "vlm"
+      "recon",
+      "security-tools",
+      "threat-intelligence",
+      "threatintel"
     ]
   },
   {
-    "name": "harveyai/harvey-labs",
-    "url": "https://github.com/harveyai/harvey-labs",
-    "desc": "A benchmark built to evaluate and improve agent capabilities for supporting legal work.",
-    "lang": "Python",
-    "stars": "1073 stars",
-    "topics": []
-  },
-  {
-    "name": "jaywcjlove/awesome-mac",
-    "url": "https://github.com/jaywcjlove/awesome-mac",
-    "desc": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
-    "lang": "Swift",
-    "stars": "110451 stars",
+    "name": "localsend/localsend",
+    "url": "https://github.com/localsend/localsend",
+    "desc": "An open-source cross-platform alternative to AirDrop",
+    "lang": "Dart",
+    "stars": "87790 stars",
     "topics": [
-      "app",
-      "apple",
-      "application",
-      "apps",
-      "awesome",
-      "awesome-list",
-      "awesome-lists",
-      "awesome-mac",
-      "desktop-app",
-      "desktop-application",
-      "desktop-apps",
-      "list",
-      "mac",
-      "mac-osx",
-      "macos",
-      "macos-app",
-      "macos-apps",
-      "macosx",
-      "software"
+      "dart",
+      "file-sharing",
+      "flutter",
+      "flutter-apps"
     ]
   },
   {
-    "name": "calesthio/OpenMontage",
-    "url": "https://github.com/calesthio/OpenMontage",
-    "desc": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+    "name": "Lightricks/LTX-2",
+    "url": "https://github.com/Lightricks/LTX-2",
+    "desc": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
     "lang": "Python",
-    "stars": "47303 stars",
+    "stars": "8699 stars",
+    "topics": [
+      "generative-ai",
+      "ltx",
+      "ltx-2"
+    ]
+  },
+  {
+    "name": "embabel/embabel-agent",
+    "url": "https://github.com/embabel/embabel-agent",
+    "desc": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+    "lang": "Kotlin",
+    "stars": "4219 stars",
     "topics": [
       "agent",
       "agentic-ai",
+      "agents",
       "ai",
-      "claude",
-      "copilot",
-      "cursor",
-      "elevenlabs",
-      "ffmpeg",
-      "flux",
-      "image-generation",
-      "open-source",
-      "openai",
-      "python",
-      "remotion",
-      "stable-diffusion",
-      "text-to-speech",
-      "text-to-video",
-      "video-generation",
-      "video-production"
+      "ai-agents",
+      "aiagentframework",
+      "genai",
+      "generative-ai",
+      "java",
+      "kotlin",
+      "llms",
+      "multi-agents",
+      "multi-agents-orchestration",
+      "multi-agents-system",
+      "spring"
     ]
   },
   {
-    "name": "practical-tutorials/project-based-learning",
-    "url": "https://github.com/practical-tutorials/project-based-learning",
-    "desc": "Curated list of project-based tutorials",
+    "name": "cactus-compute/needle",
+    "url": "https://github.com/cactus-compute/needle",
+    "desc": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
     "lang": "Python",
-    "stars": "278423 stars",
+    "stars": "4201 stars",
     "topics": [
-      "beginner-project",
-      "cpp",
-      "golang",
-      "javascript",
-      "project",
-      "python",
-      "tutorial",
-      "webdevelopment"
+      "cactus",
+      "gemini",
+      "gemma",
+      "llm",
+      "on-device-ai"
     ]
-  },
-  {
-    "name": "PrimeIntellect-ai/prime-agent",
-    "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-    "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-    "lang": "TypeScript",
-    "stars": "14057 stars",
-    "topics": []
   }
 ]

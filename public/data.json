@@ -4,54 +4,15 @@
     "url": "https://github.com/cathrynlavery/diagram-design",
     "desc": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
     "lang": "HTML",
-    "stars": "14357 stars",
+    "stars": "17170 stars",
     "topics": []
-  },
-  {
-    "name": "semantica-agi/semantica",
-    "url": "https://github.com/semantica-agi/semantica",
-    "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-    "lang": "Python",
-    "stars": "6604 stars",
-    "topics": [
-      "agent-memory",
-      "ai",
-      "ai-governance",
-      "ai-infrastructure",
-      "artificial-intelligence",
-      "context-engineering",
-      "context-graphs",
-      "data-engineering",
-      "decision-intelligence",
-      "developer-tools",
-      "explainable-ai",
-      "generative-ai",
-      "graph-rag",
-      "knowledge-graph",
-      "llm",
-      "ontology",
-      "provenance",
-      "python",
-      "reasoning",
-      "semantic-search"
-    ]
-  },
-  {
-    "name": "anthropics/skills",
-    "url": "https://github.com/anthropics/skills",
-    "desc": "Public repository for Agent Skills",
-    "lang": "Python",
-    "stars": "168997 stars",
-    "topics": [
-      "agent-skills"
-    ]
   },
   {
     "name": "cactus-compute/needle",
     "url": "https://github.com/cactus-compute/needle",
     "desc": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
     "lang": "Python",
-    "stars": "4933 stars",
+    "stars": "5581 stars",
     "topics": [
       "cactus",
       "gemini",
@@ -61,47 +22,27 @@
     ]
   },
   {
-    "name": "altic-dev/FluidVoice",
-    "url": "https://github.com/altic-dev/FluidVoice",
-    "desc": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.",
-    "lang": "Swift",
-    "stars": "9837 stars",
-    "topics": [
-      "ai",
-      "dictation",
-      "ios",
-      "llama-cpp",
-      "macos",
-      "swift"
-    ]
-  },
-  {
-    "name": "unslothai/unsloth",
-    "url": "https://github.com/unslothai/unsloth",
-    "desc": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+    "name": "megadose/holehe",
+    "url": "https://github.com/megadose/holehe",
+    "desc": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
     "lang": "Python",
-    "stars": "71031 stars",
+    "stars": "12830 stars",
     "topics": [
-      "agent",
-      "chatgpt",
-      "deepseek",
-      "fine-tuning",
-      "gemma",
-      "gemma3",
-      "gpt-oss",
-      "image-generation",
-      "llama",
-      "llm",
-      "llms",
-      "openai",
-      "qwen",
-      "reinforcement-learning",
-      "self-hosted",
-      "stable-diffusion",
-      "text-to-speech",
-      "tts",
-      "ui",
-      "unsloth"
+      "ebay",
+      "email",
+      "emails",
+      "information-gathering",
+      "instagram",
+      "open-source-intelligence",
+      "osint",
+      "osint-python",
+      "osint-tools",
+      "pypi",
+      "python",
+      "social-network",
+      "tellonym",
+      "trio",
+      "twitter"
     ]
   },
   {
@@ -109,7 +50,7 @@
     "url": "https://github.com/macro-inc/macro",
     "desc": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
     "lang": "Rust",
-    "stars": "2583 stars",
+    "stars": "3014 stars",
     "topics": [
       "agent",
       "ai",
@@ -134,35 +75,11 @@
     ]
   },
   {
-    "name": "megadose/holehe",
-    "url": "https://github.com/megadose/holehe",
-    "desc": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-    "lang": "Python",
-    "stars": "12403 stars",
-    "topics": [
-      "ebay",
-      "email",
-      "emails",
-      "information-gathering",
-      "instagram",
-      "open-source-intelligence",
-      "osint",
-      "osint-python",
-      "osint-tools",
-      "pypi",
-      "python",
-      "social-network",
-      "tellonym",
-      "trio",
-      "twitter"
-    ]
-  },
-  {
     "name": "smicallef/spiderfoot",
     "url": "https://github.com/smicallef/spiderfoot",
     "desc": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
     "lang": "Python",
-    "stars": "20656 stars",
+    "stars": "20931 stars",
     "topics": [
       "attacksurface",
       "cti",
@@ -186,19 +103,30 @@
     ]
   },
   {
-    "name": "NVIDIA-NeMo/Switchyard",
-    "url": "https://github.com/NVIDIA-NeMo/Switchyard",
-    "desc": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
-    "lang": "Rust",
-    "stars": "1197 stars",
-    "topics": []
+    "name": "citrolabs/ego-lite",
+    "url": "https://github.com/citrolabs/ego-lite",
+    "desc": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+    "lang": "JavaScript",
+    "stars": "10341 stars",
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "automation",
+      "browser",
+      "browser-automation",
+      "claude-code",
+      "codex",
+      "hermes-agent",
+      "skills",
+      "skills-sh"
+    ]
   },
   {
     "name": "holaboss-ai/holaOS",
     "url": "https://github.com/holaboss-ai/holaOS",
     "desc": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
     "lang": "TypeScript",
-    "stars": "6567 stars",
+    "stars": "7262 stars",
     "topics": [
       "agent",
       "agent-harness",
@@ -223,69 +151,27 @@
     ]
   },
   {
-    "name": "kepano/obsidian-skills",
-    "url": "https://github.com/kepano/obsidian-skills",
-    "desc": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
-    "lang": "Unknown",
-    "stars": "45703 stars",
-    "topics": [
-      "agents",
-      "agentskills",
-      "bases",
-      "claude",
-      "clawdbot",
-      "cli",
-      "codex",
-      "defuddle",
-      "hermes",
-      "jsoncanvas",
-      "markdown",
-      "md",
-      "obsidian",
-      "openclaw",
-      "opencode",
-      "skills"
-    ]
-  },
-  {
-    "name": "3b1b/manim",
-    "url": "https://github.com/3b1b/manim",
-    "desc": "Animation engine for explanatory math videos",
+    "name": "github/spec-kit",
+    "url": "https://github.com/github/spec-kit",
+    "desc": "💫 Toolkit to help you get started with Spec-Driven Development",
     "lang": "Python",
-    "stars": "90842 stars",
+    "stars": "128487 stars",
     "topics": [
-      "3b1b-videos",
-      "animation",
-      "explanatory-math-videos",
-      "python"
-    ]
-  },
-  {
-    "name": "msitarzewski/agency-agents",
-    "url": "https://github.com/msitarzewski/agency-agents",
-    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "lang": "Shell",
-    "stars": "145171 stars",
-    "topics": []
-  },
-  {
-    "name": "Lightricks/LTX-2",
-    "url": "https://github.com/Lightricks/LTX-2",
-    "desc": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
-    "lang": "Python",
-    "stars": "8905 stars",
-    "topics": [
-      "generative-ai",
-      "ltx",
-      "ltx-2"
+      "ai",
+      "copilot",
+      "development",
+      "engineering",
+      "prd",
+      "spec",
+      "spec-driven"
     ]
   },
   {
     "name": "lightningpixel/modly",
     "url": "https://github.com/lightningpixel/modly",
-    "desc": "Desktop app to generate 3D models from images using local AI — runs entirely on your GPU",
+    "desc": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
     "lang": "TypeScript",
-    "stars": "5386 stars",
+    "stars": "5912 stars",
     "topics": [
       "3d",
       "ai-local",
@@ -301,7 +187,7 @@
     "url": "https://github.com/infiniflow/ragflow",
     "desc": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
     "lang": "Go",
-    "stars": "87999 stars",
+    "stars": "88389 stars",
     "topics": [
       "agent-harness",
       "agentic-ai",
@@ -317,6 +203,148 @@
       "llm-apps",
       "rag",
       "retrieval-augmented-generation"
+    ]
+  },
+  {
+    "name": "cursor/plugins",
+    "url": "https://github.com/cursor/plugins",
+    "desc": "Cursor plugin specification and official plugins",
+    "lang": "TypeScript",
+    "stars": "2805 stars",
+    "topics": []
+  },
+  {
+    "name": "deepseek-ai/awesome-deepseek-agent",
+    "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+    "desc": "<div align=\"center\"> [English](./README.md) | [简体中文](./README.zh-CN.md)",
+    "lang": "Unknown",
+    "stars": "5685 stars",
+    "topics": []
+  },
+  {
+    "name": "semantica-agi/semantica",
+    "url": "https://github.com/semantica-agi/semantica",
+    "desc": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+    "lang": "Python",
+    "stars": "7500 stars",
+    "topics": [
+      "agent-memory",
+      "ai",
+      "ai-governance",
+      "ai-infrastructure",
+      "artificial-intelligence",
+      "context-engineering",
+      "context-graphs",
+      "data-engineering",
+      "decision-intelligence",
+      "developer-tools",
+      "explainable-ai",
+      "generative-ai",
+      "graph-rag",
+      "knowledge-graph",
+      "llm",
+      "ontology",
+      "provenance",
+      "python",
+      "reasoning",
+      "semantic-search"
+    ]
+  },
+  {
+    "name": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "desc": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "lang": "Rust",
+    "stars": "120630 stars",
+    "topics": [
+      "android",
+      "anydesk",
+      "dart",
+      "flatpak",
+      "flutter",
+      "flutter-apps",
+      "ios",
+      "linux",
+      "macos",
+      "p2p",
+      "rdp",
+      "remote-control",
+      "remote-desktop",
+      "rust",
+      "rust-lang",
+      "teamviewer",
+      "vnc",
+      "wayland",
+      "windows"
+    ]
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "url": "https://github.com/OpenCut-app/OpenCut",
+    "desc": "The open-source CapCut alternative",
+    "lang": "TypeScript",
+    "stars": "83128 stars",
+    "topics": [
+      "editor",
+      "oss",
+      "videoeditor"
+    ]
+  },
+  {
+    "name": "unslothai/unsloth",
+    "url": "https://github.com/unslothai/unsloth",
+    "desc": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
+    "lang": "Python",
+    "stars": "71482 stars",
+    "topics": [
+      "agent",
+      "ai",
+      "chatgpt",
+      "deepseek",
+      "fine-tuning",
+      "gemma",
+      "image-generation",
+      "llama",
+      "llm",
+      "llms",
+      "openai",
+      "python",
+      "qwen",
+      "reinforcement-learning",
+      "self-hosted",
+      "stable-diffusion",
+      "text-to-speech",
+      "tts",
+      "ui",
+      "unsloth"
+    ]
+  },
+  {
+    "name": "ToolJet/ToolJet",
+    "url": "https://github.com/ToolJet/ToolJet",
+    "desc": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
+    "lang": "JavaScript",
+    "stars": "39051 stars",
+    "topics": [
+      "ai-app-builder",
+      "docker",
+      "hacktoberfest",
+      "internal-applications",
+      "internal-project",
+      "internal-tool",
+      "internal-tools",
+      "javascript",
+      "kubernetes",
+      "low-code",
+      "low-code-development-platform",
+      "low-code-framework",
+      "no-code",
+      "nodejs",
+      "reactjs",
+      "self-hosted",
+      "typescript",
+      "web-development-tools",
+      "workflow-automation"
     ]
   }
 ]

@@ -4,7 +4,7 @@
     "url": "https://github.com/cordiverse/cordis",
     "desc": "Meta-Framework of Spatiotemporal Composability",
     "lang": "TypeScript",
-    "stars": "4041 stars",
+    "stars": "4691 stars",
     "topics": [
       "effect",
       "framework",
@@ -13,41 +13,19 @@
     ]
   },
   {
-    "name": "cathrynlavery/diagram-design",
-    "url": "https://github.com/cathrynlavery/diagram-design",
-    "desc": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-    "lang": "HTML",
-    "stars": "18569 stars",
+    "name": "basecamp/omarchy",
+    "url": "https://github.com/basecamp/omarchy",
+    "desc": "Beautiful, Modern & Opinionated Linux",
+    "lang": "Shell",
+    "stars": "25349 stars",
     "topics": []
-  },
-  {
-    "name": "cursor/plugins",
-    "url": "https://github.com/cursor/plugins",
-    "desc": "Cursor plugin specification and official plugins",
-    "lang": "TypeScript",
-    "stars": "2944 stars",
-    "topics": []
-  },
-  {
-    "name": "cactus-compute/needle",
-    "url": "https://github.com/cactus-compute/needle",
-    "desc": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-    "lang": "Python",
-    "stars": "6052 stars",
-    "topics": [
-      "cactus",
-      "gemini",
-      "gemma",
-      "llm",
-      "on-device-ai"
-    ]
   },
   {
     "name": "unslothai/unsloth",
     "url": "https://github.com/unslothai/unsloth",
     "desc": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
     "lang": "Python",
-    "stars": "72024 stars",
+    "stars": "72537 stars",
     "topics": [
       "agent",
       "ai",
@@ -72,11 +50,23 @@
     ]
   },
   {
+    "name": "OpenCut-app/OpenCut",
+    "url": "https://github.com/OpenCut-app/OpenCut",
+    "desc": "The open-source CapCut alternative",
+    "lang": "TypeScript",
+    "stars": "83853 stars",
+    "topics": [
+      "editor",
+      "oss",
+      "videoeditor"
+    ]
+  },
+  {
     "name": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "desc": "A collective list of free APIs",
     "lang": "Python",
-    "stars": "460123 stars",
+    "stars": "461674 stars",
     "topics": [
       "api",
       "apis",
@@ -94,95 +84,11 @@
     ]
   },
   {
-    "name": "MakazhanAlpamys/Soup",
-    "url": "https://github.com/MakazhanAlpamys/Soup",
-    "desc": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-    "lang": "Python",
-    "stars": "1635 stars",
-    "topics": [
-      "cli",
-      "consumer-gpu",
-      "dpo",
-      "fine-tuning",
-      "gguf",
-      "huggingface",
-      "llm",
-      "llmops",
-      "local-ai",
-      "local-llm",
-      "lora",
-      "low-vram",
-      "machine-learning",
-      "ollama",
-      "peft",
-      "python",
-      "pytorch",
-      "qlora",
-      "sft",
-      "transformers"
-    ]
-  },
-  {
-    "name": "github/spec-kit",
-    "url": "https://github.com/github/spec-kit",
-    "desc": "💫 Toolkit to help you get started with Spec-Driven Development",
-    "lang": "Python",
-    "stars": "129172 stars",
-    "topics": [
-      "ai",
-      "copilot",
-      "development",
-      "engineering",
-      "prd",
-      "spec",
-      "spec-driven"
-    ]
-  },
-  {
-    "name": "megadose/holehe",
-    "url": "https://github.com/megadose/holehe",
-    "desc": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-    "lang": "Python",
-    "stars": "13106 stars",
-    "topics": [
-      "ebay",
-      "email",
-      "emails",
-      "information-gathering",
-      "instagram",
-      "open-source-intelligence",
-      "osint",
-      "osint-python",
-      "osint-tools",
-      "pypi",
-      "python",
-      "social-network",
-      "tellonym",
-      "trio",
-      "twitter"
-    ]
-  },
-  {
-    "name": "altic-dev/FluidVoice",
-    "url": "https://github.com/altic-dev/FluidVoice",
-    "desc": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp",
-    "lang": "Swift",
-    "stars": "10310 stars",
-    "topics": [
-      "ai",
-      "dictation",
-      "ios",
-      "llama-cpp",
-      "macos",
-      "swift"
-    ]
-  },
-  {
     "name": "ToolJet/ToolJet",
     "url": "https://github.com/ToolJet/ToolJet",
     "desc": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
     "lang": "JavaScript",
-    "stars": "39511 stars",
+    "stars": "39997 stars",
     "topics": [
       "ai-app-builder",
       "docker",
@@ -206,30 +112,17 @@
     ]
   },
   {
-    "name": "HKUDS/CLI-Anything",
-    "url": "https://github.com/HKUDS/CLI-Anything",
-    "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "name": "cactus-compute/needle",
+    "url": "https://github.com/cactus-compute/needle",
+    "desc": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
     "lang": "Python",
-    "stars": "47330 stars",
-    "topics": []
-  },
-  {
-    "name": "citrolabs/ego-lite",
-    "url": "https://github.com/citrolabs/ego-lite",
-    "desc": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-    "lang": "JavaScript",
-    "stars": "10942 stars",
+    "stars": "6540 stars",
     "topics": [
-      "agent-skills",
-      "ai-agent",
-      "automation",
-      "browser",
-      "browser-automation",
-      "claude-code",
-      "codex",
-      "hermes-agent",
-      "skills",
-      "skills-sh"
+      "cactus",
+      "gemini",
+      "gemma",
+      "llm",
+      "on-device-ai"
     ]
   }
 ]

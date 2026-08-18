@@ -4,7 +4,7 @@
     "url": "https://github.com/harry0703/MoneyPrinterTurbo",
     "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
     "lang": "Python",
-    "stars": "105938 stars",
+    "stars": "108467 stars",
     "topics": [
       "ai-video-generator",
       "content-creation",
@@ -23,54 +23,18 @@
     ]
   },
   {
-    "name": "usestrix/strix",
-    "url": "https://github.com/usestrix/strix",
-    "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-    "lang": "Python",
-    "stars": "54108 stars",
+    "name": "chaitanyagiri/munder-difflin",
+    "url": "https://github.com/chaitanyagiri/munder-difflin",
+    "desc": "local multi-agent harness",
+    "lang": "TypeScript",
+    "stars": "1995 stars",
     "topics": [
       "agents",
-      "ai-hacking",
-      "ai-penetration-testing",
-      "ai-pentesting",
-      "ai-security",
-      "artificial-intelligence",
-      "bug-bounty",
-      "code-quality",
-      "ctf-tools",
-      "cybersecurity",
-      "cybersecurity-tools",
-      "ethical-hacking",
-      "hacking",
-      "llm-security",
-      "offensive-security",
-      "penetration-testing",
-      "pentesting-tools",
-      "red-teaming",
-      "security",
-      "security-automation"
-    ]
-  },
-  {
-    "name": "nautechsystems/nautilus_trader",
-    "url": "https://github.com/nautechsystems/nautilus_trader",
-    "desc": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-    "lang": "Rust",
-    "stars": "25891 stars",
-    "topics": [
-      "algorithmic-trading-engine",
-      "artificial-intelligence",
-      "crypto-trading",
-      "equity-trading",
-      "forex",
-      "futures-trading",
-      "machine-learning",
-      "options-trading",
-      "python",
-      "rust",
-      "sports-betting",
-      "trading",
-      "trading-platform"
+      "claude-code",
+      "free",
+      "harness",
+      "harness-engineering",
+      "memory"
     ]
   },
   {
@@ -78,15 +42,30 @@
     "url": "https://github.com/akitaonrails/ai-memory",
     "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
     "lang": "Rust",
-    "stars": "2012 stars",
+    "stars": "2690 stars",
     "topics": []
+  },
+  {
+    "name": "volcengine/OpenViking",
+    "url": "https://github.com/volcengine/OpenViking",
+    "desc": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+    "lang": "Python",
+    "stars": "29334 stars",
+    "topics": [
+      "agent-memory",
+      "agent-plugins",
+      "agentic-rag",
+      "context-database",
+      "dsh-plugin",
+      "self-evolving"
+    ]
   },
   {
     "name": "mukul975/Anthropic-Cybersecurity-Skills",
     "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
     "desc": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
     "lang": "Python",
-    "stars": "28386 stars",
+    "stars": "29151 stars",
     "topics": [
       "ai-agents",
       "claude-code",
@@ -111,108 +90,41 @@
     ]
   },
   {
-    "name": "AlexsJones/llmfit",
-    "url": "https://github.com/AlexsJones/llmfit",
-    "desc": "Hundreds of models & providers. One command to find what runs on your hardware.",
-    "lang": "Rust",
-    "stars": "32233 stars",
-    "topics": [
-      "gguf",
-      "llm",
-      "localai",
-      "mlx",
-      "skill",
-      "unsloth"
-    ]
-  },
-  {
-    "name": "santifer/career-ops",
-    "url": "https://github.com/santifer/career-ops",
-    "desc": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
-    "lang": "JavaScript",
-    "stars": "64588 stars",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "anthropic",
-      "ats",
-      "automation",
-      "beginner-friendly",
-      "career",
-      "careerops",
-      "claude",
-      "claude-code",
-      "cli",
-      "first-timers-only",
-      "golang",
-      "good-first-issue",
-      "interview-prep",
-      "job-application",
-      "job-hunting",
-      "job-search",
-      "open-source",
-      "resume"
-    ]
-  },
-  {
-    "name": "jundot/omlx",
-    "url": "https://github.com/jundot/omlx",
-    "desc": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+    "name": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "desc": "A collective list of free APIs",
     "lang": "Python",
-    "stars": "18972 stars",
+    "stars": "464486 stars",
     "topics": [
-      "apple-silicon",
-      "inference-server",
-      "llm",
-      "macos",
-      "mlx",
-      "openai-api"
+      "api",
+      "apis",
+      "dataset",
+      "development",
+      "free",
+      "list",
+      "lists",
+      "open-source",
+      "public",
+      "public-api",
+      "public-apis",
+      "resources",
+      "software"
     ]
   },
   {
-    "name": "immich-app/immich",
-    "url": "https://github.com/immich-app/immich",
-    "desc": "High performance self-hosted photo and video management solution.",
-    "lang": "TypeScript",
-    "stars": "111121 stars",
-    "topics": [
-      "backup-tool",
-      "flutter",
-      "google-photos",
-      "google-photos-alternative",
-      "javascript",
-      "mobile-app",
-      "nestjs",
-      "nodejs",
-      "photo-gallery",
-      "photos",
-      "photos-management",
-      "self-hosted",
-      "svelte",
-      "sveltekit",
-      "typescript",
-      "videos"
-    ]
-  },
-  {
-    "name": "cordiverse/cordis",
-    "url": "https://github.com/cordiverse/cordis",
-    "desc": "Meta-Framework of Spatiotemporal Composability",
-    "lang": "TypeScript",
-    "stars": "5556 stars",
-    "topics": [
-      "effect",
-      "framework",
-      "nodejs",
-      "plugin"
-    ]
+    "name": "basecamp/omarchy",
+    "url": "https://github.com/basecamp/omarchy",
+    "desc": "Beautiful, Modern & Opinionated Linux",
+    "lang": "Shell",
+    "stars": "26400 stars",
+    "topics": []
   },
   {
     "name": "agalwood/Motrix",
     "url": "https://github.com/agalwood/Motrix",
     "desc": "A full-featured download manager.",
     "lang": "TypeScript",
-    "stars": "53041 stars",
+    "stars": "53637 stars",
     "topics": [
       "aria2",
       "bittorrent",
@@ -227,6 +139,71 @@
       "motrix",
       "torrent",
       "windows"
+    ]
+  },
+  {
+    "name": "NawfalMotii79/PLFM_RADAR",
+    "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+    "desc": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+    "lang": "PLSQL",
+    "stars": "24280 stars",
+    "topics": []
+  },
+  {
+    "name": "jundot/omlx",
+    "url": "https://github.com/jundot/omlx",
+    "desc": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+    "lang": "Python",
+    "stars": "19377 stars",
+    "topics": [
+      "apple-silicon",
+      "inference-server",
+      "llm",
+      "macos",
+      "mlx",
+      "openai-api"
+    ]
+  },
+  {
+    "name": "bojieli/ai-agent-book",
+    "url": "https://github.com/bojieli/ai-agent-book",
+    "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+    "lang": "Python",
+    "stars": "39086 stars",
+    "topics": [
+      "agent",
+      "agent-memory",
+      "ai-agent",
+      "book",
+      "coding-agent",
+      "context-engineering",
+      "large-language-models",
+      "llm",
+      "mcp",
+      "multi-agent",
+      "multimodal",
+      "rag",
+      "reinforcement-learning"
+    ]
+  },
+  {
+    "name": "genlayerlabs/genlayer-project-boilerplate",
+    "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+    "desc": "This project includes the boilerplate code for a GenLayer use case implementation, specifically a football bets game. - An example intelligent contract (Football Bets) with web access and LLM integrat",
+    "lang": "TypeScript",
+    "stars": "15902 stars",
+    "topics": []
+  },
+  {
+    "name": "OpenCut-app/OpenCut",
+    "url": "https://github.com/OpenCut-app/OpenCut",
+    "desc": "The open-source CapCut alternative",
+    "lang": "TypeScript",
+    "stars": "84736 stars",
+    "topics": [
+      "editor",
+      "oss",
+      "videoeditor"
     ]
   }
 ]

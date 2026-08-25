@@ -1,98 +1,21 @@
 [
   {
-    "name": "Alishahryar1/free-claude-code",
-    "url": "https://github.com/Alishahryar1/free-claude-code",
-    "desc": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
-    "lang": "Python",
-    "stars": "48907 stars",
-    "topics": []
-  },
-  {
-    "name": "openai/codex",
-    "url": "https://github.com/openai/codex",
-    "desc": "Lightweight coding agent that runs in your terminal",
-    "lang": "Rust",
-    "stars": "117001 stars",
-    "topics": []
-  },
-  {
-    "name": "MadsLorentzen/ai-job-search",
-    "url": "https://github.com/MadsLorentzen/ai-job-search",
-    "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-    "lang": "Python",
-    "stars": "34013 stars",
+    "name": "freestylefly/awesome-gpt-image-2",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+    "lang": "JavaScript",
+    "stars": "17585 stars",
     "topics": [
-      "ai",
-      "ai-agents",
-      "career",
-      "claude-code",
-      "cover-letter",
-      "cv",
-      "interview-preparation",
-      "job-application",
-      "job-hunting",
-      "job-search",
-      "latex",
-      "resume"
-    ]
-  },
-  {
-    "name": "multica-ai/andrej-karpathy-skills",
-    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-    "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-    "lang": "Unknown",
-    "stars": "206470 stars",
-    "topics": []
-  },
-  {
-    "name": "makeplane/plane",
-    "url": "https://github.com/makeplane/plane",
-    "desc": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-    "lang": "TypeScript",
-    "stars": "57902 stars",
-    "topics": [
-      "boards",
-      "bug-tracker",
-      "django",
-      "docker",
-      "gantt",
-      "issue-tracker",
-      "jira",
-      "jira-alternative",
-      "kanban",
-      "linear",
-      "postgresql",
-      "product-management",
-      "project-management",
-      "project-planning",
-      "python",
-      "react",
-      "redis",
-      "typescipt",
-      "vite",
-      "work-management"
-    ]
-  },
-  {
-    "name": "NousResearch/hermes-agent",
-    "url": "https://github.com/NousResearch/hermes-agent",
-    "desc": "The agent that grows with you",
-    "lang": "Python",
-    "stars": "235765 stars",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "anthropic",
+      "agents",
+      "ai-image-generation",
       "chatgpt",
-      "claude",
-      "claude-code",
-      "codex",
-      "hermes",
-      "hermes-agent",
-      "llm",
-      "nous-research",
-      "openai"
+      "dsh-plugin",
+      "gpt-image-2",
+      "image-prompts",
+      "prompt-as-code",
+      "prompt-engineering",
+      "skills",
+      "workflow-automation"
     ]
   },
   {
@@ -100,37 +23,15 @@
     "url": "https://github.com/anthropics/claude-plugins-community",
     "desc": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
     "lang": "Python",
-    "stars": "1334 stars",
+    "stars": "1721 stars",
     "topics": []
-  },
-  {
-    "name": "AprilNEA/OpenLogi",
-    "url": "https://github.com/AprilNEA/OpenLogi",
-    "desc": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-    "lang": "Rust",
-    "stars": "15826 stars",
-    "topics": [
-      "dpi",
-      "gpui",
-      "hid",
-      "hidpp",
-      "local-first",
-      "logitech",
-      "logitech-mouse",
-      "logitech-options",
-      "mouse-remapping",
-      "mx-master",
-      "privacy",
-      "rust",
-      "smartshift"
-    ]
   },
   {
     "name": "apache/maka",
     "url": "https://github.com/apache/maka",
     "desc": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
     "lang": "TypeScript",
-    "stars": "2878 stars",
+    "stars": "3306 stars",
     "topics": [
       "agent-runtime",
       "ai",
@@ -149,43 +50,17 @@
     ]
   },
   {
-    "name": "PostHog/posthog",
-    "url": "https://github.com/PostHog/posthog",
-    "desc": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+    "name": "TauricResearch/TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
     "lang": "Python",
-    "stars": "38977 stars",
+    "stars": "100202 stars",
     "topics": [
-      "ab-testing",
-      "ai-analytics",
-      "analytics",
-      "cdp",
-      "data-warehouse",
-      "experiments",
-      "feature-flags",
-      "javascript",
-      "product-analytics",
-      "python",
-      "react",
-      "session-replay",
-      "surveys",
-      "typescript",
-      "web-analytics"
-    ]
-  },
-  {
-    "name": "openclaw/openclaw",
-    "url": "https://github.com/openclaw/openclaw",
-    "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-    "lang": "TypeScript",
-    "stars": "387427 stars",
-    "topics": [
-      "ai",
-      "assistant",
-      "crustacean",
-      "molty",
-      "openclaw",
-      "own-your-data",
-      "personal"
+      "agent",
+      "finance",
+      "llm",
+      "multiagent",
+      "trading"
     ]
   },
   {
@@ -193,7 +68,7 @@
     "url": "https://github.com/AgriciDaniel/claude-obsidian",
     "desc": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
     "lang": "Python",
-    "stars": "11858 stars",
+    "stars": "12684 stars",
     "topics": [
       "agent-skills",
       "ai-note-taking",
@@ -222,7 +97,7 @@
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
     "desc": "Learn it. Build it. Ship it for others.",
     "lang": "Python",
-    "stars": "48256 stars",
+    "stars": "48919 stars",
     "topics": [
       "agents",
       "ai",
@@ -247,82 +122,110 @@
     ]
   },
   {
-    "name": "basecamp/omarchy",
-    "url": "https://github.com/basecamp/omarchy",
-    "desc": "Beautiful, Modern & Opinionated Linux",
-    "lang": "Shell",
-    "stars": "30072 stars",
-    "topics": []
-  },
-  {
-    "name": "tashfeenahmed/freellmapi",
-    "url": "https://github.com/tashfeenahmed/freellmapi",
-    "desc": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-    "lang": "TypeScript",
-    "stars": "19752 stars",
-    "topics": []
-  },
-  {
-    "name": "dani-garcia/vaultwarden",
-    "url": "https://github.com/dani-garcia/vaultwarden",
-    "desc": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-    "lang": "Rust",
-    "stars": "66124 stars",
-    "topics": [
-      "bitwarden",
-      "bitwarden-rs",
-      "docker",
-      "rocket",
-      "rust",
-      "vaultwarden"
-    ]
-  },
-  {
-    "name": "freestylefly/awesome-gpt-image-2",
-    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-    "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-    "lang": "JavaScript",
-    "stars": "15446 stars",
-    "topics": [
-      "agents",
-      "ai-image-generation",
-      "chatgpt",
-      "dsh-plugin",
-      "gpt-image-2",
-      "image-prompts",
-      "prompt-as-code",
-      "prompt-engineering",
-      "skills",
-      "workflow-automation"
-    ]
-  },
-  {
-    "name": "VoltAgent/awesome-agent-skills",
-    "url": "https://github.com/VoltAgent/awesome-agent-skills",
-    "desc": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
-    "lang": "Unknown",
-    "stars": "31843 stars",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "awesome",
-      "awesome-list",
-      "claude-code",
-      "claude-code-skills",
-      "claude-skills",
-      "codex-skills",
-      "cursor-skills",
-      "gemini-skills",
-      "opencode-skills",
-      "skills"
-    ]
-  },
-  {
     "name": "tinyhumansai/openhuman",
     "url": "https://github.com/tinyhumansai/openhuman",
     "desc": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
     "lang": "Rust",
-    "stars": "37234 stars",
+    "stars": "37746 stars",
     "topics": []
+  },
+  {
+    "name": "basecamp/omarchy",
+    "url": "https://github.com/basecamp/omarchy",
+    "desc": "Beautiful, Modern & Opinionated Linux",
+    "lang": "Shell",
+    "stars": "31202 stars",
+    "topics": []
+  },
+  {
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "desc": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+    "lang": "Python",
+    "stars": "134215 stars",
+    "topics": [
+      "agents",
+      "llms",
+      "python",
+      "rag"
+    ]
+  },
+  {
+    "name": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "lang": "Unknown",
+    "stars": "207168 stars",
+    "topics": []
+  },
+  {
+    "name": "openai/codex",
+    "url": "https://github.com/openai/codex",
+    "desc": "Lightweight coding agent that runs in your terminal",
+    "lang": "Rust",
+    "stars": "118070 stars",
+    "topics": []
+  },
+  {
+    "name": "marin-community/marin",
+    "url": "https://github.com/marin-community/marin",
+    "desc": "Open-source framework for the research and development of foundation models.",
+    "lang": "Python",
+    "stars": "2082 stars",
+    "topics": []
+  },
+  {
+    "name": "DietrichGebert/ponytail",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "lang": "JavaScript",
+    "stars": "110947 stars",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "cursor-rules",
+      "developer-tools",
+      "llm",
+      "prompt-engineering",
+      "yagni"
+    ]
+  },
+  {
+    "name": "anthropics/claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "lang": "Python",
+    "stars": "34070 stars",
+    "topics": [
+      "claude-code",
+      "mcp",
+      "skills"
+    ]
+  },
+  {
+    "name": "asciimoo/hister",
+    "url": "https://github.com/asciimoo/hister",
+    "desc": "Your own search engine",
+    "lang": "Go",
+    "stars": "2752 stars",
+    "topics": [
+      "browser-history",
+      "go",
+      "golang",
+      "history",
+      "index",
+      "mcp",
+      "mcp-server",
+      "personal-search",
+      "personal-search-engine",
+      "privacy",
+      "search",
+      "search-engine",
+      "semantic-search",
+      "web"
+    ]
   }
 ]

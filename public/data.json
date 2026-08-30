@@ -4,7 +4,7 @@
     "url": "https://github.com/tt-a1i/archify",
     "desc": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
     "lang": "JavaScript",
-    "stars": "27949 stars",
+    "stars": "31127 stars",
     "topics": [
       "agent-skills",
       "architecture-as-code",
@@ -29,11 +29,32 @@
     ]
   },
   {
+    "name": "bilawalsidhu/gods-eye-view",
+    "url": "https://github.com/bilawalsidhu/gods-eye-view",
+    "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+    "lang": "JavaScript",
+    "stars": "12649 stars",
+    "topics": [
+      "3d-globe",
+      "cesium",
+      "flight-tracking",
+      "geospatial",
+      "geospatial-intelligence",
+      "gis",
+      "osint",
+      "photogrammetry",
+      "satellite-tracking",
+      "spatial-intelligence",
+      "webgl",
+      "worldview"
+    ]
+  },
+  {
     "name": "K-Dense-AI/scientific-agent-skills",
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-    "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
     "lang": "Python",
-    "stars": "36785 stars",
+    "stars": "37956 stars",
     "topics": [
       "agent-skills",
       "ai-scientist",
@@ -55,52 +76,54 @@
     ]
   },
   {
-    "name": "anthropics/claude-plugins-official",
-    "url": "https://github.com/anthropics/claude-plugins-official",
-    "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-    "lang": "Python",
-    "stars": "35082 stars",
-    "topics": [
-      "claude-code",
-      "mcp",
-      "skills"
-    ]
-  },
-  {
-    "name": "bilawalsidhu/gods-eye-view",
-    "url": "https://github.com/bilawalsidhu/gods-eye-view",
-    "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-    "lang": "JavaScript",
-    "stars": "11249 stars",
-    "topics": [
-      "3d-globe",
-      "cesium",
-      "flight-tracking",
-      "geospatial",
-      "geospatial-intelligence",
-      "gis",
-      "osint",
-      "photogrammetry",
-      "satellite-tracking",
-      "spatial-intelligence",
-      "webgl",
-      "worldview"
-    ]
-  },
-  {
-    "name": "abhigyanpatwari/GitNexus",
-    "url": "https://github.com/abhigyanpatwari/GitNexus",
-    "desc": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
-    "lang": "TypeScript",
-    "stars": "46189 stars",
+    "name": "tailscale/tailcat",
+    "url": "https://github.com/tailscale/tailcat",
+    "desc": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+    "lang": "Go",
+    "stars": "3504 stars",
     "topics": []
+  },
+  {
+    "name": "THU-MAIC/OpenMAIC",
+    "url": "https://github.com/THU-MAIC/OpenMAIC",
+    "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+    "lang": "TypeScript",
+    "stars": "22270 stars",
+    "topics": []
+  },
+  {
+    "name": "p-e-w/heretic",
+    "url": "https://github.com/p-e-w/heretic",
+    "desc": "Fully automatic censorship removal for language models",
+    "lang": "Python",
+    "stars": "28702 stars",
+    "topics": [
+      "abliteration",
+      "llm",
+      "transformer"
+    ]
+  },
+  {
+    "name": "bigskysoftware/htmx",
+    "url": "https://github.com/bigskysoftware/htmx",
+    "desc": "</> htmx - high power tools for HTML",
+    "lang": "JavaScript",
+    "stars": "49121 stars",
+    "topics": [
+      "hateoas",
+      "html",
+      "htmx",
+      "hyperscript",
+      "javascript",
+      "rest"
+    ]
   },
   {
     "name": "JetBrains/go-modern-guidelines",
     "url": "https://github.com/JetBrains/go-modern-guidelines",
     "desc": "Help AI coding agents write modern Go",
     "lang": "Go",
-    "stars": "2636 stars",
+    "stars": "2873 stars",
     "topics": [
       "ai-agents",
       "coding-agent",
@@ -111,11 +134,37 @@
     ]
   },
   {
+    "name": "ComposioHQ/awesome-claude-skills",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "lang": "Python",
+    "stars": "73928 stars",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "antigravity",
+      "automation",
+      "claude",
+      "claude-code",
+      "codex",
+      "composio",
+      "cursor",
+      "developer-tools",
+      "gemini-cli",
+      "mcp",
+      "openai-codex",
+      "rube",
+      "saas",
+      "skill",
+      "workflow-automation"
+    ]
+  },
+  {
     "name": "calesthio/OpenMontage",
     "url": "https://github.com/calesthio/OpenMontage",
     "desc": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
     "lang": "Python",
-    "stars": "53411 stars",
+    "stars": "54078 stars",
     "topics": [
       "agent",
       "agentic-ai",
@@ -139,147 +188,64 @@
     ]
   },
   {
-    "name": "abi/screenshot-to-code",
-    "url": "https://github.com/abi/screenshot-to-code",
-    "desc": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
-    "lang": "Python",
-    "stars": "75631 stars",
-    "topics": []
-  },
-  {
-    "name": "cursor/plugins",
-    "url": "https://github.com/cursor/plugins",
-    "desc": "Cursor plugin specification and official plugins",
+    "name": "every-app/open-seo",
+    "url": "https://github.com/every-app/open-seo",
+    "desc": "Open source alternative to Semrush and Ahrefs",
     "lang": "TypeScript",
-    "stars": "5994 stars",
-    "topics": []
+    "stars": "14656 stars",
+    "topics": [
+      "backlink-analysis",
+      "google-search-console-mcp",
+      "keyword-research",
+      "mcp",
+      "seo",
+      "seo-tools",
+      "site-audit"
+    ]
   },
   {
-    "name": "freestylefly/awesome-gpt-image-2",
-    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-    "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-    "lang": "JavaScript",
-    "stars": "24380 stars",
+    "name": "Osmantic/ODS",
+    "url": "https://github.com/Osmantic/ODS",
+    "desc": "Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
+    "lang": "Python",
+    "stars": "4923 stars",
     "topics": [
-      "agents",
-      "ai-image-generation",
-      "chatgpt",
-      "dsh-plugin",
-      "gpt-image-2",
-      "image-prompts",
-      "prompt-as-code",
-      "prompt-engineering",
-      "skills",
+      "ai-agents",
+      "amd",
+      "comfyui",
+      "docker",
+      "llama-cpp",
+      "llm",
+      "local-ai",
+      "n8n",
+      "nvidia",
+      "open-webui",
+      "rag",
+      "self-hosted",
+      "speech-to-text",
+      "strix-halo",
+      "text-to-speech",
       "workflow-automation"
     ]
   },
   {
-    "name": "tailscale/tailcat",
-    "url": "https://github.com/tailscale/tailcat",
-    "desc": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-    "lang": "Go",
-    "stars": "2829 stars",
-    "topics": []
-  },
-  {
-    "name": "NationalSecurityAgency/ghidra",
-    "url": "https://github.com/NationalSecurityAgency/ghidra",
-    "desc": "Ghidra is a software reverse engineering (SRE) framework",
-    "lang": "Java",
-    "stars": "73378 stars",
-    "topics": [
-      "disassembler",
-      "reverse-engineering",
-      "software-analysis"
-    ]
-  },
-  {
-    "name": "swoole/typephp",
-    "url": "https://github.com/swoole/typephp",
-    "desc": "Compile PHP to Native Binaries",
-    "lang": "PHP",
-    "stars": "829 stars",
-    "topics": []
-  },
-  {
-    "name": "marin-community/marin",
-    "url": "https://github.com/marin-community/marin",
-    "desc": "Open-source framework for the research and development of foundation models.",
+    "name": "abi/screenshot-to-code",
+    "url": "https://github.com/abi/screenshot-to-code",
+    "desc": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
     "lang": "Python",
-    "stars": "2916 stars",
+    "stars": "76044 stars",
     "topics": []
   },
   {
-    "name": "tashfeenahmed/freellmapi",
-    "url": "https://github.com/tashfeenahmed/freellmapi",
-    "desc": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-    "lang": "TypeScript",
-    "stars": "21687 stars",
-    "topics": []
-  },
-  {
-    "name": "ChromeDevTools/chrome-devtools-mcp",
-    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-    "desc": "Chrome DevTools for coding agents",
-    "lang": "TypeScript",
-    "stars": "50000 stars",
-    "topics": [
-      "browser",
-      "chrome",
-      "chrome-devtools",
-      "debugging",
-      "devtools",
-      "mcp",
-      "mcp-server",
-      "puppeteer"
-    ]
-  },
-  {
-    "name": "rohitg00/ai-engineering-from-scratch",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "desc": "Learn it. Build it. Ship it for others.",
+    "name": "anthropics/claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
     "lang": "Python",
-    "stars": "50670 stars",
+    "stars": "35414 stars",
     "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "ai-engineering",
-      "computer-vision",
-      "course",
-      "deep-learning",
-      "from-scratch",
-      "generative-ai",
-      "llm",
-      "machine-learning",
-      "mcp",
-      "nlp",
-      "python",
-      "reinforcement-learning",
-      "rust",
-      "swarm-intelligence",
-      "transformers",
-      "tutorial",
-      "typescript"
-    ]
-  },
-  {
-    "name": "DietrichGebert/ponytail",
-    "url": "https://github.com/DietrichGebert/ponytail",
-    "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "lang": "JavaScript",
-    "stars": "115504 stars",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude",
       "claude-code",
-      "claude-code-plugin",
-      "cursor-rules",
-      "developer-tools",
-      "llm",
-      "prompt-engineering",
-      "yagni"
+      "mcp",
+      "skills"
     ]
   },
   {
@@ -287,22 +253,72 @@
     "url": "https://github.com/google/googletest",
     "desc": "GoogleTest - Google Testing and Mocking Framework",
     "lang": "C++",
-    "stars": "39194 stars",
+    "stars": "39322 stars",
     "topics": []
   },
   {
-    "name": "livekit/agents",
-    "url": "https://github.com/livekit/agents",
-    "desc": "A framework for building realtime voice AI agents 🤖🎙️📹 ",
+    "name": "actions/checkout",
+    "url": "https://github.com/actions/checkout",
+    "desc": "Action for checking out a repo",
+    "lang": "TypeScript",
+    "stars": "8804 stars",
+    "topics": []
+  },
+  {
+    "name": "kaifcodec/user-scanner",
+    "url": "https://github.com/kaifcodec/user-scanner",
+    "desc": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 455+ actively maintained scan vectors (175+ email / 280+ username) for security research, investigations, and digital footprinting.",
     "lang": "Python",
-    "stars": "13371 stars",
+    "stars": "3565 stars",
     "topics": [
-      "agents",
-      "ai",
-      "openai",
-      "real-time",
-      "video",
-      "voice"
+      "cybersecurity",
+      "cybersecurity-tools",
+      "email-osint",
+      "ethical-hacking",
+      "ethical-hacking-tools",
+      "identification",
+      "infosec",
+      "osint",
+      "osint-email",
+      "osint-tool",
+      "osint-tools",
+      "osint-username",
+      "pentesting",
+      "python",
+      "redteam-tools",
+      "redteaming",
+      "threat-intelligence"
+    ]
+  },
+  {
+    "name": "addyosmani/agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "desc": "Production-grade engineering skills for AI coding agents.",
+    "lang": "JavaScript",
+    "stars": "90718 stars",
+    "topics": [
+      "agent-skills",
+      "antigravity",
+      "claude-code",
+      "codex",
+      "cursor",
+      "skills"
+    ]
+  },
+  {
+    "name": "workweave/router",
+    "url": "https://github.com/workweave/router",
+    "desc": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
+    "lang": "Go",
+    "stars": "2728 stars",
+    "topics": [
+      "agentic-coding",
+      "ai-gateway",
+      "anthropic",
+      "claude-code",
+      "codex",
+      "model-router",
+      "openai-compatible"
     ]
   }
 ]

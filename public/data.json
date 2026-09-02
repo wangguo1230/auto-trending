@@ -1,47 +1,117 @@
 [
   {
+    "name": "Gitlawb/openclaude",
+    "url": "https://github.com/Gitlawb/openclaude",
+    "desc": "runs anywhere. uses anything",
+    "lang": "TypeScript",
+    "stars": "31289 stars",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-tools",
+      "cli",
+      "coding"
+    ]
+  },
+  {
+    "name": "Imbad0202/academic-research-skills",
+    "url": "https://github.com/Imbad0202/academic-research-skills",
+    "desc": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+    "lang": "Python",
+    "stars": "44887 stars",
+    "topics": [
+      "academic-pipeline",
+      "academic-writing",
+      "ai-research",
+      "claude",
+      "claude-code",
+      "literature-review",
+      "peer-review",
+      "prompt-engineering"
+    ]
+  },
+  {
     "name": "THU-MAIC/OpenMAIC",
     "url": "https://github.com/THU-MAIC/OpenMAIC",
     "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
     "lang": "TypeScript",
-    "stars": "27183 stars",
+    "stars": "29473 stars",
     "topics": []
   },
   {
-    "name": "tt-a1i/archify",
-    "url": "https://github.com/tt-a1i/archify",
-    "desc": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-    "lang": "JavaScript",
-    "stars": "38862 stars",
+    "name": "iv-org/invidious",
+    "url": "https://github.com/iv-org/invidious",
+    "desc": "Invidious is an alternative front-end to YouTube",
+    "lang": "Crystal",
+    "stars": "23763 stars",
     "topics": [
-      "agent-skills",
-      "architecture-as-code",
-      "architecture-diagram",
-      "claude-skill",
-      "code-visualization",
-      "codex",
-      "coding-agents",
-      "data-flow-diagram",
-      "deepseek-harness",
-      "developer-tools",
-      "diagram-as-code",
-      "diagrams",
-      "diagrams-as-code",
-      "dsh-plugin",
-      "mermaid-alternative",
-      "opencode",
-      "sequence-diagram",
-      "software-architecture",
-      "system-design",
-      "text-to-diagram"
+      "agplv3",
+      "hacktoberfest",
+      "invidious",
+      "libre",
+      "video",
+      "watch",
+      "youtube",
+      "youtube-video"
     ]
+  },
+  {
+    "name": "jingyaogong/minimind",
+    "url": "https://github.com/jingyaogong/minimind",
+    "desc": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+    "lang": "Python",
+    "stars": "57053 stars",
+    "topics": [
+      "artificial-intelligence",
+      "large-language-model"
+    ]
+  },
+  {
+    "name": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "desc": "Animation engine for explanatory math videos",
+    "lang": "Python",
+    "stars": "92549 stars",
+    "topics": [
+      "3b1b-videos",
+      "animation",
+      "explanatory-math-videos",
+      "python"
+    ]
+  },
+  {
+    "name": "firecrawl/pdf-inspector",
+    "url": "https://github.com/firecrawl/pdf-inspector",
+    "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+    "lang": "Rust",
+    "stars": "17920 stars",
+    "topics": [
+      "markdown",
+      "nodejs",
+      "ocr-routing",
+      "pdf",
+      "pdf-classification",
+      "pdf-extraction",
+      "pdf-parser",
+      "python",
+      "rust",
+      "text-extraction"
+    ]
+  },
+  {
+    "name": "browser-use/video-use",
+    "url": "https://github.com/browser-use/video-use",
+    "desc": "Edit videos with coding agents",
+    "lang": "Python",
+    "stars": "22931 stars",
+    "topics": []
   },
   {
     "name": "K-Dense-AI/scientific-agent-skills",
     "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
     "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
     "lang": "Python",
-    "stars": "40761 stars",
+    "stars": "41530 stars",
     "topics": [
       "agent-skills",
       "ai-scientist",
@@ -63,103 +133,44 @@
     ]
   },
   {
-    "name": "k1tbyte/Wand-Enhancer",
-    "url": "https://github.com/k1tbyte/Wand-Enhancer",
-    "desc": "Advanced UX and interoperability extension for Wand (WeMod) app",
-    "lang": "C#",
-    "stars": "23399 stars",
-    "topics": [
-      "csharp",
-      "wand",
-      "wand-enhancer",
-      "wand-pro",
-      "wemod",
-      "wpf"
-    ]
-  },
-  {
-    "name": "majd/ipatool",
-    "url": "https://github.com/majd/ipatool",
-    "desc": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
-    "lang": "Go",
-    "stars": "10554 stars",
-    "topics": [
-      "apple",
-      "appstore",
-      "cli",
-      "command-line",
-      "command-line-tool",
-      "go",
-      "golang",
-      "golang-library",
-      "ios",
-      "ipa",
-      "itunes",
-      "macos",
-      "research",
-      "reverse-engineering",
-      "security",
-      "swift",
-      "tool"
-    ]
-  },
-  {
-    "name": "jingyaogong/minimind",
-    "url": "https://github.com/jingyaogong/minimind",
-    "desc": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+    "name": "handsomestWei/patent-disclosure-skill",
+    "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+    "desc": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
     "lang": "Python",
-    "stars": "56154 stars",
+    "stars": "6694 stars",
     "topics": [
-      "artificial-intelligence",
-      "large-language-model"
+      "chinese",
+      "disclosure",
+      "obsidian",
+      "patent",
+      "skill"
     ]
   },
   {
-    "name": "Osmantic/ODS",
-    "url": "https://github.com/Osmantic/ODS",
-    "desc": "Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
-    "lang": "Python",
-    "stars": "5517 stars",
+    "name": "VoltAgent/awesome-design-md",
+    "url": "https://github.com/VoltAgent/awesome-design-md",
+    "desc": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
+    "lang": "Unknown",
+    "stars": "112745 stars",
     "topics": [
-      "ai-agents",
-      "amd",
-      "comfyui",
-      "docker",
-      "llama-cpp",
-      "llm",
-      "local-ai",
-      "n8n",
-      "nvidia",
-      "open-webui",
-      "rag",
-      "self-hosted",
-      "speech-to-text",
-      "strix-halo",
-      "text-to-speech",
-      "workflow-automation"
+      "awesome-list",
+      "design-md",
+      "design-system",
+      "design-tokens",
+      "figma",
+      "google-stitch",
+      "landing-page",
+      "vibe-coding",
+      "vibe-design",
+      "vibecoding"
     ]
   },
   {
-    "name": "checkstyle/checkstyle",
-    "url": "https://github.com/checkstyle/checkstyle",
-    "desc": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
-    "lang": "Java",
-    "stars": "9419 stars",
-    "topics": [
-      "code-quality",
-      "command-line-tool",
-      "hacktoberfest",
-      "java",
-      "static-analysis",
-      "static-code-analysis"
-    ]
-  },
-  {
-    "name": "zhaoxuya520/reverse-skill",
-    "url": "https://github.com/zhaoxuya520/reverse-skill",
-    "desc": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-    "lang": "PowerShell",
-    "stars": "33173 stars",
+    "name": "averygan/reclip",
+    "url": "https://github.com/averygan/reclip",
+    "desc": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+    "lang": "HTML",
+    "stars": "7648 stars",
     "topics": []
   },
   {
@@ -167,7 +178,7 @@
     "url": "https://github.com/affaan-m/ECC",
     "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
     "lang": "JavaScript",
-    "stars": "245261 stars",
+    "stars": "245759 stars",
     "topics": [
       "ai-agents",
       "anthropic",
@@ -180,98 +191,11 @@
     ]
   },
   {
-    "name": "kaifcodec/user-scanner",
-    "url": "https://github.com/kaifcodec/user-scanner",
-    "desc": "🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting.",
+    "name": "unclecode/crawl4ai",
+    "url": "https://github.com/unclecode/crawl4ai",
+    "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
     "lang": "Python",
-    "stars": "4268 stars",
-    "topics": [
-      "cybersecurity",
-      "cybersecurity-tools",
-      "email-osint",
-      "ethical-hacking",
-      "ethical-hacking-tools",
-      "identification",
-      "infosec",
-      "osint",
-      "osint-email",
-      "osint-tool",
-      "osint-tools",
-      "osint-username",
-      "pentesting",
-      "python",
-      "redteam-tools",
-      "redteaming",
-      "threat-intelligence"
-    ]
-  },
-  {
-    "name": "every-app/open-seo",
-    "url": "https://github.com/every-app/open-seo",
-    "desc": "Open source alternative to Semrush and Ahrefs",
-    "lang": "TypeScript",
-    "stars": "15777 stars",
-    "topics": [
-      "backlink-analysis",
-      "google-search-console-mcp",
-      "keyword-research",
-      "mcp",
-      "seo",
-      "seo-tools",
-      "site-audit"
-    ]
-  },
-  {
-    "name": "p-e-w/heretic",
-    "url": "https://github.com/p-e-w/heretic",
-    "desc": "Fully automatic censorship removal for language models",
-    "lang": "Python",
-    "stars": "29670 stars",
-    "topics": [
-      "abliteration",
-      "llm",
-      "transformer"
-    ]
-  },
-  {
-    "name": "handsomestWei/patent-disclosure-skill",
-    "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-    "desc": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-    "lang": "Python",
-    "stars": "6246 stars",
-    "topics": [
-      "chinese",
-      "disclosure",
-      "obsidian",
-      "patent",
-      "skill"
-    ]
-  },
-  {
-    "name": "firecrawl/pdf-inspector",
-    "url": "https://github.com/firecrawl/pdf-inspector",
-    "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-    "lang": "Rust",
-    "stars": "17381 stars",
-    "topics": [
-      "markdown",
-      "nodejs",
-      "ocr-routing",
-      "pdf",
-      "pdf-classification",
-      "pdf-extraction",
-      "pdf-parser",
-      "python",
-      "rust",
-      "text-extraction"
-    ]
-  },
-  {
-    "name": "pollen-robotics/microduck_rl",
-    "url": "https://github.com/pollen-robotics/microduck_rl",
-    "desc": "RL training environments for Microduck (mjlab)",
-    "lang": "Python",
-    "stars": "1152 stars",
+    "stars": "80848 stars",
     "topics": []
   }
 ]

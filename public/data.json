@@ -1,16 +1,204 @@
 [
   {
-    "name": "Gitlawb/openclaude",
-    "url": "https://github.com/Gitlawb/openclaude",
-    "desc": "runs anywhere. uses anything",
+    "name": "fmtlib/fmt",
+    "url": "https://github.com/fmtlib/fmt",
+    "desc": "A modern formatting library",
+    "lang": "C++",
+    "stars": "24258 stars",
+    "topics": [
+      "c-plus-plus",
+      "chrono",
+      "cpp",
+      "cross-platform",
+      "floating-point",
+      "formatting",
+      "multiplatform",
+      "output",
+      "performance",
+      "printf",
+      "ranges",
+      "unicode"
+    ]
+  },
+  {
+    "name": "google-research/timesfm",
+    "url": "https://github.com/google-research/timesfm",
+    "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "lang": "Python",
+    "stars": "29787 stars",
+    "topics": []
+  },
+  {
+    "name": "DietrichGebert/ponytail",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "lang": "JavaScript",
+    "stars": "121549 stars",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "cursor-rules",
+      "developer-tools",
+      "llm",
+      "prompt-engineering",
+      "yagni"
+    ]
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "lang": "Python",
+    "stars": "14721 stars",
+    "topics": [
+      "ai",
+      "audiobook",
+      "cuda",
+      "dubbing",
+      "elevenlabs-alternative",
+      "huggingface",
+      "local-first",
+      "mlx",
+      "omnivoice-studio",
+      "speech-to-text",
+      "tauri",
+      "text-to-speech",
+      "transcription",
+      "translate",
+      "tts",
+      "voice-ai",
+      "voice-cloning",
+      "voice-generation",
+      "voicestudio",
+      "workflow"
+    ]
+  },
+  {
+    "name": "sngyai/Sequoia-X",
+    "url": "https://github.com/sngyai/Sequoia-X",
+    "desc": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+    "lang": "Python",
+    "stars": "6051 stars",
+    "topics": [
+      "a-shares",
+      "akshare",
+      "baostock",
+      "pandas",
+      "python",
+      "stock-screening",
+      "ta-lib",
+      "trading",
+      "turtle-trade"
+    ]
+  },
+  {
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "desc": "Chrome DevTools for coding agents",
     "lang": "TypeScript",
-    "stars": "31289 stars",
+    "stars": "50634 stars",
+    "topics": [
+      "browser",
+      "chrome",
+      "chrome-devtools",
+      "debugging",
+      "devtools",
+      "mcp",
+      "mcp-server",
+      "puppeteer"
+    ]
+  },
+  {
+    "name": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "desc": "The agent that grows with you",
+    "lang": "Python",
+    "stars": "240125 stars",
     "topics": [
       "ai",
       "ai-agent",
-      "ai-tools",
-      "cli",
-      "coding"
+      "ai-agents",
+      "anthropic",
+      "chatgpt",
+      "claude",
+      "claude-code",
+      "codex",
+      "hermes",
+      "hermes-agent",
+      "llm",
+      "nous-research",
+      "openai"
+    ]
+  },
+  {
+    "name": "superlinked/sie",
+    "url": "https://github.com/superlinked/sie",
+    "desc": "Open-source inference server and production cluster for all the models your agent needs.",
+    "lang": "Python",
+    "stars": "3060 stars",
+    "topics": [
+      "bge",
+      "colbert",
+      "data-pipeline",
+      "deep-learning",
+      "embeddings",
+      "inference",
+      "inference-server",
+      "information-retrieval",
+      "llm",
+      "ml",
+      "mlops",
+      "natural-language-processing",
+      "nlp",
+      "python",
+      "reranking",
+      "retrieval",
+      "retrieval-augmented-generation",
+      "semantic-search",
+      "splade",
+      "vector-search"
+    ]
+  },
+  {
+    "name": "pacifio/atlas",
+    "url": "https://github.com/pacifio/atlas",
+    "desc": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+    "lang": "Rust",
+    "stars": "2884 stars",
+    "topics": [
+      "ai",
+      "ai-coding-assistant",
+      "claude-code",
+      "codex",
+      "coding-agents",
+      "git",
+      "gitops",
+      "kilo-code",
+      "mcp",
+      "mcp-client",
+      "opencode",
+      "opencode-ai",
+      "opencode-skills",
+      "self-hosted",
+      "skills"
+    ]
+  },
+  {
+    "name": "zyronon/TypeWords",
+    "url": "https://github.com/zyronon/TypeWords",
+    "desc": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
+    "lang": "Vue",
+    "stars": "9305 stars",
+    "topics": [
+      "english-learn",
+      "learn-english",
+      "memorizing-words",
+      "type-words",
+      "typing-practice",
+      "typingspeedtest"
     ]
   },
   {
@@ -18,7 +206,7 @@
     "url": "https://github.com/Imbad0202/academic-research-skills",
     "desc": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
     "lang": "Python",
-    "stars": "44887 stars",
+    "stars": "45556 stars",
     "topics": [
       "academic-pipeline",
       "academic-writing",
@@ -31,154 +219,11 @@
     ]
   },
   {
-    "name": "THU-MAIC/OpenMAIC",
-    "url": "https://github.com/THU-MAIC/OpenMAIC",
-    "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-    "lang": "TypeScript",
-    "stars": "29473 stars",
-    "topics": []
-  },
-  {
-    "name": "iv-org/invidious",
-    "url": "https://github.com/iv-org/invidious",
-    "desc": "Invidious is an alternative front-end to YouTube",
-    "lang": "Crystal",
-    "stars": "23763 stars",
-    "topics": [
-      "agplv3",
-      "hacktoberfest",
-      "invidious",
-      "libre",
-      "video",
-      "watch",
-      "youtube",
-      "youtube-video"
-    ]
-  },
-  {
-    "name": "jingyaogong/minimind",
-    "url": "https://github.com/jingyaogong/minimind",
-    "desc": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-    "lang": "Python",
-    "stars": "57053 stars",
-    "topics": [
-      "artificial-intelligence",
-      "large-language-model"
-    ]
-  },
-  {
-    "name": "3b1b/manim",
-    "url": "https://github.com/3b1b/manim",
-    "desc": "Animation engine for explanatory math videos",
-    "lang": "Python",
-    "stars": "92549 stars",
-    "topics": [
-      "3b1b-videos",
-      "animation",
-      "explanatory-math-videos",
-      "python"
-    ]
-  },
-  {
-    "name": "firecrawl/pdf-inspector",
-    "url": "https://github.com/firecrawl/pdf-inspector",
-    "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-    "lang": "Rust",
-    "stars": "17920 stars",
-    "topics": [
-      "markdown",
-      "nodejs",
-      "ocr-routing",
-      "pdf",
-      "pdf-classification",
-      "pdf-extraction",
-      "pdf-parser",
-      "python",
-      "rust",
-      "text-extraction"
-    ]
-  },
-  {
-    "name": "browser-use/video-use",
-    "url": "https://github.com/browser-use/video-use",
-    "desc": "Edit videos with coding agents",
-    "lang": "Python",
-    "stars": "22931 stars",
-    "topics": []
-  },
-  {
-    "name": "K-Dense-AI/scientific-agent-skills",
-    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-    "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-    "lang": "Python",
-    "stars": "41530 stars",
-    "topics": [
-      "agent-skills",
-      "ai-scientist",
-      "bioinformatics",
-      "chemoinformatics",
-      "claude",
-      "claude-skills",
-      "claudecode",
-      "clinical-research",
-      "computational-biology",
-      "data-analysis",
-      "drug-discovery",
-      "genomics",
-      "materials-science",
-      "metabolomics",
-      "proteomics",
-      "scientific-computing",
-      "scientific-visualization"
-    ]
-  },
-  {
-    "name": "handsomestWei/patent-disclosure-skill",
-    "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-    "desc": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-    "lang": "Python",
-    "stars": "6694 stars",
-    "topics": [
-      "chinese",
-      "disclosure",
-      "obsidian",
-      "patent",
-      "skill"
-    ]
-  },
-  {
-    "name": "VoltAgent/awesome-design-md",
-    "url": "https://github.com/VoltAgent/awesome-design-md",
-    "desc": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-    "lang": "Unknown",
-    "stars": "112745 stars",
-    "topics": [
-      "awesome-list",
-      "design-md",
-      "design-system",
-      "design-tokens",
-      "figma",
-      "google-stitch",
-      "landing-page",
-      "vibe-coding",
-      "vibe-design",
-      "vibecoding"
-    ]
-  },
-  {
-    "name": "averygan/reclip",
-    "url": "https://github.com/averygan/reclip",
-    "desc": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-    "lang": "HTML",
-    "stars": "7648 stars",
-    "topics": []
-  },
-  {
     "name": "affaan-m/ECC",
     "url": "https://github.com/affaan-m/ECC",
     "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
     "lang": "JavaScript",
-    "stars": "245759 stars",
+    "stars": "246341 stars",
     "topics": [
       "ai-agents",
       "anthropic",
@@ -191,11 +236,104 @@
     ]
   },
   {
-    "name": "unclecode/crawl4ai",
-    "url": "https://github.com/unclecode/crawl4ai",
-    "desc": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-    "lang": "Python",
-    "stars": "80848 stars",
+    "name": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "lang": "C++",
+    "stars": "71936 stars",
+    "topics": [
+      "marshalling",
+      "protobuf",
+      "protobuf-runtime",
+      "protoc",
+      "protocol-buffers",
+      "protocol-compiler",
+      "rpc",
+      "serialization"
+    ]
+  },
+  {
+    "name": "vercel-labs/portless",
+    "url": "https://github.com/vercel-labs/portless",
+    "desc": "Replace port numbers with stable, named local URLs. For humans and agents.",
+    "lang": "TypeScript",
+    "stars": "11763 stars",
     "topics": []
+  },
+  {
+    "name": "blader/humanizer",
+    "url": "https://github.com/blader/humanizer",
+    "desc": "Agent skill that removes signs of AI-generated writing from text",
+    "lang": "Python",
+    "stars": "40393 stars",
+    "topics": [
+      "agent-skills",
+      "ai-writing",
+      "claude-code",
+      "codex",
+      "cursor",
+      "prompt-engineering",
+      "writing-tools"
+    ]
+  },
+  {
+    "name": "JuliusBrussee/caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+    "lang": "Go",
+    "stars": "102636 stars",
+    "topics": [
+      "ai",
+      "anthropic",
+      "caveman",
+      "claude",
+      "claude-code",
+      "llm",
+      "meme",
+      "prompt-engineering",
+      "skill",
+      "tokens"
+    ]
+  },
+  {
+    "name": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+    "lang": "Shell",
+    "stars": "245230 stars",
+    "topics": []
+  },
+  {
+    "name": "Gitlawb/openclaude",
+    "url": "https://github.com/Gitlawb/openclaude",
+    "desc": "runs anywhere. uses anything",
+    "lang": "TypeScript",
+    "stars": "31982 stars",
+    "topics": [
+      "ai",
+      "ai-agent",
+      "ai-tools",
+      "cli",
+      "coding"
+    ]
+  },
+  {
+    "name": "firecrawl/pdf-inspector",
+    "url": "https://github.com/firecrawl/pdf-inspector",
+    "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+    "lang": "Rust",
+    "stars": "18510 stars",
+    "topics": [
+      "markdown",
+      "nodejs",
+      "ocr-routing",
+      "pdf",
+      "pdf-classification",
+      "pdf-extraction",
+      "pdf-parser",
+      "python",
+      "rust",
+      "text-extraction"
+    ]
   }
 ]

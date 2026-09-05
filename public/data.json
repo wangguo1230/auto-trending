@@ -1,10 +1,37 @@
 [
   {
+    "name": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+    "lang": "Shell",
+    "stars": "250376 stars",
+    "topics": []
+  },
+  {
+    "name": "DietrichGebert/ponytail",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "lang": "JavaScript",
+    "stars": "125982 stars",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "cursor-rules",
+      "developer-tools",
+      "llm",
+      "prompt-engineering",
+      "yagni"
+    ]
+  },
+  {
     "name": "fmtlib/fmt",
     "url": "https://github.com/fmtlib/fmt",
     "desc": "A modern formatting library",
     "lang": "C++",
-    "stars": "25075 stars",
+    "stars": "25466 stars",
     "topics": [
       "c-plus-plus",
       "chrono",
@@ -21,19 +48,54 @@
     ]
   },
   {
-    "name": "mattpocock/skills",
-    "url": "https://github.com/mattpocock/skills",
-    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-    "lang": "Shell",
-    "stars": "247392 stars",
-    "topics": []
+    "name": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "lang": "JavaScript",
+    "stars": "248507 stars",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ]
+  },
+  {
+    "name": "anthropics/skills",
+    "url": "https://github.com/anthropics/skills",
+    "desc": "Public repository for Agent Skills",
+    "lang": "Python",
+    "stars": "174124 stars",
+    "topics": [
+      "agent-skills"
+    ]
+  },
+  {
+    "name": "blader/humanizer",
+    "url": "https://github.com/blader/humanizer",
+    "desc": "Agent skill that removes signs of AI-generated writing from text",
+    "lang": "Python",
+    "stars": "42703 stars",
+    "topics": [
+      "agent-skills",
+      "ai-writing",
+      "claude-code",
+      "codex",
+      "cursor",
+      "prompt-engineering",
+      "writing-tools"
+    ]
   },
   {
     "name": "NousResearch/hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
     "desc": "The agent that grows with you",
     "lang": "Python",
-    "stars": "240839 stars",
+    "stars": "241487 stars",
     "topics": [
       "ai",
       "ai-agent",
@@ -51,57 +113,11 @@
     ]
   },
   {
-    "name": "DietrichGebert/ponytail",
-    "url": "https://github.com/DietrichGebert/ponytail",
-    "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "lang": "JavaScript",
-    "stars": "123418 stars",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "claude-code-plugin",
-      "cursor-rules",
-      "developer-tools",
-      "llm",
-      "prompt-engineering",
-      "yagni"
-    ]
-  },
-  {
-    "name": "anthropics/skills",
-    "url": "https://github.com/anthropics/skills",
-    "desc": "Public repository for Agent Skills",
-    "lang": "Python",
-    "stars": "173649 stars",
-    "topics": [
-      "agent-skills"
-    ]
-  },
-  {
-    "name": "affaan-m/ECC",
-    "url": "https://github.com/affaan-m/ECC",
-    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "lang": "JavaScript",
-    "stars": "247191 stars",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "developer-tools",
-      "llm",
-      "mcp",
-      "productivity"
-    ]
-  },
-  {
     "name": "JuliusBrussee/caveman",
     "url": "https://github.com/JuliusBrussee/caveman",
     "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
     "lang": "Go",
-    "stars": "103097 stars",
+    "stars": "103570 stars",
     "topics": [
       "ai",
       "anthropic",
@@ -116,35 +132,19 @@
     ]
   },
   {
-    "name": "blader/humanizer",
-    "url": "https://github.com/blader/humanizer",
-    "desc": "Agent skill that removes signs of AI-generated writing from text",
-    "lang": "Python",
-    "stars": "41472 stars",
-    "topics": [
-      "agent-skills",
-      "ai-writing",
-      "claude-code",
-      "codex",
-      "cursor",
-      "prompt-engineering",
-      "writing-tools"
-    ]
-  },
-  {
-    "name": "google-research/timesfm",
-    "url": "https://github.com/google-research/timesfm",
-    "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-    "lang": "Python",
-    "stars": "30699 stars",
+    "name": "magnitudedev/magnitude",
+    "url": "https://github.com/magnitudedev/magnitude",
+    "desc": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+    "lang": "TypeScript",
+    "stars": "2467 stars",
     "topics": []
   },
   {
-    "name": "averygan/reclip",
-    "url": "https://github.com/averygan/reclip",
-    "desc": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-    "lang": "HTML",
-    "stars": "8364 stars",
+    "name": "bikini/exploitarium",
+    "url": "https://github.com/bikini/exploitarium",
+    "desc": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+    "lang": "Python",
+    "stars": "4507 stars",
     "topics": []
   },
   {
@@ -152,7 +152,7 @@
     "url": "https://github.com/bannedbook/fanqiang",
     "desc": "翻墙-科学上网",
     "lang": "Kotlin",
-    "stars": "52151 stars",
+    "stars": "52766 stars",
     "topics": [
       "brook",
       "daze",
@@ -168,84 +168,11 @@
     ]
   },
   {
-    "name": "addyosmani/agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "desc": "Production-grade engineering skills for AI coding agents.",
-    "lang": "JavaScript",
-    "stars": "92031 stars",
-    "topics": [
-      "agent-skills",
-      "antigravity",
-      "claude-code",
-      "codex",
-      "cursor",
-      "skills"
-    ]
-  },
-  {
-    "name": "ByteByteGoHq/system-design-101",
-    "url": "https://github.com/ByteByteGoHq/system-design-101",
-    "desc": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
-    "lang": "Unknown",
-    "stars": "88338 stars",
-    "topics": [
-      "aws",
-      "cloud-computing",
-      "coding-interviews",
-      "computer-science",
-      "interview-questions",
-      "software-architecture",
-      "software-development",
-      "software-engineering",
-      "system-design",
-      "system-design-interview"
-    ]
-  },
-  {
-    "name": "magnitudedev/magnitude",
-    "url": "https://github.com/magnitudedev/magnitude",
-    "desc": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-    "lang": "TypeScript",
-    "stars": "1949 stars",
-    "topics": []
-  },
-  {
-    "name": "Imbad0202/academic-research-skills",
-    "url": "https://github.com/Imbad0202/academic-research-skills",
-    "desc": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-    "lang": "Python",
-    "stars": "45991 stars",
-    "topics": [
-      "academic-pipeline",
-      "academic-writing",
-      "ai-research",
-      "claude",
-      "claude-code",
-      "literature-review",
-      "peer-review",
-      "prompt-engineering"
-    ]
-  },
-  {
-    "name": "Gitlawb/openclaude",
-    "url": "https://github.com/Gitlawb/openclaude",
-    "desc": "runs anywhere. uses anything",
-    "lang": "TypeScript",
-    "stars": "32343 stars",
-    "topics": [
-      "ai",
-      "ai-agent",
-      "ai-tools",
-      "cli",
-      "coding"
-    ]
-  },
-  {
     "name": "debpalash/VoiceStudio",
     "url": "https://github.com/debpalash/VoiceStudio",
     "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
     "lang": "Python",
-    "stars": "16272 stars",
+    "stars": "17972 stars",
     "topics": [
       "ai",
       "audiobook",
@@ -270,47 +197,57 @@
     ]
   },
   {
-    "name": "f/prompts.chat",
-    "url": "https://github.com/f/prompts.chat",
-    "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-    "lang": "HTML",
-    "stars": "168992 stars",
+    "name": "google-research/timesfm",
+    "url": "https://github.com/google-research/timesfm",
+    "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "lang": "Python",
+    "stars": "31048 stars",
+    "topics": []
+  },
+  {
+    "name": "radixark/miles",
+    "url": "https://github.com/radixark/miles",
+    "desc": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+    "lang": "Python",
+    "stars": "2550 stars",
+    "topics": []
+  },
+  {
+    "name": "anomalyco/opencode",
+    "url": "https://github.com/anomalyco/opencode",
+    "desc": "The open source coding agent.",
+    "lang": "TypeScript",
+    "stars": "204121 stars",
+    "topics": []
+  },
+  {
+    "name": "clshortfuse/renodx",
+    "url": "https://github.com/clshortfuse/renodx",
+    "desc": "Renovation Engine for DirectX Games",
+    "lang": "HLSL",
+    "stars": "3524 stars",
     "topics": [
-      "ai",
-      "artificial-intelligence",
-      "awesome-list",
-      "chatgpt",
-      "chatgpt-prompts",
-      "claude",
-      "gemini",
-      "gpt",
-      "gpt-4",
-      "llm",
-      "machine-learning",
-      "nextjs",
-      "open-source",
-      "openai",
-      "prompt-engineering",
-      "prompts",
-      "prompts-chat",
-      "typescript"
+      "directx",
+      "games",
+      "hdr",
+      "mod"
     ]
   },
   {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "281335 stars",
+    "name": "cathrynlavery/diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "desc": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "lang": "HTML",
+    "stars": "30915 stars",
     "topics": [
-      "ai",
-      "brainstorming",
-      "coding",
-      "obra",
-      "sdlc",
-      "skills",
-      "subagent-driven-development",
-      "superpowers"
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "data-visualization",
+      "diagrams",
+      "drawio",
+      "mermaid",
+      "svg"
     ]
   }
 ]

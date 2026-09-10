@@ -4,7 +4,7 @@
     "url": "https://github.com/ayghri/i-have-adhd",
     "desc": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
     "lang": "Python",
-    "stars": "30477 stars",
+    "stars": "34612 stars",
     "topics": [
       "adhd",
       "claude-",
@@ -15,85 +15,19 @@
     ]
   },
   {
-    "name": "cathrynlavery/diagram-design",
-    "url": "https://github.com/cathrynlavery/diagram-design",
-    "desc": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-    "lang": "HTML",
-    "stars": "34820 stars",
-    "topics": [
-      "agent-skills",
-      "claude-code",
-      "codex",
-      "data-visualization",
-      "diagrams",
-      "drawio",
-      "mermaid",
-      "svg"
-    ]
-  },
-  {
-    "name": "openai/skills",
-    "url": "https://github.com/openai/skills",
-    "desc": "Skills Catalog for Codex",
-    "lang": "Python",
-    "stars": "26517 stars",
-    "topics": []
-  },
-  {
-    "name": "affaan-m/ECC",
-    "url": "https://github.com/affaan-m/ECC",
-    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "lang": "JavaScript",
-    "stars": "254306 stars",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "developer-tools",
-      "llm",
-      "mcp",
-      "productivity"
-    ]
-  },
-  {
-    "name": "heygen-com/hyperframes",
-    "url": "https://github.com/heygen-com/hyperframes",
-    "desc": "Write HTML. Render video. Built for agents.",
+    "name": "Tencent/teamai-cli",
+    "url": "https://github.com/Tencent/teamai-cli",
+    "desc": "Make Every Team AI Native",
     "lang": "TypeScript",
-    "stars": "47764 stars",
-    "topics": [
-      "ai",
-      "animation",
-      "ffmpeg",
-      "framework",
-      "gsap",
-      "html",
-      "mcp",
-      "puppeteer",
-      "rendering",
-      "typescript",
-      "video"
-    ]
-  },
-  {
-    "name": "coreyhaines31/marketingskills",
-    "url": "https://github.com/coreyhaines31/marketingskills",
-    "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-    "lang": "JavaScript",
-    "stars": "48821 stars",
-    "topics": [
-      "claude",
-      "codex",
-      "marketing"
-    ]
+    "stars": "2978 stars",
+    "topics": []
   },
   {
     "name": "obra/superpowers",
     "url": "https://github.com/obra/superpowers",
     "desc": "An agentic skills framework & software development methodology that works.",
     "lang": "Shell",
-    "stars": "283362 stars",
+    "stars": "284027 stars",
     "topics": [
       "ai",
       "brainstorming",
@@ -106,159 +40,183 @@
     ]
   },
   {
-    "name": "multica-ai/andrej-karpathy-skills",
-    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-    "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-    "lang": "Unknown",
-    "stars": "211457 stars",
-    "topics": []
-  },
-  {
-    "name": "microsoft/markitdown",
-    "url": "https://github.com/microsoft/markitdown",
-    "desc": "Python tool for converting files and office documents to Markdown.",
-    "lang": "Python",
-    "stars": "181688 stars",
-    "topics": [
-      "autogen",
-      "autogen-extension",
-      "langchain",
-      "markdown",
-      "microsoft-office",
-      "openai",
-      "pdf"
-    ]
-  },
-  {
-    "name": "jo-inc/camofox-browser",
-    "url": "https://github.com/jo-inc/camofox-browser",
-    "desc": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
-    "lang": "JavaScript",
-    "stars": "10497 stars",
-    "topics": [
-      "ai-agent",
-      "anti-bot",
-      "antidetect-browser",
-      "automation",
-      "bot-detection",
-      "browser-automation",
-      "cloudflare-bypass",
-      "headless-browser",
-      "javascript",
-      "nodejs",
-      "playwright",
-      "puppeteer",
-      "scraping",
-      "stealth-browser",
-      "web-scraping"
-    ]
-  },
-  {
-    "name": "MoonTechLab/LunaTV",
-    "url": "https://github.com/MoonTechLab/LunaTV",
-    "desc": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+    "name": "pascalorg/editor",
+    "url": "https://github.com/pascalorg/editor",
+    "desc": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
     "lang": "TypeScript",
-    "stars": "10172 stars",
-    "topics": []
-  },
-  {
-    "name": "browser-use/browser-use",
-    "url": "https://github.com/browser-use/browser-use",
-    "desc": "Agents that use the browser.",
-    "lang": "Python",
-    "stars": "113507 stars",
+    "stars": "22920 stars",
     "topics": [
+      "3d",
+      "agent-skills",
       "ai-agents",
-      "ai-tools",
-      "browser-automation",
-      "browser-use",
-      "llm",
-      "playwright",
-      "python"
-    ]
-  },
-  {
-    "name": "mksglu/context-mode",
-    "url": "https://github.com/mksglu/context-mode",
-    "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
-    "lang": "TypeScript",
-    "stars": "21395 stars",
-    "topics": [
-      "antigravity",
-      "claude",
-      "claude-code",
-      "claude-code-hooks",
-      "claude-code-plugins",
-      "claude-code-skill",
-      "codex",
-      "codex-cli",
-      "context-mode",
-      "copilot",
-      "cursor-plugin",
-      "kiro",
+      "architecture",
+      "bim",
+      "cad",
+      "editor",
+      "floorplan",
+      "local-first",
       "mcp",
       "mcp-server",
-      "mcp-tools",
-      "openclaw",
-      "opencode",
-      "pi-agent",
-      "skills",
-      "zed-extension"
+      "model-context-protocol",
+      "nextjs",
+      "parametric-design",
+      "react-three-fiber",
+      "threejs",
+      "typescript"
     ]
   },
   {
-    "name": "The-Swarm-Corporation/AutoHedge",
-    "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
-    "desc": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+    "name": "earthtojake/text-to-cad",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "desc": "A library of agent skills for CAD, CAE and CAM",
     "lang": "Python",
-    "stars": "5708 stars",
+    "stars": "15031 stars",
     "topics": [
-      "ai",
-      "blackrock",
+      "agents",
+      "ai-agents",
+      "cad",
+      "mechanical-engineering",
+      "robotics",
+      "step",
+      "stl",
+      "stp",
+      "text-to-cad"
+    ]
+  },
+  {
+    "name": "cathrynlavery/diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "desc": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "lang": "HTML",
+    "stars": "36588 stars",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "data-visualization",
+      "diagrams",
+      "drawio",
+      "mermaid",
+      "svg"
+    ]
+  },
+  {
+    "name": "TauricResearch/TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "lang": "Python",
+    "stars": "103953 stars",
+    "topics": [
+      "agent",
       "finance",
-      "goldmansachs",
-      "hedgefund",
-      "jpmorgan",
-      "ml",
-      "quant",
-      "quantitative-finance",
-      "quantitative-trading",
+      "llm",
+      "multiagent",
       "trading"
     ]
   },
   {
-    "name": "viarotel-org/escrcpy",
-    "url": "https://github.com/viarotel-org/escrcpy",
-    "desc": "📱 Display and control your Android device graphically with scrcpy.",
-    "lang": "JavaScript",
-    "stars": "11400 stars",
-    "topics": [
-      "android",
-      "genymobile",
-      "gnirehtet",
-      "gui",
-      "hacktoberfest",
-      "hacktoberfest2026",
-      "hacktoberfest2027",
-      "linux",
-      "macos",
-      "mapping",
-      "mirroring",
-      "recording",
-      "scrcpy",
-      "scrcpy-engine",
-      "scrcpy-gui",
-      "screensharing",
-      "screenshots",
-      "windows"
-    ]
+    "name": "liquidslr/system-design-notes",
+    "url": "https://github.com/liquidslr/system-design-notes",
+    "desc": "Notes of the book System Desgin Interview - An Insider's Guide",
+    "lang": "Unknown",
+    "stars": "17994 stars",
+    "topics": []
   },
   {
     "name": "openai/plugins",
     "url": "https://github.com/openai/plugins",
     "desc": "OpenAI Plugins",
     "lang": "JavaScript",
-    "stars": "5799 stars",
+    "stars": "6194 stars",
     "topics": []
+  },
+  {
+    "name": "freestylefly/awesome-gpt-image-2",
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+    "lang": "JavaScript",
+    "stars": "30041 stars",
+    "topics": [
+      "agents",
+      "ai-image-generation",
+      "chatgpt",
+      "dsh-plugin",
+      "gpt-image-2",
+      "image-prompts",
+      "prompt-as-code",
+      "prompt-engineering",
+      "skills",
+      "workflow-automation"
+    ]
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "desc": "Learn it. Build it. Ship it for others.",
+    "lang": "Python",
+    "stars": "53689 stars",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-engineering",
+      "computer-vision",
+      "course",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "nlp",
+      "python",
+      "reinforcement-learning",
+      "rust",
+      "swarm-intelligence",
+      "transformers",
+      "tutorial",
+      "typescript"
+    ]
+  },
+  {
+    "name": "vastsa/PI-Desktop",
+    "url": "https://github.com/vastsa/PI-Desktop",
+    "desc": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+    "lang": "TypeScript",
+    "stars": "1659 stars",
+    "topics": [
+      "ai-agent",
+      "coding-agent",
+      "desktop-app",
+      "electron",
+      "global",
+      "i18n",
+      "local-first",
+      "mcp",
+      "pi",
+      "pi-agent",
+      "pi-desktop",
+      "plugins",
+      "react",
+      "rust",
+      "typescript"
+    ]
+  },
+  {
+    "name": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "lang": "JavaScript",
+    "stars": "255178 stars",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ]
   }
 ]

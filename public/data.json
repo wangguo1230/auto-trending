@@ -4,7 +4,7 @@
     "url": "https://github.com/ayghri/i-have-adhd",
     "desc": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
     "lang": "Python",
-    "stars": "38296 stars",
+    "stars": "41832 stars",
     "topics": [
       "adhd",
       "claude-",
@@ -19,7 +19,7 @@
     "url": "https://github.com/bilawalsidhu/gods-eye-view",
     "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
     "lang": "JavaScript",
-    "stars": "24276 stars",
+    "stars": "27115 stars",
     "topics": [
       "3d-globe",
       "cesium",
@@ -36,20 +36,83 @@
     ]
   },
   {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "284698 stars",
+    "name": "nab138/iloader",
+    "url": "https://github.com/nab138/iloader",
+    "desc": "User friendly sideloader",
+    "lang": "TypeScript",
+    "stars": "2907 stars",
+    "topics": [
+      "idevice",
+      "ios",
+      "sideloading",
+      "sidestore"
+    ]
+  },
+  {
+    "name": "melgarafael/DeskcommCRM",
+    "url": "https://github.com/melgarafael/DeskcommCRM",
+    "desc": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+    "lang": "TypeScript",
+    "stars": "1344 stars",
     "topics": [
       "ai",
-      "brainstorming",
-      "coding",
-      "obra",
-      "sdlc",
-      "skills",
-      "subagent-driven-development",
-      "superpowers"
+      "ai-agents",
+      "chatbot",
+      "crm",
+      "customer-support",
+      "ecommerce",
+      "lgpd",
+      "mcp",
+      "multi-tenant",
+      "nextjs",
+      "nuvemshop",
+      "open-source",
+      "rag",
+      "sales-automation",
+      "self-hosted",
+      "supabase",
+      "typescript",
+      "waha",
+      "whatsapp",
+      "whatsapp-api"
+    ]
+  },
+  {
+    "name": "vastsa/PI-Desktop",
+    "url": "https://github.com/vastsa/PI-Desktop",
+    "desc": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+    "lang": "TypeScript",
+    "stars": "2778 stars",
+    "topics": [
+      "ai-agent",
+      "coding-agent",
+      "desktop-app",
+      "electron",
+      "global",
+      "i18n",
+      "local-first",
+      "mcp",
+      "pi",
+      "pi-agent",
+      "pi-desktop",
+      "plugins",
+      "react",
+      "rust",
+      "typescript"
+    ]
+  },
+  {
+    "name": "armory3d/armorpaint",
+    "url": "https://github.com/armory3d/armorpaint",
+    "desc": "Graphics Creation Tools",
+    "lang": "C",
+    "stars": "4721 stars",
+    "topics": [
+      "3d",
+      "armorpaint",
+      "painting",
+      "texturing",
+      "tool"
     ]
   },
   {
@@ -57,7 +120,7 @@
     "url": "https://github.com/alsk1992/CloddsBot",
     "desc": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans    for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
     "lang": "TypeScript",
-    "stars": "1643 stars",
+    "stars": "2152 stars",
     "topics": [
       "agi",
       "ai",
@@ -82,168 +145,121 @@
     ]
   },
   {
-    "name": "Tencent/teamai-cli",
-    "url": "https://github.com/Tencent/teamai-cli",
-    "desc": "Make Every Team AI Native",
-    "lang": "TypeScript",
-    "stars": "3787 stars",
-    "topics": []
-  },
-  {
-    "name": "AlexsJones/llmfit",
-    "url": "https://github.com/AlexsJones/llmfit",
-    "desc": "Hundreds of models & providers. One command to find what runs on your hardware.",
-    "lang": "Rust",
-    "stars": "35731 stars",
-    "topics": [
-      "gguf",
-      "llm",
-      "localai",
-      "mlx",
-      "skill",
-      "unsloth"
-    ]
-  },
-  {
-    "name": "liquidslr/system-design-notes",
-    "url": "https://github.com/liquidslr/system-design-notes",
-    "desc": "Notes of the book System Desgin Interview - An Insider's Guide",
-    "lang": "Unknown",
-    "stars": "18775 stars",
-    "topics": []
-  },
-  {
-    "name": "cathrynlavery/diagram-design",
-    "url": "https://github.com/cathrynlavery/diagram-design",
-    "desc": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-    "lang": "HTML",
-    "stars": "37750 stars",
-    "topics": [
-      "agent-skills",
-      "claude-code",
-      "codex",
-      "data-visualization",
-      "diagrams",
-      "drawio",
-      "mermaid",
-      "svg"
-    ]
-  },
-  {
-    "name": "freestylefly/awesome-gpt-image-2",
-    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
-    "desc": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
-    "lang": "JavaScript",
-    "stars": "30838 stars",
-    "topics": [
-      "agents",
-      "ai-image-generation",
-      "chatgpt",
-      "dsh-plugin",
-      "gpt-image-2",
-      "image-prompts",
-      "prompt-as-code",
-      "prompt-engineering",
-      "skills",
-      "workflow-automation"
-    ]
-  },
-  {
-    "name": "armory3d/armorpaint",
-    "url": "https://github.com/armory3d/armorpaint",
-    "desc": "Graphics Creation Tools",
-    "lang": "C",
-    "stars": "4417 stars",
-    "topics": [
-      "3d",
-      "armorpaint",
-      "painting",
-      "texturing",
-      "tool"
-    ]
-  },
-  {
-    "name": "diegosouzapw/OmniRoute",
-    "url": "https://github.com/diegosouzapw/OmniRoute",
-    "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
-    "lang": "TypeScript",
-    "stars": "64237 stars",
-    "topics": [
-      "a2a",
-      "ai-agents",
-      "ai-gateway",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "cline",
-      "codex",
-      "copilot",
-      "cursor",
-      "deepseek",
-      "free-ai",
-      "gemini",
-      "kimi",
-      "llm-gateway",
-      "mcp",
-      "openai",
-      "openai-proxy",
-      "qwen",
-      "token-saver"
-    ]
-  },
-  {
-    "name": "JustVugg/colibri",
-    "url": "https://github.com/JustVugg/colibri",
-    "desc": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-    "lang": "C",
-    "stars": "27458 stars",
-    "topics": []
-  },
-  {
-    "name": "THU-MAIC/OpenMAIC",
-    "url": "https://github.com/THU-MAIC/OpenMAIC",
-    "desc": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-    "lang": "TypeScript",
-    "stars": "35302 stars",
-    "topics": []
-  },
-  {
     "name": "nashsu/llm_wiki",
     "url": "https://github.com/nashsu/llm_wiki",
     "desc": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
     "lang": "TypeScript",
-    "stars": "18098 stars",
+    "stars": "18735 stars",
     "topics": []
   },
   {
-    "name": "vercel-labs/skills",
-    "url": "https://github.com/vercel-labs/skills",
-    "desc": "The open agent skills tool - npx skills",
-    "lang": "TypeScript",
-    "stars": "31140 stars",
-    "topics": []
-  },
-  {
-    "name": "vastsa/PI-Desktop",
-    "url": "https://github.com/vastsa/PI-Desktop",
-    "desc": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-    "lang": "TypeScript",
-    "stars": "2294 stars",
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "285378 stars",
     "topics": [
-      "ai-agent",
-      "coding-agent",
-      "desktop-app",
-      "electron",
-      "global",
-      "i18n",
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "subagent-driven-development",
+      "superpowers"
+    ]
+  },
+  {
+    "name": "Sonarr/Sonarr",
+    "url": "https://github.com/Sonarr/Sonarr",
+    "desc": "Smart PVR for newsgroup and bittorrent users.",
+    "lang": "C#",
+    "stars": "15736 stars",
+    "topics": []
+  },
+  {
+    "name": "jihe520/MathModelAgent",
+    "url": "https://github.com/jihe520/MathModelAgent",
+    "desc": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+    "lang": "Python",
+    "stars": "4857 stars",
+    "topics": [
+      "agent",
+      "llm",
+      "mathmodel",
+      "skills"
+    ]
+  },
+  {
+    "name": "p1neappleXpress/OpenFlux",
+    "url": "https://github.com/p1neappleXpress/OpenFlux",
+    "desc": "Network stack research tool. TCP tunnel with pluggable transports.",
+    "lang": "Go",
+    "stars": "1148 stars",
+    "topics": []
+  },
+  {
+    "name": "jordan-gibbs/hyperresearch",
+    "url": "https://github.com/jordan-gibbs/hyperresearch",
+    "desc": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
+    "lang": "Python",
+    "stars": "2614 stars",
+    "topics": [
+      "agents",
+      "agentskills",
+      "claude-code",
+      "deep-research",
+      "deep-research-agent"
+    ]
+  },
+  {
+    "name": "alphaXiv/OpenResearch",
+    "url": "https://github.com/alphaXiv/OpenResearch",
+    "desc": "Run parallel research agents with any model",
+    "lang": "Rust",
+    "stars": "1277 stars",
+    "topics": []
+  },
+  {
+    "name": "github/spec-kit",
+    "url": "https://github.com/github/spec-kit",
+    "desc": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "lang": "Python",
+    "stars": "135770 stars",
+    "topics": [
+      "ai",
+      "copilot",
+      "development",
+      "engineering",
+      "prd",
+      "spec",
+      "spec-driven"
+    ]
+  },
+  {
+    "name": "pascalorg/editor",
+    "url": "https://github.com/pascalorg/editor",
+    "desc": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+    "lang": "TypeScript",
+    "stars": "23601 stars",
+    "topics": [
+      "3d",
+      "agent-skills",
+      "ai-agents",
+      "architecture",
+      "bim",
+      "cad",
+      "editor",
+      "floorplan",
+      "gemini-cli-extension",
       "local-first",
       "mcp",
-      "pi",
-      "pi-agent",
-      "pi-desktop",
-      "plugins",
-      "react",
-      "rust",
+      "mcp-server",
+      "model-context-protocol",
+      "nextjs",
+      "parametric-design",
+      "react-three-fiber",
+      "threejs",
       "typescript"
     ]
   }

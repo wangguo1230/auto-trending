@@ -4,59 +4,34 @@
     "url": "https://github.com/cloudflare/security-audit-skill",
     "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
     "lang": "JavaScript",
-    "stars": "13703 stars",
+    "stars": "16327 stars",
     "topics": []
   },
   {
-    "name": "anthropics/claude-code",
-    "url": "https://github.com/anthropics/claude-code",
-    "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-    "lang": "TypeScript",
-    "stars": "146300 stars",
-    "topics": []
-  },
-  {
-    "name": "alibaba/open-code-review",
-    "url": "https://github.com/alibaba/open-code-review",
-    "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-    "lang": "Go",
-    "stars": "36678 stars",
+    "name": "trycua/cua",
+    "url": "https://github.com/trycua/cua",
+    "desc": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "lang": "HTML",
+    "stars": "24407 stars",
     "topics": [
       "agent",
-      "agent-skills",
-      "code-review",
-      "code-review-assistant",
-      "harness",
-      "repository-level-context"
-    ]
-  },
-  {
-    "name": "affaan-m/ECC",
-    "url": "https://github.com/affaan-m/ECC",
-    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "lang": "JavaScript",
-    "stars": "262072 stars",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "developer-tools",
-      "llm",
-      "mcp",
-      "productivity"
-    ]
-  },
-  {
-    "name": "Tencent/BrowserSkill",
-    "url": "https://github.com/Tencent/BrowserSkill",
-    "desc": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-    "lang": "TypeScript",
-    "stars": "5305 stars",
-    "topics": [
-      "agent",
-      "browser-use",
-      "dsh-plugin"
+      "ai-agent",
+      "apple",
+      "computer-use",
+      "computer-use-agent",
+      "containerization",
+      "cua",
+      "desktop-automation",
+      "hacktoberfest",
+      "lume",
+      "macos",
+      "manus",
+      "operator",
+      "swift",
+      "virtualization",
+      "virtualization-framework",
+      "windows",
+      "windows-sandbox"
     ]
   },
   {
@@ -64,7 +39,7 @@
     "url": "https://github.com/addyosmani/agent-skills",
     "desc": "Production-grade engineering skills for AI coding agents.",
     "lang": "JavaScript",
-    "stars": "96407 stars",
+    "stars": "97027 stars",
     "topics": [
       "agent-skills",
       "antigravity",
@@ -75,140 +50,11 @@
     ]
   },
   {
-    "name": "TencentCloud/Octop",
-    "url": "https://github.com/TencentCloud/Octop",
-    "desc": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
-    "lang": "Python",
-    "stars": "3959 stars",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "ai",
-      "ai-agent",
-      "ai-agents",
-      "local-first",
-      "long-term-memory"
-    ]
-  },
-  {
-    "name": "Fission-AI/OpenSpec",
-    "url": "https://github.com/Fission-AI/OpenSpec",
-    "desc": "Spec-driven development (SDD) for AI coding assistants.",
-    "lang": "TypeScript",
-    "stars": "69356 stars",
-    "topics": [
-      "ai",
-      "context-engineering",
-      "engineering",
-      "planning",
-      "prd",
-      "sdd",
-      "sdlc",
-      "spec",
-      "spec-driven-development",
-      "specification"
-    ]
-  },
-  {
-    "name": "ankitects/anki",
-    "url": "https://github.com/ankitects/anki",
-    "desc": "Anki is a smart spaced repetition flashcard program",
-    "lang": "Rust",
-    "stars": "31211 stars",
-    "topics": []
-  },
-  {
-    "name": "anthropics/knowledge-work-plugins",
-    "url": "https://github.com/anthropics/knowledge-work-plugins",
-    "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-    "lang": "Python",
-    "stars": "24887 stars",
-    "topics": []
-  },
-  {
-    "name": "supermemoryai/supermemory",
-    "url": "https://github.com/supermemoryai/supermemory",
-    "desc": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
-    "lang": "TypeScript",
-    "stars": "30280 stars",
-    "topics": [
-      "agent-memory",
-      "ai-memory",
-      "cloudflare-kv",
-      "cloudflare-pages",
-      "cloudflare-workers",
-      "drizzle-orm",
-      "memory",
-      "postgres",
-      "remix",
-      "tailwindcss",
-      "typescript",
-      "vite"
-    ]
-  },
-  {
-    "name": "tradesdontlie/tradingview-mcp",
-    "url": "https://github.com/tradesdontlie/tradingview-mcp",
-    "desc": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
-    "lang": "JavaScript",
-    "stars": "6472 stars",
-    "topics": []
-  },
-  {
-    "name": "rustfs/rustfs",
-    "url": "https://github.com/rustfs/rustfs",
-    "desc": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-    "lang": "Rust",
-    "stars": "33166 stars",
-    "topics": [
-      "ai-native",
-      "ai-storage",
-      "amazon-s3",
-      "bigdata",
-      "cloud-native",
-      "filesystem",
-      "minio",
-      "multi-cloud",
-      "object-storage",
-      "objectstorage",
-      "rust",
-      "s3"
-    ]
-  },
-  {
-    "name": "supabase/supabase",
-    "url": "https://github.com/supabase/supabase",
-    "desc": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-    "lang": "TypeScript",
-    "stars": "110154 stars",
-    "topics": [
-      "ai",
-      "alternative",
-      "auth",
-      "database",
-      "deno",
-      "embeddings",
-      "example",
-      "firebase",
-      "nextjs",
-      "oauth2",
-      "pgvector",
-      "postgis",
-      "postgres",
-      "postgresql",
-      "postgrest",
-      "realtime",
-      "supabase",
-      "vectors",
-      "websockets"
-    ]
-  },
-  {
     "name": "coder/coder",
     "url": "https://github.com/coder/coder",
     "desc": "Secure environments for developers and their agents",
     "lang": "Go",
-    "stars": "15293 stars",
+    "stars": "15614 stars",
     "topics": [
       "agents",
       "dev-tools",
@@ -223,16 +69,82 @@
     ]
   },
   {
-    "name": "ahmedkhaleel2004/gitdiagram",
-    "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
-    "desc": "Free, simple, fast interactive diagrams for any GitHub repository",
+    "name": "anthropics/claude-code",
+    "url": "https://github.com/anthropics/claude-code",
+    "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
     "lang": "TypeScript",
-    "stars": "16468 stars",
+    "stars": "146705 stars",
+    "topics": []
+  },
+  {
+    "name": "Open-Dev-Society/OpenStock",
+    "url": "https://github.com/Open-Dev-Society/OpenStock",
+    "desc": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+    "lang": "TypeScript",
+    "stars": "16034 stars",
+    "topics": [
+      "coderabbit",
+      "inngest",
+      "nextjs",
+      "shadcn-ui",
+      "stock-market",
+      "tailwindcss"
+    ]
+  },
+  {
+    "name": "higgsfield-ai/higgsfield",
+    "url": "https://github.com/higgsfield-ai/higgsfield",
+    "desc": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+    "lang": "Jupyter Notebook",
+    "stars": "4953 stars",
+    "topics": [
+      "cluster-management",
+      "deep-learning",
+      "distributed",
+      "llama",
+      "llama2",
+      "llm",
+      "machine-learning",
+      "mlops",
+      "pytorch"
+    ]
+  },
+  {
+    "name": "docling-project/docling",
+    "url": "https://github.com/docling-project/docling",
+    "desc": "Get your documents ready for gen AI",
+    "lang": "Python",
+    "stars": "67039 stars",
     "topics": [
       "ai",
-      "code",
-      "github",
-      "system-design"
+      "convert",
+      "document-parser",
+      "document-parsing",
+      "documents",
+      "docx",
+      "html",
+      "markdown",
+      "pdf",
+      "pdf-converter",
+      "pdf-to-json",
+      "pdf-to-text",
+      "pptx",
+      "tables",
+      "xlsx"
+    ]
+  },
+  {
+    "name": "cloudflare/quiche",
+    "url": "https://github.com/cloudflare/quiche",
+    "desc": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "lang": "Rust",
+    "stars": "12015 stars",
+    "topics": [
+      "http3",
+      "network-programming",
+      "protocol",
+      "quic",
+      "rust"
     ]
   },
   {
@@ -240,7 +152,7 @@
     "url": "https://github.com/asciimoo/hister",
     "desc": "Your own search engine",
     "lang": "Go",
-    "stars": "4965 stars",
+    "stars": "5225 stars",
     "topics": [
       "browser-history",
       "go",
@@ -257,5 +169,54 @@
       "semantic-search",
       "web"
     ]
+  },
+  {
+    "name": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "desc": "科技爱好者周刊，每周五发布",
+    "lang": "Unknown",
+    "stars": "103118 stars",
+    "topics": []
+  },
+  {
+    "name": "ZuodaoTech/everyone-can-use-english",
+    "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+    "desc": "人人都能用英语",
+    "lang": "TypeScript",
+    "stars": "37781 stars",
+    "topics": []
+  },
+  {
+    "name": "anthropics/knowledge-work-plugins",
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "lang": "Python",
+    "stars": "25125 stars",
+    "topics": []
+  },
+  {
+    "name": "cactus-compute/needle",
+    "url": "https://github.com/cactus-compute/needle",
+    "desc": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+    "lang": "Python",
+    "stars": "11600 stars",
+    "topics": [
+      "cactus",
+      "edge-ai",
+      "foundation-model",
+      "function-calling",
+      "llm",
+      "on-device-ai",
+      "tinyml",
+      "tool-calling"
+    ]
+  },
+  {
+    "name": "yynxxxxx/Codex-X",
+    "url": "https://github.com/yynxxxxx/Codex-X",
+    "desc": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+    "lang": "Rust",
+    "stars": "3390 stars",
+    "topics": []
   }
 ]

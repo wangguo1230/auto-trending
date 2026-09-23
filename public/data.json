@@ -1,115 +1,75 @@
 [
   {
-    "name": "BuilderIO/agent-native",
-    "url": "https://github.com/BuilderIO/agent-native",
-    "desc": "A framework for building agentic apps",
-    "lang": "TypeScript",
-    "stars": "5923 stars",
-    "topics": [
-      "agent-native",
-      "agents",
-      "ai",
-      "react",
-      "typescript"
-    ]
-  },
-  {
-    "name": "trycua/cua",
-    "url": "https://github.com/trycua/cua",
-    "desc": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-    "lang": "HTML",
-    "stars": "25711 stars",
-    "topics": [
-      "agent",
-      "ai-agent",
-      "apple",
-      "computer-use",
-      "computer-use-agent",
-      "containerization",
-      "cua",
-      "desktop-automation",
-      "hacktoberfest",
-      "lume",
-      "macos",
-      "manus",
-      "operator",
-      "swift",
-      "virtualization",
-      "virtualization-framework",
-      "windows",
-      "windows-sandbox"
-    ]
-  },
-  {
-    "name": "Open-Dev-Society/OpenStock",
-    "url": "https://github.com/Open-Dev-Society/OpenStock",
-    "desc": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-    "lang": "TypeScript",
-    "stars": "17759 stars",
-    "topics": [
-      "coderabbit",
-      "inngest",
-      "nextjs",
-      "shadcn-ui",
-      "stock-market",
-      "tailwindcss"
-    ]
-  },
-  {
-    "name": "akitaonrails/ai-memory",
-    "url": "https://github.com/akitaonrails/ai-memory",
-    "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-    "lang": "Rust",
-    "stars": "7700 stars",
-    "topics": []
-  },
-  {
-    "name": "coder/coder",
-    "url": "https://github.com/coder/coder",
-    "desc": "Secure environments for developers and their agents",
-    "lang": "Go",
-    "stars": "16431 stars",
-    "topics": [
-      "agents",
-      "dev-tools",
-      "development-environment",
-      "go",
-      "golang",
-      "ide",
-      "jetbrains",
-      "remote-development",
-      "terraform",
-      "vscode"
-    ]
-  },
-  {
     "name": "anthropics/financial-services",
     "url": "https://github.com/anthropics/financial-services",
     "desc": "Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl",
     "lang": "Python",
-    "stars": "35843 stars",
+    "stars": "36347 stars",
     "topics": []
   },
   {
-    "name": "cloudflare/quiche",
-    "url": "https://github.com/cloudflare/quiche",
-    "desc": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-    "lang": "Rust",
-    "stars": "12365 stars",
+    "name": "agent-substrate/substrate",
+    "url": "https://github.com/agent-substrate/substrate",
+    "desc": "Agent Substrate: the core system",
+    "lang": "Go",
+    "stars": "2982 stars",
+    "topics": []
+  },
+  {
+    "name": "dream-num/univer",
+    "url": "https://github.com/dream-num/univer",
+    "desc": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "lang": "TypeScript",
+    "stars": "15418 stars",
     "topics": [
-      "http3",
-      "network-programming",
-      "protocol",
-      "quic",
-      "rust"
+      "board",
+      "collaboration",
+      "data-table",
+      "doc",
+      "docx",
+      "excel",
+      "grid",
+      "pdf",
+      "ppt",
+      "pptx",
+      "presentation",
+      "sdk",
+      "sheet",
+      "slides",
+      "spreadsheet",
+      "table",
+      "word",
+      "wordprocessor",
+      "xlsx"
     ]
+  },
+  {
+    "name": "davila7/claude-code-templates",
+    "url": "https://github.com/davila7/claude-code-templates",
+    "desc": "CLI tool for configuring and monitoring Claude Code",
+    "lang": "Python",
+    "stars": "31131 stars",
+    "topics": [
+      "anthropic",
+      "anthropic-claude",
+      "claude",
+      "claude-code"
+    ]
+  },
+  {
+    "name": "google/ax",
+    "url": "https://github.com/google/ax",
+    "desc": "Google's open agentic orchestration runtime",
+    "lang": "Go",
+    "stars": "7620 stars",
+    "topics": []
   },
   {
     "name": "mvt-project/mvt",
     "url": "https://github.com/mvt-project/mvt",
     "desc": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
     "lang": "Python",
-    "stars": "13606 stars",
+    "stars": "14117 stars",
     "topics": [
       "android",
       "forensics",
@@ -120,49 +80,31 @@
     ]
   },
   {
-    "name": "zhouxiaoka/autoclip",
-    "url": "https://github.com/zhouxiaoka/autoclip",
-    "desc": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+    "name": "superdesigndev/treg",
+    "url": "https://github.com/superdesigndev/treg",
+    "desc": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
     "lang": "Python",
-    "stars": "8263 stars",
+    "stars": "2227 stars",
     "topics": [
-      "ai",
-      "ai-agents",
-      "ai-tools",
-      "ai-video",
-      "ai-video-editor",
-      "auto",
-      "auto-highlight",
-      "highlight",
-      "llm",
-      "video",
-      "video-editing",
-      "video-processing",
-      "videos"
+      "agents",
+      "api-keys",
+      "cli",
+      "credentials",
+      "developer-tools",
+      "dsh-plugin",
+      "mcp",
+      "proxy",
+      "python",
+      "registry",
+      "secrets"
     ]
   },
   {
-    "name": "ruanyf/weekly",
-    "url": "https://github.com/ruanyf/weekly",
-    "desc": "科技爱好者周刊，每周五发布",
-    "lang": "Unknown",
-    "stars": "103961 stars",
-    "topics": []
-  },
-  {
-    "name": "Crosstalk-Solutions/project-nomad",
-    "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-    "desc": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
-    "lang": "TypeScript",
-    "stars": "37878 stars",
-    "topics": []
-  },
-  {
-    "name": "yynxxxxx/Codex-X",
-    "url": "https://github.com/yynxxxxx/Codex-X",
-    "desc": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
-    "lang": "Rust",
-    "stars": "3694 stars",
+    "name": "browser-use/video-use",
+    "url": "https://github.com/browser-use/video-use",
+    "desc": "Edit videos with coding agents",
+    "lang": "Python",
+    "stars": "25850 stars",
     "topics": []
   }
 ]

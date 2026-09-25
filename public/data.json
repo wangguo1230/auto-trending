@@ -1,62 +1,44 @@
 [
   {
-    "name": "anthropics/financial-services",
-    "url": "https://github.com/anthropics/financial-services",
-    "desc": "Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl",
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "desc": "Learn it. Build it. Ship it for others.",
     "lang": "Python",
-    "stars": "36942 stars",
-    "topics": []
-  },
-  {
-    "name": "google/ax",
-    "url": "https://github.com/google/ax",
-    "desc": "Google's open agentic orchestration runtime",
-    "lang": "Go",
-    "stars": "9062 stars",
-    "topics": []
-  },
-  {
-    "name": "davila7/claude-code-templates",
-    "url": "https://github.com/davila7/claude-code-templates",
-    "desc": "CLI tool for configuring and monitoring Claude Code",
-    "lang": "Python",
-    "stars": "31502 stars",
+    "stars": "56566 stars",
     "topics": [
-      "anthropic",
-      "anthropic-claude",
-      "claude",
-      "claude-code"
-    ]
-  },
-  {
-    "name": "BuilderIO/agent-native",
-    "url": "https://github.com/BuilderIO/agent-native",
-    "desc": "A framework for building agentic apps",
-    "lang": "TypeScript",
-    "stars": "6546 stars",
-    "topics": [
-      "agent-native",
       "agents",
       "ai",
-      "react",
+      "ai-agents",
+      "ai-engineering",
+      "computer-vision",
+      "course",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "nlp",
+      "python",
+      "reinforcement-learning",
+      "rust",
+      "swarm-intelligence",
+      "transformers",
+      "tutorial",
       "typescript"
     ]
   },
   {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "290685 stars",
+    "name": "vectorize-io/hindsight",
+    "url": "https://github.com/vectorize-io/hindsight",
+    "desc": "Hindsight: Agent Memory That Learns",
+    "lang": "Python",
+    "stars": "27787 stars",
     "topics": [
-      "ai",
-      "brainstorming",
-      "coding",
-      "obra",
-      "sdlc",
-      "skills",
-      "subagent-driven-development",
-      "superpowers"
+      "agentic-ai",
+      "agents",
+      "ai-memory",
+      "memory"
     ]
   },
   {
@@ -64,7 +46,7 @@
     "url": "https://github.com/dream-num/univer",
     "desc": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
     "lang": "TypeScript",
-    "stars": "16329 stars",
+    "stars": "17665 stars",
     "topics": [
       "board",
       "collaboration",
@@ -88,34 +70,83 @@
     ]
   },
   {
-    "name": "Open-Dev-Society/OpenStock",
-    "url": "https://github.com/Open-Dev-Society/OpenStock",
-    "desc": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+    "name": "google/ax",
+    "url": "https://github.com/google/ax",
+    "desc": "Google's open agentic orchestration runtime",
+    "lang": "Go",
+    "stars": "10459 stars",
+    "topics": []
+  },
+  {
+    "name": "NVIDIA/Model-Optimizer",
+    "url": "https://github.com/NVIDIA/Model-Optimizer",
+    "desc": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+    "lang": "Python",
+    "stars": "4082 stars",
+    "topics": []
+  },
+  {
+    "name": "FxEmbed/FxEmbed",
+    "url": "https://github.com/FxEmbed/FxEmbed",
+    "desc": "Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others",
     "lang": "TypeScript",
-    "stars": "18830 stars",
+    "stars": "5367 stars",
+    "topics": []
+  },
+  {
+    "name": "anthropics/financial-services",
+    "url": "https://github.com/anthropics/financial-services",
+    "desc": "Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is availabl",
+    "lang": "Python",
+    "stars": "37356 stars",
+    "topics": []
+  },
+  {
+    "name": "HKUDS/CLI-Anything",
+    "url": "https://github.com/HKUDS/CLI-Anything",
+    "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+    "lang": "Python",
+    "stars": "50335 stars",
+    "topics": []
+  },
+  {
+    "name": "mvt-project/mvt",
+    "url": "https://github.com/mvt-project/mvt",
+    "desc": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "lang": "Python",
+    "stars": "14731 stars",
     "topics": [
-      "coderabbit",
-      "inngest",
-      "nextjs",
-      "shadcn-ui",
-      "stock-market",
-      "tailwindcss"
+      "android",
+      "forensics",
+      "forensics-tools",
+      "ios",
+      "mobile",
+      "security"
     ]
   },
   {
-    "name": "agent-substrate/substrate",
-    "url": "https://github.com/agent-substrate/substrate",
-    "desc": "Agent Substrate: the core system",
-    "lang": "Go",
-    "stars": "3497 stars",
-    "topics": []
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "291233 stars",
+    "topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "subagent-driven-development",
+      "superpowers"
+    ]
   },
   {
     "name": "strands-agents/harness-sdk",
     "url": "https://github.com/strands-agents/harness-sdk",
     "desc": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
     "lang": "Python",
-    "stars": "7844 stars",
+    "stars": "8260 stars",
     "topics": [
       "agent-framework",
       "agentic",
@@ -140,19 +171,37 @@
     ]
   },
   {
-    "name": "HKUDS/CLI-Anything",
-    "url": "https://github.com/HKUDS/CLI-Anything",
-    "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-    "lang": "Python",
-    "stars": "49929 stars",
-    "topics": []
+    "name": "julyx10/lap",
+    "url": "https://github.com/julyx10/lap",
+    "desc": "An offline-first photo manager for large local libraries",
+    "lang": "Vue",
+    "stars": "2876 stars",
+    "topics": [
+      "desktop-app",
+      "digital-asset-manager",
+      "duplicate-detection",
+      "face-recognition",
+      "family-photos",
+      "image-search",
+      "large-photo-collections",
+      "linux-app",
+      "local-first",
+      "macos-app",
+      "offline",
+      "open-source",
+      "photo-library",
+      "photo-management",
+      "photo-organizer",
+      "privacy",
+      "windows-app"
+    ]
   },
   {
     "name": "superdesigndev/treg",
     "url": "https://github.com/superdesigndev/treg",
     "desc": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
     "lang": "Python",
-    "stars": "2718 stars",
+    "stars": "3165 stars",
     "topics": [
       "agents",
       "api-keys",
@@ -168,115 +217,31 @@
     ]
   },
   {
-    "name": "pbakaus/impeccable",
-    "url": "https://github.com/pbakaus/impeccable",
-    "desc": "The design language that makes your AI harness better at design.",
-    "lang": "JavaScript",
-    "stars": "70342 stars",
-    "topics": []
-  },
-  {
-    "name": "mvt-project/mvt",
-    "url": "https://github.com/mvt-project/mvt",
-    "desc": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-    "lang": "Python",
-    "stars": "14481 stars",
-    "topics": [
-      "android",
-      "forensics",
-      "forensics-tools",
-      "ios",
-      "mobile",
-      "security"
-    ]
-  },
-  {
-    "name": "DeusData/codebase-memory-mcp",
-    "url": "https://github.com/DeusData/codebase-memory-mcp",
-    "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-    "lang": "C",
-    "stars": "44567 stars",
-    "topics": [
-      "aider",
-      "ast",
-      "claude-code",
-      "code-analysis",
-      "code-intelligence",
-      "codex",
-      "cursor",
-      "cypher",
-      "developer-tools",
-      "gemini-cli",
-      "graph-visualization",
-      "kilocode",
-      "knowledge-graph",
-      "mcp",
-      "mcp-server",
-      "model-context-protocol",
-      "opencode",
-      "sqlite",
-      "tree-sitter",
-      "windsurf"
-    ]
-  },
-  {
-    "name": "harry7557558/spirula-studio",
-    "url": "https://github.com/harry7557558/spirula-studio",
-    "desc": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
+    "name": "leejet/stable-diffusion.cpp",
+    "url": "https://github.com/leejet/stable-diffusion.cpp",
+    "desc": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
     "lang": "C++",
-    "stars": "739 stars",
+    "stars": "7246 stars",
     "topics": [
-      "360-camera",
-      "3d-gaussian-splatting",
-      "3d-reconstruction",
-      "3dgs",
-      "3dgs-acceleration",
-      "computer-vision",
-      "cross-vendor",
-      "cuda",
-      "gaussian-splatting",
-      "mesh-generation",
-      "quantized-training",
-      "structure-from-motion",
-      "vram-optimization",
-      "vulkan"
-    ]
-  },
-  {
-    "name": "browser-use/video-use",
-    "url": "https://github.com/browser-use/video-use",
-    "desc": "Edit videos with coding agents",
-    "lang": "Python",
-    "stars": "26495 stars",
-    "topics": []
-  },
-  {
-    "name": "TNT-Likely/PanWatch",
-    "url": "https://github.com/TNT-Likely/PanWatch",
-    "desc": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
-    "lang": "Python",
-    "stars": "1506 stars",
-    "topics": [
-      "a-share",
-      "agent",
       "ai",
-      "ai-agent",
-      "akshare",
-      "deepseek",
-      "fastapi",
-      "fintech",
-      "langgraph",
-      "llm",
-      "mcp",
-      "openai",
-      "pwa",
-      "quant",
-      "self-hosted",
-      "stock",
-      "stock-analysis",
-      "stock-market",
-      "trading-agents",
-      "trading-bot"
+      "cplusplus",
+      "diffusion",
+      "flux",
+      "flux-dev",
+      "ggml",
+      "image-generation",
+      "image2image",
+      "img2img",
+      "latent-diffusion",
+      "ltx-video",
+      "qwen-image",
+      "stable-diffusion",
+      "text2image",
+      "txt2img",
+      "videogeneration",
+      "wan",
+      "z-image",
+      "z-image-turbo"
     ]
   }
 ]

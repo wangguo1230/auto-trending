@@ -4,7 +4,7 @@
     "url": "https://github.com/paperclipai/paperclip",
     "desc": "The open-source app everyone uses to manage agents at work",
     "lang": "TypeScript",
-    "stars": "87343 stars",
+    "stars": "89962 stars",
     "topics": []
   },
   {
@@ -12,7 +12,7 @@
     "url": "https://github.com/vectorize-io/hindsight",
     "desc": "Hindsight: Agent Memory That Learns",
     "lang": "Python",
-    "stars": "32211 stars",
+    "stars": "37365 stars",
     "topics": [
       "agentic-ai",
       "agents",
@@ -21,56 +21,32 @@
     ]
   },
   {
-    "name": "NVIDIA/Model-Optimizer",
-    "url": "https://github.com/NVIDIA/Model-Optimizer",
-    "desc": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+    "name": "debpalash/VoiceStudio",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
     "lang": "Python",
-    "stars": "4755 stars",
-    "topics": []
-  },
-  {
-    "name": "dream-num/univer",
-    "url": "https://github.com/dream-num/univer",
-    "desc": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-    "lang": "TypeScript",
-    "stars": "19229 stars",
+    "stars": "40204 stars",
     "topics": [
-      "board",
-      "collaboration",
-      "data-table",
-      "doc",
-      "docx",
-      "excel",
-      "grid",
-      "pdf",
-      "ppt",
-      "pptx",
-      "presentation",
-      "sdk",
-      "sheet",
-      "slides",
-      "spreadsheet",
-      "table",
-      "word",
-      "wordprocessor",
-      "xlsx"
-    ]
-  },
-  {
-    "name": "tensorflow/tensorflow",
-    "url": "https://github.com/tensorflow/tensorflow",
-    "desc": "An Open Source Machine Learning Framework for Everyone",
-    "lang": "C++",
-    "stars": "200459 stars",
-    "topics": [
-      "deep-learning",
-      "deep-neural-networks",
-      "distributed",
-      "machine-learning",
-      "ml",
-      "neural-network",
-      "python",
-      "tensorflow"
+      "ai",
+      "audiobook",
+      "cuda",
+      "dubbing",
+      "elevenlabs-alternative",
+      "huggingface",
+      "local-first",
+      "mlx",
+      "omnivoice-studio",
+      "speech-to-text",
+      "tauri",
+      "text-to-speech",
+      "transcription",
+      "translate",
+      "tts",
+      "voice-ai",
+      "voice-cloning",
+      "voice-generation",
+      "voicestudio",
+      "workflow"
     ]
   },
   {
@@ -78,7 +54,7 @@
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
     "desc": "Learn it. Build it. Ship it for others.",
     "lang": "Python",
-    "stars": "58387 stars",
+    "stars": "59322 stars",
     "topics": [
       "agents",
       "ai",
@@ -103,110 +79,81 @@
     ]
   },
   {
-    "name": "openbao/openbao",
-    "url": "https://github.com/openbao/openbao",
-    "desc": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
-    "lang": "Go",
-    "stars": "8009 stars",
+    "name": "InfinityLoop1308/PipePipe",
+    "url": "https://github.com/InfinityLoop1308/PipePipe",
+    "desc": "An open-source Android app to let you browse YouTube and other services freely. ",
+    "lang": "Shell",
+    "stars": "6583 stars",
     "topics": [
-      "go",
-      "secret-management",
-      "security"
-    ]
-  },
-  {
-    "name": "block/buzz",
-    "url": "https://github.com/block/buzz",
-    "desc": "A hive mind communication platform",
-    "lang": "Rust",
-    "stars": "34832 stars",
-    "topics": []
-  },
-  {
-    "name": "microsoft/vscode",
-    "url": "https://github.com/microsoft/vscode",
-    "desc": "Visual Studio Code",
-    "lang": "TypeScript",
-    "stars": "193075 stars",
-    "topics": [
-      "editor",
-      "electron",
-      "microsoft",
-      "typescript",
-      "visual-studio-code"
-    ]
-  },
-  {
-    "name": "zhaoxuya520/reverse-skill",
-    "url": "https://github.com/zhaoxuya520/reverse-skill",
-    "desc": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-    "lang": "PowerShell",
-    "stars": "38013 stars",
-    "topics": []
-  },
-  {
-    "name": "llvm/llvm-project",
-    "url": "https://github.com/llvm/llvm-project",
-    "desc": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
-    "lang": "LLVM",
-    "stars": "40751 stars",
-    "topics": []
-  },
-  {
-    "name": "anthropics/claude-code-action",
-    "url": "https://github.com/anthropics/claude-code-action",
-    "desc": "A general-purpose [Claude Code](https://claude.ai/code) action for GitHub PRs and issues that can answer questions and implement code changes. This action intelligently detects when to activate based ",
-    "lang": "TypeScript",
-    "stars": "9093 stars",
-    "topics": []
-  },
-  {
-    "name": "actions/runner-images",
-    "url": "https://github.com/actions/runner-images",
-    "desc": "GitHub Actions runner images",
-    "lang": "PowerShell",
-    "stars": "13301 stars",
-    "topics": []
-  },
-  {
-    "name": "mobile-next/mobile-mcp",
-    "url": "https://github.com/mobile-next/mobile-mcp",
-    "desc": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
-    "lang": "TypeScript",
-    "stars": "7353 stars",
-    "topics": [
-      "agent",
       "android",
-      "emulator",
-      "ios",
-      "mcp",
-      "mobile",
-      "physical",
-      "real",
-      "simulator"
+      "mediaplayer",
+      "newpipe",
+      "sponsorblock",
+      "youtube"
     ]
   },
   {
-    "name": "vercel/next.js",
-    "url": "https://github.com/vercel/next.js",
-    "desc": "The React Framework",
-    "lang": "JavaScript",
-    "stars": "142639 stars",
+    "name": "vercel-labs/scriptc",
+    "url": "https://github.com/vercel-labs/scriptc",
+    "desc": "TypeScript-to-Native Compiler",
+    "lang": "TypeScript",
+    "stars": "5410 stars",
+    "topics": []
+  },
+  {
+    "name": "mvschwarz/openrig",
+    "url": "https://github.com/mvschwarz/openrig",
+    "desc": "Multi-agent harness that runs Claude Code and Codex together as one system",
+    "lang": "TypeScript",
+    "stars": "993 stars",
     "topics": [
-      "blog",
-      "browser",
-      "compiler",
-      "components",
-      "hybrid",
-      "nextjs",
-      "node",
-      "react",
-      "server-rendering",
-      "ssg",
-      "static",
-      "static-site-generator",
-      "universal",
-      "vercel"
+      "agent-harness",
+      "agent-orchestration",
+      "agent-skills",
+      "ai-coding",
+      "claude-code",
+      "cli",
+      "codex-cli",
+      "multi-agent",
+      "multi-agent-systems",
+      "tmux",
+      "typescript"
     ]
+  },
+  {
+    "name": "dream-num/univer",
+    "url": "https://github.com/dream-num/univer",
+    "desc": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "lang": "TypeScript",
+    "stars": "20265 stars",
+    "topics": [
+      "board",
+      "collaboration",
+      "data-table",
+      "doc",
+      "docx",
+      "excel",
+      "grid",
+      "pdf",
+      "ppt",
+      "pptx",
+      "presentation",
+      "sdk",
+      "sheet",
+      "slides",
+      "spreadsheet",
+      "table",
+      "word",
+      "wordprocessor",
+      "xlsx"
+    ]
+  },
+  {
+    "name": "willfaust/Madeira",
+    "url": "https://github.com/willfaust/Madeira",
+    "desc": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+    "lang": "C",
+    "stars": "821 stars",
+    "topics": []
   }
 ]

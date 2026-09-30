@@ -4,7 +4,7 @@
     "url": "https://github.com/debpalash/VoiceStudio",
     "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
     "lang": "Python",
-    "stars": "44381 stars",
+    "stars": "48242 stars",
     "topics": [
       "ai",
       "audiobook",
@@ -29,11 +29,11 @@
     ]
   },
   {
-    "name": "paperclipai/paperclip",
-    "url": "https://github.com/paperclipai/paperclip",
-    "desc": "The open-source app everyone uses to manage agents at work",
-    "lang": "TypeScript",
-    "stars": "92976 stars",
+    "name": "NVIDIA/OpenShell",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "lang": "Rust",
+    "stars": "10657 stars",
     "topics": []
   },
   {
@@ -41,7 +41,7 @@
     "url": "https://github.com/vectorize-io/hindsight",
     "desc": "Hindsight: Agent Memory That Learns",
     "lang": "Python",
-    "stars": "41129 stars",
+    "stars": "42902 stars",
     "topics": [
       "agentic-ai",
       "agents",
@@ -50,39 +50,38 @@
     ]
   },
   {
-    "name": "NawfalMotii79/PLFM_RADAR",
-    "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
-    "desc": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-    "lang": "PLSQL",
-    "stars": "25794 stars",
+    "name": "paperclipai/paperclip",
+    "url": "https://github.com/paperclipai/paperclip",
+    "desc": "The open-source app everyone uses to manage agents at work",
+    "lang": "TypeScript",
+    "stars": "94501 stars",
     "topics": []
   },
   {
-    "name": "cs341-illinois/coursebook",
-    "url": "https://github.com/cs341-illinois/coursebook",
-    "desc": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-    "lang": "TeX",
-    "stars": "2558 stars",
+    "name": "t8y2/dbx",
+    "url": "https://github.com/t8y2/dbx",
+    "desc": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+    "lang": "Rust",
+    "stars": "22090 stars",
     "topics": [
-      "awesome",
-      "c",
-      "latex",
-      "linux",
-      "posix",
-      "system-programming",
-      "wikibook"
-    ]
-  },
-  {
-    "name": "byoungd/up",
-    "url": "https://github.com/byoungd/up",
-    "desc": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
-    "lang": "JavaScript",
-    "stars": "64782 stars",
-    "topics": [
-      "chinese",
-      "english-learning",
-      "tutorial"
+      "ai",
+      "cli",
+      "clickhouse",
+      "database",
+      "database-client",
+      "database-management",
+      "docker",
+      "gui",
+      "mcp",
+      "mongodb",
+      "mysql",
+      "postgresql",
+      "redis",
+      "rust",
+      "sql-server",
+      "sqlite",
+      "tauri",
+      "vue"
     ]
   },
   {
@@ -90,7 +89,7 @@
     "url": "https://github.com/mvschwarz/openrig",
     "desc": "Multi-agent harness that runs Claude Code and Codex together as one system",
     "lang": "TypeScript",
-    "stars": "1781 stars",
+    "stars": "2457 stars",
     "topics": [
       "agent-harness",
       "agent-orchestration",
@@ -106,11 +105,106 @@
     ]
   },
   {
+    "name": "oblien/openship",
+    "url": "https://github.com/oblien/openship",
+    "desc": "Self-hosted deployment platform",
+    "lang": "TypeScript",
+    "stars": "13856 stars",
+    "topics": [
+      "agents",
+      "ai",
+      "deployments",
+      "self-hosted"
+    ]
+  },
+  {
+    "name": "averygan/reclip",
+    "url": "https://github.com/averygan/reclip",
+    "desc": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+    "lang": "HTML",
+    "stars": "10150 stars",
+    "topics": []
+  },
+  {
+    "name": "cs341-illinois/coursebook",
+    "url": "https://github.com/cs341-illinois/coursebook",
+    "desc": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+    "lang": "TeX",
+    "stars": "3121 stars",
+    "topics": [
+      "awesome",
+      "c",
+      "latex",
+      "linux",
+      "posix",
+      "system-programming",
+      "wikibook"
+    ]
+  },
+  {
+    "name": "rohitg00/ai-engineering-from-scratch",
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "desc": "Learn it. Build it. Ship it for others.",
+    "lang": "Python",
+    "stars": "61448 stars",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "ai-engineering",
+      "computer-vision",
+      "course",
+      "deep-learning",
+      "from-scratch",
+      "generative-ai",
+      "llm",
+      "machine-learning",
+      "mcp",
+      "nlp",
+      "python",
+      "reinforcement-learning",
+      "rust",
+      "swarm-intelligence",
+      "transformers",
+      "tutorial",
+      "typescript"
+    ]
+  },
+  {
+    "name": "VectifyAI/PageIndex",
+    "url": "https://github.com/VectifyAI/PageIndex",
+    "desc": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "lang": "Python",
+    "stars": "37417 stars",
+    "topics": [
+      "agentic-ai",
+      "agents",
+      "ai",
+      "ai-agents",
+      "context-engineering",
+      "information-retrieval",
+      "llm",
+      "rag",
+      "reasoning",
+      "retrieval",
+      "retrieval-augmented-generation",
+      "vector-database"
+    ]
+  },
+  {
+    "name": "willfaust/Madeira",
+    "url": "https://github.com/willfaust/Madeira",
+    "desc": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+    "lang": "C",
+    "stars": "1100 stars",
+    "topics": []
+  },
+  {
     "name": "dream-num/univer",
     "url": "https://github.com/dream-num/univer",
     "desc": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
     "lang": "TypeScript",
-    "stars": "21315 stars",
+    "stars": "21881 stars",
     "topics": [
       "board",
       "collaboration",
@@ -132,5 +226,13 @@
       "wordprocessor",
       "xlsx"
     ]
+  },
+  {
+    "name": "rakyll/hey",
+    "url": "https://github.com/rakyll/hey",
+    "desc": "HTTP load generator, ApacheBench (ab) replacement",
+    "lang": "Go",
+    "stars": "20485 stars",
+    "topics": []
   }
 ]

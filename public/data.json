@@ -1,10 +1,18 @@
 [
   {
+    "name": "NVIDIA/OpenShell",
+    "url": "https://github.com/NVIDIA/OpenShell",
+    "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
+    "lang": "Rust",
+    "stars": "12749 stars",
+    "topics": []
+  },
+  {
     "name": "debpalash/VoiceStudio",
     "url": "https://github.com/debpalash/VoiceStudio",
     "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
     "lang": "Python",
-    "stars": "48242 stars",
+    "stars": "50485 stars",
     "topics": [
       "ai",
       "audiobook",
@@ -29,32 +37,218 @@
     ]
   },
   {
-    "name": "NVIDIA/OpenShell",
-    "url": "https://github.com/NVIDIA/OpenShell",
-    "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
-    "lang": "Rust",
-    "stars": "10657 stars",
-    "topics": []
-  },
-  {
-    "name": "vectorize-io/hindsight",
-    "url": "https://github.com/vectorize-io/hindsight",
-    "desc": "Hindsight: Agent Memory That Learns",
-    "lang": "Python",
-    "stars": "42902 stars",
+    "name": "mvschwarz/openrig",
+    "url": "https://github.com/mvschwarz/openrig",
+    "desc": "Multi-agent harness that runs Claude Code and Codex together as one system",
+    "lang": "TypeScript",
+    "stars": "3044 stars",
     "topics": [
-      "agentic-ai",
-      "agents",
-      "ai-memory",
-      "memory"
+      "agent-harness",
+      "agent-orchestration",
+      "agent-skills",
+      "ai-coding",
+      "claude-code",
+      "cli",
+      "codex-cli",
+      "multi-agent",
+      "multi-agent-systems",
+      "tmux",
+      "typescript"
     ]
   },
   {
-    "name": "paperclipai/paperclip",
-    "url": "https://github.com/paperclipai/paperclip",
-    "desc": "The open-source app everyone uses to manage agents at work",
+    "name": "mksglu/context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
     "lang": "TypeScript",
-    "stars": "94501 stars",
+    "stars": "24506 stars",
+    "topics": [
+      "antigravity",
+      "claude",
+      "claude-code",
+      "claude-code-hooks",
+      "claude-code-plugins",
+      "claude-code-skill",
+      "codex",
+      "codex-cli",
+      "context-mode",
+      "copilot",
+      "cursor-plugin",
+      "kiro",
+      "mcp",
+      "mcp-server",
+      "mcp-tools",
+      "openclaw",
+      "opencode",
+      "pi-agent",
+      "skills",
+      "zed-extension"
+    ]
+  },
+  {
+    "name": "DietrichGebert/ponytail",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "lang": "JavaScript",
+    "stars": "149221 stars",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "cursor-rules",
+      "developer-tools",
+      "llm",
+      "prompt-engineering",
+      "yagni"
+    ]
+  },
+  {
+    "name": "harry0703/MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+    "lang": "Python",
+    "stars": "127583 stars",
+    "topics": [
+      "ai-video-generator",
+      "content-creation",
+      "ffmpeg",
+      "instagram-reels",
+      "llm",
+      "python",
+      "short-video",
+      "subtitles",
+      "text-to-speech",
+      "tiktok",
+      "video-automation",
+      "video-workflow",
+      "workflow-automation",
+      "youtube-shorts"
+    ]
+  },
+  {
+    "name": "openclaw/openclaw",
+    "url": "https://github.com/openclaw/openclaw",
+    "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+    "lang": "TypeScript",
+    "stars": "390993 stars",
+    "topics": [
+      "ai",
+      "assistant",
+      "crustacean",
+      "molty",
+      "openclaw",
+      "own-your-data",
+      "personal"
+    ]
+  },
+  {
+    "name": "ComposioHQ/awesome-claude-skills",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "lang": "Python",
+    "stars": "76145 stars",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "antigravity",
+      "automation",
+      "claude",
+      "claude-code",
+      "codex",
+      "composio",
+      "cursor",
+      "developer-tools",
+      "gemini-cli",
+      "mcp",
+      "openai-codex",
+      "rube",
+      "saas",
+      "skill",
+      "workflow-automation"
+    ]
+  },
+  {
+    "name": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+    "lang": "Shell",
+    "stars": "273027 stars",
+    "topics": []
+  },
+  {
+    "name": "heygen-com/hyperframes",
+    "url": "https://github.com/heygen-com/hyperframes",
+    "desc": "Write HTML. Render video. Built for agents.",
+    "lang": "TypeScript",
+    "stars": "54754 stars",
+    "topics": [
+      "ai",
+      "animation",
+      "ffmpeg",
+      "framework",
+      "gsap",
+      "html",
+      "mcp",
+      "puppeteer",
+      "rendering",
+      "typescript",
+      "video"
+    ]
+  },
+  {
+    "name": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "desc": "Firebase SDK for Apple App Development",
+    "lang": "C++",
+    "stars": "6771 stars",
+    "topics": [
+      "ai",
+      "analytics",
+      "authentication",
+      "crash-reporting",
+      "database",
+      "database-as-a-service",
+      "firebase",
+      "firebase-auth",
+      "firebase-authentication",
+      "firebase-database",
+      "firebase-messaging",
+      "firebase-storage",
+      "gemini",
+      "ios-sdk",
+      "objective-c",
+      "push-notifications",
+      "storage-service"
+    ]
+  },
+  {
+    "name": "modelcontextprotocol/servers",
+    "url": "https://github.com/modelcontextprotocol/servers",
+    "desc": "Model Context Protocol Servers",
+    "lang": "TypeScript",
+    "stars": "90822 stars",
+    "topics": []
+  },
+  {
+    "name": "byoungd/up",
+    "url": "https://github.com/byoungd/up",
+    "desc": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+    "lang": "JavaScript",
+    "stars": "66403 stars",
+    "topics": [
+      "chinese",
+      "english-learning",
+      "tutorial"
+    ]
+  },
+  {
+    "name": "colbymchenry/codegraph",
+    "url": "https://github.com/colbymchenry/codegraph",
+    "desc": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+    "lang": "C",
+    "stars": "72608 stars",
     "topics": []
   },
   {
@@ -62,7 +256,7 @@
     "url": "https://github.com/t8y2/dbx",
     "desc": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
     "lang": "Rust",
-    "stars": "22090 stars",
+    "stars": "23212 stars",
     "topics": [
       "ai",
       "cli",
@@ -85,97 +279,19 @@
     ]
   },
   {
-    "name": "mvschwarz/openrig",
-    "url": "https://github.com/mvschwarz/openrig",
-    "desc": "Multi-agent harness that runs Claude Code and Codex together as one system",
-    "lang": "TypeScript",
-    "stars": "2457 stars",
-    "topics": [
-      "agent-harness",
-      "agent-orchestration",
-      "agent-skills",
-      "ai-coding",
-      "claude-code",
-      "cli",
-      "codex-cli",
-      "multi-agent",
-      "multi-agent-systems",
-      "tmux",
-      "typescript"
-    ]
-  },
-  {
-    "name": "oblien/openship",
-    "url": "https://github.com/oblien/openship",
-    "desc": "Self-hosted deployment platform",
-    "lang": "TypeScript",
-    "stars": "13856 stars",
-    "topics": [
-      "agents",
-      "ai",
-      "deployments",
-      "self-hosted"
-    ]
-  },
-  {
-    "name": "averygan/reclip",
-    "url": "https://github.com/averygan/reclip",
-    "desc": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
-    "lang": "HTML",
-    "stars": "10150 stars",
+    "name": "NawfalMotii79/PLFM_RADAR",
+    "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+    "desc": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+    "lang": "PLSQL",
+    "stars": "26426 stars",
     "topics": []
-  },
-  {
-    "name": "cs341-illinois/coursebook",
-    "url": "https://github.com/cs341-illinois/coursebook",
-    "desc": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
-    "lang": "TeX",
-    "stars": "3121 stars",
-    "topics": [
-      "awesome",
-      "c",
-      "latex",
-      "linux",
-      "posix",
-      "system-programming",
-      "wikibook"
-    ]
-  },
-  {
-    "name": "rohitg00/ai-engineering-from-scratch",
-    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-    "desc": "Learn it. Build it. Ship it for others.",
-    "lang": "Python",
-    "stars": "61448 stars",
-    "topics": [
-      "agents",
-      "ai",
-      "ai-agents",
-      "ai-engineering",
-      "computer-vision",
-      "course",
-      "deep-learning",
-      "from-scratch",
-      "generative-ai",
-      "llm",
-      "machine-learning",
-      "mcp",
-      "nlp",
-      "python",
-      "reinforcement-learning",
-      "rust",
-      "swarm-intelligence",
-      "transformers",
-      "tutorial",
-      "typescript"
-    ]
   },
   {
     "name": "VectifyAI/PageIndex",
     "url": "https://github.com/VectifyAI/PageIndex",
     "desc": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
     "lang": "Python",
-    "stars": "37417 stars",
+    "stars": "38147 stars",
     "topics": [
       "agentic-ai",
       "agents",
@@ -190,49 +306,5 @@
       "retrieval-augmented-generation",
       "vector-database"
     ]
-  },
-  {
-    "name": "willfaust/Madeira",
-    "url": "https://github.com/willfaust/Madeira",
-    "desc": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
-    "lang": "C",
-    "stars": "1100 stars",
-    "topics": []
-  },
-  {
-    "name": "dream-num/univer",
-    "url": "https://github.com/dream-num/univer",
-    "desc": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-    "lang": "TypeScript",
-    "stars": "21881 stars",
-    "topics": [
-      "board",
-      "collaboration",
-      "data-table",
-      "doc",
-      "docx",
-      "excel",
-      "grid",
-      "pdf",
-      "ppt",
-      "pptx",
-      "presentation",
-      "sdk",
-      "sheet",
-      "slides",
-      "spreadsheet",
-      "table",
-      "word",
-      "wordprocessor",
-      "xlsx"
-    ]
-  },
-  {
-    "name": "rakyll/hey",
-    "url": "https://github.com/rakyll/hey",
-    "desc": "HTTP load generator, ApacheBench (ab) replacement",
-    "lang": "Go",
-    "stars": "20485 stars",
-    "topics": []
   }
 ]

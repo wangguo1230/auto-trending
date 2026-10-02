@@ -1,47 +1,71 @@
 [
   {
+    "name": "DietrichGebert/ponytail",
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "lang": "JavaScript",
+    "stars": "150565 stars",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "claude",
+      "claude-code",
+      "claude-code-plugin",
+      "cursor-rules",
+      "developer-tools",
+      "llm",
+      "prompt-engineering",
+      "yagni"
+    ]
+  },
+  {
+    "name": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+    "lang": "Shell",
+    "stars": "273938 stars",
+    "topics": []
+  },
+  {
     "name": "NVIDIA/OpenShell",
     "url": "https://github.com/NVIDIA/OpenShell",
     "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
     "lang": "Rust",
-    "stars": "12749 stars",
+    "stars": "14042 stars",
     "topics": []
   },
   {
-    "name": "debpalash/VoiceStudio",
-    "url": "https://github.com/debpalash/VoiceStudio",
-    "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-    "lang": "Python",
-    "stars": "50485 stars",
+    "name": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "desc": "Firebase SDK for Apple App Development",
+    "lang": "C++",
+    "stars": "6865 stars",
     "topics": [
       "ai",
-      "audiobook",
-      "cuda",
-      "dubbing",
-      "elevenlabs-alternative",
-      "huggingface",
-      "local-first",
-      "mlx",
-      "omnivoice-studio",
-      "speech-to-text",
-      "tauri",
-      "text-to-speech",
-      "transcription",
-      "translate",
-      "tts",
-      "voice-ai",
-      "voice-cloning",
-      "voice-generation",
-      "voicestudio",
-      "workflow"
+      "analytics",
+      "authentication",
+      "crash-reporting",
+      "database",
+      "database-as-a-service",
+      "firebase",
+      "firebase-auth",
+      "firebase-authentication",
+      "firebase-database",
+      "firebase-messaging",
+      "firebase-storage",
+      "gemini",
+      "ios-sdk",
+      "objective-c",
+      "push-notifications",
+      "storage-service"
     ]
   },
   {
     "name": "mvschwarz/openrig",
     "url": "https://github.com/mvschwarz/openrig",
-    "desc": "Multi-agent harness that runs Claude Code and Codex together as one system",
+    "desc": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
     "lang": "TypeScript",
-    "stars": "3044 stars",
+    "stars": "3751 stars",
     "topics": [
       "agent-harness",
       "agent-orchestration",
@@ -57,11 +81,36 @@
     ]
   },
   {
+    "name": "cursor/plugins",
+    "url": "https://github.com/cursor/plugins",
+    "desc": "Cursor plugin specification and official plugins",
+    "lang": "TypeScript",
+    "stars": "9327 stars",
+    "topics": []
+  },
+  {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "293990 stars",
+    "topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "subagent-driven-development",
+      "superpowers"
+    ]
+  },
+  {
     "name": "mksglu/context-mode",
     "url": "https://github.com/mksglu/context-mode",
     "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
     "lang": "TypeScript",
-    "stars": "24506 stars",
+    "stars": "24793 stars",
     "topics": [
       "antigravity",
       "claude",
@@ -86,103 +135,11 @@
     ]
   },
   {
-    "name": "DietrichGebert/ponytail",
-    "url": "https://github.com/DietrichGebert/ponytail",
-    "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "lang": "JavaScript",
-    "stars": "149221 stars",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "claude",
-      "claude-code",
-      "claude-code-plugin",
-      "cursor-rules",
-      "developer-tools",
-      "llm",
-      "prompt-engineering",
-      "yagni"
-    ]
-  },
-  {
-    "name": "harry0703/MoneyPrinterTurbo",
-    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-    "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-    "lang": "Python",
-    "stars": "127583 stars",
-    "topics": [
-      "ai-video-generator",
-      "content-creation",
-      "ffmpeg",
-      "instagram-reels",
-      "llm",
-      "python",
-      "short-video",
-      "subtitles",
-      "text-to-speech",
-      "tiktok",
-      "video-automation",
-      "video-workflow",
-      "workflow-automation",
-      "youtube-shorts"
-    ]
-  },
-  {
-    "name": "openclaw/openclaw",
-    "url": "https://github.com/openclaw/openclaw",
-    "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-    "lang": "TypeScript",
-    "stars": "390993 stars",
-    "topics": [
-      "ai",
-      "assistant",
-      "crustacean",
-      "molty",
-      "openclaw",
-      "own-your-data",
-      "personal"
-    ]
-  },
-  {
-    "name": "ComposioHQ/awesome-claude-skills",
-    "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-    "desc": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-    "lang": "Python",
-    "stars": "76145 stars",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "antigravity",
-      "automation",
-      "claude",
-      "claude-code",
-      "codex",
-      "composio",
-      "cursor",
-      "developer-tools",
-      "gemini-cli",
-      "mcp",
-      "openai-codex",
-      "rube",
-      "saas",
-      "skill",
-      "workflow-automation"
-    ]
-  },
-  {
-    "name": "mattpocock/skills",
-    "url": "https://github.com/mattpocock/skills",
-    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-    "lang": "Shell",
-    "stars": "273027 stars",
-    "topics": []
-  },
-  {
     "name": "heygen-com/hyperframes",
     "url": "https://github.com/heygen-com/hyperframes",
     "desc": "Write HTML. Render video. Built for agents.",
     "lang": "TypeScript",
-    "stars": "54754 stars",
+    "stars": "55365 stars",
     "topics": [
       "ai",
       "animation",
@@ -198,113 +155,71 @@
     ]
   },
   {
-    "name": "firebase/firebase-ios-sdk",
-    "url": "https://github.com/firebase/firebase-ios-sdk",
-    "desc": "Firebase SDK for Apple App Development",
-    "lang": "C++",
-    "stars": "6771 stars",
-    "topics": [
-      "ai",
-      "analytics",
-      "authentication",
-      "crash-reporting",
-      "database",
-      "database-as-a-service",
-      "firebase",
-      "firebase-auth",
-      "firebase-authentication",
-      "firebase-database",
-      "firebase-messaging",
-      "firebase-storage",
-      "gemini",
-      "ios-sdk",
-      "objective-c",
-      "push-notifications",
-      "storage-service"
-    ]
-  },
-  {
-    "name": "modelcontextprotocol/servers",
-    "url": "https://github.com/modelcontextprotocol/servers",
-    "desc": "Model Context Protocol Servers",
+    "name": "earendil-works/pi",
+    "url": "https://github.com/earendil-works/pi",
+    "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
     "lang": "TypeScript",
-    "stars": "90822 stars",
+    "stars": "111254 stars",
     "topics": []
   },
   {
-    "name": "byoungd/up",
-    "url": "https://github.com/byoungd/up",
-    "desc": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
-    "lang": "JavaScript",
-    "stars": "66403 stars",
-    "topics": [
-      "chinese",
-      "english-learning",
-      "tutorial"
-    ]
-  },
-  {
-    "name": "colbymchenry/codegraph",
-    "url": "https://github.com/colbymchenry/codegraph",
-    "desc": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-    "lang": "C",
-    "stars": "72608 stars",
-    "topics": []
-  },
-  {
-    "name": "t8y2/dbx",
-    "url": "https://github.com/t8y2/dbx",
-    "desc": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
-    "lang": "Rust",
-    "stars": "23212 stars",
-    "topics": [
-      "ai",
-      "cli",
-      "clickhouse",
-      "database",
-      "database-client",
-      "database-management",
-      "docker",
-      "gui",
-      "mcp",
-      "mongodb",
-      "mysql",
-      "postgresql",
-      "redis",
-      "rust",
-      "sql-server",
-      "sqlite",
-      "tauri",
-      "vue"
-    ]
-  },
-  {
-    "name": "NawfalMotii79/PLFM_RADAR",
-    "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
-    "desc": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-    "lang": "PLSQL",
-    "stars": "26426 stars",
-    "topics": []
-  },
-  {
-    "name": "VectifyAI/PageIndex",
-    "url": "https://github.com/VectifyAI/PageIndex",
-    "desc": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+    "name": "tile-ai/tilelang",
+    "url": "https://github.com/tile-ai/tilelang",
+    "desc": " Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
     "lang": "Python",
-    "stars": "38147 stars",
+    "stars": "8121 stars",
+    "topics": []
+  },
+  {
+    "name": "pablostanley/yoinks",
+    "url": "https://github.com/pablostanley/yoinks",
+    "desc": "yoink any video from your terminal. no shady ads.",
+    "lang": "TypeScript",
+    "stars": "2958 stars",
+    "topics": []
+  },
+  {
+    "name": "HunxByts/GhostTrack",
+    "url": "https://github.com/HunxByts/GhostTrack",
+    "desc": "Useful tool to track location or mobile number",
+    "lang": "Python",
+    "stars": "16420 stars",
     "topics": [
-      "agentic-ai",
-      "agents",
-      "ai",
-      "ai-agents",
-      "context-engineering",
-      "information-retrieval",
-      "llm",
-      "rag",
-      "reasoning",
-      "retrieval",
-      "retrieval-augmented-generation",
-      "vector-database"
+      "cybersecurity",
+      "fyp",
+      "hacking",
+      "hacking-tool",
+      "indonesia",
+      "information",
+      "information-gathering",
+      "ip-geolocation",
+      "linux",
+      "osint",
+      "osint-python",
+      "osint-tool",
+      "pentesting",
+      "phone-number",
+      "python",
+      "python-hacking",
+      "termux",
+      "termux-hacks",
+      "termux-tool"
     ]
+  },
+  {
+    "name": "pbakaus/impeccable",
+    "url": "https://github.com/pbakaus/impeccable",
+    "desc": "The design language that makes your AI harness better at design.",
+    "lang": "JavaScript",
+    "stars": "73704 stars",
+    "topics": []
+  },
+  {
+    "name": "Friedrich-M/UniMate",
+    "url": "https://github.com/Friedrich-M/UniMate",
+    "desc": "[SIGGRAPH Asia 2026] UniMate: One Unified Model to Animate Diverse Skeletons",
+    "lang": "Python",
+    "stars": "1086 stars",
+    "topics": []
   }
 ]

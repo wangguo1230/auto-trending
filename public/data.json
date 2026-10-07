@@ -4,7 +4,7 @@
     "url": "https://github.com/tester-army/e2e",
     "desc": "Next generation e2e testing framework for web and mobile apps.",
     "lang": "TypeScript",
-    "stars": "4908 stars",
+    "stars": "6398 stars",
     "topics": [
       "e2e",
       "e2e-testing",
@@ -16,11 +16,61 @@
     ]
   },
   {
+    "name": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+    "lang": "Shell",
+    "stars": "278198 stars",
+    "topics": []
+  },
+  {
+    "name": "earthtojake/text-to-cad",
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "desc": "Give your agent CAD superpowers.",
+    "lang": "Python",
+    "stars": "18012 stars",
+    "topics": [
+      "agents",
+      "ai-agents",
+      "cad",
+      "mechanical-engineering",
+      "robotics",
+      "step",
+      "stl",
+      "stp",
+      "text-to-cad"
+    ]
+  },
+  {
+    "name": "boykopovar/AnyPS5",
+    "url": "https://github.com/boykopovar/AnyPS5",
+    "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "lang": "C++",
+    "stars": "6659 stars",
+    "topics": [
+      "anyps5",
+      "dynamic-library",
+      "game-porting",
+      "ps5",
+      "ps5-tools",
+      "spir-v",
+      "vulkan"
+    ]
+  },
+  {
+    "name": "pbakaus/impeccable",
+    "url": "https://github.com/pbakaus/impeccable",
+    "desc": "The design language that makes your AI harness better at design.",
+    "lang": "JavaScript",
+    "stars": "77728 stars",
+    "topics": []
+  },
+  {
     "name": "thedotmack/claude-mem",
     "url": "https://github.com/thedotmack/claude-mem",
     "desc": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
     "lang": "TypeScript",
-    "stars": "96668 stars",
+    "stars": "97205 stars",
     "topics": [
       "ai",
       "ai-agents",
@@ -45,131 +95,71 @@
     ]
   },
   {
-    "name": "earthtojake/text-to-cad",
-    "url": "https://github.com/earthtojake/text-to-cad",
-    "desc": "Give your agent CAD superpowers.",
+    "name": "ayghri/i-have-adhd",
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "desc": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
     "lang": "Python",
-    "stars": "17476 stars",
+    "stars": "54439 stars",
     "topics": [
-      "agents",
-      "ai-agents",
-      "cad",
-      "mechanical-engineering",
-      "robotics",
-      "step",
-      "stl",
-      "stp",
-      "text-to-cad"
+      "adhd",
+      "claude-",
+      "claude-code-plugin",
+      "claude-skills",
+      "developer-tools",
+      "productivity"
     ]
   },
   {
-    "name": "pingdotgg/t3code",
-    "url": "https://github.com/pingdotgg/t3code",
-    "desc": "T3 Code is an \"agent harness control surface\". It enables control of the agents on your machine with a best-in-class mobile app ([iOS](https://apps.apple.com/us/app/t3-code-remote-claude-more/id678781",
+    "name": "morluto/rea",
+    "url": "https://github.com/morluto/rea",
+    "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "lang": "TypeScript",
-    "stars": "25642 stars",
+    "stars": "9654 stars",
+    "topics": [
+      "agent-skills",
+      "ai-agent-tools",
+      "ai-agents",
+      "binary-analysis",
+      "cli",
+      "coding-agents",
+      "cordis",
+      "ctf",
+      "decompiler",
+      "disassembler",
+      "dsh",
+      "dsh-plugin",
+      "ghidra",
+      "hopper",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "reverse-engineering",
+      "reverse-engineering-tools",
+      "static-analysis"
+    ]
+  },
+  {
+    "name": "deepseek-ai/DeepGEMM",
+    "url": "https://github.com/deepseek-ai/DeepGEMM",
+    "desc": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
+    "lang": "Cuda",
+    "stars": "8726 stars",
     "topics": []
   },
   {
-    "name": "boykopovar/AnyPS5",
-    "url": "https://github.com/boykopovar/AnyPS5",
-    "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
-    "lang": "C++",
-    "stars": "5002 stars",
-    "topics": [
-      "anyps5",
-      "dynamic-library",
-      "game-porting",
-      "ps5",
-      "ps5-tools",
-      "spir-v",
-      "vulkan"
-    ]
-  },
-  {
-    "name": "Panniantong/Agent-Reach",
-    "url": "https://github.com/Panniantong/Agent-Reach",
-    "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-    "lang": "Python",
-    "stars": "91960 stars",
-    "topics": [
-      "agent-infrastructure",
-      "ai-agent",
-      "ai-search",
-      "automation",
-      "bilibili",
-      "claude-code",
-      "cli",
-      "cursor",
-      "free-api",
-      "llm-tools",
-      "mcp",
-      "python",
-      "reddit-scraper",
-      "twitter-scraper",
-      "web-scraper",
-      "xiaohongshu",
-      "youtube-transcript"
-    ]
-  },
-  {
-    "name": "calesthio/OpenMontage",
-    "url": "https://github.com/calesthio/OpenMontage",
-    "desc": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-    "lang": "Python",
-    "stars": "64108 stars",
-    "topics": [
-      "agent",
-      "agentic-ai",
-      "ai",
-      "claude",
-      "copilot",
-      "cursor",
-      "elevenlabs",
-      "ffmpeg",
-      "flux",
-      "image-generation",
-      "open-source",
-      "openai",
-      "python",
-      "remotion",
-      "stable-diffusion",
-      "text-to-speech",
-      "text-to-video",
-      "video-generation",
-      "video-production"
-    ]
-  },
-  {
-    "name": "caddyserver/caddy",
-    "url": "https://github.com/caddyserver/caddy",
-    "desc": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
-    "lang": "Go",
-    "stars": "77162 stars",
-    "topics": [
-      "acme",
-      "automatic-https",
-      "caddy",
-      "caddyfile",
-      "go",
-      "golang",
-      "http",
-      "http-server",
-      "http3",
-      "https",
-      "privacy",
-      "reverse-proxy",
-      "security",
-      "tls",
-      "web-server"
-    ]
+    "name": "msitarzewski/agency-agents",
+    "url": "https://github.com/msitarzewski/agency-agents",
+    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "lang": "Shell",
+    "stars": "157856 stars",
+    "topics": []
   },
   {
     "name": "DuarteSantos8/openGym",
     "url": "https://github.com/DuarteSantos8/openGym",
     "desc": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
     "lang": "JavaScript",
-    "stars": "4299 stars",
+    "stars": "5752 stars",
     "topics": [
       "bodyweight",
       "docker",
@@ -192,48 +182,20 @@
     ]
   },
   {
-    "name": "cloudflare/cloudflare-os",
-    "url": "https://github.com/cloudflare/cloudflare-os",
-    "desc": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
-    "lang": "TypeScript",
-    "stars": "11035 stars",
-    "topics": []
-  },
-  {
-    "name": "Stremio/stremio-web",
-    "url": "https://github.com/Stremio/stremio-web",
-    "desc": "Stremio - Freedom to Stream",
-    "lang": "JavaScript",
-    "stars": "14318 stars",
+    "name": "cathrynlavery/diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "lang": "HTML",
+    "stars": "44074 stars",
     "topics": [
-      "hacktoberfest",
-      "stremio"
-    ]
-  },
-  {
-    "name": "msitarzewski/agency-agents",
-    "url": "https://github.com/msitarzewski/agency-agents",
-    "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-    "lang": "Shell",
-    "stars": "157313 stars",
-    "topics": []
-  },
-  {
-    "name": "M-Abozaid/esp32-c3-adblock",
-    "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
-    "desc": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share",
-    "lang": "C++",
-    "stars": "1382 stars",
-    "topics": [
-      "adblocker",
-      "arduino",
-      "dns",
-      "dns-sinkhole",
-      "esp32",
-      "esp32-c3",
-      "iot",
-      "pi-hole",
-      "platformio"
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "data-visualization",
+      "diagrams",
+      "drawio",
+      "mermaid",
+      "svg"
     ]
   }
 ]

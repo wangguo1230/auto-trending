@@ -4,7 +4,7 @@
     "url": "https://github.com/morluto/rea",
     "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "lang": "TypeScript",
-    "stars": "47812 stars",
+    "stars": "73457 stars",
     "topics": [
       "agent-skills",
       "ai-agents",
@@ -33,7 +33,7 @@
     "url": "https://github.com/boykopovar/AnyPS5",
     "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
     "lang": "C++",
-    "stars": "22576 stars",
+    "stars": "26955 stars",
     "topics": [
       "anyps5",
       "dynamic-library",
@@ -45,19 +45,25 @@
     ]
   },
   {
-    "name": "mattpocock/skills",
-    "url": "https://github.com/mattpocock/skills",
-    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
-    "lang": "Shell",
-    "stars": "282805 stars",
-    "topics": []
+    "name": "storytold/artcraft",
+    "url": "https://github.com/storytold/artcraft",
+    "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "lang": "Rust",
+    "stars": "14573 stars",
+    "topics": [
+      "3d-graphics",
+      "ai",
+      "aivideo",
+      "filmmaking",
+      "imagegeneration"
+    ]
   },
   {
     "name": "cathrynlavery/diagram-design",
     "url": "https://github.com/cathrynlavery/diagram-design",
-    "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
     "lang": "HTML",
-    "stars": "47943 stars",
+    "stars": "48985 stars",
     "topics": [
       "agent-skills",
       "claude-code",
@@ -70,18 +76,149 @@
     ]
   },
   {
-    "name": "alibaba/open-code-review",
-    "url": "https://github.com/alibaba/open-code-review",
-    "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-    "lang": "Go",
-    "stars": "45288 stars",
+    "name": "mksglu/context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+    "lang": "TypeScript",
+    "stars": "26327 stars",
     "topics": [
-      "agent",
-      "agent-skills",
-      "code-review",
-      "code-review-assistant",
-      "harness",
-      "repository-level-context"
+      "antigravity",
+      "claude",
+      "claude-code",
+      "claude-code-hooks",
+      "claude-code-plugins",
+      "claude-code-skill",
+      "codex",
+      "codex-cli",
+      "context-mode",
+      "copilot",
+      "cursor-plugin",
+      "kiro",
+      "mcp",
+      "mcp-server",
+      "mcp-tools",
+      "openclaw",
+      "opencode",
+      "pi-agent",
+      "skills",
+      "zed-extension"
+    ]
+  },
+  {
+    "name": "mattpocock/skills",
+    "url": "https://github.com/mattpocock/skills",
+    "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+    "lang": "Shell",
+    "stars": "284534 stars",
+    "topics": []
+  },
+  {
+    "name": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "lang": "Dart",
+    "stars": "179531 stars",
+    "topics": [
+      "android",
+      "app-framework",
+      "cross-platform",
+      "dart",
+      "dart-platform",
+      "desktop",
+      "flutter",
+      "flutter-package",
+      "fuchsia",
+      "ios",
+      "linux-desktop",
+      "macos",
+      "material-design",
+      "mobile",
+      "mobile-development",
+      "skia",
+      "web",
+      "web-framework",
+      "windows"
+    ]
+  },
+  {
+    "name": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "desc": "An Open Source Machine Learning Framework for Everyone",
+    "lang": "C++",
+    "stars": "200730 stars",
+    "topics": [
+      "deep-learning",
+      "deep-neural-networks",
+      "distributed",
+      "machine-learning",
+      "ml",
+      "neural-network",
+      "python",
+      "tensorflow"
+    ]
+  },
+  {
+    "name": "hugohe3/ppt-master",
+    "url": "https://github.com/hugohe3/ppt-master",
+    "desc": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+    "lang": "Python",
+    "stars": "59488 stars",
+    "topics": [
+      "ai-agent",
+      "aippt",
+      "office",
+      "powerpoint",
+      "powerpoint-generation",
+      "ppt",
+      "pptx",
+      "presentation",
+      "slide",
+      "slides"
+    ]
+  },
+  {
+    "name": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "lang": "Python",
+    "stars": "104146 stars",
+    "topics": [
+      "autograd",
+      "deep-learning",
+      "gpu",
+      "machine-learning",
+      "neural-network",
+      "numpy",
+      "python",
+      "tensor"
+    ]
+  },
+  {
+    "name": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "lang": "Python",
+    "stars": "167272 stars",
+    "topics": [
+      "audio",
+      "deep-learning",
+      "deepseek",
+      "gemma",
+      "glm",
+      "hacktoberfest",
+      "llm",
+      "machine-learning",
+      "model-hub",
+      "natural-language-processing",
+      "nlp",
+      "pretrained-models",
+      "python",
+      "pytorch",
+      "pytorch-transformers",
+      "qwen",
+      "speech-recognition",
+      "transformer",
+      "vlm"
     ]
   },
   {
@@ -89,77 +226,15 @@
     "url": "https://github.com/anthropics/knowledge-work-plugins",
     "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
     "lang": "Python",
-    "stars": "28297 stars",
+    "stars": "28831 stars",
     "topics": []
   },
   {
-    "name": "BerriAI/litellm",
-    "url": "https://github.com/BerriAI/litellm",
-    "desc": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-    "lang": "Python",
-    "stars": "60693 stars",
-    "topics": [
-      "ai-gateway",
-      "anthropic",
-      "azure-openai",
-      "bedrock",
-      "gateway",
-      "langchain",
-      "litellm",
-      "llm",
-      "llm-gateway",
-      "llmops",
-      "mcp-gateway",
-      "openai",
-      "openai-proxy",
-      "rust",
-      "rust-ai",
-      "vertex-ai"
-    ]
-  },
-  {
-    "name": "addyosmani/agent-skills",
-    "url": "https://github.com/addyosmani/agent-skills",
-    "desc": "Production-grade engineering skills for AI coding agents.",
-    "lang": "JavaScript",
-    "stars": "104022 stars",
-    "topics": [
-      "agent-skills",
-      "antigravity",
-      "claude-code",
-      "codex",
-      "cursor",
-      "skills"
-    ]
-  },
-  {
-    "name": "storytold/artcraft",
-    "url": "https://github.com/storytold/artcraft",
-    "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-    "lang": "Rust",
-    "stars": "11650 stars",
-    "topics": [
-      "3d-graphics",
-      "ai",
-      "aivideo",
-      "filmmaking",
-      "imagegeneration"
-    ]
-  },
-  {
-    "name": "Robbyant/lingbot-map",
-    "url": "https://github.com/Robbyant/lingbot-map",
-    "desc": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
-    "lang": "Python",
-    "stars": "17729 stars",
-    "topics": []
-  },
-  {
-    "name": "twostraws/SwiftUI-Agent-Skill",
-    "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
-    "desc": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+    "name": "multica-ai/andrej-karpathy-skills",
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
     "lang": "Unknown",
-    "stars": "5466 stars",
+    "stars": "218299 stars",
     "topics": []
   }
 ]

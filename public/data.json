@@ -4,7 +4,7 @@
     "url": "https://github.com/morluto/rea",
     "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "lang": "TypeScript",
-    "stars": "108064 stars",
+    "stars": "164933 stars",
     "topics": [
       "agent-skills",
       "ai-agents",
@@ -29,58 +29,11 @@
     ]
   },
   {
-    "name": "boykopovar/AnyPS5",
-    "url": "https://github.com/boykopovar/AnyPS5",
-    "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
-    "lang": "C++",
-    "stars": "30292 stars",
-    "topics": [
-      "anyps5",
-      "dynamic-library",
-      "game-porting",
-      "ps5",
-      "ps5-tools",
-      "spir-v",
-      "vulkan"
-    ]
-  },
-  {
-    "name": "storytold/artcraft",
-    "url": "https://github.com/storytold/artcraft",
-    "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-    "lang": "Rust",
-    "stars": "18137 stars",
-    "topics": [
-      "3d-graphics",
-      "ai",
-      "aivideo",
-      "filmmaking",
-      "imagegeneration"
-    ]
-  },
-  {
-    "name": "cathrynlavery/diagram-design",
-    "url": "https://github.com/cathrynlavery/diagram-design",
-    "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-    "lang": "HTML",
-    "stars": "50464 stars",
-    "topics": [
-      "agent-skills",
-      "claude-code",
-      "codex",
-      "data-visualization",
-      "diagrams",
-      "drawio",
-      "mermaid",
-      "svg"
-    ]
-  },
-  {
     "name": "bilawalsidhu/gods-eye-view",
     "url": "https://github.com/bilawalsidhu/gods-eye-view",
     "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
     "lang": "JavaScript",
-    "stars": "51788 stars",
+    "stars": "53875 stars",
     "topics": [
       "3d-globe",
       "cesium",
@@ -97,28 +50,95 @@
     ]
   },
   {
-    "name": "pytorch/pytorch",
-    "url": "https://github.com/pytorch/pytorch",
-    "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
-    "lang": "Python",
-    "stars": "104529 stars",
+    "name": "mksglu/context-mode",
+    "url": "https://github.com/mksglu/context-mode",
+    "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+    "lang": "TypeScript",
+    "stars": "27400 stars",
     "topics": [
-      "autograd",
-      "deep-learning",
-      "gpu",
-      "machine-learning",
-      "neural-network",
-      "numpy",
-      "python",
-      "tensor"
+      "antigravity",
+      "claude",
+      "claude-code",
+      "claude-code-hooks",
+      "claude-code-plugins",
+      "claude-code-skill",
+      "codex",
+      "codex-cli",
+      "context-mode",
+      "copilot",
+      "cursor-plugin",
+      "kiro",
+      "mcp",
+      "mcp-server",
+      "mcp-tools",
+      "openclaw",
+      "opencode",
+      "pi-agent",
+      "skills",
+      "zed-extension"
+    ]
+  },
+  {
+    "name": "storytold/artcraft",
+    "url": "https://github.com/storytold/artcraft",
+    "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "lang": "Rust",
+    "stars": "22484 stars",
+    "topics": [
+      "3d-graphics",
+      "ai",
+      "aivideo",
+      "filmmaking",
+      "imagegeneration"
+    ]
+  },
+  {
+    "name": "open-webui/open-webui",
+    "url": "https://github.com/open-webui/open-webui",
+    "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "lang": "Python",
+    "stars": "155150 stars",
+    "topics": [
+      "ai",
+      "llm",
+      "llm-ui",
+      "llm-webui",
+      "llms",
+      "mcp",
+      "ollama",
+      "ollama-webui",
+      "open-webui",
+      "openai",
+      "openapi",
+      "rag",
+      "self-hosted",
+      "ui",
+      "webui"
+    ]
+  },
+  {
+    "name": "cathrynlavery/diagram-design",
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "lang": "HTML",
+    "stars": "52828 stars",
+    "topics": [
+      "agent-skills",
+      "claude-code",
+      "codex",
+      "data-visualization",
+      "diagrams",
+      "drawio",
+      "mermaid",
+      "svg"
     ]
   },
   {
     "name": "lyogavin/airllm",
     "url": "https://github.com/lyogavin/airllm",
-    "desc": "AirLLM 70B inference with single 4GB GPU",
+    "desc": "AirLLM 2.8T LLM inference with single 4GB GPU",
     "lang": "Jupyter Notebook",
-    "stars": "36541 stars",
+    "stars": "37631 stars",
     "topics": [
       "chinese-llm",
       "chinese-nlp",
@@ -136,16 +156,19 @@
     ]
   },
   {
-    "name": "chrislgarry/Apollo-11",
-    "url": "https://github.com/chrislgarry/Apollo-11",
-    "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-    "lang": "Assembly",
-    "stars": "74285 stars",
-    "topics": [
-      "agc",
-      "apollo",
-      "hacktoberfest",
-      "nasa"
-    ]
+    "name": "microsoft/BitNet",
+    "url": "https://github.com/microsoft/BitNet",
+    "desc": "Official inference framework for 1-bit LLMs",
+    "lang": "C++",
+    "stars": "40953 stars",
+    "topics": []
+  },
+  {
+    "name": "Alishahryar1/free-claude-code",
+    "url": "https://github.com/Alishahryar1/free-claude-code",
+    "desc": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+    "lang": "Python",
+    "stars": "59286 stars",
+    "topics": []
   }
 ]

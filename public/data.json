@@ -4,7 +4,7 @@
     "url": "https://github.com/morluto/rea",
     "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "lang": "TypeScript",
-    "stars": "164933 stars",
+    "stars": "208839 stars",
     "topics": [
       "agent-skills",
       "ai-agents",
@@ -16,7 +16,6 @@
       "ctf",
       "decompiler",
       "developer-tools",
-      "disassembler",
       "dsh",
       "dsh-plugin",
       "ghidra",
@@ -24,6 +23,7 @@
       "llm",
       "mcp",
       "model-context-protocol",
+      "rea",
       "reverse-engineering",
       "static-analysis"
     ]
@@ -31,22 +31,38 @@
   {
     "name": "bilawalsidhu/gods-eye-view",
     "url": "https://github.com/bilawalsidhu/gods-eye-view",
-    "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-    "lang": "JavaScript",
-    "stars": "53875 stars",
+    "desc": "<div align=\"center\"> Photorealistic 3D globe. Live aircraft, ships, satellites, earthquakes, traffic, and public cameras. Hands-free voice control powered by a realtime AI agent.",
+    "lang": "Unknown",
+    "stars": "Unknown stars",
+    "topics": []
+  },
+  {
+    "name": "debpalash/VoiceStudio",
+    "url": "https://github.com/debpalash/VoiceStudio",
+    "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "lang": "Python",
+    "stars": "63408 stars",
     "topics": [
-      "3d-globe",
-      "cesium",
-      "flight-tracking",
-      "geospatial",
-      "geospatial-intelligence",
-      "gis",
-      "osint",
-      "photogrammetry",
-      "satellite-tracking",
-      "spatial-intelligence",
-      "webgl",
-      "worldview"
+      "ai",
+      "audiobook",
+      "cuda",
+      "dubbing",
+      "elevenlabs-alternative",
+      "huggingface",
+      "local-first",
+      "mlx",
+      "omnivoice-studio",
+      "speech-to-text",
+      "tauri",
+      "text-to-speech",
+      "transcription",
+      "translate",
+      "tts",
+      "voice-ai",
+      "voice-cloning",
+      "voice-generation",
+      "voicestudio",
+      "workflow"
     ]
   },
   {
@@ -54,7 +70,7 @@
     "url": "https://github.com/mksglu/context-mode",
     "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
     "lang": "TypeScript",
-    "stars": "27400 stars",
+    "stars": "28268 stars",
     "topics": [
       "antigravity",
       "claude",
@@ -79,49 +95,11 @@
     ]
   },
   {
-    "name": "storytold/artcraft",
-    "url": "https://github.com/storytold/artcraft",
-    "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-    "lang": "Rust",
-    "stars": "22484 stars",
-    "topics": [
-      "3d-graphics",
-      "ai",
-      "aivideo",
-      "filmmaking",
-      "imagegeneration"
-    ]
-  },
-  {
-    "name": "open-webui/open-webui",
-    "url": "https://github.com/open-webui/open-webui",
-    "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-    "lang": "Python",
-    "stars": "155150 stars",
-    "topics": [
-      "ai",
-      "llm",
-      "llm-ui",
-      "llm-webui",
-      "llms",
-      "mcp",
-      "ollama",
-      "ollama-webui",
-      "open-webui",
-      "openai",
-      "openapi",
-      "rag",
-      "self-hosted",
-      "ui",
-      "webui"
-    ]
-  },
-  {
     "name": "cathrynlavery/diagram-design",
     "url": "https://github.com/cathrynlavery/diagram-design",
     "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
     "lang": "HTML",
-    "stars": "52828 stars",
+    "stars": "54184 stars",
     "topics": [
       "agent-skills",
       "claude-code",
@@ -134,11 +112,19 @@
     ]
   },
   {
+    "name": "vercel-labs/skills",
+    "url": "https://github.com/vercel-labs/skills",
+    "desc": "The open agent skills tool - npx skills",
+    "lang": "TypeScript",
+    "stars": "34533 stars",
+    "topics": []
+  },
+  {
     "name": "lyogavin/airllm",
     "url": "https://github.com/lyogavin/airllm",
     "desc": "AirLLM 2.8T LLM inference with single 4GB GPU",
     "lang": "Jupyter Notebook",
-    "stars": "37631 stars",
+    "stars": "38356 stars",
     "topics": [
       "chinese-llm",
       "chinese-nlp",
@@ -156,19 +142,25 @@
     ]
   },
   {
-    "name": "microsoft/BitNet",
-    "url": "https://github.com/microsoft/BitNet",
-    "desc": "Official inference framework for 1-bit LLMs",
-    "lang": "C++",
-    "stars": "40953 stars",
-    "topics": []
+    "name": "storytold/artcraft",
+    "url": "https://github.com/storytold/artcraft",
+    "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "lang": "Rust",
+    "stars": "25758 stars",
+    "topics": [
+      "3d-graphics",
+      "ai",
+      "aivideo",
+      "filmmaking",
+      "imagegeneration"
+    ]
   },
   {
-    "name": "Alishahryar1/free-claude-code",
-    "url": "https://github.com/Alishahryar1/free-claude-code",
-    "desc": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-    "lang": "Python",
-    "stars": "59286 stars",
+    "name": "xtool-org/xtool",
+    "url": "https://github.com/xtool-org/xtool",
+    "desc": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, and macOS. xtool is a cross-platform (Linux/WSL/macOS) tool that replicates Xcode functionality with open st",
+    "lang": "Unknown",
+    "stars": "Unknown stars",
     "topics": []
   }
 ]

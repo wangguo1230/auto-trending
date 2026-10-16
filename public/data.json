@@ -4,7 +4,7 @@
     "url": "https://github.com/morluto/rea",
     "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
     "lang": "TypeScript",
-    "stars": "242639 stars",
+    "stars": "270327 stars",
     "topics": [
       "agent-skills",
       "ai-agents",
@@ -29,11 +29,68 @@
     ]
   },
   {
+    "name": "anthropics/claude-plugins-official",
+    "url": "https://github.com/anthropics/claude-plugins-official",
+    "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "lang": "Python",
+    "stars": "39102 stars",
+    "topics": [
+      "claude-code",
+      "mcp",
+      "skills"
+    ]
+  },
+  {
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+    "lang": "Python",
+    "stars": "50474 stars",
+    "topics": [
+      "agent-skills",
+      "ai-scientist",
+      "bioinformatics",
+      "chemoinformatics",
+      "claude",
+      "claude-skills",
+      "claudecode",
+      "clinical-research",
+      "computational-biology",
+      "data-analysis",
+      "drug-discovery",
+      "genomics",
+      "materials-science",
+      "metabolomics",
+      "proteomics",
+      "scientific-computing",
+      "scientific-visualization"
+    ]
+  },
+  {
+    "name": "JuliusBrussee/caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "desc": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+    "lang": "Go",
+    "stars": "112549 stars",
+    "topics": [
+      "ai",
+      "anthropic",
+      "caveman",
+      "claude",
+      "claude-code",
+      "llm",
+      "meme",
+      "prompt-engineering",
+      "skill",
+      "tokens"
+    ]
+  },
+  {
     "name": "debpalash/VoiceStudio",
     "url": "https://github.com/debpalash/VoiceStudio",
     "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
     "lang": "Python",
-    "stars": "66390 stars",
+    "stars": "69101 stars",
     "topics": [
       "ai",
       "audiobook",
@@ -57,11 +114,57 @@
     ]
   },
   {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "299900 stars",
+    "topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "subagent-driven-development",
+      "superpowers"
+    ]
+  },
+  {
+    "name": "ruvnet/ruflo",
+    "url": "https://github.com/ruvnet/ruflo",
+    "desc": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "lang": "TypeScript",
+    "stars": "75128 stars",
+    "topics": [
+      "agentic-ai",
+      "agentic-framework",
+      "agentic-workflow",
+      "agents",
+      "ai-agents",
+      "ai-assistant",
+      "ai-skills",
+      "autonomous-agents",
+      "claude",
+      "codex",
+      "dsh-plugin",
+      "harness",
+      "mcp-server",
+      "multi-agent",
+      "multi-agent-systems",
+      "npm",
+      "skills",
+      "swarm",
+      "swarm-intelligence",
+      "typescript"
+    ]
+  },
+  {
     "name": "mksglu/context-mode",
     "url": "https://github.com/mksglu/context-mode",
     "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
     "lang": "TypeScript",
-    "stars": "29139 stars",
+    "stars": "29797 stars",
     "topics": [
       "antigravity",
       "claude",
@@ -86,162 +189,90 @@
     ]
   },
   {
-    "name": "nvm-sh/nvm",
-    "url": "https://github.com/nvm-sh/nvm",
-    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
-    "lang": "Shell",
-    "stars": "95457 stars",
-    "topics": [
-      "bash",
-      "install",
-      "lts",
-      "node",
-      "node-js",
-      "nodejs",
-      "nvm",
-      "nvmrc",
-      "posix",
-      "posix-compliant",
-      "shell",
-      "version-manager",
-      "zsh"
-    ]
-  },
-  {
-    "name": "K-Dense-AI/scientific-agent-skills",
-    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-    "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-    "lang": "Python",
-    "stars": "49353 stars",
-    "topics": [
-      "agent-skills",
-      "ai-scientist",
-      "bioinformatics",
-      "chemoinformatics",
-      "claude",
-      "claude-skills",
-      "claudecode",
-      "clinical-research",
-      "computational-biology",
-      "data-analysis",
-      "drug-discovery",
-      "genomics",
-      "materials-science",
-      "metabolomics",
-      "proteomics",
-      "scientific-computing",
-      "scientific-visualization"
-    ]
-  },
-  {
-    "name": "HKUDS/CLI-Anything",
-    "url": "https://github.com/HKUDS/CLI-Anything",
-    "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-    "lang": "Python",
-    "stars": "52513 stars",
-    "topics": []
-  },
-  {
-    "name": "ifixai-ai/iFixAi",
-    "url": "https://github.com/ifixai-ai/iFixAi",
-    "desc": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
-    "lang": "Python",
-    "stars": "27428 stars",
-    "topics": [
-      "agent-evaluation",
-      "ai",
-      "ai-alignment",
-      "ai-evaluation",
-      "ai-governance",
-      "ai-safety",
-      "cli",
-      "diagnostic-tool",
-      "eu-ai-act",
-      "hallucination-detection",
-      "iso-42001",
-      "llm-evaluation",
-      "llm-security",
-      "nist-ai-rmf",
-      "owasp-llm",
-      "prompt-injection",
-      "python",
-      "responsible-ai",
-      "risk-assessment",
-      "risk-management"
-    ]
-  },
-  {
-    "name": "vxcontrol/pentagi",
-    "url": "https://github.com/vxcontrol/pentagi",
-    "desc": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-    "lang": "Go",
-    "stars": "29494 stars",
-    "topics": [
-      "ai-agents",
-      "ai-security-tool",
-      "anthropic",
-      "autonomous-agents",
-      "golang",
-      "gpt",
-      "graphql",
-      "multi-agent-system",
-      "offensive-security",
-      "open-source",
-      "openai",
-      "penetration-testing",
-      "penetration-testing-tools",
-      "react",
-      "security-automation",
-      "security-testing",
-      "security-tools",
-      "self-hosted"
-    ]
-  },
-  {
-    "name": "rust-lang/rust",
-    "url": "https://github.com/rust-lang/rust",
-    "desc": "Empowering everyone to build reliable and efficient software.",
-    "lang": "Rust",
-    "stars": "120039 stars",
-    "topics": [
-      "compiler",
-      "language",
-      "rust"
-    ]
-  },
-  {
-    "name": "xtool-org/xtool",
-    "url": "https://github.com/xtool-org/xtool",
-    "desc": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
-    "lang": "Swift",
-    "stars": "10849 stars",
-    "topics": [
-      "ios",
-      "linux",
-      "swift",
-      "swift-package-manager",
-      "windows",
-      "xcode"
-    ]
-  },
-  {
-    "name": "ntdevlabs/tiny11builder",
-    "url": "https://github.com/ntdevlabs/tiny11builder",
-    "desc": "WinUI app for building smaller, customized Windows 11 images.",
-    "lang": "C#",
-    "stars": "20239 stars",
-    "topics": []
-  },
-  {
     "name": "NationalSecurityAgency/ghidra",
     "url": "https://github.com/NationalSecurityAgency/ghidra",
     "desc": "Ghidra is a software reverse engineering (SRE) framework",
     "lang": "Java",
-    "stars": "87531 stars",
+    "stars": "88760 stars",
     "topics": [
       "disassembler",
       "reverse-engineering",
       "software-analysis"
+    ]
+  },
+  {
+    "name": "affaan-m/ECC",
+    "url": "https://github.com/affaan-m/ECC",
+    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "lang": "JavaScript",
+    "stars": "280400 stars",
+    "topics": [
+      "ai-agents",
+      "anthropic",
+      "claude",
+      "claude-code",
+      "developer-tools",
+      "llm",
+      "mcp",
+      "productivity"
+    ]
+  },
+  {
+    "name": "lightseekorg/tokenspeed",
+    "url": "https://github.com/lightseekorg/tokenspeed",
+    "desc": "TokenSpeed is a speed-of-light LLM inference engine.",
+    "lang": "Python",
+    "stars": "2489 stars",
+    "topics": [
+      "b200",
+      "b300",
+      "blackwell",
+      "deepseek",
+      "gb200",
+      "gb300",
+      "glm",
+      "gpt-oss",
+      "inkling",
+      "kimi",
+      "lightseek",
+      "llm",
+      "mi355x",
+      "mi455x",
+      "minimax",
+      "qwen",
+      "rubin",
+      "speed-of-light",
+      "tokenspeed",
+      "vlm"
+    ]
+  },
+  {
+    "name": "xerj-org/xerj",
+    "url": "https://github.com/xerj-org/xerj",
+    "desc": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+    "lang": "Rust",
+    "stars": "5662 stars",
+    "topics": [
+      "ai-search",
+      "ai-search-algorithms",
+      "ai-search-engine",
+      "ai-search-free",
+      "ai-search-module",
+      "ai-search-optimization",
+      "ai-searchengine",
+      "bm25-search",
+      "elastic-search",
+      "elasticsearch",
+      "elasticstack",
+      "graph-search",
+      "graph-semantic-search",
+      "hybrid-search",
+      "hybrid-semantic-search",
+      "search-api",
+      "search-engine",
+      "semantic-search",
+      "vector-database",
+      "vector-search"
     ]
   }
 ]

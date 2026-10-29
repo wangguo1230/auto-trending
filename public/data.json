@@ -1,144 +1,10 @@
 [
   {
-    "name": "elayadesign/ai-design-skills",
-    "url": "https://github.com/elayadesign/ai-design-skills",
-    "desc": "A growing collection of design skills for AI coding tools — Claude Code, Cursor, Codex, Windsurf, and anything else that reads a markdown rules file. Each skill is a self-contained folder. Install the",
-    "lang": "Unknown",
-    "stars": "9483 stars",
-    "topics": []
-  },
-  {
-    "name": "Nutlope/hallmark",
-    "url": "https://github.com/Nutlope/hallmark",
-    "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-    "lang": "CSS",
-    "stars": "39101 stars",
-    "topics": []
-  },
-  {
-    "name": "nightly-labs/openbot",
-    "url": "https://github.com/nightly-labs/openbot",
-    "desc": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-    "lang": "TypeScript",
-    "stars": "2498 stars",
-    "topics": [
-      "ai-agents",
-      "bun",
-      "codex",
-      "electron",
-      "local-first",
-      "macos",
-      "solidjs",
-      "typescript"
-    ]
-  },
-  {
-    "name": "obra/superpowers",
-    "url": "https://github.com/obra/superpowers",
-    "desc": "An agentic skills framework & software development methodology that works.",
-    "lang": "Shell",
-    "stars": "306479 stars",
-    "topics": [
-      "ai",
-      "brainstorming",
-      "coding",
-      "obra",
-      "sdlc",
-      "skills",
-      "subagent-driven-development",
-      "superpowers"
-    ]
-  },
-  {
-    "name": "pbakaus/impeccable",
-    "url": "https://github.com/pbakaus/impeccable",
-    "desc": "The design language that makes your AI harness better at design.",
-    "lang": "Rust",
-    "stars": "90631 stars",
-    "topics": []
-  },
-  {
-    "name": "makecindy/cindy",
-    "url": "https://github.com/makecindy/cindy",
-    "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-    "lang": "TypeScript",
-    "stars": "7511 stars",
-    "topics": [
-      "agent",
-      "ai-agent",
-      "ai-assistant",
-      "android",
-      "claude-code",
-      "codex",
-      "electron",
-      "ios",
-      "llm",
-      "macos",
-      "react-native",
-      "typescript",
-      "windows"
-    ]
-  },
-  {
-    "name": "gitroomhq/postiz-app",
-    "url": "https://github.com/gitroomhq/postiz-app",
-    "desc": "📨 The ultimate agentic social media scheduling tool 🤖",
-    "lang": "TypeScript",
-    "stars": "39429 stars",
-    "topics": [
-      "nextjs",
-      "open-source",
-      "open-source-social-media-scheduling-tool",
-      "oss",
-      "postiz-cloud",
-      "postiz-hosted",
-      "redis",
-      "scheduling-tool",
-      "social-media-scheduling-tool",
-      "typescript"
-    ]
-  },
-  {
-    "name": "affaan-m/ECC",
-    "url": "https://github.com/affaan-m/ECC",
-    "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "lang": "JavaScript",
-    "stars": "290931 stars",
-    "topics": [
-      "ai-agents",
-      "anthropic",
-      "claude",
-      "claude-code",
-      "developer-tools",
-      "llm",
-      "mcp",
-      "productivity"
-    ]
-  },
-  {
-    "name": "HKUDS/DeepTutor",
-    "url": "https://github.com/HKUDS/DeepTutor",
-    "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-    "lang": "Python",
-    "stars": "46022 stars",
-    "topics": [
-      "ai-agents",
-      "ai-tutor",
-      "clawbot",
-      "cli-tool",
-      "deepresearch",
-      "interactive-learning",
-      "learning",
-      "multi-agent-systems",
-      "rag"
-    ]
-  },
-  {
     "name": "JetBrains/thinkrail",
     "url": "https://github.com/JetBrains/thinkrail",
     "desc": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
     "lang": "TypeScript",
-    "stars": "4067 stars",
+    "stars": "5133 stars",
     "topics": [
       "agent",
       "agent-skills",
@@ -156,11 +22,218 @@
     ]
   },
   {
+    "name": "elayadesign/ai-design-skills",
+    "url": "https://github.com/elayadesign/ai-design-skills",
+    "desc": "A growing collection of design skills for AI coding tools — Claude Code, Cursor, Codex, Windsurf, and anything else that reads a markdown rules file. Each skill is a self-contained folder. Install the",
+    "lang": "Unknown",
+    "stars": "11208 stars",
+    "topics": []
+  },
+  {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "desc": "An agentic skills framework & software development methodology that works.",
+    "lang": "Shell",
+    "stars": "307500 stars",
+    "topics": [
+      "ai",
+      "brainstorming",
+      "coding",
+      "obra",
+      "sdlc",
+      "skills",
+      "subagent-driven-development",
+      "superpowers"
+    ]
+  },
+  {
+    "name": "HKUDS/DeepTutor",
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+    "lang": "Python",
+    "stars": "48119 stars",
+    "topics": [
+      "ai-agents",
+      "ai-tutor",
+      "clawbot",
+      "cli-tool",
+      "deepresearch",
+      "interactive-learning",
+      "learning",
+      "multi-agent-systems",
+      "rag"
+    ]
+  },
+  {
+    "name": "macro-inc/macro",
+    "url": "https://github.com/macro-inc/macro",
+    "desc": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+    "lang": "Rust",
+    "stars": "5454 stars",
+    "topics": [
+      "agent",
+      "ai",
+      "ai-agents",
+      "all-in-one",
+      "crm",
+      "crm-system",
+      "email",
+      "linear",
+      "mcp",
+      "messaging",
+      "notes",
+      "notion",
+      "office",
+      "rust",
+      "slack",
+      "slack-alternative",
+      "startup",
+      "startup-tools",
+      "typescript",
+      "workspace"
+    ]
+  },
+  {
+    "name": "Nutlope/hallmark",
+    "url": "https://github.com/Nutlope/hallmark",
+    "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+    "lang": "CSS",
+    "stars": "40801 stars",
+    "topics": []
+  },
+  {
+    "name": "pbakaus/impeccable",
+    "url": "https://github.com/pbakaus/impeccable",
+    "desc": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+    "lang": "Rust",
+    "stars": "92833 stars",
+    "topics": [
+      "agent-skills",
+      "ai",
+      "anti-slop",
+      "design",
+      "slop"
+    ]
+  },
+  {
+    "name": "makecindy/cindy",
+    "url": "https://github.com/makecindy/cindy",
+    "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+    "lang": "TypeScript",
+    "stars": "8146 stars",
+    "topics": [
+      "agent",
+      "ai-agent",
+      "ai-assistant",
+      "android",
+      "claude-code",
+      "codex",
+      "electron",
+      "ios",
+      "llm",
+      "macos",
+      "react-native",
+      "typescript",
+      "windows"
+    ]
+  },
+  {
+    "name": "nightly-labs/openbot",
+    "url": "https://github.com/nightly-labs/openbot",
+    "desc": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+    "lang": "TypeScript",
+    "stars": "3300 stars",
+    "topics": [
+      "ai-agents",
+      "bun",
+      "codex",
+      "electron",
+      "local-first",
+      "macos",
+      "solidjs",
+      "typescript"
+    ]
+  },
+  {
     "name": "togg53192-cmd/jailbreaks",
     "url": "https://github.com/togg53192-cmd/jailbreaks",
     "desc": "LIST OF ALL MY JAILBREAKS",
     "lang": "Unknown",
-    "stars": "5627 stars",
+    "stars": "7203 stars",
+    "topics": []
+  },
+  {
+    "name": "hmjz100/LinkSwift",
+    "url": "https://github.com/hmjz100/LinkSwift",
+    "desc": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+    "lang": "JavaScript",
+    "stars": "34909 stars",
+    "topics": [
+      "123pan",
+      "aliyun-drive",
+      "aliyunpan",
+      "aria2",
+      "baidu",
+      "baidu-netdisk",
+      "baidunetdisk",
+      "baidupan",
+      "baiduyun",
+      "guangya-netdisk",
+      "motrix",
+      "quark-netdisk",
+      "tampermonkey",
+      "tampermonkey-script",
+      "tampermonkey-userscript",
+      "tianyi-netdisk",
+      "uc-netdisk",
+      "userscript",
+      "xunlei-netdisk",
+      "yidong-netdisk"
+    ]
+  },
+  {
+    "name": "expo/skills",
+    "url": "https://github.com/expo/skills",
+    "desc": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+    "lang": "Shell",
+    "stars": "3610 stars",
+    "topics": []
+  },
+  {
+    "name": "ruvnet/RuView",
+    "url": "https://github.com/ruvnet/RuView",
+    "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "lang": "Rust",
+    "stars": "101095 stars",
+    "topics": [
+      "awesome",
+      "claude",
+      "densepose",
+      "esp32",
+      "firmware",
+      "home-assistant",
+      "home-automation",
+      "iot",
+      "monitoring",
+      "networking",
+      "npm",
+      "pose-estimation",
+      "react",
+      "rf",
+      "self-learning",
+      "skills",
+      "spatial-intelligence",
+      "typescript",
+      "wifi",
+      "wifi-security"
+    ]
+  },
+  {
+    "name": "xiaolai/the-craft-of-selfteaching",
+    "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+    "desc": "One has no future if one couldn't teach themself.",
+    "lang": "Jupyter Notebook",
+    "stars": "18548 stars",
     "topics": []
   }
 ]

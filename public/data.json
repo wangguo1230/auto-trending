@@ -4,7 +4,7 @@
     "url": "https://github.com/elementalsouls/Claude-BugHunter",
     "desc": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
     "lang": "Python",
-    "stars": "23246 stars",
+    "stars": "24854 stars",
     "topics": [
       "ai-security",
       "anthropic",
@@ -29,7 +29,7 @@
     "url": "https://github.com/obra/superpowers",
     "desc": "An agentic skills framework & software development methodology that works.",
     "lang": "Shell",
-    "stars": "326760 stars",
+    "stars": "327623 stars",
     "topics": [
       "ai",
       "brainstorming",
@@ -46,7 +46,7 @@
     "url": "https://github.com/HKUDS/CLI-Anything",
     "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
     "lang": "Python",
-    "stars": "65811 stars",
+    "stars": "66497 stars",
     "topics": []
   },
   {
@@ -54,7 +54,7 @@
     "url": "https://github.com/jingyaogong/minimind",
     "desc": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
     "lang": "Python",
-    "stars": "71134 stars",
+    "stars": "71798 stars",
     "topics": [
       "artificial-intelligence",
       "large-language-model"
@@ -65,7 +65,7 @@
     "url": "https://github.com/cursor/plugins",
     "desc": "Cursor plugin specification and official plugins",
     "lang": "TypeScript",
-    "stars": "19585 stars",
+    "stars": "19829 stars",
     "topics": []
   },
   {
@@ -73,7 +73,7 @@
     "url": "https://github.com/firecrawl/firecrawl",
     "desc": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
     "lang": "TypeScript",
-    "stars": "210209 stars",
+    "stars": "211094 stars",
     "topics": [
       "ai",
       "ai-agents",
@@ -101,7 +101,7 @@
     "url": "https://github.com/nginx/nginx",
     "desc": "The official NGINX Open Source repository.",
     "lang": "C",
-    "stars": "33403 stars",
+    "stars": "33547 stars",
     "topics": [
       "content-cache",
       "http",
@@ -125,7 +125,7 @@
     "url": "https://github.com/openvinotoolkit/openvino",
     "desc": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
     "lang": "C++",
-    "stars": "12686 stars",
+    "stars": "12844 stars",
     "topics": [
       "ai",
       "computer-vision",
@@ -153,7 +153,7 @@
     "url": "https://github.com/cathrynlavery/diagram-design",
     "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
     "lang": "HTML",
-    "stars": "73204 stars",
+    "stars": "73994 stars",
     "topics": [
       "agent-skills",
       "claude-code",
@@ -170,7 +170,7 @@
     "url": "https://github.com/mvanhorn/last30days-skill",
     "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
     "lang": "Python",
-    "stars": "75230 stars",
+    "stars": "75888 stars",
     "topics": [
       "agent-skills",
       "artificial-intelligence",
@@ -199,15 +199,15 @@
     "url": "https://github.com/google-labs-code/stitch-skills",
     "desc": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
     "lang": "TypeScript",
-    "stars": "13034 stars",
+    "stars": "13343 stars",
     "topics": []
   },
   {
     "name": "mjmirza/app-store-compliance",
     "url": "https://github.com/mjmirza/app-store-compliance",
-    "desc": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+    "desc": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
     "lang": "Shell",
-    "stars": "6585 stars",
+    "stars": "7115 stars",
     "topics": [
       "accessibility",
       "ai-agents",
@@ -236,7 +236,7 @@
     "url": "https://github.com/Tracer-Cloud/opensre",
     "desc": "The open-source agent for CI/CD reliability.",
     "lang": "Python",
-    "stars": "15578 stars",
+    "stars": "15882 stars",
     "topics": [
       "alerting",
       "ci-cd",
@@ -260,7 +260,7 @@
     "url": "https://github.com/toeverything/AFFiNE",
     "desc": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
     "lang": "TypeScript",
-    "stars": "78586 stars",
+    "stars": "79060 stars",
     "topics": [
       "app",
       "crdt",
@@ -287,7 +287,7 @@
     "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
     "desc": "The only downloader you need. 下载器的集大成者。",
     "lang": "Python",
-    "stars": "18411 stars",
+    "stars": "19306 stars",
     "topics": [
       "async",
       "asyncio",
@@ -313,23 +313,28 @@
   {
     "name": "zhouxiaoka/autoclip",
     "url": "https://github.com/zhouxiaoka/autoclip",
-    "desc": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+    "desc": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
     "lang": "Python",
-    "stars": "16330 stars",
+    "stars": "17100 stars",
     "topics": [
       "ai-agent",
       "ai-video-editor",
+      "claude-code",
       "content-repurposing",
       "desktop-app",
       "douyin",
       "instagram-reels",
+      "local-first",
       "mcp",
+      "mcp-server",
       "open-source",
+      "opusclip-alternative",
       "podcast",
       "subtitles",
       "tiktok",
       "video-clipping",
       "video-editing-software",
+      "whisper",
       "xiaohongshu",
       "youtube-shorts"
     ]
